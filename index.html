@@ -24,39 +24,64 @@
 </head>
 
 <body>
-  <script>
-    // Define an array of menu items with their labels and URLs
-    const menuItems = [
-      { label: 'testpaket-the-limits-to-growth-sustainability-and-the-circular-economy', url: 'ScormPackages/testpaket-the-limits-to-growth-sustainability-and-the-circular-economy/index.html' },
+  <h2 style="margin-top: 10px; margin-left: 10%">Course Overview</h2>
+  <div id="card-container"></div>
 
-    ];
-    const header = document.createElement('h2')
-    header.innerHTML = "Welcome to this Course! Here are all your Lectures."
-    header.style = "padding: 15px"
-    // Create a menu bar element
-    const menuBar = document.createElement('ul');
+  <style>
+    .card {
+      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+      transition: 0.3s;
+      border-radius: 5px;
+      width: 80%;
+      margin-left: 10%;
+      padding: 10px;
+    }
 
-    // Create a list item for each menu item and add it to the menu bar
-    menuItems.forEach((menuItem) => {
-      const div = document.createElement('div');
-      div.style = "width: 300px; border-radius: 15px; border: 1px solid lightgrey"
-      const link = document.createElement('a');
-      link.style = "text-decoration: none"
-      link.textContent = menuItem.label;
-      link.href = menuItem.url;
-      div.appendChild(link);
-      menuBar.appendChild(div);
-    });
-    // Add the menu bar to the documen
-    document.body.insertBefore(menuBar, document.body.firstChild);
-    // Add the menu bar to the documen
-    document.body.insertBefore(header, document.body.firstChild);
-
-
-  </script>
+    .card:hover {
+      box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
+      cursor: pointer;
+    }
+  </style>
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
+<script>
+  // Define an array of menu items with their labels and URLs
+  const menuItems = [
+    { label: 'testpaket-the-limits-to-growth-sustainability-and-the-circular-economy', url: 'ScormPackages/testpaket-the-limits-to-growth-sustainability-and-the-circular-economy/index.html' },
+  ];
+
+  // Get the container element where the cards will be appended
+  const container = document.getElementById('card-container');
+
+  // Loop through each menu item and create a card for it
+  menuItems.forEach((menuItem) => {
+    // Create the card element
+    const card = document.createElement('div');
+    card.classList.add('card');
+
+
+    // Create the card container element
+    const cardContainer = document.createElement('div');
+    cardContainer.classList.add('container');
+
+    // Create the card title element
+    const title = document.createElement('h4');
+    title.innerHTML = menuItem.label;
+    cardContainer.appendChild(title);
+
+    // Add the card container to the card element
+    card.appendChild(cardContainer);
+
+    // Add an event listener to the card to switch to the menu item URL on click
+    card.addEventListener('click', () => {
+      window.location.href = menuItem.url;
+    });
+
+    // Append the card to the container element
+    container.appendChild(card);
+  });
+</script>
 
 </body>
 
