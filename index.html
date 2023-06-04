@@ -24,31 +24,93 @@
 </head>
 
 <body>
-  <h2 style="margin-top: 10px; margin-left: 10%">Course Overview</h2>
-  <div id="card-container"></div>
+  <div style="width: 100vw;">
+    <h2 style="width: 80%; margin-left: 10%">
+      Welcome to this Info Page of the Chair for "Software Services of the Circular Economy" at Clausthal University
+    </h2>
+    <p style="width: 80%; margin-left: 10%; font-size: 20px">We are excited to announce the development of an open-source collaborative GitHub repository. This platform aims to bring together individuals interested in creating a scientifically grounded university lecture. By leveraging the power of open collaboration, we can collectively work towards developing a comprehensive and dynamic resource for academia. Join us in shaping the future of education and sustainability through this innovative initiative.</p>
+    <button style="margin-left:10%; margin-bottom: 25px;height: 50px; border-radius: 10px;border: none;color: white; background: #4E7367" onclick="window.location.href = 'https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme';">See our Github repo</button>
+    <h2 style="margin-top: 10px; margin-left: 10%">Circularlity</h2>
+    <p style="width: 80%; margin-left: 10%; font-size: 20px">"The catastrophic worsening of climate change, severe environmental pollution and dwindling non-renewable resources are forcing society to abandon the inefficient and destructive linear economy (LE) that it has so far relied upon. A circular economy (CE) replaces our LE with circular, more sustainable forms of consumption and production and decouples economic growth from using natural resources. To do so, CE aims to maintain natural resources and to minimize the discharge of harmful substances. In CE, products and services are designed and constructed in a way that enables them to be returned to the economic and material flow at any time.
+      Related concepts, such as circular societies, go beyond just economic means and circulate and redistribute wealth, knowledge, technology and power throughout society."</p>
+    <p style="width: 80%;margin-top: 10px; margin-left: 10%; font-size: 20px">Givene these circumstances, we have prepared some Info Material for everyone who's interested.</p>
+    <div style="width: 80%; margin-left: 10%" id="card-container"></div>
+  </div>
+
+  <div style="width: 100vw; background: #CEDDD3; display: flex; color: black; flex-direction: column;">
+    <h4 style="width: 100vw; font-size: 25px; text-align: center">About Us</h4>
+    <p style="width: 80%; text-align: center; align-self: center; font-size: 20px; padding-bottom: 25px">
+      The Chair for “Software Services of the Circular Economy” at the Clausthal University of Technology conducts interdisciplinary research at the intersection of computer science and sustainability. Our research focus includes the development and conceptual design of dynamic, adaptive and self-organizing software systems, digital identities
+      as well as digital technologies facilitating the circular economy and circular societies.
+    </p>
+  </div>
+
+  <div style="width: 100vw;display: flex; justify-content: center; align-content: center; flex-wrap: wrap; background: #CEDDD3;padding-top: 50px; padding-bottom: 50px; gap: 50px">
+    <h2 style="width:100%;text-align:center">Our Team</h2>
+
+    <div style="width: 200px; padding: 25px; display: flex; flex-direction: column; align-items: flex-start; background: #CEDDD3; border-radius: 25px">
+      <img style="border-radius: 50%" src="icon.png">
+      <h4>Prof. Dr. Benjamin
+      Leiding</h4>
+      <p>Head of Research</p>
+    </div>
+    <div style="width: 200px; padding: 25px; display: flex; flex-direction: column; align-items: flex-start; background: #CEDDD3; border-radius: 25px">
+      <img style="border-radius: 50%" src="icon.png">
+      <h4>PM.Sc. Anant
+        Sujatanagarjuna</h4>
+      <p>Researcher</p>
+    </div>
+    <div style="width: 200px; padding: 25px; display: flex; flex-direction: column; align-items: flex-start; background: #CEDDD3; border-radius: 25px">
+      <img style="border-radius: 50%" src="icon.png">
+      <h4>M.Sc. Shohreh
+        Kia</h4>
+      <p>Researcher</p>
+    </div>
+    <div style="width: 200px; padding: 25px; display: flex; flex-direction: column; align-items: flex-start; background: #CEDDD3; border-radius: 25px">
+      <img style="border-radius: 50%" src="icon.png">
+      <h4>M.A. Theresa
+        Sommer</h4>
+      <p>Researcher</p>
+    </div>
+    <div style="width: 200px; padding: 25px; display: flex; flex-direction: column; align-items: flex-start; background: #CEDDD3; border-radius: 25px">
+      <img style="border-radius: 50%" src="icon.png">
+      <h4>B.Sc. Harish
+        Gundelli</h4>
+      <p>Research Assistant</p>
+    </div>
+    <div style="width: 200px; padding: 25px; display: flex; flex-direction: column; align-items: flex-start; background: #CEDDD3; border-radius: 25px">
+      <img style="border-radius: 50%" src="icon.png">
+      <h4>Johannes
+        mayer</h4>
+      <p>Research Assistant - Hackerman</p>
+    </div>
+
+  </div>
+
+
+
 
   <style>
-    .card {
-      box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
-      transition: 0.3s;
-      border-radius: 5px;
-      width: 80%;
-      margin-left: 10%;
-      padding: 10px;
+    .card{
+      margin-bottom: 25px;
     }
+    .container{
+      display: flex;
+      justify-content: space-between;
+      flex-direction: row;
+      align-items: center;
 
-    .card:hover {
-      box-shadow: 0 16px 32px 0 rgba(0,0,0,0.2);
-      cursor: pointer;
     }
   </style>
   <script src="js/vendor/modernizr-3.11.2.min.js"></script>
   <script src="js/plugins.js"></script>
   <script src="js/main.js"></script>
-<script>
+<script type="module">
+
   // Define an array of menu items with their labels and URLs
   const menuItems = [
-    { label: 'testpaket-the-limits-to-growth-sustainability-and-the-circular-economy', url: 'ScormPackages/testpaket-the-limits-to-growth-sustainability-and-the-circular-economy/index.html' },
+    { label: 'Sustainable Everyday Practices', url: 'ScormPackages/230602_ sustainable-everyday-practices/index.html' }
+
   ];
 
   // Get the container element where the cards will be appended
@@ -68,21 +130,31 @@
     // Create the card title element
     const title = document.createElement('h4');
     title.innerHTML = menuItem.label;
+
     cardContainer.appendChild(title);
+
+    const button = document.createElement('button');
+    button.innerHTML = "See Lecture"
+    button.style.borderRadius = "10px"
+    button.style.border = "none"
+    button.style.color = "white"
+    button.style.background = "#4E7367"
+    button.style.height = "50px"
+    // Add an event listener to the button to switch to the menu item URL on click
+    button.addEventListener('click', () => {
+      window.location.href = menuItem.url;
+    });
+    cardContainer.appendChild(button)
 
     // Add the card container to the card element
     card.appendChild(cardContainer);
-
-    // Add an event listener to the card to switch to the menu item URL on click
-    card.addEventListener('click', () => {
-      window.location.href = menuItem.url;
-    });
 
     // Append the card to the container element
     container.appendChild(card);
   });
 </script>
-
+<script src="index.js"></script>
+<script src="ScormPackages/index.js"></script>
 </body>
 
 </html>

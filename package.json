@@ -13,5 +13,9 @@
   },
   "devDependencies": {
     "parcel-bundler": "^1.12.4"
+  },
+  "dependencies": {
+    "@jsdevtools/readdir-enhanced": "^6.0.4",
+    "readdir-enhanced": "^6.0.4"
   }
 }

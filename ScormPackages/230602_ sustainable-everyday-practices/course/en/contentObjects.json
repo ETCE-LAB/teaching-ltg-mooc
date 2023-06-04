@@ -1,0 +1,178 @@
+[
+  {
+    "title": "Sustainable Everyday Practices",
+    "displayTitle": "Sustainable Everyday Practices",
+    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64708380c62c6f34508779fd",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1e7a177ac4987b857279159b700a4109a5db10e7.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Food Waste and Foodsharing",
+    "displayTitle": "Food Waste and Foodsharing",
+    "body": "<p>In the following section, you will learn more about one specific sustainable practice: foodsharing. What exactly is foodsharing, how does it work and how can you share food with others or get food that others are willing to share.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Food waste has become a global predicament of alarming proportions, capturing the attention of individuals, organizations, and policymakers worldwide. Each year, a staggering amount of food is needlessly discarded, exacerbating issues of hunger, environmental degradation, and economic inefficiency. This growing crisis demands immediate attention and concerted efforts from all sectors of society to tackle the multifaceted challenges it presents.</p><p>Throughout this segment, we will take a closer look at the scale at which food is being wasted worldwide on a daily basis. We will scrutinize some of the underlying reasons as to why is food being needlessly thrown away and talk about the the far-reaching economic, environmental and social implications of food waste. Moreover, it is also important to take a look possible solutions both on the political level as well as on an individual level. By looking at foodsharing as a local and self-organized practice, we want to point out a practical pathway to saving food and living more sustainably.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6470cccdc62c6f345088c8b2",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/00434867c728e095f7a94df21e0112b1767a7801.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "contain",
+          "_backgroundPosition": "left center"
+        },
+        "_minimumHeights": {
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  }
+]
