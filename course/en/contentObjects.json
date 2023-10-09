@@ -311,8 +311,8 @@
     }
   },
   {
-    "title": "New Menu/Page Title",
-    "displayTitle": "New Menu/Page Title",
+    "title": "Introduction",
+    "displayTitle": "Introduction",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -332,11 +332,14 @@
     "_id": "64e5c250d3bd3552943b20d1",
     "_parentId": "64e5c250d3bd3552943b20c7",
     "_type": "page",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_resources": {
       "_isEnabled": true,
@@ -345,6 +348,58 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
     }
   },
   {
@@ -353,14 +408,12 @@
     "body": "<p>In this chapter, you will find out what the central concept behind the course is. We will give you a short overview of the ecological problems and societal challenges that we will discuss during the course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.&nbsp;</p><p>Below, you can find the lecture recording and the slides for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 01.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20b1"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -622,19 +675,109 @@
     }
   },
   {
+    "title": "Alternative Sources of Energy",
+    "displayTitle": "Alternative Sources of Energy",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650704eb6c7f2657647eb96b",
+    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Challenges I",
     "displayTitle": "Challenges I",
     "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
     "subtitle": "Climate Change",
-    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.</p>",
+    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20b1"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -797,6 +940,98 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650704ec6c7f2657647eb9a4",
+    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -986,6 +1221,98 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650704ec6c7f2657647eb9dd",
+    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1561,18 +1888,18 @@
     }
   },
   {
-    "title": "Technologies and What They (Can) Not Do",
-    "displayTitle": "Technologies and What They (Can) Not Do",
+    "title": "Sustainability Technologies",
+    "displayTitle": "Sustainability Technologies",
     "body": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p>",
+    "subtitle": "... and What They (Can) Not Do",
+    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
+      "64e5c250d3bd3552943b20c7"
     ],
     "_lockType": "custom",
     "_isOptional": false,
@@ -1635,15 +1962,15 @@
           "_instruction": ""
         },
         "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
+          "_xlarge": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
+          "_large": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
+          "_medium": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
+          "_small": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png"
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "repeat",
+          "_backgroundSize": "auto",
+          "_backgroundPosition": "center center"
         },
         "_minimumHeights": {
           "_xlarge": null,

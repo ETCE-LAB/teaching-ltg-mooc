@@ -1175,6 +1175,127 @@ this["Handlebars"]["templates"]["media"] = Handlebars.template({"1":function(con
     + "\n</div>\n";
 },"usePartial":true,"useData":true});
 
+this["Handlebars"]["templates"]["languagePickerDrawerView"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, alias3="function", alias4=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "    <div class=\"languagepicker-drawer__item drawer__item is-"
+    + alias4(((helper = (helper = lookupProperty(helpers,"_language") || (depth0 != null ? lookupProperty(depth0,"_language") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_language","hash":{},"data":data,"loc":{"start":{"line":10,"column":60},"end":{"line":10,"column":73}}}) : helper)))
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isSelected") : depth0),{"name":"if","hash":{},"fn":container.program(2, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":73},"end":{"line":10,"column":111}}})) != null ? stack1 : "")
+    + ((stack1 = (lookupProperty(helpers,"equals")||(depth0 && lookupProperty(depth0,"equals"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_direction") : depth0),"ltr",{"name":"equals","hash":{},"fn":container.program(4, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":111},"end":{"line":10,"column":157}}})) != null ? stack1 : "")
+    + ((stack1 = (lookupProperty(helpers,"equals")||(depth0 && lookupProperty(depth0,"equals"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_direction") : depth0),"rtl",{"name":"equals","hash":{},"fn":container.program(6, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":10,"column":157},"end":{"line":10,"column":203}}})) != null ? stack1 : "")
+    + "\" role=\"listitem\">\n\n        <button class=\"languagepicker-drawer__item-btn drawer__item-btn js-languagepicker-item-btn"
+    + ((stack1 = (lookupProperty(helpers,"any")||(depth0 && lookupProperty(depth0,"any"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_isSelected") : depth0),(depth0 != null ? lookupProperty(depth0,"_isDisabled") : depth0),{"name":"any","hash":{},"fn":container.program(8, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":12,"column":98},"end":{"line":12,"column":150}}})) != null ? stack1 : "")
+    + "\" data-language=\""
+    + alias4(((helper = (helper = lookupProperty(helpers,"_language") || (depth0 != null ? lookupProperty(depth0,"_language") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_language","hash":{},"data":data,"loc":{"start":{"line":12,"column":167},"end":{"line":12,"column":180}}}) : helper)))
+    + "\""
+    + ((stack1 = (lookupProperty(helpers,"any")||(depth0 && lookupProperty(depth0,"any"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"_isSelected") : depth0),(depth0 != null ? lookupProperty(depth0,"_isDisabled") : depth0),{"name":"any","hash":{},"fn":container.program(10, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":12,"column":181},"end":{"line":12,"column":256}}})) != null ? stack1 : "")
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isSelected") : depth0),{"name":"if","hash":{},"fn":container.program(12, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":12,"column":256},"end":{"line":12,"column":302}}})) != null ? stack1 : "")
+    + " lang=\""
+    + alias4(((helper = (helper = lookupProperty(helpers,"_language") || (depth0 != null ? lookupProperty(depth0,"_language") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_language","hash":{},"data":data,"loc":{"start":{"line":12,"column":309},"end":{"line":12,"column":322}}}) : helper)))
+    + "\">\n          <span class=\"languagepicker-drawer__title drawer__item-title\">\n            <span class=\"languagepicker-drawer__title-inner drawer__item-title-inner\">\n              "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"displayName") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":15,"column":14},"end":{"line":15,"column":39}}})) != null ? stack1 : "")
+    + "\n            </span>\n          </span>\n        </button>\n\n    </div>\n\n";
+},"2":function(container,depth0,helpers,partials,data) {
+    return " is-selected";
+},"4":function(container,depth0,helpers,partials,data) {
+    return " is-ltr";
+},"6":function(container,depth0,helpers,partials,data) {
+    return " is-rtl";
+},"8":function(container,depth0,helpers,partials,data) {
+    return " is-disabled";
+},"10":function(container,depth0,helpers,partials,data) {
+    return " aria-disabled=\"true\" tabindex=\"-1\"";
+},"12":function(container,depth0,helpers,partials,data) {
+    return " aria-current='true'";
+},"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return container.escapeExpression(((helper = (helper = lookupProperty(helpers,"import_globals") || (depth0 != null ? lookupProperty(depth0,"import_globals") : depth0)) != null ? helper : alias2),(typeof helper === "function" ? helper.call(alias1,{"name":"import_globals","hash":{},"data":data,"loc":{"start":{"line":2,"column":0},"end":{"line":2,"column":18}}}) : helper)))
+    + "\n\n<div class=\"languagepicker-drawer\">\n  "
+    + ((stack1 = (lookupProperty(helpers,"a11y_aria_label")||(depth0 && lookupProperty(depth0,"a11y_aria_label"))||alias2).call(alias1,((stack1 = ((stack1 = ((stack1 = (depth0 != null ? lookupProperty(depth0,"_globals") : depth0)) != null ? lookupProperty(stack1,"_extensions") : stack1)) != null ? lookupProperty(stack1,"_languagePicker") : stack1)) != null ? lookupProperty(stack1,"languageSelector") : stack1),{"name":"a11y_aria_label","hash":{},"data":data,"loc":{"start":{"line":5,"column":2},"end":{"line":5,"column":77}}})) != null ? stack1 : "")
+    + "\n\n  <div class=\"languagepicker-drawer__inner\" role=\"list\">\n\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"_languages") : depth0),{"name":"each","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":9,"column":4},"end":{"line":22,"column":13}}})) != null ? stack1 : "")
+    + "  </div>\n\n</div>\n";
+},"useData":true});
+
+this["Handlebars"]["templates"]["languagePickerNavigation"] = Handlebars.template({"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    return "<div class=\"nav__inner\"></div>\n";
+},"useData":true});
+
+this["Handlebars"]["templates"]["languagePickerView"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "  <div class=\"languagepicker__title\">\n    <div class=\"languagepicker__title-inner\" role=\"heading\" aria-level=\"1\">\n      "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||container.hooks.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"displayTitle") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":6,"column":6},"end":{"line":6,"column":32}}})) != null ? stack1 : "")
+    + "\n    </div>\n  </div>\n";
+},"3":function(container,depth0,helpers,partials,data) {
+    var stack1, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "  <div class=\"languagepicker__body\">\n    <div class=\"languagepicker__body-inner\">\n      "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||container.hooks.helperMissing).call(depth0 != null ? depth0 : (container.nullContext || {}),(depth0 != null ? lookupProperty(depth0,"body") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":14,"column":6},"end":{"line":14,"column":24}}})) != null ? stack1 : "")
+    + "\n    </div>\n  </div>\n";
+},"5":function(container,depth0,helpers,partials,data) {
+    var stack1, helper, alias1=depth0 != null ? depth0 : (container.nullContext || {}), alias2=container.hooks.helperMissing, alias3="function", alias4=container.escapeExpression, lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "      <button class=\"btn-text languagepicker__language-btn is-"
+    + alias4(((helper = (helper = lookupProperty(helpers,"_language") || (depth0 != null ? lookupProperty(depth0,"_language") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_language","hash":{},"data":data,"loc":{"start":{"line":23,"column":62},"end":{"line":23,"column":75}}}) : helper)))
+    + " js-languagepicker-btn-click"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isDisabled") : depth0),{"name":"if","hash":{},"fn":container.program(6, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":23,"column":103},"end":{"line":23,"column":141}}})) != null ? stack1 : "")
+    + "\" value=\""
+    + alias4(((helper = (helper = lookupProperty(helpers,"_language") || (depth0 != null ? lookupProperty(depth0,"_language") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_language","hash":{},"data":data,"loc":{"start":{"line":23,"column":150},"end":{"line":23,"column":163}}}) : helper)))
+    + "\""
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"_isDisabled") : depth0),{"name":"if","hash":{},"fn":container.program(8, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":23,"column":164},"end":{"line":23,"column":225}}})) != null ? stack1 : "")
+    + " lang=\""
+    + alias4(((helper = (helper = lookupProperty(helpers,"_language") || (depth0 != null ? lookupProperty(depth0,"_language") : depth0)) != null ? helper : alias2),(typeof helper === alias3 ? helper.call(alias1,{"name":"_language","hash":{},"data":data,"loc":{"start":{"line":23,"column":232},"end":{"line":23,"column":245}}}) : helper)))
+    + "\">\n        "
+    + ((stack1 = (lookupProperty(helpers,"compile")||(depth0 && lookupProperty(depth0,"compile"))||alias2).call(alias1,(depth0 != null ? lookupProperty(depth0,"displayName") : depth0),{"name":"compile","hash":{},"data":data,"loc":{"start":{"line":24,"column":8},"end":{"line":24,"column":33}}})) != null ? stack1 : "")
+    + "\n      </button>\n";
+},"6":function(container,depth0,helpers,partials,data) {
+    return " is-disabled";
+},"8":function(container,depth0,helpers,partials,data) {
+    return " aria-disabled=\"true\" tabindex=\"-1\"";
+},"compiler":[8,">= 4.3.0"],"main":function(container,depth0,helpers,partials,data) {
+    var stack1, alias1=depth0 != null ? depth0 : (container.nullContext || {}), lookupProperty = container.lookupProperty || function(parent, propertyName) {
+        if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {
+          return parent[propertyName];
+        }
+        return undefined
+    };
+
+  return "<div class=\"languagepicker__inner\">\n\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"displayTitle") : depth0),{"name":"if","hash":{},"fn":container.program(1, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":3,"column":2},"end":{"line":9,"column":9}}})) != null ? stack1 : "")
+    + "\n"
+    + ((stack1 = lookupProperty(helpers,"if").call(alias1,(depth0 != null ? lookupProperty(depth0,"body") : depth0),{"name":"if","hash":{},"fn":container.program(3, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":11,"column":2},"end":{"line":17,"column":9}}})) != null ? stack1 : "")
+    + "\n  <div class=\"languagepicker__languages\">\n    <div class=\"languagepicker__languages-inner\">\n\n"
+    + ((stack1 = lookupProperty(helpers,"each").call(alias1,(depth0 != null ? lookupProperty(depth0,"_languages") : depth0),{"name":"each","hash":{},"fn":container.program(5, data, 0),"inverse":container.noop,"data":data,"loc":{"start":{"line":22,"column":6},"end":{"line":26,"column":15}}})) != null ? stack1 : "")
+    + "\n    </div>\n  </div>\n\n</div>\n";
+},"useData":true});
+
 this["Handlebars"]["templates"]["pageLevelProgressIndicator"] = Handlebars.template({"1":function(container,depth0,helpers,partials,data) {
     var lookupProperty = container.lookupProperty || function(parent, propertyName) {
         if (Object.prototype.hasOwnProperty.call(parent, propertyName)) {

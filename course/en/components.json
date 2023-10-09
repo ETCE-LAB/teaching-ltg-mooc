@@ -3128,38 +3128,6 @@
     "instruction": ""
   },
   {
-    "_component": "blank",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "",
-    "_id": "64e5c250d3bd3552943b21ee",
-    "_parentId": "64e5c250d3bd3552943b2167",
-    "_type": "component",
-    "_layout": "full",
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    }
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -3964,5 +3932,1064 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Carbon Capture and Storage Part 1",
+    "displayTitle": "Carbon Capture and Storage Part 1",
+    "body": "",
+    "_id": "650705296c7f2657647ec25a",
+    "_parentId": "650704ec6c7f2657647eb9ca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/YCej6BzQ-J8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Decarbonisation and Electrification Part 1",
+    "displayTitle": "Decarbonisation and Electrification Part 1",
+    "body": "",
+    "_id": "650705306c7f2657647ec439",
+    "_parentId": "650704eb6c7f2657647eb991",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/2hpi5FJkIuo",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Technologies and what they (can) not do",
+    "displayTitle": "Technologies and what they (can) not do",
+    "body": "",
+    "_id": "650705396c7f2657647ec686",
+    "_parentId": "650704e36c7f2657647eb7f1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/t7DeVCv_dm8?feature=shared",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "6507070b6c7f2657647ee54d",
+    "_parentId": "650707066c7f2657647ee4fe",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "6507072c6c7f2657647ee92a",
+    "_parentId": "650707286c7f2657647ee8d6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "650707406c7f2657647eecda",
+    "_parentId": "6507073c6c7f2657647eec86",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "650707586c7f2657647ef08a",
+    "_parentId": "650707516c7f2657647ef036",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "650709276c7f2657647efc68",
+    "_parentId": "64e5c250d3bd3552943b2167",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the icons to find out more.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/ef7119cde213abd845af0838f0dc336e664ab171.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isMobileTextBelowImage": false,
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Renewable Energy Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Renewable Energy Technologies include for example:</p><ul><li>Solar panels: Convert sunlight into electricity.</li><li>Wind turbines: Generate electricity from wind energy.</li><li>Hydroelectric power: Generate electricity from flowing water.</li><li>Geothermal systems: Use heat from the Earth's core to produce energy.</li></ul>",
+        "strapline": "Renewable Energy Technologies",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/35371828e558ad63c574f3415e1cb51493080532.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 20,
+        "_top": 1
+      },
+      {
+        "title": "Energy Storage Solutions",
+        "_ariaLevel": 0,
+        "body": "<p>Energy Storage Solutions include for example:</p><ul></ul><ul><li>Battery technology: Enables the storage of excess renewable energy for later use.</li><li>Pumped hydro storage: Stores energy by pumping water uphill and releasing it to generate electricity when needed.</li><li>Flywheel energy storage: Stores kinetic energy for rapid release.</li></ul>",
+        "strapline": "Energy Storage Solutions",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/7af8156f7fa60f3236e4ae64cea8a8b75bc939db.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 45,
+        "_top": 0
+      },
+      {
+        "title": "Sustainable Agriculture and Food Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainable Agriculture and Food Technologies include for example:</p><ul><li>Precision agriculture: Uses data and technology to optimize farming practices.</li><li>Vertical farming: Grows crops indoors using less space and resources.</li><li>Lab-grown meat: Produces animal-based products without the need for traditional livestock farming.</li></ul>",
+        "strapline": "Sustainable Agriculture and Food Technologies:",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/9ddac0c67530960be6ec56d4656e6780ce33c4c4.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 45,
+        "_top": 85
+      },
+      {
+        "title": "Water Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Water Technologies include for example:</p><ul><li>Water purification and desalination: Provide access to clean drinking water.</li><li>Water-saving technologies: Reduce water wastage in agriculture and households.</li></ul>",
+        "strapline": "Water Technologies:",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/50e66c872b96bee78638ad9085c567fb3f91e3a1.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 23,
+        "_top": 71
+      },
+      {
+        "title": "Waste Management and Recycling",
+        "_ariaLevel": 0,
+        "body": "<p>Waste Management and Recycling include for example:</p><ul><li>Advanced recycling technologies: Improve the recycling process for various materials.</li><li>Waste-to-energy: Converts waste into energy through incineration or other methods.</li></ul>",
+        "strapline": "Waste Management and Recycling",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/62d85fd2388aff8d8b52c1eec7cac4d13624e5a9.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 86,
+        "_top": 50
+      },
+      {
+        "title": "Sustainable Transportation",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainable Transportation includes:</p><ul><li>Public transportation systems: Promote mass transit to reduce individual car usage.</li><li>Bike-sharing and electric scooters: Encourage eco-friendly urban mobility.</li></ul>",
+        "strapline": "Sustainable Transportation",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/c508e9e2475613af2549bded7fb8c23e51d54cbe.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 60,
+        "_top": 85
+      },
+      {
+        "title": "Carbon Capture and Storage (CCS)",
+        "_ariaLevel": 0,
+        "body": "<p>Carbon Capture and Storage (CCS) is a:</p><ul><li>Technology that captures and stores carbon emissions from industrial processes and power plants.</li></ul>",
+        "strapline": "Carbon Capture and Storage (CCS)",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/45bfcc6347642a9f51edc5ca8d8cd7e4a5c57c2f.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 70,
+        "_top": 6
+      },
+      {
+        "title": "Green Building and Construction Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Green Building and Construction Technologies include for example:</p><ul><li>Sustainable construction materials and practices.</li><li>Energy-efficient HVAC (heating, ventilation, and air conditioning) systems.</li></ul>",
+        "strapline": "Green Building and Construction Technologies",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/7cee0cbf7b31d8827d2cb1112dcde0866ed3cf51.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 92,
+        "_top": 18
+      },
+      {
+        "title": "Sustainable Supply Chain and Logistics",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainable Supply Chain and Logistics:</p><ul><li>IoT (Internet of Things) sensors for supply chain optimization.</li><li>Eco-friendly packaging materials and practices.</li></ul>",
+        "strapline": "Sustainable Supply Chain and Logistics",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/549c8deeb367daef75c8b4e6a506dbf1be5b3800.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 12,
+        "_top": 36
+      },
+      {
+        "title": "Environmental Monitoring and Data Analytics",
+        "_ariaLevel": 0,
+        "body": "<p>The field of Environmental Monitoring and Data Analytics includes for example:</p><ul><li>Remote sensing technologies for monitoring ecosystems and climate change.</li><li>Big data analytics for understanding and mitigating environmental challenges.</li></ul>",
+        "strapline": "Environmental Monitoring and Data Analytics:",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/4736224e39d72f7bb07055036af9874f3f5cdc88.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 65
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>In the legally binding treaty on climate change, that was adopted by 196 parties at the UN Climate Change Conference in 2015, finance, technology and capacity-building were highlighed as the most important areas where countries worldwide have to cooperate and support each other in order to combat climate change.</p><p>Article 10 of the Paris Agreement focuses&nbsp; solely on technology advancement and transfer and innovations. The treaty notes the \"the importance of technology for the implementation of&nbsp;mitigation and adaptation actions\" and the need to \"strengthen cooperative&nbsp;action on technology development and transfer\".</p><p>Even without any specifics about which technologies or areas of application this policy paper aims to adress, it shows the importance of technological advances and the sharing of technological innovation on a policy level. At the same time, the ambiguity of the statements and the&nbsp;</p><p>&nbsp;</p><p><u>Sources</u></p><p><a href=\"https://unfccc.int/sites/default/files/english_paris_agreement.pdf\">https://unfccc.int/sites/default/files/english_paris_agreement.pdf</a></p><p>&nbsp;</p><p>&nbsp;</p>",
+    "_id": "6523e37a06630a13c82f5b9e",
+    "_parentId": "6523e37606630a13c82f5b7a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Decarbonisation and Electrification Part 2 ",
+    "displayTitle": "Decarbonisation and Electrification Part 2 ",
+    "body": "",
+    "_id": "6523ea7506630a13c82f6067",
+    "_parentId": "6523ea7506630a13c82f6050",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/rzlcnYiipHE",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Carbon Capture and Storage Part 2",
+    "displayTitle": "Carbon Capture and Storage Part 2",
+    "body": "",
+    "_id": "6523eb1b06630a13c82f6b59",
+    "_parentId": "6523eb1b06630a13c82f6b42",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/KsXZV--h_tk",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Resilient Food Production Part 1",
+    "displayTitle": "Resilient Food Production Part 1",
+    "body": "",
+    "_id": "6523eb6f06630a13c82f7729",
+    "_parentId": "650704ec6c7f2657647eba03",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/B6Jup8tZeC8 ",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Resilient Food Production Part 2",
+    "displayTitle": "Resilient Food Production Part 2",
+    "body": "",
+    "_id": "6523eb8806630a13c82f791d",
+    "_parentId": "6523eb8806630a13c82f7906",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/pgszDP3Fr60 ",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]

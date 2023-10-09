@@ -114,6 +114,11 @@
     "description": "LTG 11",
     "tags": []
   },
+  "f931dda268bce0b1762b704cbc160ddb5d321a08.png": {
+    "title": "LTG - Lecture title frames-10.png",
+    "description": "LTG 10",
+    "tags": []
+  },
   "d6a77bca5872e985308601cad8520774793ad789.png": {
     "title": "LTG - Lecture title frames-03.png",
     "description": "LTG 3",
@@ -172,6 +177,61 @@
   "b1dccd20536eb711ee628589504dc5e177f2f512.png": {
     "title": "ltg-logo entwurf-06.png",
     "description": "LTG header",
+    "tags": []
+  },
+  "ef7119cde213abd845af0838f0dc336e664ab171.png": {
+    "title": "sustainability related techs.png",
+    "description": "hotgraph techs",
+    "tags": []
+  },
+  "35371828e558ad63c574f3415e1cb51493080532.png": {
+    "title": "Element 4.png",
+    "description": "energy hotg\r\n",
+    "tags": []
+  },
+  "7af8156f7fa60f3236e4ae64cea8a8b75bc939db.png": {
+    "title": "Element 3.png",
+    "description": "energy storage\r\n",
+    "tags": []
+  },
+  "9ddac0c67530960be6ec56d4656e6780ce33c4c4.png": {
+    "title": "Element 9.png",
+    "description": "food",
+    "tags": []
+  },
+  "50e66c872b96bee78638ad9085c567fb3f91e3a1.png": {
+    "title": "Element 10.png",
+    "description": "water",
+    "tags": []
+  },
+  "c508e9e2475613af2549bded7fb8c23e51d54cbe.png": {
+    "title": "Element 8.png",
+    "description": "street",
+    "tags": []
+  },
+  "45bfcc6347642a9f51edc5ca8d8cd7e4a5c57c2f.png": {
+    "title": "Element 1.png",
+    "description": "co2",
+    "tags": []
+  },
+  "7cee0cbf7b31d8827d2cb1112dcde0866ed3cf51.png": {
+    "title": "Element 6.png",
+    "description": "building",
+    "tags": []
+  },
+  "549c8deeb367daef75c8b4e6a506dbf1be5b3800.png": {
+    "title": "Element 2.png",
+    "description": "logistic",
+    "tags": []
+  },
+  "4736224e39d72f7bb07055036af9874f3f5cdc88.png": {
+    "title": "Element 5.png",
+    "description": "monitorng",
+    "tags": []
+  },
+  "62d85fd2388aff8d8b52c1eec7cac4d13624e5a9.png": {
+    "title": "Element 12.png",
+    "description": "wastee",
     "tags": []
   }
 }
