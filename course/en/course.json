@@ -6,7 +6,7 @@
   "description": "Wintersemester 2023/24",
   "instruction": "",
   "_htmlClasses": "",
-  "_latestTrackingId": 80,
+  "_latestTrackingId": 118,
   "_buttons": {
     "_submit": {
       "buttonText": "Submit",
@@ -92,6 +92,30 @@
         "_showLabel": true,
         "navLabel": "Page progress",
         "_drawerPosition": "auto"
+      },
+      "_drawer": {
+        "_navOrder": 100,
+        "_navTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        }
+      },
+      "_navigation": {
+        "_skipButton": {
+          "_navOrder": -100
+        },
+        "_backButton": {
+          "_navOrder": 0
+        },
+        "_backNavTooltip": {
+          "_isEnabled": true,
+          "text": "{{ariaLabel}}"
+        },
+        "_spacers": [
+          {
+            "_navOrder": 0
+          }
+        ]
       }
     },
     "_components": {

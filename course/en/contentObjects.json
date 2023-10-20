@@ -1,211 +1,215 @@
 [
   {
-    "title": "Course Guide",
-    "displayTitle": "Course Guide",
-    "body": "<p>This course guide will give you an overview of the learning goals, structure and organisation of the course and&nbsp;the different types of learning material and techniques you will encounter during the course.</p>",
+    "title": "Lecture",
+    "displayTitle": "Lecture",
+    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
     "_classes": "",
-    "subtitle": "Course Organization and FAQs",
-    "pageBody": "<p>Welcome to the online course \"The Limits to Growth – Sustainability and the Circular Economy\". The ETCE Lab is teaching this course at the Technical University of Clausthal.&nbsp;</p><p>This course guide will give you an overview of the learning goals, structure and organisation of the course and&nbsp;the different types of learning material and techniques you will encounter during the course.</p>",
+    "subtitle": "",
+    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20bf",
+    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Beyond the Circular Economy",
+    "displayTitle": "Beyond the Circular Economy",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20c1",
+    "_parentId": "6527e58481a06b1e0c978b35",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Towards a Circular Society",
+    "displayTitle": "Towards a Circular Society",
+    "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
     "_lockedBy": [
-      "64e5c250d3bd3552943b20b3"
+      "64e5c250d3bd3552943b20c5"
     ],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b3",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/5064ed9870c62babebbf77e28d27d558ec26374e.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Sustainable Everyday Practices",
-    "displayTitle": "Sustainable Everyday Practices",
-    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20cb",
-    "_parentId": "64e5c250d3bd3552943b20b1",
+    "_id": "64e5c250d3bd3552943b20c3",
+    "_parentId": "6527e5e781a06b1e0c9791b1",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/1e7a177ac4987b857279159b700a4109a5db10e7.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "contain",
-          "_backgroundPosition": "left center"
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Course Organization",
-    "displayTitle": "Course Organization",
-    "body": "<p>Find out who the team organising the course is, how the course is structured and what the formal requirements for successful participation are.</p>",
-    "_classes": "",
-    "subtitle": "Wintersemester 2023/24",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20cd",
-    "_parentId": "64e5c250d3bd3552943b20b3",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/dc77acffd7f05cd1e580733cc737926655236492.png"
+      "src": "course/en/assets/d756d74836d8d2bab17189a2a2b4c06618d0a2d9.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -271,52 +275,15 @@
           "_small": null
         }
       }
-    }
-  },
-  {
-    "title": "New Menu/Page Title",
-    "displayTitle": "New Menu/Page Title",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20cf",
-    "_parentId": "64e5c250d3bd3552943b20b5",
-    "_type": "page",
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
     }
   },
   {
     "title": "Introduction",
     "displayTitle": "Introduction",
-    "body": "",
+    "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -334,7 +301,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -392,462 +359,6 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>In this chapter, you will find out what the central concept behind the course is. We will give you a short overview of the ecological problems and societal challenges that we will discuss during the course.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 01.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b7",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/51cb97a0e4c39e0b71e7538095a598446aa3e547.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Food Waste and Foodsharing",
-    "displayTitle": "Food Waste and Foodsharing",
-    "body": "<p>In the following section, you will learn more about one specific sustainable practice: foodsharing. What exactly is foodsharing, how does it work and how can you share food with others or get food that others are willing to share.&nbsp;</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Food waste has become a global predicament of alarming proportions, capturing the attention of individuals, organizations, and policymakers worldwide. Each year, a staggering amount of food is needlessly discarded, exacerbating issues of hunger, environmental degradation, and economic inefficiency. This growing crisis demands immediate attention and concerted efforts from all sectors of society to tackle the multifaceted challenges it presents.</p><p>Throughout this segment, we will take a closer look at the scale at which food is being wasted worldwide on a daily basis. We will scrutinize some of the underlying reasons as to why is food being needlessly thrown away and talk about the the far-reaching economic, environmental and social implications of food waste. Moreover, it is also important to take a look possible solutions both on the political level as well as on an individual level. By looking at foodsharing as a local and self-organized practice, we want to point out a practical pathway to saving food and living more sustainably.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20c9",
-    "_parentId": "64e5c250d3bd3552943b20b1",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/00434867c728e095f7a94df21e0112b1767a7801.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "contain",
-          "_backgroundPosition": "left center"
-        },
-        "_minimumHeights": {
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Massive Open Online Course (MOOC)",
-    "displayTitle": "Massive Open Online Course (MOOC)",
-    "body": "<p>Find out what a MOOC is and how we will use asynchronous learning, pre-recorded videos and interactive content in this course.</p>",
-    "_classes": "",
-    "subtitle": "A Look Behind the Scenes",
-    "pageBody": "<p>The ETCE Lab at Clausthal University of Technology has been creating MOOC content for the course \"Limits to Growth – Sustainability and the Circular Economy\" since March 2023. We are still working on expanding and improving the course and are thankful for your feedback.&nbsp;</p><p>In this chapter, we will give you further insights into what exactly a Massive Open Online Course is and how we produce the interactive and asynchronous content for this course.&nbsp;</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20d5",
-    "_parentId": "64e5c250d3bd3552943b20b3",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/7996caf5a23d5e661595fe64334bcfb3351de6c1.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Alternative Sources of Energy",
-    "displayTitle": "Alternative Sources of Energy",
-    "body": "",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "650704eb6c7f2657647eb96b",
-    "_parentId": "64e5c250d3bd3552943b20c7",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Challenges I",
-    "displayTitle": "Challenges I",
-    "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
-    "_classes": "",
-    "subtitle": "Climate Change",
-    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "custom",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b1",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/ebb1f50af087273a38acdcfad515a45ed76163bb.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -951,16 +462,110 @@
     }
   },
   {
-    "title": "Carbon Capture and Storage",
-    "displayTitle": "Carbon Capture and Storage",
-    "body": "",
+    "title": "Lecture",
+    "displayTitle": "Lecture",
+    "body": "<p>Here you can find the lecture recording and the slides for L02.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>Below, you can find the lecture recording and the slides for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20b1"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527eb5581a06b1e0c97c4b5",
+    "_parentId": "64e5c250d3bd3552943b20b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture",
+    "displayTitle": "Lecture",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -969,12 +574,290 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "650704ec6c7f2657647eb9a4",
-    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_id": "6527ef9781a06b1e0c981635",
+    "_parentId": "64e5c250d3bd3552943b20b5",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture",
+    "displayTitle": "Lecture",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20bb"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527efc581a06b1e0c982381",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Sustainable Everyday Practices",
+    "displayTitle": "Sustainable Everyday Practices",
+    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "652803b681a06b1e0c990ac1",
+    "_parentId": "6527efc781a06b1e0c98249b",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1e7a177ac4987b857279159b700a4109a5db10e7.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Course Overview",
+    "displayTitle": "Course Overview",
+    "body": "<p>Watch the&nbsp;trailer for the \"Limits to Growth - Sustainability and the Circular Economy\" course and get a first idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Watch our course trailer and get an idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "10 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65281e6081a06b1e0c9a3205",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b7eca6a8f7fea407e3b26275503d1692850b09e8.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1043,35 +926,678 @@
     }
   },
   {
-    "title": "Challenges II",
-    "displayTitle": "Challenges II",
-    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how pollution and resource scarcity amplify social disparities and spark political instability.</p>",
+    "title": "Course Guide",
+    "displayTitle": "Course Guide",
+    "body": "<p>This course guide will give you an overview of the learning goals, structure and organisation of the course and&nbsp;the different types of learning material and techniques you will encounter during the course.</p>",
     "_classes": "",
-    "subtitle": "Environmental Pollution and Dwindling Natural Ressources",
-    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how pollution and resource scarcity amplify social disparities and spark political instability.</p>",
+    "subtitle": "Course Organization and FAQs",
+    "pageBody": "<p>Welcome to the online course \"The Limits to Growth – Sustainability and the Circular Economy\". The ETCE Lab is teaching this course at the Technical University of Clausthal.&nbsp;</p><p>This course guide will give you an overview of the learning goals, structure and organisation of the course and&nbsp;the different types of learning material and techniques you will encounter during the course.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [
-      "64ca0f2ffc4c60394887a3e4",
-      "64ca3b1207c0be38b04eb604",
-      "64ca0eb1fc4c6039488794e1",
-      "64e5c250d3bd3552943b20b5"
-    ],
-    "_lockType": "custom",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b5",
+    "_id": "64e5c250d3bd3552943b20b3",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/d6a77bca5872e985308601cad8520774793ad789.png"
+      "src": "course/en/assets/5064ed9870c62babebbf77e28d27d558ec26374e.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Massive Open Online Course (MOOC)",
+    "displayTitle": "Massive Open Online Course (MOOC)",
+    "body": "<p>Find out what a MOOC is and how we will use asynchronous learning, pre-recorded videos and interactive content in this course.</p>",
+    "_classes": "",
+    "subtitle": "A Look Behind the Scenes",
+    "pageBody": "<p>The ETCE Lab at Clausthal University of Technology has been creating MOOC content for the course \"Limits to Growth – Sustainability and the Circular Economy\" since March 2023. We are still working on expanding and improving the course and are thankful for your feedback.&nbsp;</p><p>In this chapter, we will give you further insights into what exactly a Massive Open Online Course is and how we produce the interactive and asynchronous content for this course.&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20d5",
+    "_parentId": "64e5c250d3bd3552943b20b3",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7996caf5a23d5e661595fe64334bcfb3351de6c1.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Alternative Sources of Energy",
+    "displayTitle": "Alternative Sources of Energy",
+    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650704eb6c7f2657647eb96b",
+    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E01",
+    "displayTitle": "Exercise E01",
+    "body": "",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527eba781a06b1e0c97cfb1",
+    "_parentId": "64e5c250d3bd3552943b20b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E01",
+    "displayTitle": "Exercise E01",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527ef7381a06b1e0c980c36",
+    "_parentId": "64e5c250d3bd3552943b20b5",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise",
+    "displayTitle": "Exercise",
+    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527efc781a06b1e0c98249b",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Food Waste and Foodsharing",
+    "displayTitle": "Food Waste and Foodsharing",
+    "body": "<p>In the following section, you will learn more about one specific sustainable practice: foodsharing. What exactly is foodsharing, how does it work and how can you share food with others or get food that others are willing to share.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Food waste has become a global predicament of alarming proportions, capturing the attention of individuals, organizations, and policymakers worldwide. Each year, a staggering amount of food is needlessly discarded, exacerbating issues of hunger, environmental degradation, and economic inefficiency. This growing crisis demands immediate attention and concerted efforts from all sectors of society to tackle the multifaceted challenges it presents.</p><p>Throughout this segment, we will take a closer look at the scale at which food is being wasted worldwide on a daily basis. We will scrutinize some of the underlying reasons as to why is food being needlessly thrown away and talk about the the far-reaching economic, environmental and social implications of food waste. Moreover, it is also important to take a look possible solutions both on the political level as well as on an individual level. By looking at foodsharing as a local and self-organized practice, we want to point out a practical pathway to saving food and living more sustainably.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "652808ef81a06b1e0c9980cd",
+    "_parentId": "6527efc781a06b1e0c98249b",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/00434867c728e095f7a94df21e0112b1767a7801.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>In this chapter, you will find out what the central concept behind the course is. You will get a short overview of important terminology and the ecological problems and societal challenges that we will discuss during the course.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 01.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20b7"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20b7",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/51cb97a0e4c39e0b71e7538095a598446aa3e547.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1232,12 +1758,12 @@
     }
   },
   {
-    "title": "Resilient Food Production",
-    "displayTitle": "Resilient Food Production",
-    "body": "",
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1250,12 +1776,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "650704ec6c7f2657647eb9dd",
+    "_id": "650704ec6c7f2657647eb9a4",
     "_parentId": "64e5c250d3bd3552943b20c7",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1324,43 +1850,37 @@
     }
   },
   {
-    "title": "Sustainability and Political (In-)Action",
-    "displayTitle": "Sustainability and Political (In-)Action",
-    "body": "<p>In this chapter, we will discuss different understandings and definitions of sustainability and sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "title": "Challenges I",
+    "displayTitle": "Challenges I",
+    "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainability and sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing the urgent global challenge of climate change. We will explore the actions and inactions of governments, organisations, and individuals in shaping climate policies, influencing public opinion, and driving change.</p>",
+    "subtitle": "Climate Change",
+    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [
-      "64e5c250d3bd3552943b20b5"
+      "64e5c250d3bd3552943b20b1"
     ],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b9",
+    "_id": "64e5c250d3bd3552943b20b1",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/df7461784d0dd561401e03b06209001a991a5039.png"
+      "src": "course/en/assets/ebb1f50af087273a38acdcfad515a45ed76163bb.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1369,6 +1889,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1418,12 +1944,382 @@
     }
   },
   {
-    "title": "Limits to Growth and Planetary Boundaries",
-    "displayTitle": "Limits to Growth and Planetary Boundaries",
-    "body": "<p>In this chater, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.</p>",
+    "title": "Course Organization",
+    "displayTitle": "Course Organization",
+    "body": "<p>Find out who the team organising the course is, how the course is structured and what the formal requirements for successful participation are.</p>",
+    "_classes": "",
+    "subtitle": "Wintersemester 2023/24",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20cd",
+    "_parentId": "64e5c250d3bd3552943b20b3",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/dc77acffd7f05cd1e580733cc737926655236492.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chater, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.</p><p>As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a viable future. Join us as we delve into the interconnected issues of resource depletion, climate change, biodiversity loss, and the imperative of staying within Earth's ecological boundaries for a more sustainable and resilient world.</p>",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "650704ec6c7f2657647eb9dd",
+    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Challenges II",
+    "displayTitle": "Challenges II",
+    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will explore these challenges and how pollution and resource scarcity amplify social disparities and spark political instability.</p>",
+    "_classes": "",
+    "subtitle": "Environmental Pollution and Resource Scarcity",
+    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how environmental pollution amplify social disparities and spark political instability.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;15.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20b5",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/52530f6e570dff79892417a319f01b565a607dec.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "A History of Political (In-) Action",
+    "displayTitle": "A History of Political (In-) Action",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;22.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527e26281a06b1e0c975001",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6cff0c26ca02f5e3787f732878572971ecadb8b3.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Limits to Growth and Planetary Boundaries",
+    "displayTitle": "Limits to Growth and Planetary Boundaries",
+    "body": "<p>In this chater, we will explore the concepts of ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>In this chater, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;29.11.2023 at 2:15 - 3:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1443,18 +2339,12 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/da5327af6d1c505acd491be7a0bd6b6b9d558441.png"
+      "src": "course/en/assets/8322b28fcfa22d26037319c511e9077f9a6e9c78.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1463,6 +2353,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1517,7 +2413,7 @@
     "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;06.12.2023 at 2:15 - 3:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1537,18 +2433,12 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/50283d207c1e83e7dc118891825f2a5c04da3481.png"
+      "src": "course/en/assets/b5c41524487fbd3168cb25583882ed27b9e8b383.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1557,6 +2447,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1606,301 +2502,17 @@
     }
   },
   {
-    "title": "Circular Economy",
-    "displayTitle": "Circular Economy",
-    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
+    "title": "Technologies and Sustainability",
+    "displayTitle": "Technologies and Sustainability",
+    "body": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
+    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p><strong>This is the asynchronous MOOC content for L07. You have until the 19.12.2023 to finish working through the content and to complete the exercise.&nbsp;The exercise will be held live&nbsp;on the 13.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
-    "_lockType": "custom",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20bf",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/b2a1ce414e2dc7cc784ad93224905b8debbd05bb.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Beyond the Circular Economy",
-    "displayTitle": "Beyond the Circular Economy",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20c1",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/7179e2da91e9fb99422239ed7c0113c162398c45.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Towards a Circular Society",
-    "displayTitle": "Towards a Circular Society",
-    "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
-    "_lockType": "custom",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20c3",
-    "_parentId": "course",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/d756d74836d8d2bab17189a2a2b4c06618d0a2d9.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Sustainability Technologies",
-    "displayTitle": "Sustainability Technologies",
-    "body": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability.</p>",
-    "_classes": "",
-    "subtitle": "... and What They (Can) Not Do",
-    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p>&nbsp;</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1913,7 +2525,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/603e7969ffa3fd5b54e3df5a8cab254b63f52fd6.png"
+      "src": "course/en/assets/8b1d14c9304dbbb313c0fa2df2c9314ccfd24eb5.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1982,12 +2594,388 @@
     }
   },
   {
-    "title": "Conclusion",
-    "displayTitle": "Conclusion",
-    "body": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p>",
+    "title": "Circular Economy",
+    "displayTitle": "Circular Economy",
+    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p>",
+    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p><p><strong>This is the asynchronous MOOC content for L08. You have until 09.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 20.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527e5c081a06b1e0c978e58",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/89ed29536c0c0971cfeb068ebc2245592ccca3df.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Circular Societies",
+    "displayTitle": "Circular Societies",
+    "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 16.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 10.01.2024 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527e5e781a06b1e0c9791b1",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1ae6a7acf9a3d3a5b07121e3303c5f27a5fc5956.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Beyond the Circular Economy",
+    "displayTitle": "Beyond the Circular Economy",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 23.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 24.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527e58481a06b1e0c978b35",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/466b5a513d66f97904c8d840e02d97dbd5e39bda.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Invited Lecture",
+    "displayTitle": "Invited Lecture",
+    "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;31.01.2024 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527e26d81a06b1e0c97505b",
+    "_parentId": "course",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/97202c48680ff31044944be9b607f1d77661bbc7.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>In this last lecture, we will take stock of what we have learned about environmental, social, and economic sustainability during the course and what comes next.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;07.02.2024 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2007,18 +2995,12 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/85bd4c84219cb6f045c6cf5b3598866659cda9f0.png"
+      "src": "course/en/assets/8f4ce7a46fe8b276223cabab941a3694cd62d567.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -2027,6 +3009,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
