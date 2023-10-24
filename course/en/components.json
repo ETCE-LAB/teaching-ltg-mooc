@@ -2230,7 +2230,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Carbon Capture and Storage Part 1",
-    "displayTitle": "Carbon Capture and Storage Part 1",
+    "displayTitle": "",
     "body": "",
     "_id": "650705296c7f2657647ec25a",
     "_parentId": "650704ec6c7f2657647eb9ca",
@@ -2307,7 +2307,7 @@
     "_disableAccessibilityState": false,
     "title": "Decarbonisation",
     "displayTitle": "Decarbonisation",
-    "body": "",
+    "body": "<p>Alternative energy sources, such as solar, wind, tidal or fusion power, play a pivotal role in decarbonisation efforts. Unlike traditional fossil fuels, renewable sources produce energy with significantly lower carbon emissions, contributing to a cleaner and more sustainable energy landscape. The importance of decarbonisation lies in mitigating climate change by reducing the release of greenhouse gases into the atmosphere, ultimately curbing global warming and its adverse effects on the environment.&nbsp;</p><p>The following video will give you an overview of some alternative energy sources.</p>",
     "_id": "650705306c7f2657647ec439",
     "_parentId": "650704eb6c7f2657647eb991",
     "_type": "component",
@@ -2381,9 +2381,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Technologies and what they (can) not do",
-    "displayTitle": "Technologies and what they (can) not do",
-    "body": "",
+    "title": "Technologies and What They (Can) Not Do",
+    "displayTitle": "Technologies and What They (Can) Not Do",
+    "body": "<p>During the&nbsp;initial lectures, we explored the current challenges, such as the urgent matters of climate change, environmental pollution and resource scarcity. We have emphasised potential sustainability challenges and the consequences of global warming and resource depletion. Additionally, we have looked at different forms of political, collective or individual action in a lecture focusing on the timeline of political action regarding climate change.</p><p>This lecture will examine the relationship between technology and sustainability, weighing how technological advancements can improve or worsen environmental challenges. In this short introductory video, you will get an overview of what different strategies can be used to combat climate change, and we will introduce the three use cases of sustainability-related technologies that we will look at in detail during this lecture.&nbsp;</p>",
     "_id": "650705396c7f2657647ec686",
     "_parentId": "650704e36c7f2657647eb7f1",
     "_type": "component",
@@ -2459,7 +2459,7 @@
     "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\" style=\"color:blue; text-decoration:underline\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" style=\"color:blue; text-decoration:underline\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "6507070b6c7f2657647ee54d",
     "_parentId": "650707066c7f2657647ee4fe",
     "_type": "component",
@@ -2504,7 +2504,7 @@
     "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/renewable-energy-sun\" style=\"color:blue; text-decoration:underline\">Renewable Energy (Sun)</a>\" by Burcu Köleli used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" style=\"color:blue; text-decoration:underline\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/renewable-energy-sun\">Renewable Energy (Sun)</a>\" by Burcu Köleli used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "6507072c6c7f2657647ee92a",
     "_parentId": "650707286c7f2657647ee8d6",
     "_type": "component",
@@ -2549,7 +2549,7 @@
     "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p dir=\"auto\">The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/break-the-cycle-upcycle\">Break The Cycle – Upcycle</a>\" by Maria Picassó i Piquer for ArtistsForClimate.org used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
     "_id": "650707406c7f2657647eecda",
     "_parentId": "6507073c6c7f2657647eec86",
     "_type": "component",
@@ -2593,8 +2593,8 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Impressum",
-    "displayTitle": "Impressum",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/growth-is-a-community-effort\" style=\"color:blue; text-decoration:underline\">Growth is a Community Effort</a>\" by Marko Jovanovac used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" style=\"color:blue; text-decoration:underline\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/growth-is-a-community-effort\">Growth is a Community Effort</a>\" by Marko Jovanovac used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "650707586c7f2657647ef08a",
     "_parentId": "650707516c7f2657647ef036",
     "_type": "component",
@@ -2939,9 +2939,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p>In the legally binding treaty on climate change, that was adopted by 196 parties at the UN Climate Change Conference in 2015, finance, technology and capacity-building were highlighed as the most important areas where countries worldwide have to cooperate and support each other in order to combat climate change.</p><p>Article 10 of the Paris Agreement focuses&nbsp; solely on technology advancement and transfer and innovations. The treaty notes the \"the importance of technology for the implementation of&nbsp;mitigation and adaptation actions\" and the need to \"strengthen cooperative&nbsp;action on technology development and transfer\".</p><p>Even without any specifics about which technologies or areas of application this policy paper aims to adress, it shows the importance of technological advances and the sharing of technological innovation on a policy level. At the same time, the ambiguity of the statements and the&nbsp;</p><p>&nbsp;</p><p><u>Sources</u></p><p><a href=\"https://unfccc.int/sites/default/files/english_paris_agreement.pdf\">https://unfccc.int/sites/default/files/english_paris_agreement.pdf</a></p><p>&nbsp;</p><p>&nbsp;</p>",
+    "title": "Technology Advancement as a Political Priority",
+    "displayTitle": "Technology Advancement as a Political Priority",
+    "body": "<p>In the legally binding treaty on climate change adopted by 196 parties at the UN Climate Change Conference in 2015, finance, technology, and capacity-building were highlighted as the most important areas where countries worldwide must cooperate and support each other to combat climate change.</p><p>Article 10 of the Paris Agreement focuses exclusively on technology advancement, transfer, and innovations. The treaty underscores \"the importance of technology for the implementation of&nbsp;mitigation and adaptation actions\" and the need to \"strengthen cooperative&nbsp;action on technology development and transfer\".</p><p>Even without specifics on which technologies or areas of application this policy paper aims to address, it underscores the crucial role of technological advances and the sharing of technological innovation for political actors. Simultaneously, the ambiguity of the statements and the absence of clarity on political priorities raise questions about which technologies deserve further advancement and attention. Technology advancement is costly—not just financially but also in terms of the resources used during development and production. The uncertainty regarding its field of application and efficacy poses a significant challenge.</p><p>Source:&nbsp;<a href=\"https://unfccc.int/sites/default/files/english_paris_agreement.pdf\">https://unfccc.int/sites/default/files/english_paris_agreement.pdf</a></p>",
     "_id": "6523e37a06630a13c82f5b9e",
     "_parentId": "6523e37606630a13c82f5b7a",
     "_type": "component",
@@ -2986,7 +2986,7 @@
     "_disableAccessibilityState": false,
     "title": "Electrification",
     "displayTitle": "Electrification",
-    "body": "",
+    "body": "<p>Electrification is crucial for combatting climate change due to its potential to reduce greenhouse gas emissions across various sectors. We can significantly decrease the carbon footprint by shifting from fossil fuel-based energy sources to electricity, mainly when generated from renewable sources like solar, wind, and hydropower.</p><p>In the transportation sector, electrification of vehicles, such as electric cars and buses, reduces reliance on fossil fuels and lowers emissions. Similarly, electrifying industrial processes and buildings, coupled with using renewable energy, contributes to a more sustainable and low-carbon economy. The versatility and efficiency of electricity make it a key enabler for integrating renewable energy, enhancing energy efficiency, and fostering a cleaner, greener future as part of broader climate change mitigation strategies.&nbsp;</p>",
     "_id": "6523ea7506630a13c82f6067",
     "_parentId": "6523ea7506630a13c82f6050",
     "_type": "component",
@@ -3061,7 +3061,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Carbon Capture and Storage Part 2",
-    "displayTitle": "Carbon Capture and Storage Part 2",
+    "displayTitle": "",
     "body": "",
     "_id": "6523eb1b06630a13c82f6b59",
     "_parentId": "6523eb1b06630a13c82f6b42",
@@ -3136,9 +3136,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Resilient Food Production Part 1",
-    "displayTitle": "Resilient Food Production Part 1",
-    "body": "",
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>The negative impacts of industrial farming, only heightened by global warming and pollution, have underscored the urgent need for sustainable alternatives. In this video, we will look at some resilient food production techniques. We will be centring our attention on indoor farming techniques, offering a perspective that embraces a food production approach that is both resilient and environmentally conscious.</p>",
     "_id": "6523eb6f06630a13c82f7729",
     "_parentId": "650704ec6c7f2657647eba03",
     "_type": "component",
@@ -3213,7 +3213,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "Resilient Food Production Part 2",
-    "displayTitle": "Resilient Food Production Part 2",
+    "displayTitle": "",
     "body": "",
     "_id": "6523eb8806630a13c82f791d",
     "_parentId": "6523eb8806630a13c82f7906",
@@ -3245,7 +3245,7 @@
         "_instruction": ""
       }
     },
-    "instruction": "Select the play button to start the video.",
+    "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
@@ -3380,7 +3380,7 @@
     "_disableAccessibilityState": false,
     "title": "Question 1",
     "displayTitle": "",
-    "body": "<p>Which of the following countries produced the most GHG emissions in the sector \"electricity and heat\" compared to other sectors (in 2019)?</p>",
+    "body": "<p><strong>Question 1:</strong> Which of the following countries produced the most GHG emissions in the sector \"electricity and heat\" compared to other sectors (in 2019)?</p>",
     "_id": "65244443da6f812accfeff3b",
     "_parentId": "6524433bda6f812accfef8eb",
     "_type": "component",
@@ -3509,7 +3509,7 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p>Compare the GHG emissions between&nbsp;low-income countries and high-income countries. Which of the following statements are true.&nbsp;</p>",
+    "body": "<p><strong>Question 2:</strong> Compare the GHG emissions between&nbsp;low-income countries and high-income countries. Which of the following statements are true.&nbsp;</p>",
     "_id": "65244518da6f812accff01e8",
     "_parentId": "6524483eda6f812accff0a26",
     "_type": "component",
@@ -3614,7 +3614,7 @@
   },
   {
     "_component": "text",
-    "_classes": "green-bg",
+    "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3624,7 +3624,7 @@
     "_disableAccessibilityState": false,
     "title": "Alternative Sources of Energy",
     "displayTitle": "Alternative Sources of Energy",
-    "body": "<p><strong>What Electricity Sources Power the World?</strong></p><p>As the previous data showed, electricity and heating are the largest contributer of GHG emissions by sector. If we take a closer look at the sources of electricity, it becomes clear why that is. Until 2022 gas and coal remain the prime sources for electricity and together make up for more than half of the global electricity production.&nbsp;<br /><br />During the course, we have discussed the negative&nbsp;environmental impacts of fossil fuels, including coal, oil, and natural gas, which contribute to various ecological problems and pose challenges to the health of the planet. The combustion of fossil fuels releases significant amounts of carbon dioxide (CO2) and other greenhouse gases into the atmosphere. These gases trap heat and contribute to the greenhouse effect, leading to global warming and climate change. This has far-reaching consequences, including rising sea levels, extreme weather events, disruptions to ecosystems, and threats to biodiversity.&nbsp; Additionally, burning fossil fuels produces air pollutants such as sulfur dioxide, nitrogen oxides, and particulate matter. These pollutants can have detrimental effects on air quality, human health, and ecosystems.&nbsp;</p><p>Fossil fuels are finite resources, and their extraction contributes to resource depletion. This not only poses a threat to future energy security but also leads to ecological disruptions as ecosystems are disturbed in the process of extraction.</p><p>&nbsp;</p><p><u>Source:&nbsp;</u></p><p>Hannah Ritchie, Max Roser and Pablo Rosado (2022) - \"Energy\". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/energy'</p>",
+    "body": "<p><strong>What Electricity Sources Power the World?</strong></p><p>As the previous data showed, electricity and heating are the largest contributer of GHG emissions by sector. If we take a closer look at the sources of electricity, it becomes clear why that is. Until 2022 gas and coal remain the prime sources for electricity and together make up for more than half of the global electricity production.&nbsp;<br /><br />During the course, we have discussed the negative&nbsp;environmental impacts of fossil fuels, including coal, oil, and natural gas, which contribute to various ecological problems and pose challenges to the health of the planet. The combustion of fossil fuels releases significant amounts of carbon dioxide (CO2) and other greenhouse gases into the atmosphere. These gases trap heat and contribute to the greenhouse effect, leading to global warming and climate change. This has far-reaching consequences, including rising sea levels, extreme weather events, disruptions to ecosystems, and threats to biodiversity.&nbsp; Additionally, burning fossil fuels produces air pollutants such as sulfur dioxide, nitrogen oxides, and particulate matter. These pollutants can have detrimental effects on air quality, human health, and ecosystems.&nbsp;</p><p>Fossil fuels are finite resources, and their extraction contributes to resource depletion. This not only poses a threat to future energy security but also leads to ecological disruptions as ecosystems are disturbed in the process of extraction.</p><p><u>Source</u>:&nbsp;Hannah Ritchie, Max Roser and Pablo Rosado (2022) - \"Energy\". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/energy'</p>",
     "_id": "6524502eda6f812accff5cee",
     "_parentId": "6524502ada6f812accff5ccb",
     "_type": "component",
@@ -5451,8 +5451,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Exercise: Sustainable Everyday Practices",
-    "displayTitle": "Exercise: Sustainable Everyday Practices",
+    "title": "Questions",
+    "displayTitle": "Questions",
     "body": "<p><strong>Question 1:</strong> By implementing some of these sustainable practices into your everyday life, you can…</p>",
     "_id": "6528062681a06b1e0c993a9d",
     "_parentId": "6528061c81a06b1e0c9939be",
@@ -5518,7 +5518,7 @@
     ],
     "_attempts": 1,
     "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
+    "_canShowFeedback": false,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -5640,7 +5640,7 @@
     ],
     "_attempts": 1,
     "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
+    "_canShowFeedback": false,
     "_canShowMarking": true,
     "_shouldDisplayAttempts": false,
     "_isRandom": true,
@@ -6499,7 +6499,7 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "New Component Title",
-    "displayTitle": "New Component Title",
+    "displayTitle": "",
     "body": "<p><strong>Question 3</strong>: What is the meaning of the best-before date (in German: <em>Mindesthaltbarkeitsdatum</em>)?</p>",
     "_id": "65280ae781a06b1e0c99bd20",
     "_parentId": "652808ef81a06b1e0c9981a3",
@@ -7005,7 +7005,52 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "graphic",
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "3 Perspectives on CCS",
+    "displayTitle": "",
+    "body": "<p><strong>Political Actor (European Commission)</strong></p><p>\"While CO<sub>2</sub> emissions from fuel combustion have been declining in Europe, industries like cement, iron and steel, aluminium, pulp and paper, and refineries have inherent CO<sub>2</sub> emissions resulting from energy-intensive industry processes. Carbon capture, use and storage can provide a key contribution to tackling these sectors’ emissions. Furthermore, it can help removing carbon from the atmosphere through carbon removals such as bio-energy carbon capture and storage (BECCS) and direct air carbon capture and storage (DACCS) and be a platform for low-carbon hydrogen production.&nbsp;(...)&nbsp;<br />The Commission’s <a href=\"https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2050-long-term-strategy_en\">strategic long-term vision</a>&nbsp;depends in part on CO<sub>2</sub> removal techniques based on CCS: either in combination with direct air capture (DACCS) or biomass (BECCS) to achieve climate neutrality. The target of climate neutrality has been written into law by the European Climate Law (<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2021.243.01.0001.01.ENG\">Regulation (EU) 2021/1119</a>), which requires that Union-wide greenhouse gas emissions (GHG) and removals are balanced within the Union at the latest by 2050 and that the Union shall aim to achieve negative emissions thereafter. Furthermore, several organisations and institutions such as the <a href=\"https://www.ipcc.ch\">Intergovernmental Panel on ClimateChange (IPCC)</a>, <a href=\"https://www.iea.org/fuels-and-technologies/carbon-capture-utilisation-and-storage\">International Energy Agency (IEA)</a> and <a href=\"https://netl.doe.gov/coal/carbon-storage\">National Energy Technology Laboratory (NETL)</a> argue that without carbon removals it is difficult to keep the temperature levels indicated in the Paris agreement (<a href=\"https://www.ipcc.ch/sr15/chapter/chapter-2/\">explore the IPCC report</a>).\"&nbsp;</p><p style=\"text-align:right\">Source: https://climate.ec.europa.eu/eu-action/carbon-capture-use-and-storage/overview_en#why-do-we-need-carbon-capture-use-and-storage</p>",
+    "_id": "653243b90370d4334879b59a",
+    "_parentId": "6537b29c818c6f1b5c8d36ca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -7016,9 +7061,871 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "",
-    "_id": "65323c620370d4334878f981",
-    "_parentId": "65323c600370d4334878f952",
+    "body": "<p>The <em>BUND </em>is a Germen non-governmental organisation that is&nbsp;committed to the preservation of nature and the safeguarding of the environment. The abbrevation <em>BUND </em>translates to&nbsp;\"German Federation for the Environment and Nature Conservation\".&nbsp;They have&nbsp;about 660,000 members and are one of the largest environmental organisations in Germany.</p><p>Which of the following statements is true?</p>",
+    "_id": "6532479b0370d4334879bab2",
+    "_parentId": "653247960370d4334879ba5e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The BUND believes that CCS would lead to a rapid transition in heavy industry towards sustainable practices and the development of eco-friendly products.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The BUND argues that CCS could lead to heavy industry maintaining its current climate-damaging production practices.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The BUND expresses concerns that CCS could create incalculable risks for ecosystems, health, and climate, lasting for generations.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "As a non-governemental organisation the BUND can make political decisions in Germany.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The BUND has no financial interest in promoting CCS technologies.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>The BUND does not believe that CCS would lead to a rapid transition towards sustainable practices. Instead, they&nbsp;express concerns that CCS might allow heavy industry to continue its climate-damaging practices. Additionally, they also&nbsp;have concerns about the potential risks of CCS on ecosystems, health, and climate over the long term.&nbsp;Even though it is not mentioned in the text, the BUND is unlikely to have any financial interests in promoting CCS technologies.</p><p>As an NGO (non-governmental organisation), the BUND can advocate for specific policies and influence decision-making, but it doesn't make political decisions.</p>",
+      "_incorrect": {
+        "final": "<p>You did not select all the correct answers! Let's sum it up:</p><p>The BUND does not believe that CCS would lead to a rapid transition towards sustainable practices. Instead, they&nbsp;express concerns that CCS might allow heavy industry to continue its climate-damaging practices. Additionally, they also&nbsp;have concerns about the potential risks of CCS on ecosystems, health, and climate over the long term.&nbsp;Even though it is not mentioned in the text, the BUND is unlikely to have any financial interests in promoting CCS technologies.</p><p>As an NGO (non-governmental organisation), the BUND can advocate for specific policies and influence decision-making, but it doesn't make political decisions.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The European Commission is the executive branch of the European Union (EU) and is responsible for proposing legislation, implementing decisions, and managing the day-to-day affairs of the EU. It is one of the critical institutions in the EU's complex political system. The Commission plays a central role in shaping EU policies, ensuring the implementation of common policies, and representing the EU on the global stage.</p>",
+    "_id": "653248390370d4334879c490",
+    "_parentId": "653248360370d4334879c43c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The European Commission highlights the importance of carbon removal techniques, including CCS, to achieve climate neutrality by 2050 and meet the targets set in the European Climate Law.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The European Commission denies the importance of carbon removal techniques in achieving climate neutrality by 2050.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The European Commission states that industries like cement, iron and steel, etc., have inherent CO2 emissions from energy-intensive processes.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "In their statement the European Commission quotes many scientific publications, giving their statement higher authority.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The text does not mention any disadvantages of CCS technologies or take a critical view on them.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;</p><p>The text does not address the disadvantages of CCS technologies or offer a critical viewpoint on them. At the same time, the European Commission references scientific publications to enhance the credibility of its statements. The Commission acknowledges inherent CO2 emissions from energy-intensive processes in the cement, iron, and steel industries. The European Commission does not deny the importance of carbon removal techniques; it underscores their significance in achieving climate neutrality by 2050.</p>",
+      "_incorrect": {
+        "final": "<p>You did not select all the correct answers! Let's sum it up: The text does not address the disadvantages of CCS technologies or offer a critical viewpoint on them. At the same time, the European Commission references scientific publications to enhance the credibility of its statements. The Commission acknowledges inherent CO2 emissions from energy-intensive processes in the cement, iron, and steel industries. The European Commission does not deny the importance of carbon removal techniques; it underscores their significance in achieving climate neutrality by 2050.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Saudi Aramco is a Saudi Arabian multinational petroleum and natural gas company, considered one of the largest energy companies globally.&nbsp;As a significant contributor to global carbon emissions, the company's role in the fossil fuel industry raises environmental alarms in the context of climate change and the global shift toward sustainable energy. Its state-owned status ties its operations closely to geopolitical considerations, potentially influencing regional stability and global energy markets. Questions about transparency and adherence to international corporate governance standards have been raised, given its state-owned nature.</p>",
+    "_id": "6532492e0370d4334879c9ef",
+    "_parentId": "653249290370d4334879c99b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Saudi Aramco has expressed interest in and invested in carbon capture and storage (CCS) technologies. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "They have financial incentives to both further develop CCS technologies and to continue with producing fossil fuels.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "For Saudi Aramco CCS is a way to move completely away from fossil fuels towards more sustainable, greener energy sources. ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Their statement presents a very positive view on CCS technologies. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Going beyond CCS technologies, they mention the possibility of using the capture CO2 to turn them into marketable products. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>Their statement reflects a notably optimistic stance on CCS technologies. Saudi Aramco has demonstrated interest in and financial investment in carbon capture and storage (CCS) technologies. However, it's crucial to note that, for Saudi Aramco, the adoption of CCS signifies a partial departure from fossil fuels toward more sustainable energy alternatives. Instead, there is a dual financial motivation—driving the advancement of CCS technologies while concurrently maintaining fossil fuel production. In addition to CCS, they explore the potential of converting captured CO2 into marketable products, indicating a broader perspective on utilising captured emissions.</p>",
+      "_incorrect": {
+        "final": "<p>You did not select all the correct answers! Let's sum it up:</p><p>Their statement reflects a notably optimistic stance on CCS technologies. Saudi Aramco has demonstrated interest in and financial investment in carbon capture and storage (CCS) technologies. However, it's crucial to note that, for Saudi Aramco, the adoption of CCS signifies a partial departure from fossil fuels toward more sustainable energy alternatives. Instead, there is a dual financial motivation—driving the advancement of CCS technologies while concurrently maintaining fossil fuel production. In addition to CCS, they explore the potential of converting captured CO2 into marketable products, indicating a broader perspective on utilising captured emissions.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Questions",
+    "displayTitle": "",
+    "body": "<p><strong>Question 1:</strong> Which of the following statements is true?</p>",
+    "_id": "653659eda31d3c45980a484b",
+    "_parentId": "65365348a31d3c45980a034b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Sustainable-related technologies encompass a wide range of different fields of application.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The main aim of sustainablity-related technologies to produce less waste.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The integration of renewable energy technologies contributes to a more sustainable and resilient energy infrastructure, reducing reliance on non-renewable resources.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Sustainability-related technologies can be used to lower carbon emissions.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "slider",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:</strong> Based on the information in the video, how much will the&nbsp;global average temperature (compared to pre-industrial levels) rise if we continue with the current policies and trajectory?</p>",
+    "_id": "65365c3ba31d3c45980a4ec5",
+    "_parentId": "65365c19a31d3c45980a4ead",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Drag the slider to make your choice and select Submit.",
+    "ariaQuestion": "",
+    "ariaScaleName": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "",
+    "labelEnd": "°C ",
+    "_scaleStart": 0,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "scaleStepPrefix": "",
+    "scaleStepSuffix": "",
+    "_correctAnswer": "",
+    "_correctRange": {
+      "_bottom": 2,
+      "_top": 3
+    },
+    "_showScaleIndicator": false,
+    "_showNumber": false,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;The global average temperature (compared to pre-industrial levels) will rise 2.5 to 2.9 °C if we continue with the current policies and trajectory.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.&nbsp;The global average temperature (compared to pre-industrial levels) will rise 2.5 to 2.9 °C if we continue with the current policies and trajectory.&nbsp;</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;Which of the following statements are true?</p>",
+    "_id": "65366f32a31d3c45980a63ba",
+    "_parentId": "65366f2ba31d3c45980a63a2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Mitigation involves efforts to reduce or prevent the emission of greenhouse gases (GHGs) into the atmosphere, thereby minimizing the extent of global warming and its associated impacts. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Mitigation efforts can include actions such as transitioning to renewable energy sources, improving energy efficiency, afforestation, and implementing policies to limit emissions from various sectors like transportation and industry.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 4:</strong>&nbsp;Which of the following statements are true?</p>",
+    "_id": "65367089a31d3c45980a6e0a",
+    "_parentId": "65367089a31d3c45980a6ded",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Adaptation involves developing strategies to cope with and respond to the unavoidable impacts of climate change.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Adaptation focuses on increasing the vulnerability of communities to climate change by ignoring infrastructure improvements.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Adaptation strategies include e.g. developing early warning systems for extreme weather events, implementing sustainable agricultural practices, and creating plans for managing water resources in the face of changing precipitation patterns.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Encouraging deforestation is a key component of effective climate change adaptation efforts.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Adaptation recognizes that some level of climate change is already underway and focuses on minimizing its negative effects on ecosystems and human societies.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Environmental Impacts of Food and Agriculture",
+    "displayTitle": "Environmental Impacts of Food and Agriculture",
+    "body": "<p>Food and agriculture exert significant environmental impacts, contributing to deforestation, water depletion, pollution, greenhouse gas emissions, soil degradation, and biodiversity loss. Expanding agricultural activities often result in the clearance of natural habitats, leading to the decline of ecosystems. Water-intensive farming practices contribute to water scarcity, while livestock farming, in particular, generates substantial greenhouse gas emissions. Additionally, monoculture and the use of agrochemicals degrade soil quality, posing long-term threats to agricultural sustainability.</p><p>Addressing these environmental challenges is essential for fostering a more sustainable and resilient global food system.</p>",
+    "_id": "65367819a31d3c45980b0610",
+    "_parentId": "6536775ca31d3c45980b028a",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7051,8 +7958,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "large": "course/en/assets/668374a079f479a9bb1cc09cdc8dea883fad3f44.png",
+      "small": "course/en/assets/668374a079f479a9bb1cc09cdc8dea883fad3f44.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -7070,11 +7977,11 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65323cbe0370d43348790467",
-    "_parentId": "65323cbc0370d43348790438",
+    "title": "Food Production and GHGs",
+    "displayTitle": "Food Production and GHGs",
+    "body": "<p>Food production is a major contributor to greenhouse gas (GHG) emissions, stemming from various stages of the supply chain. Agricultural activities, such as livestock farming and rice cultivation, release methane, while the use of synthetic fertilizers and energy-intensive practices contributes to carbon dioxide emissions. Additionally, deforestation for agricultural expansion further exacerbates the carbon footprint. From cultivation and processing to transportation and waste, the entire food production system influences GHG levels.</p><p>Therefore, sustainable food production practices and reduced food waste, are crucial for mitigating the environmental impact of food production and addressing the challenges posed by climate change.</p>",
+    "_id": "653679a3a31d3c45980b1aef",
+    "_parentId": "653679a1a31d3c45980b1ab4",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7107,13 +8014,549 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "large": "course/en/assets/861446b19c8422f9206f9f18e5b49463c54e85bc.png",
+      "small": "course/en/assets/861446b19c8422f9206f9f18e5b49463c54e85bc.png",
       "attribution": "",
       "_url": "",
       "_target": null
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 1:</strong>&nbsp;Food production is responsible for approximately one-quarter (26%) of the world's greenhouse gas emissions.</p>",
+    "_id": "653679efa31d3c45980b2312",
+    "_parentId": "653679e6a31d3c45980b21a4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:</strong>&nbsp;Which are of food production produces the most GHG emissions?</p>",
+    "_id": "65367a42a31d3c45980b25b9",
+    "_parentId": "65367a42a31d3c45980b259d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Livestock & Fisheries",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Crop Production",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Land Use",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Supply Chain",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;Which of the following statements is true?</p>",
+    "_id": "65367acfa31d3c45980b298c",
+    "_parentId": "65367acfa31d3c45980b296f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Livestock, particularly cattle, produce methane, a potent greenhouse gas. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Food production is responsible for only 5 percent of the world's greenhouse gas emissions.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Land use, particularly for livestock, accounts for 24 percent of food emissions, involving the conversion of forests and grasslands into cropland or pasture.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6537addc818c6f1b5c8d1a87",
+    "_parentId": "6537adda818c6f1b5c8d1a1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png",
+      "small": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "3 Perspectives on CCS",
+    "displayTitle": "",
+    "body": "<p><strong>Non-Governmental Organisation (BUND)</strong></p><p>\"For fossil corporations, entering a CCS economy would be very profitable. For ecosystems, health and climate, however, CCS would create incalculable risks that would span generations. Society would have to bear the consequential costs as a burden for eternity. CCS technology sets the completely wrong course. Heavy industry could continue as before instead of converting its climate-damaging production and developing sustainable products. CCS even creates additional emissions. The construction of new plants and pipelines for CCS creates long-term directional decisions that further justify and even increase the consumption of natural gas and oil. The expansion of renewable energies and an energy- and raw material-saving circular economy is thus slowed down.\"</p><p style=\"text-align:right\">Source:&nbsp;https://www.bund.net/klimawandel/ccs/ (translated from German)</p>",
+    "_id": "6537b298818c6f1b5c8d364e",
+    "_parentId": "653243410370d4334879b354",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "3 Perspectives on CCS",
+    "displayTitle": "",
+    "body": "<p><strong>Industry Actor (Saudi Aramco</strong><strong>)</strong></p><p>\"We believe carbon capture, utilization, and storage (CCUS) will play a role in global efforts to reduce greenhouse gas (GHG) emissions, while ensuring the world can continue to thrive.&nbsp;</p><p><em>How does CCUS work?</em></p><p>CCUS technologies capture CO<sub>2</sub> emissions at source or directly from the air. CO<sub>2</sub>&nbsp;emissions are then transported away and stored deep underground or turned into useful products. Capturing carbon has been used for decades to help improve the quality of natural gas, but pioneering new technologies may mean we can now potentially remove and sequester CO<sub>2 </sub>permanently. Moreover, we are exploring new ways to add value to waste CO<sub>2</sub> by turning it into marketable industrial and commercial products.\"</p><p style=\"text-align:right\">Source:&nbsp;https://www.aramco.com/en/sustainability/climate-change/managing-our-footprint/carbon-capture-rbon-capture-use-and-storage</p>",
+    "_id": "6537b2ad818c6f1b5c8d391f",
+    "_parentId": "653243410370d4334879b354",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>So, after covering three different use cases, what can we say about the importance of sustainability-related technologies? What can they do, and what can they not do?</p><p>First of all, the role of technology in driving sustainable change is undeniable. Technologies, including alternative energy sources, carbon capture and storage (CCS), and resilient food production methods, are crucial in mitigating environmental challenges. However, it's essential to recognise that technology alone cannot be the sole sustainable strategy. While it is often vital, relying solely on technological solutions oversimplifies the complex issues. here are multiple dimensions to consider, including behavioural change on individual, industry, and political levels. Politicians may favour emphasising technology's role as it offers a seemingly straightforward solution, yet a comprehensive approach involves addressing behavioural changes.</p><p>This encompasses shifts towards reduced consumption, such as the development of circular societies, where the focus lies on prolonged resource reuse. Achieving true sustainability requires a holistic perspective that combines the benefits of technology with fundamental changes in behavior across various sectors.</p>",
+    "_id": "6537be6d818c6f1b5c8dbfee",
+    "_parentId": "6537be69818c6f1b5c8dbf76",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]

@@ -29,16 +29,6 @@
     "description": "3",
     "tags": []
   },
-  "57b81375c472b48dcc5d988d58fd688d6c5d18e3.png": {
-    "title": "Logo-dark-with-text.png",
-    "description": "logo dark with text",
-    "tags": [
-      {
-        "title": "logo",
-        "_id": "64b8ec6e5690534eccd8fb2d"
-      }
-    ]
-  },
   "73942e79884ff34f699a7dca07d54e351e995450.png": {
     "title": "1.png",
     "description": "1",
@@ -292,6 +282,26 @@
   "b5c41524487fbd3168cb25583882ed27b9e8b383.png": {
     "title": "LTG - Lecture new-06.png",
     "description": "a",
+    "tags": []
+  },
+  "668374a079f479a9bb1cc09cdc8dea883fad3f44.png": {
+    "title": "Environmental-impacts-of-agriculture-v2.png",
+    "description": "food",
+    "tags": []
+  },
+  "861446b19c8422f9206f9f18e5b49463c54e85bc.png": {
+    "title": "How-much-of-GHGs-come-from-food.png",
+    "description": "ghgs food",
+    "tags": []
+  },
+  "e6b3fe6d12a56700bd4599a691e1cca0f1478a81.png": {
+    "title": "2023-FAVICON LTG.png",
+    "description": "favison ltg\r\n",
+    "tags": []
+  },
+  "6f31ece99b453feb210338411906ab2cd2c57a05.png": {
+    "title": "CCS-slide.png",
+    "description": "ccs",
     "tags": []
   }
 }

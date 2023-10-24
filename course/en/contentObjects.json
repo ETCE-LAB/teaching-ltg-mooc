@@ -282,7 +282,7 @@
     "displayTitle": "Introduction",
     "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "L07 - Technologies and Sustainability",
     "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -1112,10 +1112,10 @@
   {
     "title": "Alternative Sources of Energy",
     "displayTitle": "Alternative Sources of Energy",
-    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.</p>",
+    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.</p>",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, orbioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels. In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1762,7 +1762,7 @@
     "displayTitle": "Carbon Capture and Storage",
     "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "L07 - Technologies and Sustainability",
     "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -1781,7 +1781,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -2040,7 +2040,7 @@
     "displayTitle": "Resilient Food Production",
     "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
     "_classes": "",
-    "subtitle": "",
+    "subtitle": "L07 - Technologies and Sustainability",
     "pageBody": "",
     "instruction": "",
     "_htmlClasses": "",
@@ -2130,7 +2130,7 @@
   {
     "title": "Challenges II",
     "displayTitle": "Challenges II",
-    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will explore these challenges and how pollution and resource scarcity amplify social disparities and spark political instability.</p>",
+    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
     "_classes": "",
     "subtitle": "Environmental Pollution and Resource Scarcity",
     "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how environmental pollution amplify social disparities and spark political instability.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;15.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
@@ -2596,7 +2596,7 @@
   {
     "title": "Circular Economy",
     "displayTitle": "Circular Economy",
-    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
+    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this lecture, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p><p><strong>This is the asynchronous MOOC content for L08. You have until 09.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 20.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
