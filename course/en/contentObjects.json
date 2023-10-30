@@ -1,5 +1,191 @@
 [
   {
+    "title": "Lecture L05",
+    "displayTitle": "Lecture L05",
+    "body": "<p>In this chater, we will explore the concepts of ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>In this chater, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">29.11.2023 at 1:15 - 2:45 p.m.</span><span style=\"color:#006666\">&nbsp;</span>via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20bb",
+    "_parentId": "653f9622c0d6cf1334756276",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture L06",
+    "displayTitle": "Lecture L06",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">06.12.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "64e5c250d3bd3552943b20c5"
+    ],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "64e5c250d3bd3552943b20bd",
+    "_parentId": "653f9386c0d6cf133475356f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/b5c41524487fbd3168cb25583882ed27b9e8b383.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Lecture",
     "displayTitle": "Lecture",
     "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
@@ -462,19 +648,17 @@
     }
   },
   {
-    "title": "Lecture",
-    "displayTitle": "Lecture",
-    "body": "<p>Here you can find the lecture recording and the slides for L02.</p>",
+    "title": "Lecture L02",
+    "displayTitle": "Lecture L02",
+    "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below, you can find the lecture recording and the slides for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20b1"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -556,12 +740,12 @@
     }
   },
   {
-    "title": "Lecture",
-    "displayTitle": "Lecture",
-    "body": "",
+    "title": "Lecture L03",
+    "displayTitle": "Lecture L03",
+    "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">08.11.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -648,19 +832,17 @@
     }
   },
   {
-    "title": "Lecture",
-    "displayTitle": "Lecture",
-    "body": "",
+    "title": "Lecture L04",
+    "displayTitle": "Lecture L04",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the interplay between various stakeholders in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">22.11.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20bb"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -839,7 +1021,7 @@
     "body": "<p>Watch the&nbsp;trailer for the \"Limits to Growth - Sustainability and the Circular Economy\" course and get a first idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Watch our course trailer and get an idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p>",
+    "pageBody": "<p>Watch our course trailer and get an idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p><p>The Clausthal University&nbsp;of&nbsp;Technology&nbsp;offers&nbsp;a&nbsp;free&nbsp;online&nbsp;course&nbsp;titled&nbsp;„The Limits&nbsp;to&nbsp;Growth –&nbsp;Sustainability&nbsp;and&nbsp;the&nbsp;Circular&nbsp;Economy “. This&nbsp;course&nbsp;will&nbsp;introduce&nbsp;you&nbsp;to the circular economy, sustainability, and related concepts (biocapacity, etc.). You will learn about sustainability goals and different approaches to sustainability and gain an understanding of the basics of climate change, environmental pollution, and dwindling non-renewable resources.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1204,7 +1386,7 @@
   {
     "title": "Exercise E01",
     "displayTitle": "Exercise E01",
-    "body": "",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "Here you can find the exercise for this lecture.",
     "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
@@ -1212,9 +1394,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "30 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1296,9 +1476,9 @@
     }
   },
   {
-    "title": "Exercise E01",
-    "displayTitle": "Exercise E01",
-    "body": "",
+    "title": "Exercise E02",
+    "displayTitle": "Exercise E02",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
@@ -1388,16 +1568,16 @@
     }
   },
   {
-    "title": "Exercise",
-    "displayTitle": "Exercise",
-    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "title": "The Importance of Individual Action",
+    "displayTitle": "The Importance of Individual Action",
+    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "30 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -1572,19 +1752,385 @@
     }
   },
   {
+    "title": "Exercise E05",
+    "displayTitle": "Exercise E05",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653f950cc0d6cf133475454d",
+    "_parentId": "653f9386c0d6cf133475356f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E04",
+    "displayTitle": "Exercise E04",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653f962dc0d6cf1334756312",
+    "_parentId": "653f9622c0d6cf1334756276",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E08",
+    "displayTitle": "Exercise E08",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653f97f7c0d6cf1334758cb7",
+    "_parentId": "6527e5e781a06b1e0c9791b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E07",
+    "displayTitle": "Exercise E07",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653face7c0d6cf133476ad21",
+    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Introduction",
     "displayTitle": "Introduction",
     "body": "<p>In this chapter, you will find out what the central concept behind the course is. You will get a short overview of important terminology and the ecological problems and societal challenges that we will discuss during the course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 01.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 01.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20b7"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1850,19 +2396,109 @@
     }
   },
   {
+    "title": "Exercise E03",
+    "displayTitle": "Exercise E03",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653fa78ac0d6cf1334765b16",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Challenges I",
     "displayTitle": "Challenges I",
     "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
     "subtitle": "Climate Change",
-    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20b1"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2133,14 +2769,12 @@
     "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
     "_classes": "",
     "subtitle": "Environmental Pollution and Resource Scarcity",
-    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how environmental pollution amplify social disparities and spark political instability.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;15.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how environmental pollution amplify social disparities and spark political instability.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;15.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -2222,12 +2856,104 @@
     }
   },
   {
+    "title": "Exercise E06",
+    "displayTitle": "Exercise E06",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653f9722c0d6cf1334757261",
+    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "A History of Political (In-) Action",
     "displayTitle": "A History of Political (In-) Action",
     "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;22.11.2023 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;22.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2316,27 +3042,25 @@
   {
     "title": "Limits to Growth and Planetary Boundaries",
     "displayTitle": "Limits to Growth and Planetary Boundaries",
-    "body": "<p>In this chater, we will explore the concepts of ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chater, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;29.11.2023 at 2:15 - 3:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>In this chater, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">29.11.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
-    "_lockType": "custom",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20bb",
+    "_id": "653f9622c0d6cf1334756276",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/8322b28fcfa22d26037319c511e9077f9a6e9c78.png"
@@ -2371,9 +3095,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -2394,9 +3118,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -2413,27 +3137,25 @@
     "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;06.12.2023 at 2:15 - 3:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">06.12.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
-    "_lockType": "custom",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20bd",
+    "_id": "653f9386c0d6cf133475356f",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/b5c41524487fbd3168cb25583882ed27b9e8b383.png"
+      "src": "course/en/assets/405bc2e716292335fe291e475199ddda437c465a.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -2465,9 +3187,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -2488,9 +3210,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -2507,7 +3229,7 @@
     "body": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p><strong>This is the asynchronous MOOC content for L07. You have until the 19.12.2023 to finish working through the content and to complete the exercise.&nbsp;The exercise will be held live&nbsp;on the 13.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p><strong>This is the asynchronous MOOC content for L07. You have until the 19.12.2023 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be held live&nbsp;on the <span style=\"color:#4e7367\">13.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2599,7 +3321,7 @@
     "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this lecture, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p><p><strong>This is the asynchronous MOOC content for L08. You have until 09.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 20.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p><p><strong>This is the asynchronous MOOC content for L08. You have until 09.01.2024 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be live&nbsp;on <span style=\"color:#4e7367\">20.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2693,7 +3415,7 @@
     "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 16.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 10.01.2024 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 16.01.2024 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be live&nbsp;on <span style=\"color:#4e7367\">10.01.2024 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2787,7 +3509,7 @@
     "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 23.01.2024 to finish working through the content and to complete the exercise.&nbsp;The exercise will be live&nbsp;on 24.12.2023 at 4:00 - 5:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 23.01.2024 to finish working through the content and to complete the exercise.&nbsp;The&nbsp;Q&amp;A for the exercise will be live&nbsp;on<span style=\"color:#4e7367\"> 24.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2881,7 +3603,7 @@
     "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;31.01.2024 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;31.01.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2975,7 +3697,7 @@
     "body": "<p>In this last lecture, we will take stock of what we have learned about environmental, social, and economic sustainability during the course and what comes next.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;07.02.2024 at 2:15 - 3:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;07.02.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
