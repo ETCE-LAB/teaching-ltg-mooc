@@ -368,208 +368,6 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
-    "_id": "64e5c250d3bd3552943b21de",
-    "_parentId": "64e5c250d3bd3552943b2157",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "L01: Introduction",
-    "displayTitle": "L01: Introduction",
-    "body": "",
-    "_id": "64e5c250d3bd3552943b21e0",
-    "_parentId": "64e5c250d3bd3552943b2159",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click to watch the lecture recording.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/9927b9fd788cb3b8db0f2207c00403c3fdc4b6b9.PNG",
-      "small": "course/en/assets/9927b9fd788cb3b8db0f2207c00403c3fdc4b6b9.PNG",
-      "attribution": "",
-      "_url": "https://video.tu-clausthal.de/vorlesung/1338.html#k=2",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Slides",
-    "displayTitle": "Slides",
-    "body": "",
-    "_id": "64e5c250d3bd3552943b21e2",
-    "_parentId": "64e5c250d3bd3552943b215b",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click below to view the lecture slides.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/eecd520b6617c6d4e4fbcbf3c5532bbbdd84213b.PNG",
-      "small": "course/en/assets/7835933b5391022bd69c423ed9fdec4011d5b2d4.png",
-      "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/LTG-L01-Introduction.pdf",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Exercise E01",
-    "displayTitle": "Exercise E01",
-    "body": "<p><u><strong>Exercise 1: Defining Sustainability </strong></u><br /><br />We are interested to know what you might already know about “sustainability” and what your current<br />understanding of it is.</p><blockquote><p><strong>1. Record a short video (max. 60 seconds) in which you answer the following questions:</strong></p><ul><li>What do you understand under “sustainability”?</li><li>Does sustainability play a role in your personal life? If yes, please explain how.</li></ul><p><strong>2. Submit your result in a common video file format</strong> (e.g. mp4, avi, 3gp, mov, etc.).&nbsp;Please add your full&nbsp;name to the filename!</p></blockquote><p><strong>Note</strong>:&nbsp;If you are unable to record your answers in a video, instead write them down in a short essay<br />(max. 200 words) and submit it as a pdf file.</p><p>You can find the full task sheet here. (<a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth/Exercises\">Link</a>)</p><p>Link for Submission:<a href=\"http:// https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\">&nbsp;https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei</a></p>",
-    "_id": "64e5c250d3bd3552943b21e4",
-    "_parentId": "64e5c250d3bd3552943b215d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "left",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
@@ -5630,62 +5428,6 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "6528343181a06b1e0c9a5780",
-    "_parentId": "6528342d81a06b1e0c9a5654",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
     "_id": "65283eea81a06b1e0c9ab6f4",
     "_parentId": "65283edf81a06b1e0c9ab58e",
     "_type": "component",
@@ -8519,7 +8261,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E03",
     "displayTitle": "Exercise E03",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">22.11</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">29.11</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change (and the other challenges we have discussed)? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice (minimum 300 words).</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">22.11</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">29.11</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice (minimum 300 words).</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "653fa78ac0d6cf1334765bc5",
     "_parentId": "653fa78ac0d6cf1334765b6e",
     "_type": "component",
@@ -8567,62 +8309,6 @@
     "body": "",
     "_id": "653fa78ac0d6cf1334765bda",
     "_parentId": "653fa78ac0d6cf1334765b82",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "653fa7fac0d6cf1334765ec0",
-    "_parentId": "653fa7fac0d6cf1334765ea6",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -9887,429 +9573,6 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "hotgraphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "653fc610c0d6cf13347850bb",
-    "_parentId": "653fc610c0d6cf1334785016",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the icons to find out more.",
-    "_setCompletionOn": "allItems",
-    "_graphic": {
-      "src": "course/en/assets/ef7119cde213abd845af0838f0dc336e664ab171.png",
-      "alt": "",
-      "attribution": ""
-    },
-    "mobileBody": "",
-    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
-    "_isMobileTextBelowImage": false,
-    "_hidePagination": false,
-    "_canCycleThroughPagination": false,
-    "_isNarrativeOnMobile": true,
-    "_useNumberedPins": false,
-    "_useGraphicsAsPins": false,
-    "_isRound": false,
-    "_items": [
-      {
-        "title": "Renewable Energy Technologies",
-        "_ariaLevel": 0,
-        "body": "<p>Renewable Energy Technologies include for example:</p><ul><li>Solar panels: Convert sunlight into electricity.</li><li>Wind turbines: Generate electricity from wind energy.</li><li>Hydroelectric power: Generate electricity from flowing water.</li><li>Geothermal systems: Use heat from the Earth's core to produce energy.</li></ul>",
-        "strapline": "Renewable Energy Technologies",
-        "_imageAlignment": "left",
-        "_graphic": {
-          "src": "course/en/assets/35371828e558ad63c574f3415e1cb51493080532.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 20,
-        "_top": 1
-      },
-      {
-        "title": "Energy Storage Solutions",
-        "_ariaLevel": 0,
-        "body": "<p>Energy Storage Solutions include for example:</p><ul></ul><ul><li>Battery technology: Enables the storage of excess renewable energy for later use.</li><li>Pumped hydro storage: Stores energy by pumping water uphill and releasing it to generate electricity when needed.</li><li>Flywheel energy storage: Stores kinetic energy for rapid release.</li></ul>",
-        "strapline": "Energy Storage Solutions",
-        "_imageAlignment": "right",
-        "_graphic": {
-          "src": "course/en/assets/7af8156f7fa60f3236e4ae64cea8a8b75bc939db.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 45,
-        "_top": 0
-      },
-      {
-        "title": "Sustainable Agriculture and Food Technologies",
-        "_ariaLevel": 0,
-        "body": "<p>Sustainable Agriculture and Food Technologies include for example:</p><ul><li>Precision agriculture: Uses data and technology to optimize farming practices.</li><li>Vertical farming: Grows crops indoors using less space and resources.</li><li>Lab-grown meat: Produces animal-based products without the need for traditional livestock farming.</li></ul>",
-        "strapline": "Sustainable Agriculture and Food Technologies:",
-        "_imageAlignment": "left",
-        "_graphic": {
-          "src": "course/en/assets/9ddac0c67530960be6ec56d4656e6780ce33c4c4.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 45,
-        "_top": 85
-      },
-      {
-        "title": "Water Technologies",
-        "_ariaLevel": 0,
-        "body": "<p>Water Technologies include for example:</p><ul><li>Water purification and desalination: Provide access to clean drinking water.</li><li>Water-saving technologies: Reduce water wastage in agriculture and households.</li></ul>",
-        "strapline": "Water Technologies:",
-        "_imageAlignment": "right",
-        "_graphic": {
-          "src": "course/en/assets/50e66c872b96bee78638ad9085c567fb3f91e3a1.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 23,
-        "_top": 71
-      },
-      {
-        "title": "Waste Management and Recycling",
-        "_ariaLevel": 0,
-        "body": "<p>Waste Management and Recycling include for example:</p><ul><li>Advanced recycling technologies: Improve the recycling process for various materials.</li><li>Waste-to-energy: Converts waste into energy through incineration or other methods.</li></ul>",
-        "strapline": "Waste Management and Recycling",
-        "_imageAlignment": "right",
-        "_graphic": {
-          "src": "course/en/assets/62d85fd2388aff8d8b52c1eec7cac4d13624e5a9.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 86,
-        "_top": 50
-      },
-      {
-        "title": "Sustainable Transportation",
-        "_ariaLevel": 0,
-        "body": "<p>Sustainable Transportation includes:</p><ul><li>Public transportation systems: Promote mass transit to reduce individual car usage.</li><li>Bike-sharing and electric scooters: Encourage eco-friendly urban mobility.</li></ul>",
-        "strapline": "Sustainable Transportation",
-        "_imageAlignment": "left",
-        "_graphic": {
-          "src": "course/en/assets/c508e9e2475613af2549bded7fb8c23e51d54cbe.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 60,
-        "_top": 85
-      },
-      {
-        "title": "Carbon Capture and Storage (CCS)",
-        "_ariaLevel": 0,
-        "body": "<p>Carbon Capture and Storage (CCS) is a:</p><ul><li>Technology that captures and stores carbon emissions from industrial processes and power plants.</li></ul>",
-        "strapline": "Carbon Capture and Storage (CCS)",
-        "_imageAlignment": "right",
-        "_graphic": {
-          "src": "course/en/assets/45bfcc6347642a9f51edc5ca8d8cd7e4a5c57c2f.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 70,
-        "_top": 6
-      },
-      {
-        "title": "Green Building and Construction Technologies",
-        "_ariaLevel": 0,
-        "body": "<p>Green Building and Construction Technologies include for example:</p><ul><li>Sustainable construction materials and practices.</li><li>Energy-efficient HVAC (heating, ventilation, and air conditioning) systems.</li></ul>",
-        "strapline": "Green Building and Construction Technologies",
-        "_imageAlignment": "left",
-        "_graphic": {
-          "src": "course/en/assets/7cee0cbf7b31d8827d2cb1112dcde0866ed3cf51.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 92,
-        "_top": 18
-      },
-      {
-        "title": "Sustainable Supply Chain and Logistics",
-        "_ariaLevel": 0,
-        "body": "<p>Sustainable Supply Chain and Logistics:</p><ul><li>IoT (Internet of Things) sensors for supply chain optimization.</li><li>Eco-friendly packaging materials and practices.</li></ul>",
-        "strapline": "Sustainable Supply Chain and Logistics",
-        "_imageAlignment": "left",
-        "_graphic": {
-          "src": "course/en/assets/549c8deeb367daef75c8b4e6a506dbf1be5b3800.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 12,
-        "_top": 36
-      },
-      {
-        "title": "Environmental Monitoring and Data Analytics",
-        "_ariaLevel": 0,
-        "body": "<p>The field of Environmental Monitoring and Data Analytics includes for example:</p><ul><li>Remote sensing technologies for monitoring ecosystems and climate change.</li><li>Big data analytics for understanding and mitigating environmental challenges.</li></ul>",
-        "strapline": "Environmental Monitoring and Data Analytics:",
-        "_imageAlignment": "left",
-        "_graphic": {
-          "src": "course/en/assets/4736224e39d72f7bb07055036af9874f3f5cdc88.png",
-          "alt": "",
-          "attribution": "",
-          "_classes": ""
-        },
-        "_tooltip": {
-          "_isEnabled": false,
-          "text": "{{ariaLabel}}"
-        },
-        "_pin": {
-          "src": "",
-          "alt": ""
-        },
-        "_classes": "",
-        "_left": 5,
-        "_top": 65
-      }
-    ]
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Technologies and What They (Can) Not Do",
-    "displayTitle": "Technologies and What They (Can) Not Do",
-    "body": "",
-    "_id": "653fc610c0d6cf13347850e6",
-    "_parentId": "653fc610c0d6cf1334785028",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the play button to start the video.",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/Mu2DiBM6MJ0",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "80%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Technology Advancement as a Political Priority",
-    "displayTitle": "Technology Advancement as a Political Priority",
-    "body": "<p>In the legally binding treaty on climate change adopted by 196 parties at the UN Climate Change Conference in 2015, finance, technology, and capacity-building were highlighted as the most important areas where countries worldwide must cooperate and support each other to combat climate change.</p><p>Article 10 of the Paris Agreement focuses exclusively on technology advancement, transfer, and innovations. The treaty underscores \"the importance of technology for the implementation of&nbsp;mitigation and adaptation actions\" and the need to \"strengthen cooperative&nbsp;action on technology development and transfer\".</p><p>Even without specifics on which technologies or areas of application this policy paper aims to address, it underscores the crucial role of technological advances and the sharing of technological innovation for political actors. Simultaneously, the ambiguity of the statements and the absence of clarity on political priorities raise questions about which technologies deserve further advancement and attention. Technology advancement is costly—not just financially but also in terms of the resources used during development and production. The uncertainty regarding its field of application and efficacy poses a significant challenge.</p><p>Source:&nbsp;<a href=\"https://unfccc.int/sites/default/files/english_paris_agreement.pdf\">https://unfccc.int/sites/default/files/english_paris_agreement.pdf</a></p>",
-    "_id": "653fc610c0d6cf13347850fb",
-    "_parentId": "653fc610c0d6cf133478503a",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -10375,8 +9638,8 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Questions",
-    "displayTitle": "",
+    "title": "Knowledge Test",
+    "displayTitle": "Knowledge Test",
     "body": "<p><strong>Question 1:</strong> Which of the following statements is true?</p>",
     "_id": "653fc610c0d6cf1334785129",
     "_parentId": "653fc610c0d6cf133478505e",
@@ -10412,28 +9675,35 @@
     "ariaQuestion": "",
     "_items": [
       {
-        "text": "Sustainable-related technologies encompass a wide range of different fields of application.",
+        "text": "Circular Economies aim to optimize the use of resources, promoting practices such as recycling, reuse, and sustainable design to minimize waste.",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "The main aim of sustainablity-related technologies to produce less waste.",
+        "text": "One of the core principles of Circular Economies is to design products that have longer lifespans, reducing the need for frequent replacements and minimizing environmental impact.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Circular Economies prioritize disposable products.",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "The integration of renewable energy technologies contributes to a more sustainable and resilient energy infrastructure, reducing reliance on non-renewable resources.",
-        "_shouldBeSelected": true,
+        "text": "Circular Economies lead to increased resource depletion.",
+        "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "Sustainability-related technologies can be used to lower carbon emissions.",
+        "text": "Circular Economies promote closed-loop systems.",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -10488,108 +9758,6 @@
     }
   },
   {
-    "_component": "slider",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "<p><strong>Question 2:</strong> Based on the information in the video, how much will the&nbsp;global average temperature (compared to pre-industrial levels) rise if we continue with the current policies and trajectory?</p>",
-    "_id": "653fc610c0d6cf133478513e",
-    "_parentId": "653fc610c0d6cf1334785070",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Drag the slider to make your choice and select Submit.",
-    "ariaQuestion": "",
-    "ariaScaleName": "",
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": true,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_questionWeight": 1,
-    "_recordInteraction": true,
-    "labelStart": "",
-    "labelEnd": "°C ",
-    "_scaleStart": 0,
-    "_scaleEnd": 5,
-    "_scaleStep": 1,
-    "scaleStepPrefix": "",
-    "scaleStepSuffix": "",
-    "_correctAnswer": "",
-    "_correctRange": {
-      "_bottom": 2,
-      "_top": 3
-    },
-    "_showScaleIndicator": false,
-    "_showNumber": false,
-    "_showScale": true,
-    "_showScaleNumbers": true,
-    "_feedback": {
-      "title": "",
-      "correct": "<p>Correct!&nbsp;The global average temperature (compared to pre-industrial levels) will rise 2.5 to 2.9 °C if we continue with the current policies and trajectory.&nbsp;</p>",
-      "_incorrect": {
-        "final": "<p>Incorrect.&nbsp;The global average temperature (compared to pre-industrial levels) will rise 2.5 to 2.9 °C if we continue with the current policies and trajectory.&nbsp;</p>",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
     "_component": "mcq",
     "_classes": "",
     "_isOptional": false,
@@ -10601,11 +9769,11 @@
     "_disableAccessibilityState": false,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<p><strong>Question 3:</strong>&nbsp;Which of the following statements are true?</p>",
+    "body": "<p><strong>Question 2:</strong>&nbsp;Which of the following statements about the circular economy are true?</p>",
     "_id": "653fc610c0d6cf1334785153",
-    "_parentId": "653fc610c0d6cf1334785082",
+    "_parentId": "654a14c31179833ed839e23f",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "left",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -10636,157 +9804,21 @@
     "ariaQuestion": "",
     "_items": [
       {
-        "text": "Mitigation involves efforts to reduce or prevent the emission of greenhouse gases (GHGs) into the atmosphere, thereby minimizing the extent of global warming and its associated impacts. ",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
+        "text": "Recycling and recovering of materials is the first and most important step.",
         "_shouldBeSelected": false,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "Mitigation efforts can include actions such as transitioning to renewable energy sources, improving energy efficiency, afforestation, and implementing policies to limit emissions from various sectors like transportation and industry.",
+        "text": "Before recycling products, you should try to reuse or repair them. ",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
-        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      }
-    ],
-    "_attempts": 1,
-    "_canShowModelAnswer": true,
-    "_canShowFeedback": false,
-    "_canShowMarking": true,
-    "_shouldDisplayAttempts": false,
-    "_isRandom": true,
-    "_recordInteraction": true,
-    "_hasItemScoring": false,
-    "_questionWeight": 1,
-    "_selectable": 10,
-    "_feedback": {
-      "title": "",
-      "correct": "",
-      "_incorrect": {
-        "final": "",
-        "notFinal": ""
-      },
-      "_partlyCorrect": {
-        "final": "",
-        "notFinal": ""
-      }
-    },
-    "_buttons": {
-      "_submit": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_reset": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_hideCorrectAnswer": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "_showFeedback": {
-        "buttonText": "",
-        "ariaLabel": ""
-      },
-      "remainingAttemptsText": "",
-      "remainingAttemptText": ""
-    }
-  },
-  {
-    "_component": "mcq",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "<p><strong>Question 4:</strong>&nbsp;Which of the following statements are true?</p>",
-    "_id": "653fc610c0d6cf1334785168",
-    "_parentId": "653fc610c0d6cf1334785094",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
-    "ariaQuestion": "",
-    "_items": [
-      {
-        "text": "Adaptation involves developing strategies to cope with and respond to the unavoidable impacts of climate change.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Adaptation focuses on increasing the vulnerability of communities to climate change by ignoring infrastructure improvements.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Adaptation strategies include e.g. developing early warning systems for extreme weather events, implementing sustainable agricultural practices, and creating plans for managing water resources in the face of changing precipitation patterns.",
-        "_shouldBeSelected": true,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Encouraging deforestation is a key component of effective climate change adaptation efforts.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
-      },
-      {
-        "text": "Adaptation recognizes that some level of climate change is already underway and focuses on minimizing its negative effects on ecosystems and human societies.",
+        "text": "Even after the end of life of a product is reached, it is still useful within a circular economy.",
         "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
@@ -11355,5 +10387,2891 @@
     "_useGraphicsAsPins": false,
     "_isRound": false,
     "_items": []
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction and the Linear Economy",
+    "displayTitle": "Introduction and the Linear Economy",
+    "body": "<p>In this lecture, we will finally talk about the second part of the lecture title: the circular economy; before we try to understand this economic model, it is essential to look at the current economic model of the linear economy.&nbsp;&nbsp;</p><p>In a linear economy, the predominant mode of operation revolves around a <em>linear progression</em> of resource extraction, manufacturing, consumption, and disposal. It adheres to a linear \"take, make, dispose\" model, wherein raw materials are sourced, transformed into products, and discarded as waste.</p><p>This approach, while having fueled economic growth for decades, raises significant concerns due to its inherent unsustainability. The linear economy's reliance on finite resources leads to resource depletion, environmental degradation, and increased waste generation. The disposal of products after their useful life contributes to landfills and pollution, exacerbating the strain on ecosystems. Additionally, the linear model often neglects the potential for reusing or recycling materials, resulting in a significant loss of value and contributing to the depletion of natural resources.</p>",
+    "_id": "65439aa0fef492386847f95f",
+    "_parentId": "65439aa0fef492386847f902",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/WUblO8FKAv4",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65439aa0fef492386847f974",
+    "_parentId": "65439aa0fef492386847f914",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/78726a635365bf376aff3139cb22328bf7a09ab3.png",
+      "small": "course/en/assets/78726a635365bf376aff3139cb22328bf7a09ab3.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65439aa0fef492386847f98d",
+    "_parentId": "65439aa0fef492386847f926",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f49855dc29c6dd76c4c7cf459b7d29b42958f660.png",
+      "small": "course/en/assets/f49855dc29c6dd76c4c7cf459b7d29b42958f660.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65439aa0fef492386847f9a6",
+    "_parentId": "65439aa0fef492386847f938",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the icons to find out more.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/c15d79bfb5ebbf9db67ec34f3bf182605eebd4e7.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isMobileTextBelowImage": false,
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": []
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/corporate-greenwashing\">Corporate Greenwashing</a>\" by Laura Lofaro&nbsp;for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "65439aa0fef492386847f9bd",
+    "_parentId": "65439aa0fef492386847f94a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Introduction and the Linear Economy",
+    "displayTitle": "Introduction and the Linear Economy",
+    "body": "<p>In this lecture, we will finally talk about the second part of the lecture title: the circular economy; before we try to understand this economic model, it is essential to look at the current economic model of the linear economy.&nbsp;&nbsp;</p><p>In a linear economy, the predominant mode of operation revolves around a <em>linear progression</em> of resource extraction, manufacturing, consumption, and disposal. It adheres to a linear \"take, make, dispose\" model, wherein raw materials are sourced, transformed into products, and discarded as waste.</p><p>This approach, while having fueled economic growth for decades, raises significant concerns due to its inherent unsustainability. The linear economy's reliance on finite resources leads to resource depletion, environmental degradation, and increased waste generation. The disposal of products after their useful life contributes to landfills and pollution, exacerbating the strain on ecosystems. Additionally, the linear model often neglects the potential for reusing or recycling materials, resulting in a significant loss of value and contributing to the depletion of natural resources.</p>",
+    "_id": "65439abdfef492386848047f",
+    "_parentId": "65439abcfef4923868480422",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/WUblO8FKAv4",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65439abdfef4923868480494",
+    "_parentId": "65439abdfef4923868480434",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/fc8ccd2dd8a132aa182d1043685da819a348d6bb.png",
+      "small": "course/en/assets/fc8ccd2dd8a132aa182d1043685da819a348d6bb.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/our-future-is-circular\">Our Future is Circular</a>\" by Francesca Milani&nbsp;for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "65439abdfef49238684804dd",
+    "_parentId": "65439abdfef492386848046a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65439b1efef4923868481457",
+    "_parentId": "65439afafef4923868481223",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/3004bddca15719b9b8c62202ddd2a86ba27dfe55.png",
+      "small": "course/en/assets/3004bddca15719b9b8c62202ddd2a86ba27dfe55.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65439b7ffef49238684820a0",
+    "_parentId": "65439b2bfef492386848169a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/2b3787cfa196ba8db0ae137058ca3ef83eff8368.png",
+      "small": "course/en/assets/2b3787cfa196ba8db0ae137058ca3ef83eff8368.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6543af0efef4923868482da2",
+    "_parentId": "6543af08fef4923868482d5b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the icons to find out more.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/5303458dbbdcdb602f8bfa2a389331fbc6a2fbc4.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isMobileTextBelowImage": false,
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Biogeochemical Cycles of the Earth",
+        "_ariaLevel": 0,
+        "body": "<p>Earth operates through complex biogeochemical cycles, including water, carbon, nitrogen, oxygen, hydrogen, iron, sulfur, and phosphorus. These cycles, driven by biological and geological processes like transpiration and ocean currents, circulate and transform matter and energy, sustaining ecosystems and organisms. They crucially stabilize global weather patterns, safeguard the atmosphere, and protect the ozone layer. Unfortunately, our societal system disrupts these vital cycles, notably the carbon cycle, a major contributor to climate change, as well as water, phosphorus, and nitrogen cycles, impacting ecosystems and jeopardizing food production. Maintaining their effective circulation is imperative for life on Earth.</p>",
+        "strapline": "Biogeochemical Cycles of the Earth",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/6aba1f449147f42ebfe4252c9da75f125d97fde2.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 1,
+        "_top": 30
+      },
+      {
+        "title": "Ecosystem Cycles",
+        "_ariaLevel": 0,
+        "body": "<p>Natural ecosystems rely on cycles that support continuous life regeneration. Sunlight, initially absorbed by photosynthetic organisms, fuels the flow of energy through trophic levels. Nutrients circulate regeneratively as waste from one species becomes food for another.</p><p>These cycles offer crucial services—pollination, flood regulation, water purification, and more—essential for life and human societies. Maintaining healthy ecosystem cycles fosters socio-ecological resilience and flourishing. Unfortunately, human activities like resource over-extraction, habitat destruction, and climate change have led to a significant weakening of biodiversity and ecosystem functions.</p>",
+        "strapline": "Ecosystem cycles",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/f8f736663c7bc435b9984e4bb3832f81165a57e0.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 15,
+        "_top": 67
+      },
+      {
+        "title": "Resource Cycles of Materials and Energy",
+        "_ariaLevel": 0,
+        "body": "<p>Resources, like materials and energy, enter our economies and go through cycles. They're used, processed, and then recycled through methods like repair or reuse. When they're no longer needed, they can go back to nature, either by burning, putting in landfills, or disposing of them.</p><p>If we don't handle waste properly, it can harm our health and the environment. This happens when we don't treat waste well or when pollution exceeds safety levels.</p><p>Sometimes, natural cycles are disturbed by taking too much from renewable resources, like overfishing or using too much water. The same goes for non-renewable resources, like ores and minerals.&nbsp;</p>",
+        "strapline": "Resource cycles of materials and energy",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/7d63b26e0e942c12ddd4e79aadea66ef481b9d3a.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 70,
+        "_top": 19
+      },
+      {
+        "title": "Political Cycles of Power",
+        "_ariaLevel": 0,
+        "body": "<p>Laws and institutions decide how power works in societies, whether from the top or the bottom. They balance power between different parts of the government, like local and national levels.</p><p>Elections and democratic processes make sure power is fair. Outside of elections, power moves between the public and private sectors through things like lobbying.</p><p>Problems happen when regular people lose control to rich or powerful elites, upsetting the balance. Ways to fix this include participatory budgeting and citizen assemblies, along with policies for human rights and fair courts. These things help create fair and inclusive systems, keeping power balanced in societies.</p>",
+        "strapline": "Political Cycles of Power",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/2c46f432939d7a72e9e8f4f7cd9356e265708ab9.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 71,
+        "_top": 44
+      },
+      {
+        "title": "Economic Cycles of Wealth, Capital, and Money",
+        "_ariaLevel": 0,
+        "body": "<p>Money, wealth, and capital move around the economy, from governments to companies, NGOs, and individuals. But if too much money ends up in a few hands, it creates unfair inequalities that hurt society. The same goes for owning things like companies, land, and houses.</p><p>Some experts say that in societies where a few people own a lot, it causes problems. It leads to too much wealth in a few hands and harms the environment. Others think that private ownership always exploits people and nature. Having too much money and private property in just a few hands creates unfair resource use and risks a society's stability and its people's freedom.</p>",
+        "strapline": "Economic Cycles of Wealth, Capital, and Money",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/2cdb393ace048f854d4c073fef0def7bc99a95bd.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 51,
+        "_top": 28
+      },
+      {
+        "title": "Social Cycles of Care",
+        "_ariaLevel": 0,
+        "body": "<p>Every day, essential care cycles unfold as people share love, affection, energy, and time with their family, friends, communities, and ecosystems. These care cycles, often unseen and undervalued, are typically carried out by women, racialised individuals, ethnic minorities, and historically marginalised groups.</p><p>Despite their invisibility, care is a cornerstone of human civilisation, ensuring the health and reproduction of life. Care cycles encompass the well-being and education of children, the nourishment of humanity, the regeneration of vital ecosystems, the protection of biodiversity, and the maintenance of physical and mental health.</p><p>When these care cycles are commoditised, neglected, lack free time, or face insufficient funding for social services, safety nets, and environmental regeneration, societies can encounter major socio-ecological health and well-being crises. Additionally, care plays a vital role in societal resilience during disasters.</p>",
+        "strapline": "Social Cycles of Care",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/c96a5367ce8ba57f1b548d90a1ab435b2fb9eeae.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 25,
+        "_top": 44
+      },
+      {
+        "title": "Knowledge Cycle of Technology, Information, and Education",
+        "_ariaLevel": 0,
+        "body": "<p>Civilisations have evolved over 300.000 years, building on inventions like the wheel, the printing press, and the internet. We also rely on ideas like philosophy, music, schools, and democracy. Sharing knowledge through writing, education, travel, research, and storytelling has fueled human progress.</p><p>However, strict patent laws and privatising research can limit equal innovation access. Concentrating patents in certain places or hands can hinder the fair sharing of ideas and power.</p><p>Encouraging open-source sharing, transparent information, and accessible quality education from pre-school to university can make knowledge more accessible. Approaches like participatory action research empower marginalised people to create and share knowledge. Democratising understanding can also happen by embracing diverse perspectives and traditions, including indigenous knowledge and spiritual practices.</p>",
+        "strapline": "Knowledge Cycle of Technology, Information, and Education",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/e6a8f30de596875500229d27512b73a51b75a33b.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 44,
+        "_top": 70
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lecture Plan",
+    "displayTitle": "Lecture Plan",
+    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>08.11.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>15.11.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I – Climate Change</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>22.11.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Environmental Pollution and Resources</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>29.11.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L04 – A History of Political (In-) Action</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>06.12.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L05 – Overshoot, the Limits to Growth and Planetary Boundaries</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>13.12.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L06 – LCA <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>20.12.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Technology and Sustainability<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>10.01.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Circular Economy<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>17.01.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L09 – Circular Societies <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>24.01.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy I <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>31.01.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy II </span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>07.02.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L11 – Invited Lecture </span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>14.02.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>28.02.2024</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
+    "_id": "6548eb988d8a6b456874a026",
+    "_parentId": "6548eb958d8a6b456874a002",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a048d1179833ed837ce49",
+    "_parentId": "654a048a1179833ed837cdd8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Knowledge Test",
+    "displayTitle": "Knowledge Test",
+    "body": "<p><strong>Question 1:</strong> What are the main characteristics of a Linear Economy?</p>",
+    "_id": "654a06581179833ed837dd6a",
+    "_parentId": "654a06551179833ed837dcf2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "A linear economy generates significant waste, often in the form of pollution or discarded products, contributing to environmental degradation.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Products are often designed with a short lifespan, encouraging consumers to replace them frequently, contributing to the demand for new resources.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Resources are extracted, processed into goods, used by consumers, and then disposed of as waste.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The linear economy model encourages the development of products with extremely long lifespans, promoting durability and reducing the frequency of product replacements.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "In a linear economy, waste is not a significant issue as the disposal process is highly efficient and has no negative impact on the environment.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:&nbsp;</strong>What happens to products at the end of their life cycle in a linear economy?</p>",
+    "_id": "654a070a1179833ed837e045",
+    "_parentId": "654a06ea1179833ed837dfcd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Extensive Recycling",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Reuse and repurposing ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Landfill or incineration ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Transformation into new products ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;Why do products in a linear economy often have short lifespans?</p>",
+    "_id": "654a079c1179833ed837ec6a",
+    "_parentId": "654a07531179833ed837e2dd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "To promote durability and long-term use ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Due to a focus on circular design principles ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To drive consumer demand and sales ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Because of strict environmental regulations ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 4: </strong>What are the main challenges of the Linear economy?</p>",
+    "_id": "654a08131179833ed837efad",
+    "_parentId": "654a08011179833ed837ef35",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Waste and environmental pollution",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Resources are being wasted",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Extended product lifespans",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Minimal environmental impact",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a094b1179833ed8381cd8",
+    "_parentId": "654a09461179833ed8381c60",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/653fc610c0d6cf1334784fdb",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a0aa81179833ed8385337",
+    "_parentId": "654a0aa81179833ed8385320",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/650704eb6c7f2657647eb96b",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a0ea01179833ed8388fc7",
+    "_parentId": "654a0e9e1179833ed8388f22",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/650704ec6c7f2657647eb9a4",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a0ed11179833ed8389dfe",
+    "_parentId": "654a0ecd1179833ed8389d4b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/650704ec6c7f2657647eb9dd",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a0f001179833ed838aa1d",
+    "_parentId": "654a0efc1179833ed838a95e",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/653f9722c0d6cf1334757261",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a0f5f1179833ed838b895",
+    "_parentId": "654a0f5d1179833ed838b7ca",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/6527eba781a06b1e0c97cfb1",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a0fa41179833ed838c48f",
+    "_parentId": "654a0fa11179833ed838c3b8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/6527ef7381a06b1e0c980c36",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a10151179833ed838dae4",
+    "_parentId": "654a0ffd1179833ed838d60b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/653fa78ac0d6cf1334765b16",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a10421179833ed838e1c7",
+    "_parentId": "654a103f1179833ed838e0d8",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/6527efc781a06b1e0c98249b",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a10f21179833ed838fdfd",
+    "_parentId": "654a10ef1179833ed838fd02",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/652808ef81a06b1e0c9980cd",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a11bb1179833ed8392723",
+    "_parentId": "654a11b91179833ed8392633",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/653fc64bc0d6cf1334786a36",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a11e11179833ed8393433",
+    "_parentId": "654a11df1179833ed839335c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/653face7c0d6cf133476ad21",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a12871179833ed83956b5",
+    "_parentId": "654a12841179833ed839558a",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/65439abcfef49238684803e6",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a12a41179833ed83961c6",
+    "_parentId": "654a12a21179833ed8396120",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/653f97f7c0d6cf1334758cb7",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a12c31179833ed83969ae",
+    "_parentId": "654a12c11179833ed839686b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/653f962dc0d6cf1334756312",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Design Strategies for CEs",
+    "displayTitle": "",
+    "body": "<p>In the table below, you can find six design strategies for CEs that use different approaches to circularity. Here is a summary of each of these strategies. Think about how each of the different methods to circularity are used within the system.&nbsp;</p>",
+    "_id": "654a14aa1179833ed839de98",
+    "_parentId": "654a14951179833ed839d85f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/8edd61ac94a888749607a49703b38e8fcafb5197.png",
+      "small": "course/en/assets/8edd61ac94a888749607a49703b38e8fcafb5197.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a14c51179833ed839e340",
+    "_parentId": "654a14c31179833ed839e23f",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/8bcaf92c73631f60665cafe4d191937ee4f0e13c.png",
+      "small": "course/en/assets/8bcaf92c73631f60665cafe4d191937ee4f0e13c.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Circular Economy: An Overview",
+    "displayTitle": "Circular Economy: An Overview",
+    "body": "<p>In this video on the circular economy,&nbsp;we will explore the core concepts, definitions, and different types. Let's figure out how circular economies work and why they matter.</p>",
+    "_id": "654a14f91179833ed839e836",
+    "_parentId": "654a14f61179833ed839e6e2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/Mu2DiBM6MJ0",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "From Linear to Circular",
+    "displayTitle": "From Linear to Circular",
+    "body": "<p>In the previous part, we have seen how the linear economy operates on a take, make, dispose model, contributing to resource depletion and environmental challenges.&nbsp;</p><p>Unlike the linear model, the circular economy aims to minimize waste and make the most of resources through a regenerative approach. It focuses on closing the loop, emphasizing reuse, recycling, and sustainable practices. In essence, the circular economy is about designing products and systems that keep materials in use for as long as possible, extracting maximum value before responsibly recovering or repurposing them. What sets it apart is the shift from a linear, end-of-life disposal mindset to a circular, continuous flow of materials. Through innovative design, efficient recycling, and a holistic approach to resource management, the circular economy strives to create a more sustainable and resilient future.</p><p>In this part, we will critically dicuss the principles, definitions, and various types of circular economies, shedding light on how this model presents a promising alternative to the challenges posed by the linear approach.&nbsp;</p>",
+    "_id": "654a15be1179833ed839ed3c",
+    "_parentId": "654a15bc1179833ed839ec3b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/f253028644bdf26e9e32fc5335fd28df9156261d.png",
+      "small": "course/en/assets/f253028644bdf26e9e32fc5335fd28df9156261d.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>As you can see in the graphic above, in a linear economy the <em>producers are in-control</em> while in a circular economy, the <em>users are in-control.&nbsp;</em>This shift in control from producers to users in a circular economy signifies a fundamental change in the relationship between consumers and the products they use. In a linear economy, producers follow a traditional top-down model, dictating what products are made, their design, and their lifespan. Consumers have a passive role, primarily limited to purchasing and disposing of products.</p><p>In contrast, in a circular economy, users gain more influence and control. This shift is driven by principles such as product longevity, repairability, and the emphasis on reusing or recycling materials. Users are encouraged to make informed choices, extending the life of products through maintenance, repairs, or responsible disposal. This empowerment transforms consumers into active participants who contribute to the circular flow of materials.</p>",
+    "_id": "654a17431179833ed839fe17",
+    "_parentId": "654a173f1179833ed839fca4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Different CE Models",
+    "displayTitle": "Different CE Models",
+    "body": "<p>Not every Circular Economy is the same as another Circular Economy. Even though they may have the same goals, CEs can differ according to the various characteristics and principles that they follow.&nbsp;</p><p>Below, you can see a visualisation of the three most essential principles: (1) Construction, (2) Intensive Utilization and (3) Deceleration.&nbsp;In terms of construction, a CE emphasises the use of renewable raw materials and the creation of durable and high-performance products. In a Sharing Economy Circular Economy, the focus lies on products intentionally designed for shared use.&nbsp;Regarding resource utilisation, a CE optimises resource use by extending the lifespans of products and a reduction of product usage rates.&nbsp;In terms of deceleration, a CE encourages a slower pace of consumption by promoting the use of durable products and extending product usage periods.&nbsp;</p><p>&nbsp;</p>",
+    "_id": "654a1aff1179833ed83a1bde",
+    "_parentId": "654a1aea1179833ed83a16c2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/dceab9ca095612559cda7e9bdb646f8cf803fbbe.png",
+      "small": "course/en/assets/dceab9ca095612559cda7e9bdb646f8cf803fbbe.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "654a1fd51179833ed83a37bc",
+    "_parentId": "654a1fbf1179833ed83a3600",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the headings to find out more about each of the strategies.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Supply",
+        "body": "<p><span><span>The supply-focused Circular Economy design strategy centres around responsible resource management, particularly in the recycling of plastic and metal. This approach aligns with the core principles of the circular economy by minimising waste and optimising the utilisation of materials. An exemplary manifestation of this strategy is the production of renewable energy, where the emphasis is on sustainable practices that contribute to a circular flow of resources within the economy.</span></span></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Performance",
+        "body": "<p><span><span>The performance-oriented Circular Economy design strategy prioritises the longevity and efficiency of products, emphasising durability and repairability. This is evident in services such as Electrical Appliance Repair, where professionals extend the lifespan of smartphones and washing machines. By fostering a culture of repair and maintenance, this strategy mitigates the need for frequent replacements and aligns with circular economy principles.</span></span></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Modularity",
+        "body": "<p><span><span>Modularity is a Circular Economy design strategy that focuses on the manufacturing of products with interchangeable and upgradeable components. This approach reduces waste by allowing users to replace specific parts rather than discarding the entire item. Manufacturing modular laptops or smartphones exemplifies this strategy, offering a sustainable solution that aligns with circular principles of resource optimisation.</span></span></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Reliability",
+        "body": "<p><span><span>The reliability-driven Circular Economy strategy emphasises creating long-lasting and durable products. From enduring clothing that transcends fashion trends to robust furniture designed for extended use, this approach fosters sustainability by reducing the frequency of replacements. By prioritising reliability, this strategy contributes to a circular economy model that values longevity over disposability.</span></span></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Platforms",
+        "body": "<p><span><span>The platform-centric Circular Economy strategy leverages online marketplaces to facilitate the sale and purchase of second-hand items. This approach, exemplified by online platforms for second-hand goods and traditional flea markets, promotes the reuse of products and extends their life cycle. By creating avenues for exchanging used items, this strategy actively contributes to the circular economy by minimising waste and promoting a culture of resourceful consumption.</span></span></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": true
+  },
+  {
+    "_component": "matching",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;In the video, we talked about the Era of R and the Era of D. Which of the following strategies are part of which era?</p>",
+    "_id": "654a25561179833ed83a8449",
+    "_parentId": "653fc610c0d6cf1334785070",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose an option from each dropdown list and select Submit.",
+    "ariaQuestion": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldResetAllAnswers": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_isRandomQuestionOrder": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_allowOnlyUniqueAnswers": false,
+    "placeholder": "Please select an option",
+    "_items": [
+      {
+        "text": "De-alloy",
+        "_options": [
+          {
+            "text": "Era of R",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Era of D",
+            "_isCorrect": true,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Remanufacturing",
+        "_options": [
+          {
+            "text": "Era of R",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Era of D",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Remarketing",
+        "_options": [
+          {
+            "text": "Era of R",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Era of D",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "De-laminate",
+        "_options": [
+          {
+            "text": "Era of R",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Era of D",
+            "_isCorrect": true,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "Reusing",
+        "_options": [
+          {
+            "text": "Era of R",
+            "_isCorrect": true,
+            "_score": 0
+          },
+          {
+            "text": "Era of D",
+            "_isCorrect": false,
+            "_score": 0
+          }
+        ]
+      },
+      {
+        "text": "De-polymerise",
+        "_options": [
+          {
+            "text": "Era of R",
+            "_isCorrect": false,
+            "_score": 0
+          },
+          {
+            "text": "Era of D",
+            "_isCorrect": true,
+            "_score": 0
+          }
+        ]
+      }
+    ],
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
   }
 ]
