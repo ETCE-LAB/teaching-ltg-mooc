@@ -384,7 +384,7 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
@@ -400,12 +400,6 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -413,6 +407,12 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2123,7 +2123,7 @@
     "body": "<p>In this chapter, you will find out what the central concept behind the course is. You will get a short overview of important terminology and the ecological problems and societal challenges that we will discuss during the course.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>In this lecture, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\"> 08.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
