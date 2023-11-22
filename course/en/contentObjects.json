@@ -646,98 +646,6 @@
     }
   },
   {
-    "title": "Lecture L04",
-    "displayTitle": "Lecture L04",
-    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the interplay between various stakeholders in addressing and delaying actions to fight urgent global challenges.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">29.11.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527efc581a06b1e0c982381",
-    "_parentId": "6527e26281a06b1e0c975001",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Sustainable Everyday Practices",
     "displayTitle": "Sustainable Everyday Practices",
     "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
@@ -1095,6 +1003,190 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Political (In) Action",
+    "displayTitle": "Political (In) Action",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p>While there is a scheduled live lecture for this semester on <em>November 29, 2023, from 1:15 to 2:45 p.m. via the BBB virtual classroom platform </em>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>), focusing on the topic of \"Political (In) Action on Climate Change\" you also have the option to explore the pre-recorded content for this lecture. Although there may be some overlap in content between the videos and the live session, delving into the MOOC content in depth can further enhance your understanding of the subject.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65571f19c99d2e329c8a97ba",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Sustainable Everyday Practices",
+    "displayTitle": "Sustainable Everyday Practices",
+    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why it is crucial to embrace sustainable practices in your everyday life and&nbsp;explore the differences between individual and corporate sustainability.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65572b06c99d2e329c8b1227",
+    "_parentId": "65572a8fc99d2e329c8af0d2",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1e7a177ac4987b857279159b700a4109a5db10e7.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1842,98 +1934,6 @@
     }
   },
   {
-    "title": "Exercise E03",
-    "displayTitle": "Exercise E03",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653fa78ac0d6cf1334765b16",
-    "_parentId": "6527e26281a06b1e0c975001",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Circular Economy",
     "displayTitle": "Circular Economy",
     "body": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability.</p>",
@@ -2107,6 +2107,190 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Activism",
+    "displayTitle": "Activism",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p>While there is a scheduled live lecture for this semester on <em>November 29, 2023, from 1:15 to 2:45 p.m. via the BBB virtual classroom platform </em>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>), focusing on the topic of \"Political (In) Action on Climate Change\" you also have the option to explore the pre-recorded content for this lecture. Although there may be some overlap in content between the videos and the live session, delving into the MOOC content in depth can further enhance your understanding of the subject.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65572a03c99d2e329c8adc0a",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Food Waste and Foodsharing",
+    "displayTitle": "Food Waste and Foodsharing",
+    "body": "<p>In the following section, you will learn more about one specific sustainable practice: foodsharing. What exactly is foodsharing, how does it work and how can you share food with others or get food that others are willing to share.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Food waste has become a global predicament of alarming proportions, capturing the attention of individuals, organizations, and policymakers worldwide. Each year, a staggering amount of food is needlessly discarded, exacerbating issues of hunger, environmental degradation, and economic inefficiency. This growing crisis demands immediate attention and concerted efforts from all sectors of society to tackle the multifaceted challenges it presents.</p><p>Throughout this segment, we will take a closer look at the scale at which food is being wasted worldwide on a daily basis. We will scrutinize some of the underlying reasons as to why is food being needlessly thrown away and talk about the the far-reaching economic, environmental and social implications of food waste. Moreover, it is also important to take a look possible solutions both on the political level as well as on an individual level. By looking at foodsharing as a local and self-organized practice, we want to point out a practical pathway to saving food and living more sustainably.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65572b11c99d2e329c8b1c0f",
+    "_parentId": "65572a8fc99d2e329c8af0d2",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/00434867c728e095f7a94df21e0112b1767a7801.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -2394,16 +2578,16 @@
     }
   },
   {
-    "title": "The Importance of Individual Action",
-    "displayTitle": "The Importance of Individual Action",
-    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "title": "Lecture Recording L04",
+    "displayTitle": "Lecture Recording L04",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the interplay between various stakeholders in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">29.11.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -2412,12 +2596,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "6527efc781a06b1e0c98249b",
+    "_id": "6527efc581a06b1e0c982381",
     "_parentId": "6527e26281a06b1e0c975001",
-    "_type": "menu",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -2449,9 +2633,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -2472,9 +2656,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -3038,6 +3222,98 @@
     }
   },
   {
+    "title": "Exercise E03",
+    "displayTitle": "Exercise E03",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">22.11</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">29.11</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the additional MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice.</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\">***</p><p style=\"text-align:justify\">Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "60 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65572a8fc99d2e329c8af0d2",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Challenges II",
     "displayTitle": "Challenges II",
     "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
@@ -3048,9 +3324,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20b1"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3121,6 +3395,98 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "The Importance of Individual Action",
+    "displayTitle": "The Importance of Individual Action",
+    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6527efc781a06b1e0c98249b",
+    "_parentId": "6527e26281a06b1e0c975001",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -3229,14 +3595,12 @@
     "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;29.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p><p><strong>The lecture will be held live&nbsp;on the<span style=\"color:#4e7367\">&nbsp;29.11.2023 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).&nbsp;While there is a scheduled live lecture for this semester,&nbsp;you also have the option to explore the pre-recorded content for this lecture. Although there may be some overlap in content between the videos and the live session, delving into the MOOC content in depth can further enhance your understanding of the subject. Learn more about the topic of <em>\"Political (In) Action\"</em> and <em>\"Activism\"</em> below!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3249,7 +3613,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/6cff0c26ca02f5e3787f732878572971ecadb8b3.png"
+      "src": "course/en/assets/fd7b3e7f462c5f93a564549eb5101d1fe094cddb.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3437,7 +3801,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/405bc2e716292335fe291e475199ddda437c465a.png"
+      "src": "course/en/assets/027fb3ffc1f7c07b9cea52cb226da1152a2b1bc4.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3793,7 +4157,7 @@
     "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 23.01.2024 to finish working through the content and to complete the exercise.&nbsp;The&nbsp;Q&amp;A for the exercise will be live&nbsp;on<span style=\"color:#4e7367\"> 24.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3813,7 +4177,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/466b5a513d66f97904c8d840e02d97dbd5e39bda.png"
+      "src": "course/en/assets/d0b9efe9c1420bef646ed8437ad5be048d334cdd.png"
     },
     "_onScreen": {
       "_isEnabled": false,

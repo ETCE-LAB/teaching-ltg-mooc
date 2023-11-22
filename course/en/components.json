@@ -2861,7 +2861,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E02",
     "displayTitle": "Exercise E02",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> 22.11.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong>29.11.2023 – 1:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u>Calculate your Carbon Footprint</u></span></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span>Go to the <em>co2.myclimate.org</em> Website – <a href=\"https://co2.myclimate.org/en/footprint_calculators/new\" style=\"color:blue; text-decoration:underline\">Link</a></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Calculate your carbon footprint</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\" style=\"color:blue; text-decoration:underline\"><span style=\"color:#0044cc\">Link</span></a> – by clicking on the matching poll result.</span></span></span></span></li></ul>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> 22.11.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong>29.11.2023 – 1:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u>Calculate your Carbon Footprint</u></span></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Calculate your carbon footprint</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\" style=\"color:blue; text-decoration:underline\"><span style=\"color:#0044cc\">Link</span></a> – by clicking on the matching poll result.</span></span></span></span></li></ul>",
     "_id": "6527eba781a06b1e0c97d07d",
     "_parentId": "6527eba781a06b1e0c97d01f",
     "_type": "component",
@@ -8037,208 +8037,6 @@
     "instruction": ""
   },
   {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
-    "_id": "653fa78ac0d6cf1334765b97",
-    "_parentId": "653fa78ac0d6cf1334765b42",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Exercise Sheet",
-    "displayTitle": "Exercise Sheet",
-    "body": "",
-    "_id": "653fa78ac0d6cf1334765bac",
-    "_parentId": "653fa78ac0d6cf1334765b5c",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click below to view the exercise sheet.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
-      "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
-      "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth/Exercises",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Exercise E03",
-    "displayTitle": "Exercise E03",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">22.11</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">29.11</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice (minimum 300 words).</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
-    "_id": "653fa78ac0d6cf1334765bc5",
-    "_parentId": "653fa78ac0d6cf1334765b6e",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "left",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "653fa78ac0d6cf1334765bda",
-    "_parentId": "653fa78ac0d6cf1334765b82",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
@@ -11101,7 +10899,7 @@
     "_disableAccessibilityState": false,
     "title": "Lecture Plan",
     "displayTitle": "Lecture Plan",
-    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>08.11.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>15.11.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Environmental Pollution and Resources</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>22.11.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Climate Change</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>29.11.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L04 – A History of Political (In-) Action</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>06.12.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L05 – Overshoot, the Limits to Growth and Planetary Boundaries</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>13.12.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L06 – LCA <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>20.12.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Technology and Sustainability<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>10.01.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Circular Economy<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>17.01.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L09 – Circular Societies <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>24.01.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy I <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>31.01.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy II </span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>07.02.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L11 – Invited Lecture </span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>14.02.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>28.02.2024</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
+    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2023/24)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>08.11.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>15.11.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Environmental Pollution and Resources</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>22.11.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Climate Change</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>29.11.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L04 – A History of Political (In-) Action&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>06.12.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L05 – Overshoot, the Limits to Growth and Planetary Boundaries</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>13.12.2023</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L06 – LCA <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>20.12.2023</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Technology and Sustainability<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>10.01.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Circular Economy<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>17.01.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L09 – Circular Societies <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>24.01.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy I&nbsp;</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>31.01.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy II </span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>07.02.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L11 – Invited Lecture </span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>14.02.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>28.02.2024</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
     "_id": "6548eb988d8a6b456874a026",
     "_parentId": "6548eb958d8a6b456874a002",
     "_type": "component",
@@ -12128,62 +11926,6 @@
       "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
       "attribution": "",
       "_url": "#/id/653fa78ac0d6cf1334765b16",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "654a10421179833ed838e1c7",
-    "_parentId": "654a103f1179833ed838e0d8",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/6527efc781a06b1e0c98249b",
       "_target": "_self"
     },
     "_isScrollable": false,
@@ -13541,5 +13283,2387 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TItle",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65571f19c99d2e329c8a9905",
+    "_parentId": "65571f19c99d2e329c8a982f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png",
+      "small": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65571f19c99d2e329c8a9972",
+    "_parentId": "65571f19c99d2e329c8a9889",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/65572a03c99d2e329c8adc0a",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/consciousness\">Consciousness</a>\" by Dajana Oroz for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "65571f19c99d2e329c8a998b",
+    "_parentId": "65571f19c99d2e329c8a989b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Three Dimensions of Sustainability",
+    "displayTitle": "The Three Dimensions of Sustainability",
+    "body": "<p>Let's recap what we have learned about sustainability so far. We have defined sustainability as \"<span><span><span><span><span><span><span><span style=\"color:black\"><span><span><em>Development that meets the needs of the present without compromising the ability of future generations to meet their own needs”&nbsp;<sup><span>1</span></sup></em></span></span></span></span></span></span></span></span></span></span><span><span><span><span><span><span><span><span style=\"color:black\"><span><span><span>. Additionally, we have discussed the origin of sustainability, going as far back as the&nbsp;&nbsp;17th and 18th centuries, to understand where the notion of living sustainability comes from.</span></span></span></span></span></span></span></span></span></span></span></p><p>To further understand how this broad concept may be translated to different parts of society and our everyday life, it may be helpful to segment the idea further into three dimensions: environmental dimension, social dimension, and economic dimension<sup>2</sup>.</p><ol><li><p>The<strong> Environmental Dimension</strong>&nbsp;focuses on preserving and conserving ecosystems, biodiversity, and natural resources. It involves minimising the ecological impact of human activities, such as reducing pollution or promoting energy efficiency.</p></li><li><p>The&nbsp;<strong>Social Dimension </strong>emphasises the well-being of individuals and communities. This dimension considers social equity, justice, human rights, and community development. It aims to address social issues, promote inclusivity, and ensure that development benefits are shared fairly among different groups.</p></li><li><p>The&nbsp;<strong>Economic Dimension</strong>&nbsp;involves creating economic systems that are viable and beneficial in the long term. This includes fostering economic growth, ensuring financial stability, and promoting fair trade practices. The economic dimension of sustainability aims to balance economic prosperity with social and environmental responsibility.</p></li></ol><p>It is important to note that the relevance of each dimension in sustainability is subjective and often depends on the context and values of individuals and societies. Some may argue that economic sustainability is crucial because with financial stability, it can be easier to implement environmental and social initiatives. Others emphasise the significance of ecological sustainability, asserting that economic and social systems are ultimately unsustainable without a healthy planet.</p><p>Achieving sustainability requires a balanced approach, recognising the interconnectedness of the three dimensions. Overemphasising one at the expense of the others may lead to unintended consequences. For example, focusing solely on economic growth without considering environmental and social impacts can result in resource depletion and social inequality.</p><p><u>Sources</u><br /><sup>1</sup>&nbsp;Report of the World Commission on Environment and Development: Our Common Future (1987) – http://www.un-documents.net/our-common-future.pdf<br /><sup>2</sup>&nbsp;Purvis, B., Mao, Y. &amp; Robinson, D. Three pillars of sustainability: in search of conceptual origins. <em>Sustain Sci</em> <strong>14</strong>, 681–695 (2019). https://doi.org/10.1007/s11625-018-0627-5</p>",
+    "_id": "655720e2c99d2e329c8aac42",
+    "_parentId": "65571f19c99d2e329c8a980b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/9d821af000007fee99dd6bb67b662ac96ccc1421.png",
+      "small": "course/en/assets/9d821af000007fee99dd6bb67b662ac96ccc1421.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Sustainable Development Goals (SDGs)",
+    "displayTitle": "Sustainable Development Goals (SDGs)",
+    "body": "<p>The Sustainable Development Goals (SDGs) are 17 global goals adopted by the United Nations in 2015 as part of the 2030 Agenda for Sustainable Development. These goals serve as a universal call to action to end poverty, protect the planet, and ensure prosperity for all. They argue that the connection between the dimensions of sustainability and the SDGs is integral to understanding and addressing the complex challenges our world faces. Here are some examples of how the different dimensions are essential to the SDGs:</p><ol><li><p><strong>Environmental Dimension:</strong> The environmental dimension of sustainability aligns closely with SDGs such as Goal 13 (Climate Action), Goal 14 (Life Below Water), and Goal 15 (Life on Land). These goals address issues like climate change, marine conservation, and terrestrial ecosystem preservation, highlighting the importance of environmental sustainability in achieving broader development objectives.</p></li><li><p><strong>Social Dimension:</strong> Goals such as Goal 1 (No Poverty), Goal 3 (Good Health and Well-being), Goal 4 (Quality Education), and Goal 5 (Gender Equality) emphasise the social dimension of sustainability. Ensuring access to education and healthcare and promoting gender equality are vital to fostering inclusive and sustainable societies.</p></li><li><p><strong>Economic Dimension:</strong> Economic sustainability is intertwined with goals like Goal 8 (Decent Work and Economic Growth) and Goal 9 (Industry, Innovation, and Infrastructure). These goals aim to promote sustainable economic development, job creation, and infrastructure that supports long-term prosperity.</p></li></ol><p>The history of the SDGs is rooted in the Millennium Development Goals (MDGs), a set of 8 goals established in 2000. The MDGs focused primarily on poverty reduction and essential human development, laying the groundwork for the SDGs' broader and more integrated approach.</p><p>In the video, we will further go into what the SDGs are and what challenges are connected with them.&nbsp;</p>",
+    "_id": "655724d3c99d2e329c8aca93",
+    "_parentId": "65571f19c99d2e329c8a981d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/zqYhe7iNU60",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Activism",
+    "displayTitle": "Activism",
+    "body": "<p>In this video, we will take a closer look at the climate movement in Germany. We will look at different organisations: We will dicusss <em>Fridays for Future </em>who is known for mobilising students and young individuals through weekly strikes, and <em>Extinction Rebellion</em>, which employs disruptive yet non-violent civil disobedience tactics to demand a climate emergency declaration and citizens' assemblies. Lastly, we will take a look at the <em>Last Generation </em>movement underscores the urgency of addressing climate change as a matter of intergenerational justice.</p>",
+    "_id": "65572a03c99d2e329c8adce4",
+    "_parentId": "65572a03c99d2e329c8adc5c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/ZJxsWkFOspU",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TItle",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65572a03c99d2e329c8adcf9",
+    "_parentId": "65572a03c99d2e329c8adc6e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png",
+      "small": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65572a03c99d2e329c8add12",
+    "_parentId": "65572a03c99d2e329c8adc80",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/65572a8fc99d2e329c8af0d2",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/hand-in-hand\">Hand in Hand</a>\" by Alexandra Koleva used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "65572a03c99d2e329c8add55",
+    "_parentId": "65572a03c99d2e329c8adcb6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Endnotes",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "65572b07c99d2e329c8b1321",
+    "_parentId": "65572b06c99d2e329c8b1272",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Examples of Sustainable Everyday Practices",
+    "displayTitle": "Examples of Sustainable Everyday Practices",
+    "body": "<p>Sustainable everyday practices are the key to building a greener and more sustainable future. By adopting energy conservation methods, reducing (food) waste, preserving water, choosing eco-friendly transportation, and practicing ethical consumption, we can make a significant positive impact on the environment. These practices are not limited to a select few but can be adopted by individuals from all walks of life.</p>",
+    "_id": "65572b07c99d2e329c8b1336",
+    "_parentId": "65572b06c99d2e329c8b1284",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>By minimizing energy consumption in private home and at the workplace, the overall impact on the planet can be reduced.</p><p>This can be archieved through simple actions such as turning off lights when not in use,&nbsp; utilizing natural light and ventilation, opting for energy-efficient appliances, and insulating buildings for better energy retention.</p><p>Additionally, embracing renewable energy sources like solar power can further reduce our reliance on fossil fuels.</p>",
+        "_graphic": {
+          "src": "course/en/assets/73942e79884ff34f699a7dca07d54e351e995450.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Energy Conservation"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>Sustainable practices involve making conscious choices about what we consume.&nbsp; Supporting local and sustainable businesses, opting for organic and fair-trade products, and reducing meat consumption can significantly reduce the environmental impact of our dietary choices.&nbsp;</p><p>Additionally, embracing a circular economy by repairing and repurposing items, instead of constantly buying new, helps to reduce resource extraction and waste generation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1906c3bed900159b8fd294cdd94ae38a2078b9bd.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Ethical Consumption"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>Sustainable everyday practices extend to transportation choices. By reducing reliance on private vehicles and embracing eco-friendly alternatives, such as cycling, walking, carpooling, or using public transportation, we can minimize carbon emissions and alleviate traffic congestion.</p><p>Furthermore, the adoption of electric vehicles or hybrid cars promotes a cleaner and greener mode of transportation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/02c3f5b8b4fae1cf612dd8a625bedad7267d6f2e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Eco-Friendly Transportation"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>To preserve this vital resource, it is important to consume water consciously. Adopting measures like fixing leaky faucets and pipes, installing water-saving devices such as low-flow showerheads, and practicing responsible irrigation techniques in the gardens are all important building blocks for that.</p><p>Capturing rainwater for household use and landscaping can also contribute to water conservation efforts.</p>",
+        "_graphic": {
+          "src": "course/en/assets/36901b8967ac9c4ca279322dcd637918b199f9eb.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Water Preservation"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>The concept of \"reduce, reuse, and recycle\" lies at the heart of sustainable consumption behaviour. By reducing overall consumption, reusing items, and recycling materials, we can significantly minimize waste generation and reduce the strain on landfills. This involves using reusable bags, bottles, and containers, composting organic waste, and opting for products with minimal packaging.</p><p>Additionally, proper waste segregation and responsible disposal are also crucial aspects of waste reduction.</p>",
+        "_graphic": {
+          "src": "course/en/assets/198fdff3b2c8943127c55470319ddd212d8a4efe.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Reducing (Food) Waste"
+      }
+    ]
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65572b07c99d2e329c8b1355",
+    "_parentId": "65572b06c99d2e329c8b129e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Reasons for Incorporating Sustainable Practices into your Everyday Life",
+    "displayTitle": "Reasons for Incorporating Sustainable Practices into your Everyday Life",
+    "body": "<p>Acting sustainably in your everyday life is not only important for the health of our planet but also for your own well-being and the well-being of future generations. Here are some reasons why it is important to incorporate some of these practices into your everyday life:</p><ul><li><p><strong>Environmental Stewardship</strong>: By acting sustainably, you become an active participant in preserving and protecting the environment. Our planet is facing significant challenges such as climate change, deforestation, habitat destruction, and pollution. Embracing sustainable practices helps to mitigate these issues and ensures the preservation of biodiversity and natural resources.</p></li><li><p><strong>Personal Health</strong>: Sustainable practices often promote a healthier lifestyle. For instance, opting for organic and locally sourced food reduces exposure to harmful chemicals and supports sustainable farming practices. Walking, biking, or using public transportation instead of relying solely on cars not only reduces air pollution but also promotes physical activity, leading to improved fitness and well-being.</p></li><li><p><strong>Resource Conservation</strong>: Acting sustainably helps conserve valuable resources such as water, energy, and materials. By reducing consumption and implementing efficient practices, you contribute to the responsible management of resources. This not only helps to address resource scarcity but also reduces the strain on ecosystems and minimizes waste generation.</p></li><li><p><strong>Future Generations</strong>: Sustainable practices are essential for the well-being of future generations. By acting sustainably today, you are helping to create a world where resources are preserved, ecosystems are thriving, and the quality of life is enhanced for generations to come. It is our responsibility to leave behind a planet that is habitable and sustainable for future inhabitants.</p></li><li><p><strong>Global Impact</strong>: Your individual actions, when combined with the efforts of others, have the power to drive systemic change. By acting sustainably in your everyday life, you inspire and influence those around you. Your choices can spark conversations, raise awareness, and create a ripple effect of positive change in your community and beyond.</p></li></ul><p>In conclusion, acting sustainably in your everyday life is crucial for the health of the planet, your own well-being, and the well-being of future generations. By embracing sustainable practices, you contribute to environmental stewardship, conserve resources, and make a positive impact on a global scale.</p>",
+    "_id": "65572b07c99d2e329c8b136e",
+    "_parentId": "65572b06c99d2e329c8b12b2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Difference Between Individual and Corporate Sustainability",
+    "displayTitle": "The Difference Between Individual and Corporate Sustainability",
+    "body": "<p>Corporate sustainable behavior and individual sustainable behavior differ in their scope, scale, and the level of impact they can have on sustainability efforts. Individual sustainable behavior focuses on personal choices and actions, while corporate sustainable behavior involves the efforts and responsibilities of organizations. While both are important, corporate actions have a larger scale, influence, and potential for systemic change. Individuals play a crucial role as advocates and consumers, driving demand for sustainability, and inspiring change in their personal spheres. Ultimately, a collective effort from both individuals and corporations is necessary to address the global sustainability challenges we face.</p>",
+    "_id": "65572b07c99d2e329c8b1383",
+    "_parentId": "65572b06c99d2e329c8b12c4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Scope and Scale",
+        "body": "<p>Individual sustainable behavior typically refers to the choices and actions taken by individuals in their personal lives. This may include practices such as energy conservation at home, waste reduction, responsible consumption, and eco-friendly transportation choices.&nbsp;Individual actions, although important, generally have a relatively smaller scale and impact compared to corporate actions.</p><p>On the other hand, corporate sustainable behavior encompasses the practices and actions adopted by organizations and businesses. This can include initiatives such as implementing energy-efficient technologies, reducing carbon emissions, adopting sustainable supply chain practices, investing in renewable energy, and implementing corporate social responsibility&nbsp; programs. Corporate actions have a larger scope and scale, as they impact not only the organization itself but also its employees, suppliers, customers, and the wider community.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Influence and Responsibility",
+        "body": "<p>Individuals have the power to influence sustainability through their choices and behaviors. By making conscious decisions in their personal lives, individuals can drive demand for sustainable products and services, support environmentally responsible businesses, and advocate for sustainable practices in their communities. While individuals have a responsibility to act sustainably, their influence is more indirect and limited to their personal sphere.</p><p>Corporations, on the other hand, have a greater influence and responsibility due to their significant economic and social impact. They have the ability to drive change at a larger scale by integrating sustainability into their core business practices. By implementing sustainable policies, investing in green technologies, and incorporating sustainable principles throughout their operations, corporations can make substantial contributions to addressing environmental and social challenges.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Causing Systemic Change",
+        "body": "<p>Individual sustainable behavior is vital as it sets an example, creates awareness, and inspires others to adopt sustainable practices. However, individual actions alone may not be sufficient to drive systemic change and address complex sustainability issues. While individual efforts can collectively make a difference, systemic change often requires collaboration, policy changes, and industry-wide transformations.</p><p>Corporate sustainable behavior has the potential to drive systemic change as corporations can influence supply chains, production methods, and consumer behavior on a larger scale. When corporations commit to sustainability and prioritize it within their operations, it can lead to significant shifts in market trends, industry standards, and policy frameworks.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accountability and Reporting",
+        "body": "<p>Individuals typically have limited reporting and accountability requirements for their sustainable behavior. While personal sustainability efforts are valuable, they often rely on personal motivation and accountability.</p><p>In contrast, corporations are subject to increased scrutiny and accountability for their sustainable behavior. Many organizations now publish sustainability reports, adhere to sustainability frameworks such as the Global Reporting Initiative (GRI) or the Sustainability Accounting Standards Board (SASB), and engage in third-party audits to ensure transparency and credibility in their sustainability efforts.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Questions",
+    "displayTitle": "Questions",
+    "body": "<p><strong>Question 1:</strong> By implementing some of these sustainable practices into your everyday life, you can…</p>",
+    "_id": "65572b07c99d2e329c8b1398",
+    "_parentId": "65572b07c99d2e329c8b12d6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "… improve your own well-being.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... preserve natural resources.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… increase global resource scarcity.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… influence the behavior of the people around you. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2</strong>: Which of the following are effective ways to save energy at home?</p>",
+    "_id": "65572b07c99d2e329c8b13ad",
+    "_parentId": "65572b07c99d2e329c8b12e8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Keeping lights and electronics on when not in use",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Using energy-efficient appliances and light bulbs",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Insulating windows and doors to prevent drafts ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Taking longer showers to maximize water heating efficiency",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong> Name three specific actions that you could take to make your everyday life more sustainable.&nbsp;</p>",
+    "_id": "65572b07c99d2e329c8b13c2",
+    "_parentId": "65572b07c99d2e329c8b12fa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Input your answer and select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65572b07c99d2e329c8b13d7",
+    "_parentId": "65572b07c99d2e329c8b130c",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/652808ef81a06b1e0c9980cd",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Endnotes",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "_id": "65572b12c99d2e329c8b1d14",
+    "_parentId": "65572b11c99d2e329c8b1c5b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65572b12c99d2e329c8b1d29",
+    "_parentId": "65572b11c99d2e329c8b1c6d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Global Food Insecurity and World Hunger",
+    "displayTitle": "Global Food Insecurity and World Hunger",
+    "body": "<p>Before we start to get into the issue of food waste, it might be interesting to take a step back and look at another issue that hightlights the scope and effects of wasting food even more: world hunger and food insecurity.&nbsp;&nbsp;</p><p>Food insecurity and hunger remain pervasive global challenges that continue to afflict millions of individuals and communities worldwide. Despite remarkable advancements in agriculture and food production, a significant portion of the world's population continues to suffer from inadequate access to food. In 2022, a UN report on&nbsp;\"The State of Food Security and Nutrition in the World\" reported that in 2021 as many as<strong>&nbsp;828 million</strong>&nbsp;people were affected by hunger, a rise of <strong>46 million</strong>&nbsp;people from a year earlier and <strong>150 million</strong> more than in 2019<sup>1</sup>. The consequences of this ongoing crisis are far-reaching and extend beyond immediate health concerns. Hunger and malnutrition impair physical and cognitive development, compromise immune systems, hinder educational attainment, and perpetuate cycles of poverty and social inequality.</p><p>Food insecurity and hunger are influenced by a multitude of complex factors. Poverty, conflict, climate change, inadequate infrastructure, and unequal distribution of resources all contribute to the persistence of these challenges. In rural and marginalized communities, limited access to fertile land, clean water, and productive farming techniques further exacerbate the problem, making it difficult for individuals and families to meet their basic dietary needs.</p><p>Addressing food insecurity and hunger requires a comprehensive and multi-faceted approach. It involves not only increasing food production but also improving access to nutritious food, promoting sustainable agricultural practices, enhancing rural infrastructure, and fostering social safety nets.&nbsp;Even though efforts are underway to combat food insecurity and hunger globally. Initiatives such as the <em>United Nations' Sustainable Development Goals</em> that we talked about before in this course aims to achieve \"Zero Hunger\" as one of the most important targets for a sustainable future<sup>2</sup>.</p><p>With this information in mind, it is crucial to discuss&nbsp;food waste alongside worldwide hunger and fodd insecurity&nbsp; because it enables us to address the inefficiencies and inequities in our food systems. By reducing waste, optimizing resource utilization, and fostering responsible consumption, we can contribute to the eradication of hunger and malnutrition, while promoting sustainability and ensuring a more nourished world for all.</p><p>___________</p><p>1&nbsp;FAO, IFAD, UNICEF, WFP and WHO. 2022. <em>The State of Food Security and Nutrition in the World 2022. Repurposing food and agricultural policies to make healthy diets more affordable</em>. Rome, FAO.&nbsp;https://www.fao.org/documents/card/en/c/cc0639en.</p><p>2 UN. The 17 Sustainable Development Goals. https://sdgs.un.org/goals.</p>",
+    "_id": "65572b12c99d2e329c8b1d42",
+    "_parentId": "65572b11c99d2e329c8b1c81",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Food Waste: The Problem",
+    "displayTitle": "Food Waste: The Problem",
+    "body": "<p>For this course segment, we have a special guest that will discuss the problem of food waste and possible solutions together with Benjamin.&nbsp;</p>",
+    "_id": "65572b12c99d2e329c8b1d57",
+    "_parentId": "65572b11c99d2e329c8b1c93",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=nrX1bZJCVA4",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "The Importance of Talking about Food Waste",
+    "displayTitle": "The Importance of Talking about Food Waste",
+    "body": "<p>This first introductory video gave you an overview of what food waste is, what the scope of the problem is and what some of the causes of food waste, especially in the retail sector are.&nbsp;Before we move on to possible solutions to the food waste problems, here are several reasons why focusing on food waste is essential especially in the context of global hunger and malnutrition.</p>",
+    "_id": "65572b12c99d2e329c8b1d6c",
+    "_parentId": "65572b11c99d2e329c8b1ca5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Addressing Inequitable Distribution",
+        "body": "<p>Food waste highlights the unequal distribution of food worldwide. While some regions struggle with excessive waste, others suffer from inadequate access to nutritious food. By reducing waste and improving distribution systems, we can work towards a more equitable distribution of food resources and alleviate hunger in underserved communities.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increased Food Availability",
+        "body": "<p>By minimizing food waste, we can increase the availability of food for vulnerable populations. Instead of discarding edible food, it can be redirected to those who are hungry, thereby alleviating immediate food shortages and reducing the burden of hunger and malnutrition.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Resource Optimization",
+        "body": "<p>Food waste represents a significant loss of valuable resources, including water, energy, and agricultural inputs. By reducing food waste, we can optimize resource utilization and ensure that the limited resources available are efficiently allocated to nourish those in need.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economic Efficiency",
+        "body": "<p>Food waste has significant economic implications. It represents a loss of investment in production, processing, and transportation. By minimizing waste, economies can unlock substantial cost savings and redirect those resources towards improving food security and nutrition programs, thus addressing the root causes of hunger.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Environmental Impact",
+        "body": "<p>Food waste contributes to environmental degradation, including greenhouse gas emissions and resource depletion. By tackling food waste, we can mitigate the environmental consequences associated with food production, contributing to a more sustainable and resilient food system for future generations.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Behavioral Change and Awareness",
+        "body": "<p>Discussions around food waste foster greater awareness and encourage individuals, businesses, and policymakers to take action. Raising awareness about the issue helps to shift attitudes and behaviors towards responsible consumption and more sustainable practices, both at the individual and systemic levels.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Food Waste: Possible Solutions  ",
+    "displayTitle": "Food Waste: Possible Solutions  ",
+    "body": "",
+    "_id": "65572b12c99d2e329c8b1d81",
+    "_parentId": "65572b11c99d2e329c8b1cb7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=D9CMs24CQY8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Foodsharing: How to get Started",
+    "displayTitle": "Foodsharing: How to get Started",
+    "body": "<p>To sum it up, food sharing is a sustainable everyday practice that holds great potential for reducing food waste and fostering a more environmentally conscious society.&nbsp;In the video, we have introduced you to the concept of foodsharing and <a href=\"http://foodsharing.de\">foodsharing.de</a> as a plattform to share food with others and prevent food waste.&nbsp;</p><p>If you are living in Clausthal-Zellerfeld, and want to be part of the local foodsharing network, you can get in touch with Annika and the rest of the community by writing to them here&nbsp;<em>clausthal-zellerfeld(at)foodsharing.network</em>. If you are living somewhere else in Germany, you can check out <a href=\"https://foodsharing.de/?page=content&amp;sub=communitiesGermany\">this list</a> to find out whether your city has its own foodsharing community!</p>",
+    "_id": "65572b12c99d2e329c8b1d96",
+    "_parentId": "65572b11c99d2e329c8b1cc9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Exercise: Food Waste and Food Sharing",
+    "displayTitle": "Exercise: Food Waste and Food Sharing",
+    "body": "<p><strong>Question 1: </strong>By becoming a foodsharer, you can...</p>",
+    "_id": "65572b12c99d2e329c8b1dab",
+    "_parentId": "65572b11c99d2e329c8b1cdb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "... reduce food waste.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... encourage food education and awareness.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… get free food from every retail store in your neighbourhood.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… promote a more sustainable consumption behaviour.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2</strong>: Where is the most amount of food being thrown away?</p>",
+    "_id": "65572b12c99d2e329c8b1dc0",
+    "_parentId": "65572b11c99d2e329c8b1ced",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Private Housholds",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Retail",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Out-of-Home-Consumption",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Processing and Manufacturing",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;About 52% of food waste in Germany is being produced in private households.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3</strong>: What is the meaning of the best-before date (in German: <em>Mindesthaltbarkeitsdatum</em>)?</p>",
+    "_id": "65572b12c99d2e329c8b1dd5",
+    "_parentId": "65572b11c99d2e329c8b1cff",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Never eat food after the best before date, even if it looks and smells normal, as it could make you very ill.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "After the best before date listed on a product, the food will be safe to eat but may not be at its best. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "A Short History of Political (In) Action on Climate Change",
+    "displayTitle": "A Short History of Political (In) Action on Climate Change",
+    "body": "<p>In this video, we will discuss an (incomplete) timeline of political actions taken to combat climate change. We will go into depth about the policies that were discussed and critically discuss the impact of these actions.&nbsp;From early recognition of environmental concerns to the formation of international agreements, we'll trace the steps taken—or sometimes not taken—by political leaders in the face of one of the most pressing challenges of our time.</p>",
+    "_id": "65572bb5c99d2e329c8b3df7",
+    "_parentId": "655725f1c99d2e329c8acc9f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/0H0FjZVodEA",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Environmental Activism",
+    "displayTitle": "Environmental Activism",
+    "body": "<p>Environmental activism is a social and political movement that advocates for the protection and preservation of the environment and natural resources. Environmental activists work towards raising awareness, influencing policies, and inspiring action to address environmental issues and promote sustainable practices.</p><p>Environmental activism covers a broad range of topics as activists work to address various issues affecting the planet. Some prominent environmental topics that often attract activism include:</p>",
+    "_id": "65572db6c99d2e329c8b567c",
+    "_parentId": "65572a03c99d2e329c8adc4a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the next and back arrows to find out more.",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": false,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "1970 - First Earth Day ",
+        "_ariaLevel": 0,
+        "body": "<p><span><span><span>The first Earth Day, celebrated on April 22, 1970, marked a significant turning point in environmental activism. Millions of people participated in events and protests across the United States, highlighting environmental issues and advocating for environmental protection.</span></span></span></p><p><span><span><span><small>Image Source:&nbsp;</span></span></span>The unofficial Earth Day Flag created by John McConnell includes The Blue Marble photograph taken by the crew of Apollo 17. <a href=\"https://commons.wikimedia.org/wiki/File:Earth_Day_Flag.png.\">Link</a></small></p>",
+        "_graphic": {
+          "src": "course/en/assets/71e747a36df2aedc0fa7e85980c0a023bdd2559a.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Earth Day"
+      },
+      {
+        "title": "Biodiversity ",
+        "_ariaLevel": 0,
+        "body": "<p>Efforts to protect and preserve biodiversity involve activism against deforestation, habitat destruction, and the illegal wildlife trade. Activists work to safeguard endangered species and promote conservation measures.</p><p><small>Image Source:&nbsp;By Sasata - Own work, CC BY-SA 3.0, <a href=\"https://commons.wikimedia.org/w/index.php?curid=5370799 \">Link</a></small></p>",
+        "_graphic": {
+          "src": "course/en/assets/1bd63d4f152d1c3bb04b9539636fe3862b5f2ec7.JPG",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Greenpeace"
+      },
+      {
+        "title": "Ocean Conservation",
+        "_ariaLevel": 0,
+        "body": "<p>Efforts to protect the oceans involve activism against overfishing, marine pollution, and the destruction of coral reefs. Activists work to establish marine protected areas and promote sustainable fishing practices.</p><p><small>Image Source:&nbsp;By Rozpravka - Own work, CC BY-SA 3.0,&nbsp;<a href=\"https://commons.wikimedia.org/w/index.php?curid=1998334\">Link</a></small></p>",
+        "_graphic": {
+          "src": "course/en/assets/c5f0e03459030f3ad7e0c1605a49ee2ed6fa8d37.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Ocean"
+      },
+      {
+        "title": "Anti-nuclear movement",
+        "_ariaLevel": 0,
+        "body": "<p>The anti-nuclear movement emerged as a response to heightened concerns about the proliferation of nuclear weapons and the potential dangers of nuclear power. Large-scale protests brought together a diverse coalition of individuals advocating for peace, environmental safety, and the prevention of nuclear catastrophe.</p><p><small>Image Source:&nbsp;unknown, National Archives and Records Administration (NARA), Public domain, via Wikimedia Commons <a href=\"https://commons.wikimedia.org/wiki/File:Anti-nuke_rally_in_Harrisburg_USA.jpg\">Link</a></small></p>",
+        "_graphic": {
+          "src": "course/en/assets/d7e0f0cc96ef2f2d7178d4187924d165ddc496ee.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Anti-Nuclear"
+      },
+      {
+        "title": "Climate Movement",
+        "_ariaLevel": 0,
+        "body": "<p>Activists focus on raising awareness about climate change, advocating for policies to reduce greenhouse gas emissions, and promoting sustainable practices to mitigate the impacts of global warming.</p><small><p>Image Source:&nbsp;By Leonhard Lenz - Own work, CC0, <a href=\"https://commons.wikimedia.org/w/index.php?curid=64006570\">Link</a></small></p>",
+        "_graphic": {
+          "src": "course/en/assets/297be216db10d37789fcffaea55c3b8566e8324d.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Climate Change"
+      }
+    ]
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65572eacc99d2e329c8b5982",
+    "_parentId": "65572ea9c99d2e329c8b590b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Watch the videos that were mentioned in the video here!",
+        "body": "<p><span><span><span style=\"color:black\"><span><span><span>Beyond just protesting (Lars Werner):&nbsp;<a href=\"http:// https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-qBK_1Ju_6A\">Link</a></span></span></span></span></span></span></p><p><span><span><span style=\"color:black\"><span><span><span>Olaf Scholz (Chancellor Germany) and Last Generation:&nbsp;</span></span></span></span></span></span><a href=\"https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq0KpnFzFQgc\">Link</a></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Additional Resources",
+        "body": "<p style=\"margin-left:20px; margin-top:5px; text-align:left; text-indent:-0.2in\"><span><span><span><span><span><span><span><span style=\"color:black\"><span><span><span>Podcast Episode: How to Save a Planet (2021) – </span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span><em>We Go Inside the COP26 Climate Talks</em></span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span> – </span></span></span></span></span></span><u><span><span><span style=\"color:blue\"><span><span><span><a href=\"https://gimletmedia.com/shows/howtosaveaplanet/5whvgxa\">Link</a></span></span></span></span></span></span></u></span></span></span></span></span></p><p style=\"margin-left:20px; margin-top:5px; text-align:left; text-indent:-0.2in\"><span><span><span><span><span><span><span><span style=\"color:black\"><span><span><span>Greta Thunberg mocks world leaders in 'blah, blah, blah' speech | BBC News (2021) – </span></span></span></span></span></span><u><span><span><span style=\"color:blue\"><span><span><span><a href=\"https://www.youtube.com/watch?v=ZwD1kG4PI0w\">Link</a></span></span></span></span></span></span></u></span></span></span></span></span></p><p style=\"margin-left:20px; margin-top:5px; text-align:left; text-indent:-0.2in\"><span><span><span><span><span><span><span><span style=\"color:black\"><span><span><span>Rutger</span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span> Bregman tells Davos to talk about tax: 'This is not rocket science' | Guardian News (2019) – </span></span></span></span></span></span><u><span><span><span style=\"color:blue\"><span><span><span><a href=\"https://www.youtube.com/watch?v=P8ijiLqfXP0\">Link</a></span></span></span></span></span></span></u></span></span></span></span></span></p><p style=\"margin-left:20px; margin-top:5px; text-align:left; text-indent:-0.2in\"><span><span><span><span><span><span><span><span style=\"color:black\"><span><span><span>IPCC (2022) – </span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span><em>About the IPCC</em></span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span> – </span></span></span></span></span></span><u><span><span><span style=\"color:blue\"><span><span><span><a href=\"https://www.ipcc.ch/about/\">Link</a></span></span></span></span></span></span></u> </span></span></span></span></span></p><p><span><span><span style=\"color:black\"><span><span><span>Richard Black, BBC (2013) – </span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span><em>A brief history of climate change</em></span></span></span></span></span></span><span><span><span style=\"color:black\"><span><span><span> – </span></span></span></span></span></span><u><span><span><span style=\"color:blue\"><span><span><span><a href=\"https://www.bbc.com/news/science-environment-15874560\">Link</a></span></span></span></span></span></span></u></p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "National Climate Action",
+    "displayTitle": "National Climate Action",
+    "body": "<p>Climate change has become a buzzword in recent times, and while it's encouraging to see increased awareness, understanding what policymakers are doing on the ground is crucial. Governments around the world are adopting various strategies to address climate change. While the discourse on climate change has reached a new height, a more critical examination of policymakers' actions reveals a landscape marred by insufficient measures and a lack of decisive action. Despite the urgency of the climate crisis, the gap between rhetoric and reality persists in policymaking.</p><p>There are some tools available to assess policymakers' actions critically. One is the annual Climate Change Performance Index (CCPI). It is an independent monitoring tool dedicated to evaluating the climate protection efforts of 59 countries and the European Union. This index sparks crucial public and political discussions within the assessed nations and contributes to the transparency of international climate politics. By evaluating and comparing the climate protection performance of countries, the CCPI facilitates a comprehensive understanding of their efforts and progress. The evaluation focuses on four key categories: GHG Emissions, Renewable Energy, Energy Use, and Climate Policy, providing a thorough analysis of the nations responsible for 92% of global greenhouse gas emissions.</p><p>Read their newest publication and find out what different nation-states are doing against climate change:&nbsp;<a href=\"https://ccpi.org/download/climate-change-performance-index-2023/\">Link</a>.</p>",
+    "_id": "655742cdc99d2e329c8b84eb",
+    "_parentId": "655742c9c99d2e329c8b840f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]
