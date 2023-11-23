@@ -2646,62 +2646,6 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Lecture Recording",
-    "displayTitle": "Lecture Recording",
-    "body": "",
-    "_id": "6527eb5681a06b1e0c97c54e",
-    "_parentId": "6527eb5581a06b1e0c97c4f6",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click to watch the lecture recording.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/01d6626bdf35902ae6edfca364c360ba188f370a.png",
-      "small": "course/en/assets/01d6626bdf35902ae6edfca364c360ba188f370a.png",
-      "attribution": "",
-      "_url": "https://video.tu-clausthal.de/vorlesung/1338.html#k=2",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "title": "Slides",
     "displayTitle": "Slides",
     "body": "",
@@ -8578,219 +8522,6 @@
     "body": "",
     "_id": "653fbf07c0d6cf133477edd9",
     "_parentId": "653fbf06c0d6cf133477ed7d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
-    "_id": "653fbf21c0d6cf133477f320",
-    "_parentId": "653fbf21c0d6cf133477f2cd",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Lecture Recording",
-    "displayTitle": "Lecture Recording",
-    "body": "",
-    "_id": "653fbf21c0d6cf133477f335",
-    "_parentId": "653fbf21c0d6cf133477f2e7",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click to watch the lecture recording.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/01d6626bdf35902ae6edfca364c360ba188f370a.png",
-      "small": "course/en/assets/01d6626bdf35902ae6edfca364c360ba188f370a.png",
-      "attribution": "",
-      "_url": "https://video.tu-clausthal.de/vorlesung/1338.html#k=2",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "Slides",
-    "displayTitle": "Slides",
-    "body": "",
-    "_id": "653fbf21c0d6cf133477f34e",
-    "_parentId": "653fbf21c0d6cf133477f2f9",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click below to view the lecture slides.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
-      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
-      "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "653fbf21c0d6cf133477f367",
-    "_parentId": "653fbf21c0d6cf133477f30b",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -15665,5 +15396,519 @@
       }
     },
     "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "655dd9d61311a63c40aed85f",
+    "_parentId": "655dd9d31311a63c40aed83b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/QoG054XvhEM?feature=shared",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TItle",
+    "displayTitle": "",
+    "body": "",
+    "_id": "655dda571311a63c40aee892",
+    "_parentId": "655dda571311a63c40aee819",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png",
+      "small": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "655dda571311a63c40aee8ab",
+    "_parentId": "655dda571311a63c40aee82b",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
+      "attribution": "",
+      "_url": "#/id/65572a03c99d2e329c8adc0a",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Intrduction",
+    "displayTitle": "Intrduction",
+    "body": "<p>In this video, we will discuss .</p>",
+    "_id": "655dda571311a63c40aee8c4",
+    "_parentId": "655dda571311a63c40aee83d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/4G94OgXupfM",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/consciousness\">Consciousness</a>\" by Dajana Oroz for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "655dda571311a63c40aee8d9",
+    "_parentId": "655dda571311a63c40aee84f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<p>What is the break-even point (in km) after which an EV would have caused fewer emissions than an internal combustion engine?</p>",
+    "_id": "655ddeed1311a63c40af13d0",
+    "_parentId": "655ddee71311a63c40af12ed",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "0-50.000 km",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "50.000 - 100.000 km",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "100.000 -150.000 km",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "150.000 - 200.000 km",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "after 200.000 km",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Lecture Recording: L03",
+    "displayTitle": "",
+    "body": "<p>Watch the lecture recording for Lecture L03 Challenges II - Climate Change.</p>",
+    "_id": "655f0c09574cab34ec25300f",
+    "_parentId": "6527eb5581a06b1e0c97c4f6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/u42oN0cO49Q",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
   }
 ]

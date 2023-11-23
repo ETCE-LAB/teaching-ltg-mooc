@@ -92,100 +92,6 @@
     }
   },
   {
-    "title": "Lecture L06",
-    "displayTitle": "Lecture L06",
-    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">13.12.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
-    "_lockType": "custom",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20bd",
-    "_parentId": "653f9386c0d6cf133475356f",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/b5c41524487fbd3168cb25583882ed27b9e8b383.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Beyond the Circular Economy",
     "displayTitle": "Beyond the Circular Economy",
     "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
@@ -1187,6 +1093,98 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Life Cycle Assessement",
+    "displayTitle": "Life Cycle Assessement",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "655dda571311a63c40aee7ba",
+    "_parentId": "653f9386c0d6cf133475356f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -3781,7 +3779,7 @@
     "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>The lecture will be held live&nbsp;on the <span style=\"color:#4e7367\">13.12.2023 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>This is the asynchronous MOOC content for L08. You have until 20.12.2023 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be live&nbsp;on <span style=\"color:#4e7367\">13.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
