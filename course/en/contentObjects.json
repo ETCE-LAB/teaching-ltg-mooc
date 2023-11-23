@@ -2774,7 +2774,7 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
@@ -3878,9 +3878,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3972,9 +3970,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
