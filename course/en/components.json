@@ -7083,7 +7083,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E05",
     "displayTitle": "Exercise E05",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">06.12</span>.2022</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">13.12</span>.202<span style=\"color:black\">3</span> – 1:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u>What is the environmental Impact of your favourite food?</u></span></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span>Pick your favourite fruit/vegetable that you regularly buy at the grocery store.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Compile a comprehensive list of all required resources that go into the production of this fruit/vegetable.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>With the information you gathered, compute the environmental impact of the product system using LCA.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Your computation must at least consider the processes of production of the fruit/vegetable and the transportation of the fruit/vegetable from the “farm” to the grocery store (or where you bought it from).</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>You can use the automated tools provided by OpenLCA to do this easily.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>OpenLCA Nexus has a collection of datasets, e.g., the Agribaylase dataset which contains existing LCA and LCI studies, which you can use to model your product system<span>.</span></span></span></span></span><ul style=\"list-style-type:circle\"><li style=\"text-align:justify\"><span><span><span><span><span style=\"color:black\">You can use the automated tools provided in </span><a href=\"https://www.openlca.org/download/\" style=\"color:blue; text-decoration:underline\">OpenLCA</a><span style=\"color:black\"> to do this easily, using the free datasets provided on </span><a href=\"https://nexus.openlca.org/databases\" style=\"color:blue; text-decoration:underline\">OpenLCA</a><a href=\"https://nexus.openlca.org/databases\" style=\"color:blue; text-decoration:underline\"> Nexus</a><span style=\"color:black\">.</span></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><span style=\"color:black\">Suggested detailed tutorial: </span><a href=\"https://www.youtube.com/watch?v=kEosW6PceVg\" style=\"color:blue; text-decoration:underline\">Link</a> </span></span></span></span></li></ul></li></ul><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E05-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:left\">&nbsp;</p>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong>20<span style=\"color:black\">.12</span>.202<span style=\"color:black\">3</span> – 1:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s): </strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><u>Task 1: The goal of this LCA exercise is to compare the water consumption of washing dishes: manually using a sink vs a dishwasher, to determine which consumes less.</u></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">We (simplisticly) assume that a dishwasher at full load requires ~11 litres of water to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery. We do this to obtain comparative results. We have further standardized the scope of this (unscientific) LCA:</span></span></span></span></span><ul style=\"list-style-type:circle\"><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Functional Unit: 20 dishes, 20 glasses and 20 pieces of cutlery cleaned.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Reference Flow: Amount of water consumed (in Liters)</span></span></span></span></span></li></ul></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Your main task is to collect LCI data, and determine<strong><em>&nbsp; </em></strong>“How much water do <strong><em>you</em></strong> consume to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery?” We denote this target value by <strong><em>X</em></strong><em>.</em></span></span></span></span></span></li></ul><p style=\"text-align:left\"><span><span><span><span><strong><span style=\"color:black\">Steps:</span></strong></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span>Compute the <em>Flow Rate (<strong>f</strong>) </em>of your tap using a timer:</span></span></span></span><ol><li style=\"text-align:left\"><span><span><span><span>Grab an empty cup which has a known maximum capacity (or a graduated measuring cup). We assume this maximum capacity is <strong><em>c </em></strong><em>liters. </em>Remember to compute this in liters and not milliliters.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Turn on your kitchen tap until the flow of water is indicative of what you use to clean dishes. Be sure to take note of the exact position of the tap, perhaps by using a marker on your tap.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>With the tap open in this position, use a timer to determine the number of seconds (<strong><em>t</em></strong>) required for the cup to fill to it’s maximum capacity.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Compute the Flow Rate (<strong><em>f</em></strong><em>) = <strong>c / t </strong>&nbsp;</em>Liters per second.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>Lifecycle Inventory Analysis</span></span></span></span><ul><li style=\"text-align:left\"><span><span><span><span>For this exercise you will only wash dishes under running tap water, and we divide this system into individual unit processes; one each for washing a dish, a glass and an item of cutlery, For each of these unit processes, we collect data.</span></span></span></span><ol><li style=\"text-align:left\"><span><span><span><span>Wash 1 dish, while using a timer to count how much time the water is flowing<sub>. </sub>Ensure that you use the same tap position as used when computing the flow rate, and that you measure the time in seconds.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Repeat this process for at 2-3 dishes (possibly of different sizes and levels of dirtyness) and compute the average time required. We denote this average time by <strong><em>T<sub>d. </sub></em></strong></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Repeat steps 1 and 2 for glasses and cutlery, computing&nbsp; <strong><em>T<sub>g&nbsp; </sub></em></strong>and<strong><em><sub> </sub>T<sub>c&nbsp; </sub></em></strong>respectively.</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">To relate the data collected to the functional unit of “20 dishes, 20 glasses and 20 pieces of cutlery cleaned”, compute <strong><em>X =&nbsp; (T<sub>d</sub> + T<sub>g</sub> + T<sub>c</sub>) * 20 * f&nbsp; </em></strong>Liters</span></span></span></span></span></li></ol></li></ul></li></ol><p style=\"margin-left:48px; text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Submit the result (<strong>X</strong>) via the poll – <a href=\"https://s.surveyplanet.com/jx167vyo\" style=\"color:blue; text-decoration:underline\">Link</a></span></span></span></span></li><li style=\"text-align:justify\"><span><span><span><span><strong>BONUS: </strong>If you have a dishwasher, try to determine how much water it consumes for a full load.</span></span></span></span></li></ul>",
     "_id": "653f950cc0d6cf13347545f8",
     "_parentId": "653f950cc0d6cf13347545a1",
     "_type": "component",
@@ -7131,62 +7131,6 @@
     "body": "",
     "_id": "653f950cc0d6cf133475460d",
     "_parentId": "653f950cc0d6cf13347545b5",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "653f9556c0d6cf1334754c8d",
-    "_parentId": "653f9556c0d6cf1334754c73",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7341,7 +7285,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E04",
     "displayTitle": "Exercise E04",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">29.11</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">06.12.2023</span> – 1:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">What are the three most impactful actions we could take to move the World3 model towards the SW run/results as discussed in the lecture?</span></u></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">&nbsp;Have a look at the 4 World3 scenarios that we discussed in the lecture (BAU, BAU2, CT, SW) → <u>Note:</u> Have a look at the links to World3 web version and play around with the model and learn about it in more detail.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">&nbsp;What actions (which policies) could we (humans/politicians) act upon to move the simulation results of the World3 model towards the SW scenario. </span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">&nbsp;Identify <strong>3</strong> proposals and describe each of them in 3 or more sentences.</span></span></span></span></span></li></ol><p style=\"margin-left:96px; text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">13.12.2023</span> – 1:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">What are the three most impactful actions we could take to move the World3 model towards the SW run/results as discussed in the lecture?</span></u></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">&nbsp;Have a look at the 4 World3 scenarios that we discussed in the lecture (BAU, BAU2, CT, SW) → <u>Note:</u> Have a look at the links to World3 web version and play around with the model and learn about it in more detail.</span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">&nbsp;What actions (which policies) could we (humans/politicians) act upon to move the simulation results of the World3 model towards the SW scenario. </span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">&nbsp;Identify <strong>3</strong> proposals and describe each of them in 3 or more sentences.</span></span></span></span></span></li></ol><p style=\"margin-left:96px; text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p>",
     "_id": "653f962dc0d6cf13347563bd",
     "_parentId": "653f962dc0d6cf1334756366",
     "_type": "component",
@@ -7543,7 +7487,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E06",
     "displayTitle": "Exercise E06",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">13.12</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">20.12.2023</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Suppose a new sustainability-related technology is presented to you. What are meaningful criteria to assess its contribution to a more sustainable world, i.e., how do you figure out whether it promotes greenwashing or not?</span></span></span></span></span></p><ul><li style=\"text-align:left\">Collect at least 3 different criteria for assessing the technology.</li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Explain your choice.</span></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E06-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:left\">&nbsp;</p>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">10.01</span>.2023 – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Suppose a new sustainability-related technology is presented to you. What are meaningful criteria to assess its contribution to a more sustainable world, i.e., how do you figure out whether it promotes greenwashing or not?</span></span></span></span></span></p><ul><li style=\"text-align:left\">Collect at least 3 different criteria for assessing the technology.</li><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Explain your choice.</span></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E06-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:left\">&nbsp;</p>",
     "_id": "653f9722c0d6cf133475730f",
     "_parentId": "653f9722c0d6cf13347572b8",
     "_type": "component",
@@ -7745,7 +7689,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E08",
     "displayTitle": "Exercise E08",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">10.01.2024</span></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">17.01.2024</span> – <span style=\"color:black\">2</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Task 1: </span></u><span style=\"color:black\">In the lecture, we presented a typology of the circular economy vs. circular society discourse (CE vs. CS – Typology). Which of the four categories (<em>Reformist Circular Society, Transformational Circular Society, Techcentric Circular Economy, Fortress Circular Economy</em>) do you prefer and/or deem to be more likely and why?</span></span></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Explain your choice.</span></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E08-&lt;firstname.lastname&gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">24.01.2024</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Task 1: </span></u><span style=\"color:black\">In the lecture, we presented a typology of the circular economy vs. circular society discourse (CE vs. CS – Typology). Which of the four categories (<em>Reformist Circular Society, Transformational Circular Society, Techcentric Circular Economy, Fortress Circular Economy</em>) do you prefer and/or deem to be more likely and why?</span></span></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Explain your choice.</span></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E08-&lt;firstname.lastname&gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul>",
     "_id": "653f97f7c0d6cf1334758d62",
     "_parentId": "653f97f7c0d6cf1334758d0b",
     "_type": "component",
@@ -8205,7 +8149,7 @@
     "_disableAccessibilityState": false,
     "title": "Exercise E07",
     "displayTitle": "Exercise E07",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">20.12</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">10.01</span>.2023 – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Task 1:</span></u><span style=\"color:black\"> A Critical Assessment of the Circular Economy Model</span></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><strong><span><span>Review the lecture material</span></span></strong><span><span> (</span></span><span><span>lecture slides and the videos). Pay special attention to critical principles, benefits, and goals highlighted in the lecture.</span></span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><strong><span><span>Identify Shortcomings of the Circular Economy Model. </span></span></strong><span><span>Based on the lecture content, identify and list potential shortcomings or challenges associated with the Circular Economy model.</span></span></span></span></span></span><ul style=\"list-style-type:circle\"><li style=\"text-align:left\"><span><span><span><span><span><span>Refer to specific examples: </span></span><span><span>Provide examples or case studies discussed in the lecture that illustrate the challenges and shortcomings of the CE model.</span></span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span><span>Explain each shortcoming in detail: </span></span><span><span>For each identified shortcoming, elaborate on why it is considered a challenge. Reference relevant theories, models, or data from the lecture slides to support your explanations.</span></span></span></span></span></span></li></ul></li><li style=\"text-align:left\"><span><span><span><span><strong><span><span>Share your personal opinion of the Circular economy model. </span></span></strong><span><span>In your own words, what advantages and disadvantages does such a model provide? Also, reflect</span></span><span><span> on the broader implications of a CE model for addressing the challenges discussed in the course.</span></span></span></span></span></span></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E07-&lt;firstname.lastname&gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link: <a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul>",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">17.01</span>.2023 – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Task 1:</span></u><span style=\"color:black\"> A Critical Assessment of the Circular Economy Model</span></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><strong><span><span>Review the lecture material</span></span></strong><span><span> (</span></span><span><span>lecture slides and the videos). Pay special attention to critical principles, benefits, and goals highlighted in the lecture.</span></span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><strong><span><span>Identify Shortcomings of the Circular Economy Model. </span></span></strong><span><span>Based on the lecture content, identify and list potential shortcomings or challenges associated with the Circular Economy model.</span></span></span></span></span></span><ul style=\"list-style-type:circle\"><li style=\"text-align:left\"><span><span><span><span><span><span>Refer to specific examples: </span></span><span><span>Provide examples or case studies discussed in the lecture that illustrate the challenges and shortcomings of the CE model.</span></span></span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span><span><span>Explain each shortcoming in detail: </span></span><span><span>For each identified shortcoming, elaborate on why it is considered a challenge. Reference relevant theories, models, or data from the lecture slides to support your explanations.</span></span></span></span></span></span></li></ul></li><li style=\"text-align:left\"><span><span><span><span><strong><span><span>Share your personal opinion of the Circular economy model. </span></span></strong><span><span>In your own words, what advantages and disadvantages does such a model provide? Also, reflect</span></span><span><span> on the broader implications of a CE model for addressing the challenges discussed in the course.</span></span></span></span></span></span></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:justify\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E07-&lt;firstname.lastname&gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link: <a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul>",
     "_id": "653face8c0d6cf133476adcc",
     "_parentId": "653face7c0d6cf133476ad75",
     "_type": "component",
@@ -9815,9 +9759,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Introduction and the Linear Economy",
-    "displayTitle": "Introduction and the Linear Economy",
-    "body": "<p>In this lecture, we will finally talk about the second part of the lecture title: the circular economy; before we try to understand this economic model, it is essential to look at the current economic model of the linear economy.&nbsp;&nbsp;</p><p>In a linear economy, the predominant mode of operation revolves around a <em>linear progression</em> of resource extraction, manufacturing, consumption, and disposal. It adheres to a linear \"take, make, dispose\" model, wherein raw materials are sourced, transformed into products, and discarded as waste.</p><p>This approach, while having fueled economic growth for decades, raises significant concerns due to its inherent unsustainability. The linear economy's reliance on finite resources leads to resource depletion, environmental degradation, and increased waste generation. The disposal of products after their useful life contributes to landfills and pollution, exacerbating the strain on ecosystems. Additionally, the linear model often neglects the potential for reusing or recycling materials, resulting in a significant loss of value and contributing to the depletion of natural resources.</p>",
+    "title": "Introduction ",
+    "displayTitle": "Introduction ",
+    "body": "",
     "_id": "65439aa0fef492386847f95f",
     "_parentId": "65439aa0fef492386847f902",
     "_type": "component",
@@ -9854,7 +9798,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/WUblO8FKAv4",
+      "source": "https://youtu.be/VGDI2e9sw8A",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -9936,123 +9880,6 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65439aa0fef492386847f98d",
-    "_parentId": "65439aa0fef492386847f926",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/f49855dc29c6dd76c4c7cf459b7d29b42958f660.png",
-      "small": "course/en/assets/f49855dc29c6dd76c4c7cf459b7d29b42958f660.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "hotgraphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "65439aa0fef492386847f9a6",
-    "_parentId": "65439aa0fef492386847f938",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Select the icons to find out more.",
-    "_setCompletionOn": "allItems",
-    "_graphic": {
-      "src": "course/en/assets/c15d79bfb5ebbf9db67ec34f3bf182605eebd4e7.png",
-      "alt": "",
-      "attribution": ""
-    },
-    "mobileBody": "",
-    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
-    "_isMobileTextBelowImage": false,
-    "_hidePagination": false,
-    "_canCycleThroughPagination": false,
-    "_isNarrativeOnMobile": true,
-    "_useNumberedPins": false,
-    "_useGraphicsAsPins": false,
-    "_isRound": false,
-    "_items": []
   },
   {
     "_component": "text",
@@ -11656,7 +11483,7 @@
       "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
       "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
       "attribution": "",
-      "_url": "#/id/653fa78ac0d6cf1334765b16",
+      "_url": "#/id/65572a8fc99d2e329c8af0d2",
       "_target": "_self"
     },
     "_isScrollable": false,
@@ -15520,8 +15347,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png",
-      "small": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png",
+      "large": "course/en/assets/b61fa4902cd4d6a655e02eebb3cff451a17984e1.png",
+      "small": "course/en/assets/b61fa4902cd4d6a655e02eebb3cff451a17984e1.png",
       "attribution": "",
       "_url": "",
       "_target": null
@@ -15579,7 +15406,7 @@
       "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
       "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
       "attribution": "",
-      "_url": "#/id/65572a03c99d2e329c8adc0a",
+      "_url": "#/id/65648d00c2111423303a035c",
       "_target": "_self"
     },
     "_isScrollable": false,
@@ -15595,9 +15422,9 @@
     "_isResetOnRevisit": "false",
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
-    "title": "Intrduction",
-    "displayTitle": "Intrduction",
-    "body": "<p>In this video, we will discuss .</p>",
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>In this lecture, we want to take a closer look at Life Cycle Assessement, a methodlogy that&nbsp;investigates the complete life journey of a product or system, from its creation to its end. Instead of just focusing on the end result, LCA looks at every stage—where materials come from, how things are made, how they're used, and even what happens when they're thrown away.</p><p>In essence, LCA enables us to zoom out and see the bigger picture, understanding how our choices impact the environment. It's not just about the end product; it's about comprehending the entire journey, from start to finish.&nbsp;</p>",
     "_id": "655dda571311a63c40aee8c4",
     "_parentId": "655dda571311a63c40aee83d",
     "_type": "component",
@@ -15673,7 +15500,7 @@
     "_disableAccessibilityState": false,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/consciousness\">Consciousness</a>\" by Dajana Oroz for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/care-for-your-home\">Care for Your Home</a>\" by Ely Astorga for ArtistsForClimate.org used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
     "_id": "655dda571311a63c40aee8d9",
     "_parentId": "655dda571311a63c40aee84f",
     "_type": "component",
@@ -15717,12 +15544,12 @@
     "_ariaLevel": 0,
     "_disableAccessibilityState": false,
     "title": "New Component Title",
-    "displayTitle": "New Component Title",
-    "body": "<p>What is the break-even point (in km) after which an EV would have caused fewer emissions than an internal combustion engine?</p>",
+    "displayTitle": "",
+    "body": "",
     "_id": "655ddeed1311a63c40af13d0",
     "_parentId": "655ddee71311a63c40af12ed",
     "_type": "component",
-    "_layout": "full",
+    "_layout": "right",
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
@@ -15775,14 +15602,14 @@
       },
       {
         "text": "150.000 - 200.000 km",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
       },
       {
         "text": "after 200.000 km",
-        "_shouldBeSelected": false,
+        "_shouldBeSelected": true,
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
@@ -15797,12 +15624,12 @@
     "_recordInteraction": true,
     "_hasItemScoring": false,
     "_questionWeight": 1,
-    "_selectable": 1,
+    "_selectable": 7,
     "_feedback": {
       "title": "",
-      "correct": "",
+      "correct": "<p>This was a bit of a trick question. All answers could be accurate in specific scenarios since determining the break-even point for emissions between an Electric Vehicle (EV) and an Internal Combustion Engine is a dynamic process influenced by various factors. So, without further information, it is not possible to give a simple answer to that question.&nbsp;</p><p>The following video will discuss different ways of looking at this question!&nbsp;</p>",
       "_incorrect": {
-        "final": "",
+        "final": "<p>This was a bit of a trick question. Determining the break-even point for emissions between an Electric Vehicle (EV) and an Internal Combustion Engine is a dynamic process influenced by various factors. So, without further information it is not possible to give a simple answer to that question.&nbsp;</p><p>In the next video, we will discuss some different ways of looking at this question!&nbsp;</p>",
         "notFinal": ""
       },
       "_partlyCorrect": {
@@ -15895,6 +15722,1439 @@
     "_showVolumeControl": false,
     "_startVolume": "80%",
     "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scope of an LCA Study",
+    "displayTitle": "Scope of an LCA Study",
+    "body": "<p>Moving forward, we discuss the <em><strong>scope of an LCA study</strong></em>. How do we define the boundaries of our assessment? What are the specific objectives we aim to achieve? This part will guide you through the scoping process, helping you delineate the system boundaries and identify the life cycle stages relevant to your analysis. In these two videos, we will talk about the following aspects that make up a LCA framework:</p><p>Firstly, defining the <strong>Functional Unit(s)</strong> is analogous to setting the success criteria for the product or system under scrutiny. It's about specifying what, precisely, we're measuring and evaluating.</p><p>Next, the concept of <strong>Reference Flow(s)</strong> comes into play. These are benchmarks, comparable standards that enable us to assess how well our subject performs to others.</p>",
+    "_id": "65647effc211142330392276",
+    "_parentId": "65647effc21114233039225c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/epvtTaWsg74",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Scope of an LCA Study",
+    "displayTitle": "",
+    "body": "<p>The <strong>System Boundary</strong> is a crucial demarcation line. Envision it as drawing a border between what's included in our assessment and what lies outside&nbsp;it. This decision significantly influences the comprehensiveness of our findings.</p><p>We will also look at&nbsp;<strong>Life Cycle Impact Assessment (LCIA)</strong> methodologies and the environmental impacts they analyse. This includes understanding how different methods quantify effects like carbon emissions, water usage, etc.</p><p>However, every tool has its limits, and LCA is no exception. Acknowledging and understanding these <strong>Limitations</strong> is essential for a nuanced interpretation of results.</p><p>Lastly, the significance of <strong>Data Quality Requirements</strong> must be balanced. The old saying \"garbage in, garbage out\" holds. We will emphasise the importance of sourcing reliable data to ensure the integrity and accuracy of our assessments.</p>",
+    "_id": "65647f19c211142330392594",
+    "_parentId": "65647f19c211142330392579",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/8YQAYnDAa5U",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Question 01",
+    "displayTitle": "Question 01",
+    "body": "<p>What is the <strong>break-even point</strong> (in km) after which an EV would have caused fewer emissions than an internal combustion engine?</p>",
+    "_id": "65648375c2111423303937ba",
+    "_parentId": "655ddee71311a63c40af12ed",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6564864fc211142330395d20",
+    "_parentId": "65648644c211142330395b7c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "MushR",
+        "body": "<p>Find out more about the MushR project <a href=\"https://etce-lab.com/index.php/mushr-a-smart-automated-and-scalable-indoor-harvesting-system-for-gourmet-mushrooms/\">here</a>!</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "656486d2c21114233039636a",
+    "_parentId": "656486cfc211142330396352",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/ec9077f29dd4a4d4c1d49d48c9c36cab0708e578.png",
+      "small": "course/en/assets/ec9077f29dd4a4d4c1d49d48c9c36cab0708e578.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In one of the previous videos, we introduced you to the four stages of a Life Cycle Assessment (LCA). We have already covered the first step, the&nbsp;<strong>Goal and Scope Definition.&nbsp;</strong>This initial stage establishes the purpose and boundaries of the assessment. What are we trying to achieve, and what aspects of the product or system will be considered?</p><p>Next, we will look at the&nbsp;<strong>Life Cycle Inventory (LCI)</strong>. In this stage, we look at the detailed inventory of all inputs and outputs associated with the product or system throughout its life cycle. This includes raw materials, energy consumption, emissions, and waste generation at each stage, from raw material extraction to disposal. It's akin to creating a comprehensive checklist of everything involved in the product's life.</p><p>Later, we will look at the&nbsp;<strong>Life Cycle Impact Assessment (LCIA)</strong> and the<strong> Interpretation </strong>during all stages.</p>",
+    "_id": "65648776c211142330396dfb",
+    "_parentId": "656486cfc211142330396352",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Life Cycle Inventory (LCI)",
+    "displayTitle": "Life Cycle Inventory (LCI)",
+    "body": "<p><strong>Life Cycle Inventory</strong> (LCI) is a meticulous examination and documentation of all the inputs and outputs associated with a product or system throughout its entire life cycle. This stage of a LCA involves creating a comprehensive inventory or checklist of the materials, energy, and emissions engaged at each step, from raw material extraction to manufacturing, distribution, use, and eventual disposal.&nbsp;By meticulously cataloguing these inputs and outputs at each life cycle stage, LCI provides a detailed snapshot of the environmental footprint of a product. This information is the foundation for the subsequent phases of the LCA, such as <strong>Life Cycle Impact Assessment</strong> (LCIA) and <strong>Interpretation</strong>, ultimately contributing to a comprehensive understanding of a product's sustainability.</p>",
+    "_id": "65648902c2111423303980d8",
+    "_parentId": "65648902c2111423303980ba",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/t7H8OVE2Oq8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 02:</strong>&nbsp;What is the primary objective of the Life Cycle Inventory (LCI) stage in a LCA analysis?</p>",
+    "_id": "65648a89c2111423303994dc",
+    "_parentId": "65648a01c211142330399247",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Define the goals and scope of the assessment",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Evaluate the potential environmental impacts",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Document all inputs and outputs throughout the product's life cycle",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Interpret the findings and draw conclusions",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 04:</strong>&nbsp;In the context of Goal and Scope Definition, what does \"functional unit\" refer to?</p>",
+    "_id": "65648addc2111423303998a8",
+    "_parentId": "65648addc211142330399888",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Quantified performance of a product system for use as a reference unit",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The specific goals and objectives of the LCA",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The boundaries set for the assessment",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The environmental impacts identified in the Life Cycle Impact Assessment ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 03:</strong>&nbsp;During Goal and Scope Definition in LCA, what is the purpose of establishing the boundaries of the assessment?</p>",
+    "_id": "65648bc5c21114233039da10",
+    "_parentId": "65648bc5c21114233039d9ee",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "To quantify the environmental impacts",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To create a detailed inventory of materials",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To know a product's sustainability impact factor",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "To set rules for the assessment and determine what is included",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "TItle",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65648d00c2111423303a0484",
+    "_parentId": "65648d00c2111423303a0397",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7e3f695c42c1ac18f9334b158b49a8f3be254713.png",
+      "small": "course/en/assets/7e3f695c42c1ac18f9334b158b49a8f3be254713.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65648d00c2111423303a049d",
+    "_parentId": "65648d00c2111423303a03a9",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
+      "attribution": "",
+      "_url": "#/id/653f950cc0d6cf133475454d",
+      "_target": "_self"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Life Cycle Impact Assessment (LCIA)",
+    "displayTitle": "Life Cycle Impact Assessment (LCIA)",
+    "body": "<p><strong>Life Cycle Impact Assessment </strong>(LCIA) is an important stage in the LCA process, wherein the environmental impacts identified in the Life Cycle Inventory (LCI) are systematically evaluated and quantified. LCIA goes beyond merely listing inputs and outputs; it assigns significance to each environmental factor, weighing their relative importance. This involves assessing a spectrum of impact categories such as climate change, resource depletion, and water pollution. The methodology employed in LCIA enables the transformation of raw LCI data into meaningful insights, allowing for a nuanced understanding of a product or system's environmental performance.</p>",
+    "_id": "65648d00c2111423303a04b6",
+    "_parentId": "65648d00c2111423303a03bb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/AITqwgmI2eI",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Interpretation and Summary",
+    "displayTitle": "Interpretation and Summary",
+    "body": "<p><strong>Interpretation </strong>is the final stage of the LCA process, where data from earlier phases is translated into practical insights. The findings are translated into meaningful conclusions, and the implications are carefully considered in light of the initially defined goals and scope. Interpretation is not merely a numerical exercise but a strategic analysis, facilitating informed decision-making. The results guide decision-making, helping stakeholders prioritize actions to minimize environmental impact. It is the bridge between raw data and practical application, ensuring that the comprehensive knowledge derived from the LCA process contributes effectively to the pursuit of sustainable practices and informed decision-making.</p>",
+    "_id": "65648d00c2111423303a04f5",
+    "_parentId": "65648d00c2111423303a03df",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/96Yxaf69Itw",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "65648d00c2111423303a0534",
+    "_parentId": "65648d00c2111423303a0415",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/ec9077f29dd4a4d4c1d49d48c9c36cab0708e578.png",
+      "small": "course/en/assets/ec9077f29dd4a4d4c1d49d48c9c36cab0708e578.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>In the previous videos, we looked at the first two stages of the LCA.&nbsp;Next, we will look at the third step, the&nbsp;<strong>Life Cycle Impact Assessment (LCIA),&nbsp;</strong>where we evaluate the potential environmental impacts identified in the inventory stage. Think of this as analysing the significance of each item on our checklist from the inventory stage understanding how they contribute to environmental issues. After this stage, we will look at the fourth stage, the&nbsp;<strong>Interpretation</strong>,&nbsp;which involves interpreting the findings from the previous stages. What do the results mean in terms of environmental impact? How can this information be used to make informed decisions? It's like piecing together the puzzle to derive meaningful conclusions and implications for sustainability.</p>",
+    "_id": "65648d00c2111423303a054d",
+    "_parentId": "65648d00c2111423303a0415",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Impressum",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/two-possible-futures\">Two possible Futures</a>\" by Joana Campinas for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "65648d00c2111423303a05b6",
+    "_parentId": "65648d00c2111423303a046f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6564943ec2111423303a4ec7",
+    "_parentId": "65649435c2111423303a4cdb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/2a57a74ac62aa2e258e403ddd0f05fdd59cb3736.png",
+      "small": "course/en/assets/2a57a74ac62aa2e258e403ddd0f05fdd59cb3736.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Sources:&nbsp;<br />ISO 14040 Environmental management — Life cycle assessment — Principles and framework, International standards organisation (https://www.iso.org/standard/37456.html)<br />Determining the environmental impacts of conventional and alternatively fuelled vehicles through LCA, Ricardo Energy and Environment&nbsp;</p>",
+    "_id": "656494ecc2111423303a62db",
+    "_parentId": "656494e6c2111423303a626f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<!---Begin SurveyPlanet survey embed--><iframe frameborder=\"0\" width=\"800\" height=\"800\" src=\"https://s.surveyplanet.com/654cd926721fa271af88f658\" frameborder=\"0\"></iframe><!--- End SurveyPlanet survey embed -->",
+    "_id": "65649a28c2111423303abfb9",
+    "_parentId": "653f9556c0d6cf1334754c73",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Comparing Circular Economy and Society",
+    "displayTitle": "Comparing Circular Economy and Society",
+    "body": "",
+    "_id": "65649d51c2111423303b266a",
+    "_parentId": "65649d51c2111423303b2651",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/PqaNAI6rlkI",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
     "_aspectRatio": "landscape",
     "_pauseWhenOffScreen": false,
     "_playsinline": false,

@@ -1104,11 +1104,11 @@
     }
   },
   {
-    "title": "Life Cycle Assessement",
-    "displayTitle": "Life Cycle Assessement",
+    "title": "Life Cycle Assessement - Part 1",
+    "displayTitle": "Life Cycle Assessement - Part 1",
     "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
-    "subtitle": "L04 - A History of Political (In) Action",
+    "subtitle": "L06 - Life Cycle Assessement",
     "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -1127,7 +1127,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png"
+      "src": "course/en/assets/b61fa4902cd4d6a655e02eebb3cff451a17984e1.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1748,98 +1748,6 @@
     }
   },
   {
-    "title": "Exercise E05",
-    "displayTitle": "Exercise E05",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f950cc0d6cf133475454d",
-    "_parentId": "653f9386c0d6cf133475356f",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Exercise E04",
     "displayTitle": "Exercise E04",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -2300,6 +2208,98 @@
     }
   },
   {
+    "title": "Life Cycle Assessement - Part 2",
+    "displayTitle": "Life Cycle Assessement - Part 2",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
+    "_classes": "",
+    "subtitle": "L06 - Life Cycle Assessement",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "65648d00c2111423303a035c",
+    "_parentId": "653f9386c0d6cf133475356f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7e3f695c42c1ac18f9334b158b49a8f3be254713.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Introduction",
     "displayTitle": "Introduction",
     "body": "<p>In this chapter, you will find out what the central concept behind the course is. You will get a short overview of important terminology and the ecological problems and societal challenges that we will discuss during the course.</p>",
@@ -2600,6 +2600,98 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E05",
+    "displayTitle": "Exercise E05",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "653f950cc0d6cf133475454d",
+    "_parentId": "653f9386c0d6cf133475356f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3225,7 +3317,7 @@
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p style=\"text-align:left\"><span><span><span><span><strong>Published on:</strong> <span style=\"color:black\">22.11</span>.2023</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">29.11</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the additional MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice.</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\">***</p><p style=\"text-align:justify\">Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "pageBody": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">06.12</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the additional MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice.</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/MW3wY8uOVJbTrei\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\">***</p><p style=\"text-align:justify\">Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3690,9 +3782,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3779,14 +3869,12 @@
     "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p><strong>This is the asynchronous MOOC content for L08. You have until 20.12.2023 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be live&nbsp;on <span style=\"color:#4e7367\">13.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p><p style=\"margin-left:1px; text-align:left\"><strong>Week 6&nbsp;</strong>(11.12 – 15.12.2023)<br /><strong>This is the asynchronous MOOC content for L06. The Q&amp;A for the exercise will be live&nbsp;on 20.12.2023 at 3:00 - 4:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3873,7 +3961,7 @@
     "body": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p><strong>This is the asynchronous MOOC content for L07. You have until the 10.01.2023 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be held live&nbsp;on the <span style=\"color:#4e7367\">20.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. While technology can mitigate some environmental challenges, it's not a one-size-fits-it-all solution. We'll scrutinise the boundaries of technology, emphasising the need for holistic approaches that encompass social, economic, and behavioural aspects to achieve genuine sustainability. By understanding the possibilities and constraints, we can chart a more effective course toward a sustainable future.</p><p><strong>Week 7&nbsp;</strong>(18.12 – 22.12.2023)<br /><strong>This is the asynchronous MOOC content for L07. The Q&amp;A for the exercise will be live&nbsp;on 20.12.2023 at 3:00 - 4:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3965,7 +4053,7 @@
     "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this lecture, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p><p><strong>This is the asynchronous MOOC content for L08. You have until 09.01.2024 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be live&nbsp;on <span style=\"color:#4e7367\">20.12.2023 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p><p><strong>Week 8&nbsp;</strong>​​​​​​(08.01 – 12.01.2024)<br /><strong>This is the asynchronous MOOC content for L08. The Q&amp;A for the exercise will be live&nbsp;on&nbsp;10.01.2024 at 3:00 - 4:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4057,13 +4145,13 @@
     "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p><p><strong>This is the asynchronous MOOC content for L09. You have until 23.01.2024 to finish working through the content and to complete the exercise.&nbsp;The Q&amp;A for the exercise will be live&nbsp;on <span style=\"color:#4e7367\">17.01.2024 at 3:00 - 4:00 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p><p><strong>Week 9&nbsp;</strong>(15.01 – 19.01.2024)<br /><strong>This is the asynchronous MOOC content for L09. The Q&amp;A for the exercise will be live&nbsp;on&nbsp;17.01.2024 at 3:00 - 4:00 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [
-      "64e5c250d3bd3552943b20c7"
+      "6527e5e781a06b1e0c9791b1"
     ],
     "_lockType": "",
     "_isOptional": false,
