@@ -92,98 +92,6 @@
     }
   },
   {
-    "title": "Beyond the Circular Economy",
-    "displayTitle": "Beyond the Circular Economy",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20c1",
-    "_parentId": "6527e58481a06b1e0c978b35",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": ""
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Introduction",
     "displayTitle": "Introduction",
     "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
@@ -828,16 +736,16 @@
     }
   },
   {
-    "title": "Criticism of the Circular Economy",
-    "displayTitle": "Criticism of the Circular Economy",
-    "body": "",
+    "title": "Circular Societies",
+    "displayTitle": "Circular Societies",
+    "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation.</p>",
     "_classes": "",
-    "subtitle": "L08 - Circular Economy",
-    "pageBody": "",
+    "subtitle": "L08 - Circular Societies",
+    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "60 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -846,12 +754,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65439aa0fef492386847f8c7",
+    "_id": "65439abcfef49238684803e6",
     "_parentId": "6527e5e781a06b1e0c9791b1",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/78726a635365bf376aff3139cb22328bf7a09ab3.png"
+      "src": "course/en/assets/fc8ccd2dd8a132aa182d1043685da819a348d6bb.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1185,6 +1093,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture L10",
+    "displayTitle": "Lecture L10",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p>Part 1</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">24.01.2024 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6565ce526d0c680678a49d17",
+    "_parentId": "6527e58481a06b1e0c978b35",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1840,16 +1840,16 @@
     }
   },
   {
-    "title": "Circular Economy",
-    "displayTitle": "Circular Economy",
-    "body": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability.</p>",
+    "title": "Exercise E08",
+    "displayTitle": "Exercise E08",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
-    "subtitle": "L08 - Circular Economy",
-    "pageBody": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability and reduces environmental impact.</p>",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "30 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -1858,12 +1858,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "653fc610c0d6cf1334784fdb",
-    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_id": "653f97f7c0d6cf1334758cb7",
+    "_parentId": "6527e5e781a06b1e0c9791b1",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/f40a78afee509235b6e8c64ed0c257353aad9e98.png"
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1895,9 +1895,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -1918,9 +1918,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1932,12 +1932,12 @@
     }
   },
   {
-    "title": "Circular Society",
-    "displayTitle": "Circular Society",
-    "body": "",
+    "title": "Circular Economy",
+    "displayTitle": "Circular Economy",
+    "body": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability.</p>",
     "_classes": "",
     "subtitle": "L08 - Circular Economy",
-    "pageBody": "",
+    "pageBody": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability and reduces environmental impact.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1950,12 +1950,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
-    "_id": "65439abcfef49238684803e6",
-    "_parentId": "6527e5e781a06b1e0c9791b1",
+    "_id": "653fc610c0d6cf1334784fdb",
+    "_parentId": "6527e5c081a06b1e0c978e58",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/fc8ccd2dd8a132aa182d1043685da819a348d6bb.png"
+      "src": "course/en/assets/f40a78afee509235b6e8c64ed0c257353aad9e98.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -2289,6 +2289,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture L10",
+    "displayTitle": "Lecture L10",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p>Part 2</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">31.01.2024 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6565ceea6d0c680678a4b5b2",
+    "_parentId": "6527e58481a06b1e0c978b35",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -2760,98 +2852,6 @@
     }
   },
   {
-    "title": "Exercise E08",
-    "displayTitle": "Exercise E08",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f97f7c0d6cf1334758cb7",
-    "_parentId": "6527e5e781a06b1e0c9791b1",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Performance Economy",
     "displayTitle": "Performance Economy",
     "body": "<p>A performance economy is centered on the idea of providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
@@ -2933,6 +2933,98 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E08 and E09",
+    "displayTitle": "Exercise E08 and E09",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_ariaLevel": 0,
+    "_id": "6565d24b6d0c680678a51f44",
+    "_parentId": "6527e58481a06b1e0c978b35",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -4150,9 +4242,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "6527e5e781a06b1e0c9791b1"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4244,9 +4334,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4333,14 +4421,12 @@
     "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;31.01.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;07.02.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
+    "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4427,14 +4513,12 @@
     "body": "<p>In this last lecture, we will take stock of what we have learned about environmental, social, and economic sustainability during the course and what comes next.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;07.02.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;14.02.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "64e5c250d3bd3552943b20c5"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
