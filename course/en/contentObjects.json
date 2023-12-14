@@ -2866,7 +2866,7 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_ariaLevel": 0,
@@ -2875,7 +2875,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
+      "src": "course/en/assets/f034c2d545864f0bd73da9c91405dc88146e0b11.png"
     },
     "_onScreen": {
       "_isEnabled": false,
