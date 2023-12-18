@@ -9078,7 +9078,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/AXv5k4GbVds",
+      "source": "https://youtu.be/aawowP0hLdw",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -18279,5 +18279,61 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "title": "Circular Economy and the Performance Economy",
+    "displayTitle": "Circular Economy and the Performance Economy",
+    "body": "<p><strong>Circle:</strong> Managing the utilization or use phase of stocks of manufactured objects and their components, by maintaining the value and quality of infrastructure, buildings, investment goods, equipment, and durable consumer goods in a local or regional economy.</p><p><strong>Small Square:</strong> Local use-focused PE.</p><p><strong>Big Square:</strong> Flows of used materials returning to the raw material producer to recover molecules and atoms in a globalized economy.</p>",
+    "_id": "657ae58a4fd0a25424a99fba",
+    "_parentId": "657ae5884fd0a25424a99fa2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/afeb3bb9d5f70226d754938bd978b45ce4fa5fad.png",
+      "small": "course/en/assets/afeb3bb9d5f70226d754938bd978b45ce4fa5fad.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]
