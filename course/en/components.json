@@ -5879,13 +5879,6 @@
         "_isPartlyCorrect": false,
         "feedback": "",
         "_score": 0
-      },
-      {
-        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
-        "_shouldBeSelected": false,
-        "_isPartlyCorrect": false,
-        "feedback": "",
-        "_score": 0
       }
     ],
     "_attempts": 1,
