@@ -17,9 +17,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20bb",
-    "_parentId": "653f9622c0d6cf1334756276",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674116b",
+    "_parentId": "65c34bbe0bc456b7a674115b",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -109,9 +109,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20d1",
-    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674116d",
+    "_parentId": "65c34bbe0bc456b7a674115f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -201,9 +201,9 @@
     "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20d3",
-    "_parentId": "64e5c250d3bd3552943b20b3",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674116f",
+    "_parentId": "65c34bbe0bc456b7a674114f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -293,9 +293,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527eb5581a06b1e0c97c4b5",
-    "_parentId": "64e5c250d3bd3552943b20b1",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741171",
+    "_parentId": "65c34bbe0bc456b7a6741153",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -385,9 +385,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527ef9781a06b1e0c981635",
-    "_parentId": "64e5c250d3bd3552943b20b5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741173",
+    "_parentId": "65c34bbe0bc456b7a6741151",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -477,9 +477,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "652803b681a06b1e0c990ac1",
-    "_parentId": "6527efc781a06b1e0c98249b",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741175",
+    "_parentId": "65c34bbe0bc456b7a6741159",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -569,8 +569,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65281e6081a06b1e0c9a3205",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741177",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -661,9 +661,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653fc63dc0d6cf13347861b8",
-    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741179",
+    "_parentId": "65c34bbf0bc456b7a6741165",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -753,9 +753,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65439abcfef49238684803e6",
-    "_parentId": "6527e5e781a06b1e0c9791b1",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674117b",
+    "_parentId": "65c34bbf0bc456b7a6741167",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -845,9 +845,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65571f19c99d2e329c8a97ba",
-    "_parentId": "6527e26281a06b1e0c975001",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674117d",
+    "_parentId": "65c34bbe0bc456b7a6741155",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -937,9 +937,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65572b06c99d2e329c8b1227",
-    "_parentId": "65572a8fc99d2e329c8af0d2",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674117f",
+    "_parentId": "65c34bbe0bc456b7a6741157",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1029,9 +1029,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "655dda571311a63c40aee7ba",
-    "_parentId": "653f9386c0d6cf133475356f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741181",
+    "_parentId": "65c34bbe0bc456b7a674115d",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1121,9 +1121,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6565ce526d0c680678a49d17",
-    "_parentId": "6527e58481a06b1e0c978b35",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741183",
+    "_parentId": "65c34bbf0bc456b7a6741169",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1213,8 +1213,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b3",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a674114f",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -1305,9 +1305,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20d5",
-    "_parentId": "64e5c250d3bd3552943b20b3",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741185",
+    "_parentId": "65c34bbe0bc456b7a674114f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1397,9 +1397,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "650704eb6c7f2657647eb96b",
-    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741187",
+    "_parentId": "65c34bbe0bc456b7a674115f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1489,9 +1489,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527eba781a06b1e0c97cfb1",
-    "_parentId": "64e5c250d3bd3552943b20b1",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741189",
+    "_parentId": "65c34bbe0bc456b7a6741153",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1581,9 +1581,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527ef7381a06b1e0c980c36",
-    "_parentId": "64e5c250d3bd3552943b20b5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674118b",
+    "_parentId": "65c34bbe0bc456b7a6741151",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1673,9 +1673,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "652808ef81a06b1e0c9980cd",
-    "_parentId": "6527efc781a06b1e0c98249b",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674118d",
+    "_parentId": "65c34bbe0bc456b7a6741159",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1765,9 +1765,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f962dc0d6cf1334756312",
-    "_parentId": "653f9622c0d6cf1334756276",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674118f",
+    "_parentId": "65c34bbe0bc456b7a674115b",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1857,9 +1857,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f97f7c0d6cf1334758cb7",
-    "_parentId": "6527e5e781a06b1e0c9791b1",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741191",
+    "_parentId": "65c34bbf0bc456b7a6741167",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1949,9 +1949,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653fc610c0d6cf1334784fdb",
-    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741193",
+    "_parentId": "65c34bbf0bc456b7a6741165",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2041,9 +2041,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65572a03c99d2e329c8adc0a",
-    "_parentId": "6527e26281a06b1e0c975001",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741195",
+    "_parentId": "65c34bbe0bc456b7a6741155",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2133,9 +2133,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65572b11c99d2e329c8b1c0f",
-    "_parentId": "65572a8fc99d2e329c8af0d2",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741197",
+    "_parentId": "65c34bbe0bc456b7a6741157",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2225,9 +2225,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65648d00c2111423303a035c",
-    "_parentId": "653f9386c0d6cf133475356f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741199",
+    "_parentId": "65c34bbe0bc456b7a674115d",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2300,8 +2300,8 @@
     }
   },
   {
-    "title": "Lecture L10",
-    "displayTitle": "Lecture L10",
+    "title": "Lecture L11",
+    "displayTitle": "Lecture L11",
     "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p>Part 2</p>",
     "_classes": "",
     "subtitle": "",
@@ -2317,9 +2317,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6565ceea6d0c680678a4b5b2",
-    "_parentId": "6527e58481a06b1e0c978b35",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674119b",
+    "_parentId": "65c34bbf0bc456b7a6741169",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2330,6 +2330,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -2337,12 +2343,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2409,8 +2409,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674119d",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -2501,9 +2501,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20d7",
-    "_parentId": "64e5c250d3bd3552943b20b3",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a674119f",
+    "_parentId": "65c34bbe0bc456b7a674114f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2593,9 +2593,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "650704ec6c7f2657647eb9a4",
-    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411a1",
+    "_parentId": "65c34bbe0bc456b7a674115f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2685,9 +2685,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527efc581a06b1e0c982381",
-    "_parentId": "6527e26281a06b1e0c975001",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411a3",
+    "_parentId": "65c34bbe0bc456b7a6741155",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2777,9 +2777,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f950cc0d6cf133475454d",
-    "_parentId": "653f9386c0d6cf133475356f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411a5",
+    "_parentId": "65c34bbe0bc456b7a674115d",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2869,9 +2869,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653fc64bc0d6cf1334786a36",
-    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411a7",
+    "_parentId": "65c34bbf0bc456b7a6741165",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2944,98 +2944,6 @@
     }
   },
   {
-    "title": "Exercise E08 and E09",
-    "displayTitle": "Exercise E08 and E09",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6565d24b6d0c680678a51f44",
-    "_parentId": "6527e58481a06b1e0c978b35",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Challenges I",
     "displayTitle": "Challenges I",
     "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
@@ -3053,8 +2961,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a6741151",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -3128,6 +3036,98 @@
     }
   },
   {
+    "title": "Exercise E03",
+    "displayTitle": "Exercise E03",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">06.12</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the additional MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice.</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\">***</p><p style=\"text-align:justify\">Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "60 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a6741157",
+    "_parentId": "65c34bbe0bc456b7a6741155",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Course Organization",
     "displayTitle": "Course Organization",
     "body": "<p>Find out who the team organising the course is, how the course is structured and what the formal requirements for successful participation are.</p>",
@@ -3145,9 +3145,9 @@
     "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20cd",
-    "_parentId": "64e5c250d3bd3552943b20b3",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411ab",
+    "_parentId": "65c34bbe0bc456b7a674114f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3237,9 +3237,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "650704ec6c7f2657647eb9dd",
-    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411ad",
+    "_parentId": "65c34bbe0bc456b7a674115f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3329,9 +3329,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653face7c0d6cf133476ad21",
-    "_parentId": "6527e5c081a06b1e0c978e58",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411af",
+    "_parentId": "65c34bbf0bc456b7a6741165",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3404,98 +3404,6 @@
     }
   },
   {
-    "title": "Exercise E03",
-    "displayTitle": "Exercise E03",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p style=\"text-align:left\"><span><span><span><span><strong>Deadline: </strong><span style=\"color:black\">06.12</span>.202<span style=\"color:black\">3</span> – <span style=\"color:black\">1</span>:00 pm</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Political, Collective and Individual Action&nbsp;</span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span>Work through the additional MOOC content for L04 (<a href=\"https://ltg.etce-lab.de/#/id/6527efc781a06b1e0c98249b\" style=\"color:blue; text-decoration:underline\">Link</a>). There you will learn about sustainable everyday practices and the problem of food waste. </span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>Watch all the videos, read all the texts and answer the questions.</span></span></span></span></li></ol></li><li style=\"text-align:left\"><span><span><span><span>In the lecture, we discussed the history of international and national actions. In part 1 of the exercise you have learned about individual actions and what a single person can do. </span></span></span></span><ol style=\"list-style-type:lower-alpha\"><li style=\"text-align:left\"><span><span><span><span>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests) or (3) Individual Action (e.g. what you yourself can do). </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Explain your choice.</span></span></span></span></li></ol></li></ol><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E03-&lt;firstname.lastname &gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:</span></span></span></span><br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color: blue;\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:justify\">&nbsp;</p><p style=\"text-align:justify\">***</p><p style=\"text-align:justify\">Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "60 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "65572a8fc99d2e329c8af0d2",
-    "_parentId": "6527e26281a06b1e0c975001",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Challenges II",
     "displayTitle": "Challenges II",
     "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
@@ -3513,8 +3421,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20b1",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a6741153",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -3605,9 +3513,9 @@
     "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527efc781a06b1e0c98249b",
-    "_parentId": "6527e26281a06b1e0c975001",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a6741159",
+    "_parentId": "65c34bbe0bc456b7a6741155",
     "_type": "menu",
     "_graphic": {
       "alt": "",
@@ -3697,9 +3605,9 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f9722c0d6cf1334757261",
-    "_parentId": "64e5c250d3bd3552943b20c7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411b1",
+    "_parentId": "65c34bbe0bc456b7a674115f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3789,8 +3697,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527e26281a06b1e0c975001",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a6741155",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -3881,8 +3789,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f9622c0d6cf1334756276",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a674115b",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -3973,8 +3881,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "653f9386c0d6cf133475356f",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a674115d",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -4065,8 +3973,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20c7",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbe0bc456b7a674115f",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -4157,8 +4065,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527e5c081a06b1e0c978e58",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741165",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -4249,8 +4157,8 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527e5e781a06b1e0c9791b1",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741167",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -4333,7 +4241,7 @@
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "90 minutes",
+    "duration": "180 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -4341,18 +4249,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527e58481a06b1e0c978b35",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bbf0bc456b7a6741169",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/d0b9efe9c1420bef646ed8437ad5be048d334cdd.png"
+      "src": "course/en/assets/c155e670a91237d55a98c613fbfc30f54627ed98.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -4361,12 +4275,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4433,18 +4341,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "6527e26d81a06b1e0c97505b",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411b3",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/97202c48680ff31044944be9b607f1d77661bbc7.png"
+      "src": "course/en/assets/8b0c976ef47b7f79de095e7e21bc6293e7cef85e.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -4453,12 +4367,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4525,18 +4433,24 @@
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
-    "_ariaLevel": 0,
-    "_id": "64e5c250d3bd3552943b20c5",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65c34bc00bc456b7a67411b5",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/8f4ce7a46fe8b276223cabab941a3694cd62d567.png"
+      "src": "course/en/assets/f84e70fa8969012ebd5b024f3c8a8888cf9110bd.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -4545,12 +4459,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
