@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a05a",
-    "_parentId": "65d0ac316ded5d72a556a04e",
+    "_id": "65df00fc676ad51ee894e7e6",
+    "_parentId": "65df00fb676ad51ee894e7da",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -119,8 +119,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a05b",
-    "_parentId": "65d0ac316ded5d72a556a042",
+    "_id": "65df00fc676ad51ee894e7e7",
+    "_parentId": "65df00fb676ad51ee894e7ce",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -227,8 +227,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a05c",
-    "_parentId": "65d0ac306ded5d72a556a012",
+    "_id": "65df00fc676ad51ee894e7e8",
+    "_parentId": "65df00fa676ad51ee894e79e",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -306,8 +306,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a05d",
-    "_parentId": "65d0ac306ded5d72a556a014",
+    "_id": "65df00fc676ad51ee894e7e9",
+    "_parentId": "65df00fa676ad51ee894e7a0",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -385,8 +385,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a05e",
-    "_parentId": "65d0ac316ded5d72a556a02a",
+    "_id": "65df00fc676ad51ee894e7ea",
+    "_parentId": "65df00fb676ad51ee894e7b6",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -493,8 +493,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a05f",
-    "_parentId": "65d0ac316ded5d72a556a044",
+    "_id": "65df00fc676ad51ee894e7eb",
+    "_parentId": "65df00fb676ad51ee894e7d0",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -572,8 +572,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a060",
-    "_parentId": "65d0ac316ded5d72a556a02c",
+    "_id": "65df00fc676ad51ee894e7ec",
+    "_parentId": "65df00fb676ad51ee894e7b8",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -680,8 +680,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a061",
-    "_parentId": "65d0ac316ded5d72a556a046",
+    "_id": "65df00fc676ad51ee894e7ed",
+    "_parentId": "65df00fb676ad51ee894e7d2",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -725,8 +725,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a062",
-    "_parentId": "65d0ac316ded5d72a556a050",
+    "_id": "65df00fc676ad51ee894e7ee",
+    "_parentId": "65df00fb676ad51ee894e7dc",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -770,116 +770,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a063",
-    "_parentId": "65d0ac306ded5d72a556a016",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      }
-    }
-  },
-  {
-    "title": "Live Lecture",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a064",
-    "_parentId": "65d0ac316ded5d72a556a02e",
+    "_id": "65df00fc676ad51ee894e7ef",
+    "_parentId": "65df00fa676ad51ee894e7a2",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -986,8 +878,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a065",
-    "_parentId": "65d0ac316ded5d72a556a030",
+    "_id": "65df00fc676ad51ee894e7f0",
+    "_parentId": "65df00fb676ad51ee894e7ba",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1094,8 +986,116 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a066",
-    "_parentId": "65d0ac316ded5d72a556a048",
+    "_id": "65df00fc676ad51ee894e7f1",
+    "_parentId": "65df00fb676ad51ee894e7bc",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Live Lecture",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65df00fc676ad51ee894e7f2",
+    "_parentId": "65df00fb676ad51ee894e7d4",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1202,8 +1202,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a067",
-    "_parentId": "65d0ac316ded5d72a556a01a",
+    "_id": "65df00fc676ad51ee894e7f3",
+    "_parentId": "65df00fa676ad51ee894e7a6",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1310,8 +1310,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a068",
-    "_parentId": "65d0ac316ded5d72a556a032",
+    "_id": "65df00fc676ad51ee894e7f4",
+    "_parentId": "65df00fb676ad51ee894e7be",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1418,8 +1418,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a069",
-    "_parentId": "65d0ac316ded5d72a556a01c",
+    "_id": "65df00fc676ad51ee894e7f5",
+    "_parentId": "65df00fb676ad51ee894e7a8",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1463,116 +1463,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a06a",
-    "_parentId": "65d0ac316ded5d72a556a04a",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      }
-    }
-  },
-  {
-    "title": "Live Lecture",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a06b",
-    "_parentId": "65d0ac316ded5d72a556a034",
+    "_id": "65df00fc676ad51ee894e7f6",
+    "_parentId": "65df00fb676ad51ee894e7d6",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1679,8 +1571,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a06c",
-    "_parentId": "65d0ac316ded5d72a556a054",
+    "_id": "65df00fc676ad51ee894e7f7",
+    "_parentId": "65df00fb676ad51ee894e7c0",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1787,8 +1679,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a06d",
-    "_parentId": "65d0ac316ded5d72a556a036",
+    "_id": "65df00fc676ad51ee894e7f8",
+    "_parentId": "65df00fb676ad51ee894e7e0",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1895,8 +1787,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a06e",
-    "_parentId": "65d0ac316ded5d72a556a052",
+    "_id": "65df00fc676ad51ee894e7f9",
+    "_parentId": "65df00fb676ad51ee894e7c2",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2003,8 +1895,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac316ded5d72a556a06f",
-    "_parentId": "65d0ac306ded5d72a556a010",
+    "_id": "65df00fc676ad51ee894e7fa",
+    "_parentId": "65df00fb676ad51ee894e7de",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2111,8 +2003,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a070",
-    "_parentId": "65d0ac316ded5d72a556a056",
+    "_id": "65df00fc676ad51ee894e7fb",
+    "_parentId": "65df00fa676ad51ee894e79c",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2219,8 +2111,116 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a071",
-    "_parentId": "65d0ac316ded5d72a556a058",
+    "_id": "65df00fc676ad51ee894e7fc",
+    "_parentId": "65df00fb676ad51ee894e7e2",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Live Lecture",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65df00fc676ad51ee894e7fd",
+    "_parentId": "65df00fc676ad51ee894e7e4",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2327,8 +2327,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a072",
-    "_parentId": "65d0ac316ded5d72a556a01e",
+    "_id": "65df00fc676ad51ee894e7fe",
+    "_parentId": "65df00fb676ad51ee894e7aa",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2406,8 +2406,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a073",
-    "_parentId": "65d0ac316ded5d72a556a04c",
+    "_id": "65df00fc676ad51ee894e7ff",
+    "_parentId": "65df00fb676ad51ee894e7d8",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2485,8 +2485,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a074",
-    "_parentId": "65d0ac316ded5d72a556a020",
+    "_id": "65df00fc676ad51ee894e800",
+    "_parentId": "65df00fb676ad51ee894e7ac",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2564,8 +2564,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a075",
-    "_parentId": "65d0ac316ded5d72a556a038",
+    "_id": "65df00fc676ad51ee894e801",
+    "_parentId": "65df00fb676ad51ee894e7c4",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2609,8 +2609,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a076",
-    "_parentId": "65d0ac316ded5d72a556a022",
+    "_id": "65df00fc676ad51ee894e802",
+    "_parentId": "65df00fb676ad51ee894e7ae",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2688,8 +2688,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a077",
-    "_parentId": "65d0ac316ded5d72a556a03a",
+    "_id": "65df00fc676ad51ee894e803",
+    "_parentId": "65df00fb676ad51ee894e7c6",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2767,8 +2767,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a078",
-    "_parentId": "65d0ac316ded5d72a556a024",
+    "_id": "65df00fc676ad51ee894e804",
+    "_parentId": "65df00fb676ad51ee894e7b0",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2875,8 +2875,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a079",
-    "_parentId": "65d0ac316ded5d72a556a03c",
+    "_id": "65df00fc676ad51ee894e805",
+    "_parentId": "65df00fb676ad51ee894e7c8",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2983,8 +2983,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a07a",
-    "_parentId": "65d0ac316ded5d72a556a026",
+    "_id": "65df00fc676ad51ee894e806",
+    "_parentId": "65df00fb676ad51ee894e7b2",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3062,8 +3062,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a07b",
-    "_parentId": "65d0ac316ded5d72a556a03e",
+    "_id": "65df00fc676ad51ee894e807",
+    "_parentId": "65df00fb676ad51ee894e7ca",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3141,116 +3141,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a07c",
-    "_parentId": "65d0ac316ded5d72a556a018",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      }
-    }
-  },
-  {
-    "title": "Live Lecture",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a07d",
-    "_parentId": "65d0ac316ded5d72a556a028",
+    "_id": "65df00fc676ad51ee894e808",
+    "_parentId": "65df00fa676ad51ee894e7a4",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3357,8 +3249,116 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a07e",
-    "_parentId": "65d0ac316ded5d72a556a040",
+    "_id": "65df00fc676ad51ee894e809",
+    "_parentId": "65df00fb676ad51ee894e7b4",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "Live Lecture",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "65df00fc676ad51ee894e80a",
+    "_parentId": "65df00fb676ad51ee894e7cc",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3465,8 +3465,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a07f",
-    "_parentId": "65d0ac316ded5d72a556a050",
+    "_id": "65df00fc676ad51ee894e80b",
+    "_parentId": "65df00fb676ad51ee894e7dc",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3510,8 +3510,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a080",
-    "_parentId": "65d0ac316ded5d72a556a02c",
+    "_id": "65df00fc676ad51ee894e80c",
+    "_parentId": "65df00fb676ad51ee894e7b8",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3618,8 +3618,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a081",
-    "_parentId": "65d0ac316ded5d72a556a01a",
+    "_id": "65df00fc676ad51ee894e80d",
+    "_parentId": "65df00fa676ad51ee894e7a6",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3663,8 +3663,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a082",
-    "_parentId": "65d0ac316ded5d72a556a032",
+    "_id": "65df00fc676ad51ee894e80e",
+    "_parentId": "65df00fb676ad51ee894e7be",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3708,8 +3708,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a083",
-    "_parentId": "65d0ac316ded5d72a556a046",
+    "_id": "65df00fc676ad51ee894e80f",
+    "_parentId": "65df00fb676ad51ee894e7d2",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3753,8 +3753,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a084",
-    "_parentId": "65d0ac316ded5d72a556a038",
+    "_id": "65df00fd676ad51ee894e810",
+    "_parentId": "65df00fb676ad51ee894e7c4",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3832,8 +3832,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a085",
-    "_parentId": "65d0ac316ded5d72a556a024",
+    "_id": "65df00fd676ad51ee894e811",
+    "_parentId": "65df00fb676ad51ee894e7b0",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3877,8 +3877,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a086",
-    "_parentId": "65d0ac316ded5d72a556a03c",
+    "_id": "65df00fd676ad51ee894e812",
+    "_parentId": "65df00fb676ad51ee894e7c8",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3922,8 +3922,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a087",
-    "_parentId": "65d0ac306ded5d72a556a012",
+    "_id": "65df00fd676ad51ee894e813",
+    "_parentId": "65df00fa676ad51ee894e79e",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3967,8 +3967,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a088",
-    "_parentId": "65d0ac316ded5d72a556a01e",
+    "_id": "65df00fd676ad51ee894e814",
+    "_parentId": "65df00fb676ad51ee894e7aa",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4012,8 +4012,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a089",
-    "_parentId": "65d0ac316ded5d72a556a04c",
+    "_id": "65df00fd676ad51ee894e815",
+    "_parentId": "65df00fb676ad51ee894e7d8",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4057,8 +4057,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a08a",
-    "_parentId": "65d0ac316ded5d72a556a020",
+    "_id": "65df00fd676ad51ee894e816",
+    "_parentId": "65df00fb676ad51ee894e7ac",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4102,8 +4102,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a08b",
-    "_parentId": "65d0ac316ded5d72a556a022",
+    "_id": "65df00fd676ad51ee894e817",
+    "_parentId": "65df00fb676ad51ee894e7ae",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4147,8 +4147,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a08c",
-    "_parentId": "65d0ac316ded5d72a556a03a",
+    "_id": "65df00fd676ad51ee894e818",
+    "_parentId": "65df00fb676ad51ee894e7c6",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4192,8 +4192,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a08d",
-    "_parentId": "65d0ac316ded5d72a556a026",
+    "_id": "65df00fd676ad51ee894e819",
+    "_parentId": "65df00fb676ad51ee894e7b2",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4237,8 +4237,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a08e",
-    "_parentId": "65d0ac316ded5d72a556a03e",
+    "_id": "65df00fd676ad51ee894e81a",
+    "_parentId": "65df00fb676ad51ee894e7ca",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4282,8 +4282,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a08f",
-    "_parentId": "65d0ac316ded5d72a556a02c",
+    "_id": "65df00fd676ad51ee894e81b",
+    "_parentId": "65df00fb676ad51ee894e7b8",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4327,8 +4327,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a090",
-    "_parentId": "65d0ac316ded5d72a556a046",
+    "_id": "65df00fd676ad51ee894e81c",
+    "_parentId": "65df00fb676ad51ee894e7d2",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4372,8 +4372,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a091",
-    "_parentId": "65d0ac316ded5d72a556a01a",
+    "_id": "65df00fd676ad51ee894e81d",
+    "_parentId": "65df00fa676ad51ee894e7a6",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4480,8 +4480,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a092",
-    "_parentId": "65d0ac316ded5d72a556a032",
+    "_id": "65df00fd676ad51ee894e81e",
+    "_parentId": "65df00fb676ad51ee894e7be",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4588,8 +4588,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a093",
-    "_parentId": "65d0ac316ded5d72a556a038",
+    "_id": "65df00fd676ad51ee894e81f",
+    "_parentId": "65df00fb676ad51ee894e7c4",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4633,8 +4633,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a094",
-    "_parentId": "65d0ac316ded5d72a556a024",
+    "_id": "65df00fd676ad51ee894e820",
+    "_parentId": "65df00fb676ad51ee894e7b0",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4741,8 +4741,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "65d0ac326ded5d72a556a095",
-    "_parentId": "65d0ac316ded5d72a556a03c",
+    "_id": "65df00fd676ad51ee894e821",
+    "_parentId": "65df00fb676ad51ee894e7c8",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,

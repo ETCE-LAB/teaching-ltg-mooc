@@ -67,8 +67,7 @@
         "correct": "Correct",
         "locked": "Locked",
         "visited": "Visited"
-      },
-      "altFeedbackTitle": "Feedback"
+      }
     },
     "_extensions": {
       "_resources": {
