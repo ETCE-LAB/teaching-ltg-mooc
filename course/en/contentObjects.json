@@ -2307,7 +2307,7 @@
     "subtitle": "",
     "pageBody": "<p>In this lecture, you will discover the central concept behind the course. We will give you a short overview of the ecological problems and societal challenges we will discuss and why we think this may be of more importance to you than you may first think.</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be our publicly available teaching material on GitHub.</p>",
     "instruction": "",
-    "_htmlClasses": "",
+    "_htmlClasses": ".disabled-page {   pointer-events: none;   opacity: 0.5;   filter: grayscale(100%); }",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
@@ -2330,6 +2330,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -2337,12 +2343,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
