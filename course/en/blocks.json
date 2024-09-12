@@ -12864,105 +12864,11 @@
     }
   },
   {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 145,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca819a892427018688b",
-    "_parentId": "66e19ca219a892427018679c",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
     "title": "Sustainability-Related Technologies",
     "displayTitle": "Sustainability-Related Technologies",
     "body": "<p>This interactive graphic shows some sustainability-related technologies.&nbsp;These technologies are designed to reduce the negative impact of human activities on the planet and enhance our ability to meet the needs of present and future generations. Find out more about each of the fields of technologies where technologies are being developed or researched to&nbsp;address environmental, social, and economic challenges.</p>",
     "_classes": "",
-    "_trackingId": 146,
+    "_trackingId": 145,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13056,7 +12962,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 147,
+    "_trackingId": 146,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13150,7 +13056,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 148,
+    "_trackingId": 147,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13244,7 +13150,7 @@
     "displayTitle": "Explore the Interactive Graphic!",
     "body": "<p>Explore the interactive graphic by looking at the different countries and regions and finding out how the emissions by sector change between other geographical areas. Answer the question below by finding the relevant data within the graphic.&nbsp;</p>",
     "_classes": "green-bg",
-    "_trackingId": 149,
+    "_trackingId": 148,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13338,7 +13244,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 150,
+    "_trackingId": 149,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13432,7 +13338,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 151,
+    "_trackingId": 150,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13526,7 +13432,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 152,
+    "_trackingId": 151,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13620,7 +13526,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 153,
+    "_trackingId": 152,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13714,7 +13620,7 @@
     "displayTitle": "Questions",
     "body": "",
     "_classes": "",
-    "_trackingId": 154,
+    "_trackingId": 153,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13808,7 +13714,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 155,
+    "_trackingId": 154,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13902,7 +13808,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 156,
+    "_trackingId": 155,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -13996,7 +13902,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 157,
+    "_trackingId": 156,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14016,7 +13922,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 158,
+    "_trackingId": 157,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14110,7 +14016,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 159,
+    "_trackingId": 158,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14204,7 +14110,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 160,
+    "_trackingId": 159,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14298,7 +14204,7 @@
     "displayTitle": "The Linear (Industrial) Economy",
     "body": "<p>In the linear industrial economy, the process begins with the globalized industrialized production, involving the extraction and utilization of various resources such as water, energy, materials, and human resources like labor and skills. These elements are harnessed to manufacture goods ranging from infrastructure and buildings to equipment and durable products.</p><p>Once produced, the goods undergo the second stage: globalized distribution logistics. This phase encompasses the distribution of the manufactured items to points of sale, where commercialization occurs either at the factory gate or directly at the point of sale. The objects are then made available to consumers through various means, such as sales, leases, rentals, or as services, marking the completion of the linear process. This traditional model is marked by a one-way flow from resource extraction to disposal, contributing to issues of resource depletion and environmental impact.</p>",
     "_classes": "",
-    "_trackingId": 161,
+    "_trackingId": 160,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14392,7 +14298,7 @@
     "displayTitle": "Circular Economy vs. Circular Society ",
     "body": "<p>This table provides a concise overview of the differences between the two models across various dimensions. It offers insights into their temporal and spatial scales, sustainability considerations, perspectives on resource nexus, attitudes towards capitalism and decoupling, primary goals, and overarching narratives.</p>",
     "_classes": "",
-    "_trackingId": 162,
+    "_trackingId": 161,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14486,7 +14392,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 163,
+    "_trackingId": 162,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14580,7 +14486,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 164,
+    "_trackingId": 163,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14674,101 +14580,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 165,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca819a892427018687e",
-    "_parentId": "66e19ca219a89242701867a4",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 166,
+    "_trackingId": 164,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14788,7 +14600,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 167,
+    "_trackingId": 165,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14882,7 +14694,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 168,
+    "_trackingId": 166,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14976,7 +14788,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 169,
+    "_trackingId": 167,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -14996,7 +14808,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 170,
+    "_trackingId": 168,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15090,7 +14902,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 171,
+    "_trackingId": 169,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15184,7 +14996,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 172,
+    "_trackingId": 170,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15278,7 +15090,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 173,
+    "_trackingId": 171,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15372,7 +15184,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 174,
+    "_trackingId": 172,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15466,7 +15278,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 175,
+    "_trackingId": 173,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15486,7 +15298,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 176,
+    "_trackingId": 174,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15580,7 +15392,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 177,
+    "_trackingId": 175,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15674,7 +15486,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 178,
+    "_trackingId": 176,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15768,7 +15580,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 179,
+    "_trackingId": 177,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15862,7 +15674,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 180,
+    "_trackingId": 178,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15882,7 +15694,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 181,
+    "_trackingId": 179,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -15976,7 +15788,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 182,
+    "_trackingId": 180,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16070,7 +15882,63 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 183,
+    "_trackingId": 181,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e2fdbc19a8924270186f18",
+    "_parentId": "66e19ca219a892427018679c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 182,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16164,7 +16032,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 184,
+    "_trackingId": 183,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16258,7 +16126,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 185,
+    "_trackingId": 184,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16352,7 +16220,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 186,
+    "_trackingId": 185,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16446,7 +16314,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 187,
+    "_trackingId": 186,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16540,7 +16408,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 188,
+    "_trackingId": 187,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16634,7 +16502,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 189,
+    "_trackingId": 188,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16654,7 +16522,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 190,
+    "_trackingId": 189,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16674,7 +16542,7 @@
     "displayTitle": "Questions",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 191,
+    "_trackingId": 190,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16768,7 +16636,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 192,
+    "_trackingId": 191,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16862,7 +16730,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 193,
+    "_trackingId": 192,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -16956,7 +16824,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 194,
+    "_trackingId": 193,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17050,7 +16918,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 195,
+    "_trackingId": 194,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17144,7 +17012,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 196,
+    "_trackingId": 195,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17238,7 +17106,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 197,
+    "_trackingId": 196,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17332,7 +17200,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 198,
+    "_trackingId": 197,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17426,7 +17294,7 @@
     "displayTitle": "",
     "body": "<p>In a linear economy's waste management system, there is a notable concept known as the \"liability border.\" This term refers to the point at which the responsibility for waste is shifted away from the producer and becomes someone else's problem. In the traditional linear model, once a product is sold and reaches the end of its life cycle, the producer often considers their responsibility fulfilled. The disposal and management of the resulting waste then become the concern of the consumer or local authorities.</p><p>This approach creates a disconnect between the production and disposal phases, leading to a lack of accountability for the environmental impact of the products. The linear economy's \"take, make, dispose\" model doesn't inherently incentivize producers to address the end-of-life impact of their goods. Consequently, the disposal of products becomes somebody else's problem, often burdening communities, waste management facilities, or the environment with the responsibility of dealing with the waste.</p>",
     "_classes": "",
-    "_trackingId": 199,
+    "_trackingId": 198,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17520,7 +17388,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 200,
+    "_trackingId": 199,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17614,7 +17482,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 201,
+    "_trackingId": 200,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17708,7 +17576,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 202,
+    "_trackingId": 201,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17802,7 +17670,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 203,
+    "_trackingId": 202,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17896,7 +17764,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 204,
+    "_trackingId": 203,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -17990,7 +17858,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 205,
+    "_trackingId": 204,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -18084,7 +17952,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 206,
+    "_trackingId": 205,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -18178,7 +18046,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 207,
+    "_trackingId": 206,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -18272,7 +18140,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 208,
+    "_trackingId": 207,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -18292,7 +18160,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 209,
+    "_trackingId": 208,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -18386,101 +18254,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 210,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19caa19a89242701868fd",
-    "_parentId": "66e19ca219a8924270186796",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_isInherited": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": true,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 211,
+    "_trackingId": 209,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -18567,6 +18341,118 @@
       "_paddingBottom": "half",
       "_componentVerticalAlignment": "top",
       "_componentHorizontalAlignment": "left"
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 210,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e2fe3819a8924270186f1c",
+    "_parentId": "66e19ca219a892427018679c",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 211,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e3044919a8924270186f40",
+    "_parentId": "66e19ca219a89242701867a4",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     }
   },
   {
@@ -20368,6 +20254,118 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e2f7af19a8924270186f10",
+    "_parentId": "66e19ca219a8924270186796",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 232,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e304a219a8924270186f44",
+    "_parentId": "66e19ca219a89242701867a4",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 233,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
     "_id": "66e19caa19a8924270186907",
     "_parentId": "66e19ca119a892427018677b",
     "_type": "block",
@@ -20414,7 +20412,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 232,
+    "_trackingId": 234,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20508,7 +20506,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 233,
+    "_trackingId": 235,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20602,7 +20600,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 234,
+    "_trackingId": 236,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20696,7 +20694,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 235,
+    "_trackingId": 237,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20790,7 +20788,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 236,
+    "_trackingId": 238,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20884,7 +20882,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 237,
+    "_trackingId": 239,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20904,7 +20902,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 238,
+    "_trackingId": 240,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -20912,14 +20910,9 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19caa19a8924270186913",
-    "_parentId": "66e19ca219a8924270186799",
+    "_id": "66e2f96419a8924270186f14",
+    "_parentId": "66e19ca219a8924270186796",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
@@ -20941,6 +20934,8 @@
         "_hasIcon": false,
         "text": "Continue",
         "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
         "finalText": "Finish",
@@ -20956,41 +20951,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
     }
   },
   {
@@ -20998,7 +20958,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 239,
+    "_trackingId": 241,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21092,7 +21052,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 240,
+    "_trackingId": 242,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21186,7 +21146,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 241,
+    "_trackingId": 243,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21280,7 +21240,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 242,
+    "_trackingId": 244,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21374,7 +21334,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 243,
+    "_trackingId": 245,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21468,7 +21428,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 244,
+    "_trackingId": 246,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21562,7 +21522,63 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 245,
+    "_trackingId": 247,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e3019119a8924270186f28",
+    "_parentId": "66e19ca219a8924270186799",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 248,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21656,7 +21672,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 246,
+    "_trackingId": 249,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21750,7 +21766,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 247,
+    "_trackingId": 250,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21844,7 +21860,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 248,
+    "_trackingId": 251,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21864,7 +21880,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 249,
+    "_trackingId": 252,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -21872,14 +21888,9 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19cab19a8924270186922",
-    "_parentId": "66e19ca119a892427018677d",
+    "_id": "66e301ca19a8924270186f2c",
+    "_parentId": "66e19ca219a8924270186799",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
@@ -21901,6 +21912,8 @@
         "_hasIcon": false,
         "text": "Continue",
         "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
         "finalText": "Finish",
@@ -21916,41 +21929,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
     }
   },
   {
@@ -21958,7 +21936,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 250,
+    "_trackingId": 253,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22052,7 +22030,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 251,
+    "_trackingId": 254,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22146,7 +22124,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "green-bg",
-    "_trackingId": 252,
+    "_trackingId": 255,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22240,7 +22218,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 253,
+    "_trackingId": 256,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22248,14 +22226,9 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19cab19a8924270186926",
-    "_parentId": "66e19ca219a8924270186792",
+    "_id": "66e302c619a8924270186f30",
+    "_parentId": "66e19ca119a892427018677d",
     "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
@@ -22277,6 +22250,8 @@
         "_hasIcon": false,
         "text": "Continue",
         "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
         "finalText": "Finish",
@@ -22292,41 +22267,6 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
     }
   },
   {
@@ -22334,7 +22274,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 254,
+    "_trackingId": 257,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22428,7 +22368,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 255,
+    "_trackingId": 258,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22522,7 +22462,7 @@
     "displayTitle": "",
     "body": "",
     "_classes": "",
-    "_trackingId": 256,
+    "_trackingId": 259,
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -22530,34 +22470,9 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19cab19a8924270186929",
-    "_parentId": "66e19ca219a8924270186794",
+    "_id": "66e3035519a8924270186f34",
+    "_parentId": "66e19ca119a892427018677d",
     "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
-    }
-  },
-  {
-    "title": "New Block Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "_trackingId": 257,
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19cab19a892427018692a",
-    "_parentId": "66e19ca219a8924270186798",
-    "_type": "block",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
     "_assessment": {
       "_quizBankID": 1
     },
@@ -22579,6 +22494,8 @@
         "_hasIcon": false,
         "text": "Continue",
         "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
         "startText": "Begin",
         "startAriaLabel": "Begin",
         "finalText": "Finish",
@@ -22594,41 +22511,362 @@
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 260,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e303d819a8924270186f38",
+    "_parentId": "66e19ca219a8924270186792",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
     },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
       },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 261,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19cab19a8924270186929",
+    "_parentId": "66e19ca219a8924270186794",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 262,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e3040e19a8924270186f3c",
+    "_parentId": "66e19ca219a8924270186792",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
       },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 263,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e3010f19a8924270186f20",
+    "_parentId": "66e19ca219a8924270186798",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
       },
-      "_minimumHeights": {
-        "_xlarge": null,
-        "_large": null,
-        "_medium": null,
-        "_small": null
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 264,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e304e219a8924270186f48",
+    "_parentId": "66e19ca219a8924270186794",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
       },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 265,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e3014b19a8924270186f24",
+    "_parentId": "66e19ca219a8924270186798",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
       },
-      "_isDividerBlock": false,
-      "_paddingTop": "half",
-      "_paddingBottom": "half",
-      "_componentVerticalAlignment": "top",
-      "_componentHorizontalAlignment": "left"
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Block Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "_trackingId": 266,
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e3051119a8924270186f4c",
+    "_parentId": "66e19ca219a8924270186794",
+    "_type": "block",
+    "_assessment": {
+      "_quizBankID": 1
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_isInherited": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": true,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "disabledText": "",
+        "disabledAriaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
     }
   }
 ]

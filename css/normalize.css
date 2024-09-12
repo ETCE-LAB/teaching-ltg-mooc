@@ -347,3 +347,9 @@ template {
 [hidden] {
   display: none;
 }
+
+[aria-label="View Introduction. Item 3 of 14."] {
+    pointer-events: none;  
+    opacity: 0.5;         
+    cursor: not-allowed;   
+}
