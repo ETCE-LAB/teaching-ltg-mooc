@@ -3986,6 +3986,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -3993,12 +3999,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4439,7 +4439,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/e85a96b77dfbf64cc8d35802a39b65365bb16e77.png"
+      "src": "course/en/assets/8322b28fcfa22d26037319c511e9077f9a6e9c78.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4538,6 +4538,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -4545,12 +4551,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4623,7 +4623,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/8b1d14c9304dbbb313c0fa2df2c9314ccfd24eb5.png"
+      "src": "course/en/assets/5cf6e87440317f3c2ab1837e36bfa745d7477bd5.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4722,6 +4722,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -4729,12 +4735,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4814,6 +4814,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -4821,12 +4827,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4899,7 +4899,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/d0b9efe9c1420bef646ed8437ad5be048d334cdd.png"
+      "src": "course/en/assets/ab8288cb689b12d0f63cf83073ed03837701d027.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4991,7 +4991,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/d0b9efe9c1420bef646ed8437ad5be048d334cdd.png"
+      "src": "course/en/assets/419ca43c5a100a30c0e3c9fa61cfaf7104bfca1b.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -5083,7 +5083,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/97202c48680ff31044944be9b607f1d77661bbc7.png"
+      "src": "course/en/assets/b49fc89153c0660ff1d893769c1c8ded8a886a6b.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -5175,7 +5175,7 @@
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/8f4ce7a46fe8b276223cabab941a3694cd62d567.png"
+      "src": "course/en/assets/db763d0950e0c95fdf44b423d7345fbf4f1f6ed4.png"
     },
     "_onScreen": {
       "_isEnabled": false,
