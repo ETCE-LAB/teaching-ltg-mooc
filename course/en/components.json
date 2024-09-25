@@ -2677,7 +2677,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -2714,8 +2714,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -2724,7 +2722,7 @@
       "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "attribution": "",
       "_url": "",
-      "_target": null
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -2734,7 +2732,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -2771,8 +2769,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -2781,7 +2777,7 @@
       "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "attribution": "",
       "_url": "",
-      "_target": null
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -3155,7 +3151,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -3192,8 +3188,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -3202,7 +3196,7 @@
       "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "attribution": "",
       "_url": "",
-      "_target": null
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -4814,8 +4808,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -4837,6 +4829,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -7159,7 +7152,7 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E07",
-    "displayTitle": "Exercise E07",
+    "displayTitle": "",
     "body": "<p><strong>Do you have any questions? </strong>Contact us via email at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p>Identify <strong>THREE </strong>objects that you own that could be replaced by service provision within the Performance Economy (PE).</p><ul><li>Explain your choice for each of the objects in three sentences or more.</li></ul><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address, and your student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E07-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link: <a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:left\">&nbsp;</p>",
     "_id": "66e19cae19a89242701869da",
     "_parentId": "66e19ca519a892427018681d",
@@ -7524,7 +7517,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submit your answer here!",
     "displayTitle": "Submit your answer here!",
-    "body": "<!---Begin SurveyPlanet survey embed--><iframe frameborder=\"0\" width=\"800\" height=\"800\" src=\"https://s.surveyplanet.com/653f9c471a70833cea865286\"></iframe><!--- End SurveyPlanet survey embed -->",
+    "body": "<!---Begin SurveyPlanet survey embed--><p><!--- End SurveyPlanet survey embed --></p>",
     "_id": "66e19cae19a89242701869e9",
     "_parentId": "66e19ca719a8924270186876",
     "_type": "component",
@@ -7555,8 +7548,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -11578,7 +11569,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -11615,8 +11606,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -11638,6 +11627,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -11655,7 +11645,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -11692,8 +11682,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -11715,6 +11703,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -11809,7 +11798,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -11846,8 +11835,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -11869,6 +11856,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -11886,7 +11874,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -11923,8 +11911,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -11946,6 +11932,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -13129,7 +13116,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -13166,8 +13153,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -13189,6 +13174,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -14486,7 +14472,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
     "displayTitle": "",
-    "body": "<!---Begin SurveyPlanet survey embed--><iframe frameborder=\"0\" width=\"800\" height=\"800\" src=\"https://s.surveyplanet.com/654cd926721fa271af88f658\" frameborder=\"0\"></iframe><!--- End SurveyPlanet survey embed -->",
+    "body": "<iframe src=\"https://s.surveyplanet.com/654cd926721fa271af88f658#\" title=\"W3Schools Free Online Web Tutorials\" width=\"100%\" height=\"500\"></iframe>",
     "_id": "66e19cb219a8924270186abf",
     "_parentId": "66e19ca719a8924270186874",
     "_type": "component",
@@ -14517,8 +14503,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -15110,7 +15094,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -15147,8 +15131,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_media": {
       "mp4": "",
@@ -15170,6 +15152,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -16795,7 +16778,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -16832,8 +16815,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -16855,6 +16836,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -17012,8 +16994,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -17035,6 +17015,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -18327,7 +18308,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -18464,7 +18445,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Endnotes",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e4138a67cc9a1050ae60f5",
     "_parentId": "66e4138167cc9a1050ae60f4",
     "_type": "component",
@@ -18804,7 +18785,7 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E06",
-    "displayTitle": "Exercise E06",
+    "displayTitle": "",
     "body": "<p><strong>Task(s):</strong></p><p>Suppose a new sustainability-related technology is presented to you. What are meaningful criteria to assess its contribution to a more sustainable world, i.e., how do you figure out whether it promotes greenwashing or not?</p><ul><li>Collect at least 3 different criteria for assessing the technology.</li><li>Explain your choice.</li></ul><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E06-&lt;firstname.lastname &gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "66e428cb67cc9a1050ae6111",
     "_parentId": "66e428c567cc9a1050ae6110",
@@ -19133,7 +19114,7 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E05",
-    "displayTitle": "Exercise E05",
+    "displayTitle": "",
     "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p><strong>Task(s): </strong></p><p><u>The goal of this LCA exercise is to compare the water consumption of washing dishes: manually using a sink vs a dishwasher, to determine which consumes less.</u></p><ul><li>We (simplisticly) assume that a dishwasher at full load requires ~11 litres of water to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery. We do this to obtain comparative results. We have further standardized the scope of this (unscientific) LCA:<ul><li>Functional Unit: 20 dishes, 20 glasses and 20 pieces of cutlery cleaned.</li><li>Reference Flow: Amount of water consumed (in Liters)</li></ul></li><li>Your main task is to collect LCI data, and determine<strong><em>&nbsp; </em></strong>“How much water do <strong><em>you</em></strong> consume to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery?” We denote this target value by <strong><em>X</em></strong><em>.</em></li></ul><p><strong>Steps:</strong></p><ol><li>Compute the <em>Flow Rate (<strong>f</strong>) </em>of your tap using a timer:<ol><li>Grab an empty cup which has a known maximum capacity (or a graduated measuring cup). We assume this maximum capacity is <strong><em>c </em></strong><em>liters. </em>Remember to compute this in liters and not milliliters.</li><li>Turn on your kitchen tap until the flow of water is indicative of what you use to clean dishes. Be sure to take note of the exact position of the tap, perhaps by using a marker on your tap.</li><li>With the tap open in this position, use a timer to determine the number of seconds (<strong><em>t</em></strong>) required for the cup to fill to it’s maximum capacity.</li><li>Compute the Flow Rate (<strong><em>f</em></strong><em>) = <strong>c / t </strong>&nbsp;</em>Liters per second.</li></ol></li><li>Lifecycle Inventory Analysis<ul><li>For this exercise you will only wash dishes under running tap water, and we divide this system into individual unit processes; one each for washing a dish, a glass and an item of cutlery, For each of these unit processes, we collect data.<ol><li>Wash 1 dish, while using a timer to count how much time the water is flowing<sub>. </sub>Ensure that you use the same tap position as used when computing the flow rate, and that you measure the time in seconds.</li><li>Repeat this process for at 2-3 dishes (possibly of different sizes and levels of dirtyness) and compute the average time required. We denote this average time by <strong><em>T<sub>d. </sub></em></strong></li><li>Repeat steps 1 and 2 for glasses and cutlery, computing&nbsp; <strong><em>T<sub>g&nbsp; </sub></em></strong>and<strong><em><sub> </sub>T<sub>c&nbsp; </sub></em></strong>respectively.</li><li>To relate the data collected to the functional unit of “20 dishes, 20 glasses and 20 pieces of cutlery cleaned”, compute <strong><em>X =&nbsp; (T<sub>d</sub> + T<sub>g</sub> + T<sub>c</sub>) * 20 * f&nbsp; </em></strong>Liters</li></ol></li></ul></li></ol><p>&nbsp;</p><p><u>Submission instructions</u></p><ul><li>Submit the result (<strong>X</strong>) via the poll – <a href=\"https://s.surveyplanet.com/jx167vyo\">Link</a></li><li><strong>BONUS: </strong>If you have a dishwasher, try to determine how much water it consumes for a full load.</li></ul>",
     "_id": "66e42a5f67cc9a1050ae6125",
     "_parentId": "66e42a5b67cc9a1050ae6124",
@@ -19451,7 +19432,7 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E04",
-    "displayTitle": "Exercise E04",
+    "displayTitle": "",
     "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p><u>What are the three most impactful actions we could take to move the World3 model toward the SW run/results as discussed in the lecture?</u></p><ol><li>&nbsp;Have a look at the 4 World3 scenarios that we discussed in the lecture (BAU, BAU2, CT, SW) → <u>Note:</u> Have a look at the links to World3 web version and play around with the model and learn about it in more detail.</li><li>&nbsp;What actions (which policies) could we (humans/politicians) act upon to move the simulation results of the World3 model towards the SW scenario.</li><li>&nbsp;Identify <strong>3</strong> proposals and describe each of them in 3 or more sentences.</li></ol><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address, and your student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E04-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "66e4370767cc9a1050ae613a",
     "_parentId": "66e436fe67cc9a1050ae6139",
@@ -19725,7 +19706,7 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E03",
-    "displayTitle": "Exercise E03",
+    "displayTitle": "",
     "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p><u>Political, Collective, and Individual Action&nbsp;</u></p><p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</p><ol><li>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests), or (3) Individual Action (e.g. what you can do).<ol><li>Explain your choice.</li></ol></li></ol><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address, and your student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E03-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "66e43aca67cc9a1050ae614b",
     "_parentId": "66e43ac567cc9a1050ae614a",
@@ -19768,8 +19749,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise video",
+    "displayTitle": "Exercise video",
     "body": "",
     "_id": "66e43b3d67cc9a1050ae614d",
     "_parentId": "66e43b3767cc9a1050ae614c",
@@ -19999,8 +19980,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E02",
-    "displayTitle": "Exercise E02",
-    "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "displayTitle": "",
+    "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
     "_id": "66e43ce767cc9a1050ae615c",
     "_parentId": "66e43ce267cc9a1050ae615b",
     "_type": "component",
@@ -20042,8 +20023,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise video",
+    "displayTitle": "Exercise video",
     "body": "",
     "_id": "66e43d1e67cc9a1050ae615e",
     "_parentId": "66e43d1a67cc9a1050ae615d",
@@ -20120,7 +20101,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submit your answer here!",
     "displayTitle": "Submit your answer here!",
-    "body": "",
+    "body": "<iframe src=\"https://s.surveyplanet.com/653f9ee01a70833cea869b5f#\" title=\"W3Schools Free Online Web Tutorials\" width=\"100%\" height=\"500\"></iframe>",
     "_id": "66e43d7767cc9a1050ae6160",
     "_parentId": "66e43d7467cc9a1050ae615f",
     "_type": "component",
@@ -20222,6 +20203,423 @@
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes. Please share it widely.</p>",
     "_id": "66e43dd967cc9a1050ae6166",
     "_parentId": "66e43dd667cc9a1050ae6165",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "New Component Title",
+    "body": "<!---Begin SurveyPlanet survey embed--><p><!--- End SurveyPlanet survey embed --></p>",
+    "_id": "66f176cbf59def4b2c742422",
+    "_parentId": "66f176c2f59def4b2c742421",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66f41bb9f59def4b2c742431",
+    "_parentId": "66f4167cf59def4b2c74242f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Lecture Recording: L13",
+    "displayTitle": "Lecture Recording: L13",
+    "body": "<p>Watch the lecture recording for Lecture L13 - Complex Societies and Technology.</p>",
+    "_id": "66f41c15f59def4b2c742435",
+    "_parentId": "66f41c0df59def4b2c742434",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "",
+      "type": "",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
+    "_startVolume": "80%",
+    "_allowFullScreen": false,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "66f41c6ff59def4b2c742437",
+    "_parentId": "66f41c6cf59def4b2c742436",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Endnotes",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "66f41cd3f59def4b2c74243b",
+    "_parentId": "66f41ccff59def4b2c74243a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise E10",
+    "displayTitle": "Exercise E10",
+    "body": "<p>Access the exercise sheets via our GitHub Repository (link below)!</p>",
+    "_id": "66f41e51f59def4b2c742440",
+    "_parentId": "66f41d52f59def4b2c74243e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Sheet",
+    "displayTitle": "Exercise Sheet",
+    "body": "",
+    "_id": "66f41ebaf59def4b2c742442",
+    "_parentId": "66f41eadf59def4b2c742441",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the exercise sheet.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Endnotes",
+    "displayTitle": "",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching materials available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "66f41f16f59def4b2c742446",
+    "_parentId": "66f41f12f59def4b2c742445",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
