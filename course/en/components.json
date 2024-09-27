@@ -1051,8 +1051,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\" target=\"_blank\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org, which is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC-BY-NC-SA</a>.</span></p>",
     "_id": "66e19cab19a892427018694c",
     "_parentId": "66e19ca319a89242701867c6",
     "_type": "component",
@@ -1083,8 +1083,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -1097,8 +1095,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/renewable-energy-sun\">Renewable Energy (Sun)</a>\" by Burcu Köleli used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/renewable-energy-sun\">Renewable Energy (Sun)</a>\" by Burcu Köleli and is used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "66e19cab19a892427018694d",
     "_parentId": "66e19ca319a89242701867c7",
     "_type": "component",
@@ -1129,8 +1127,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -1143,8 +1139,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p dir=\"auto\">The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/break-the-cycle-upcycle\">Break The Cycle – Upcycle</a>\" by Maria Picassó i Piquer for ArtistsForClimate.org used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p dir=\"auto\">The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/break-the-cycle-upcycle\">Break The Cycle – Upcycle</a>\" by Maria Picassó i Piquer for ArtistsForClimate.org, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
     "_id": "66e19cac19a892427018694e",
     "_parentId": "66e19ca319a89242701867c8",
     "_type": "component",
@@ -1175,8 +1171,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -1189,8 +1183,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/growth-is-a-community-effort\">Growth is a Community Effort</a>\" by Marko Jovanovac used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/growth-is-a-community-effort\">Growth is a Community Effort</a>\" by Marko Jovanovac and used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "66e19cac19a892427018694f",
     "_parentId": "66e19ca319a89242701867c9",
     "_type": "component",
@@ -1221,8 +1215,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -6879,9 +6871,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cae19a89242701869d6",
     "_parentId": "66e19caa19a89242701868eb",
     "_type": "component",
@@ -6980,7 +6972,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E07",
     "displayTitle": "",
-    "body": "<p><strong>Do you have any questions? </strong>Contact us via email at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p>Identify <strong>THREE </strong>objects that you own that could be replaced by service provision within the Performance Economy (PE).</p><ul><li>Explain your choice for each of the objects in three sentences or more.</li></ul><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address, and your student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E07-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link: <a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:left\">&nbsp;</p>",
+    "body": "<p><strong>Task(s):</strong></p><p>Identify <strong>THREE </strong>objects you own that could be replaced by service provision within the Performance Economy (PE).</p><ul><li>Explain your choice for each of the objects in three sentences or more.</li></ul><p>&nbsp;</p><p><em><strong><u>Submission instructions</u></strong></em></p><p>Submit the results as a PDF file. The PDF file should contain your full name, student email address, and student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E07-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link: <a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul><p style=\"text-align:left\">&nbsp;</p>",
     "_id": "66e19cae19a89242701869da",
     "_parentId": "66e19ca519a892427018681d",
     "_type": "component",
@@ -7079,9 +7071,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cae19a89242701869de",
     "_parentId": "66e19caa19a89242701868f0",
     "_type": "component",
@@ -7112,8 +7104,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -7158,8 +7148,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Click below to view the exercise sheet.",
     "_graphic": {
       "alt": "",
@@ -7167,8 +7155,8 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth/Exercises",
-      "_target": null
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -7183,8 +7171,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E08",
-    "displayTitle": "Exercise E08",
-    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:blue; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Task 1: </span></u><span style=\"color:black\">In the lecture, we presented a typology of the circular economy vs. circular society discourse (CE vs. CS – Typology). Which of the four categories (<em>Reformist Circular Society, Transformational Circular Society, Techcentric Circular Economy, Fortress Circular Economy</em>) do you prefer and/or deem to be more likely and why?</span></span></span></span></span></p><ul><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Explain your choice.</span></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><span><span><span><span><u>Submission instructions</u></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E08-&lt;firstname.lastname&gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul>",
+    "displayTitle": "",
+    "body": "<p style=\"text-align:left\"><span><span><span><span><strong>Task(s):</strong></span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">In the lecture, we presented a typology of the circular economy vs. circular society discourse (CE vs. CS – Typology). Which of the four categories (<em>Reformist Circular Society, Transformational Circular Society, Techcentric Circular Economy, Fortress Circular Economy</em>) do you prefer and/or deem to be more likely and why?</span></span></span></span></span></li></ol><ul><li style=\"text-align:left\"><span><span><span><span><span style=\"color:black\">Explain your choice.</span></span></span></span></span></li></ul><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><em><strong><span><span><span><span><u>Submission instructions</u></span></span></span></span></strong></em></p><p style=\"text-align:justify\"><span><span><span><span><span style=\"color:black\">Submit the results as a PDF file. The PDF file should contain your full name, student email address, and student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></span></span></span></span></span></p><p style=\"text-align:justify\"><span><span><span><span>Submission filename: “E08-&lt;firstname.lastname&gt;.pdf”</span></span></span></span></p><ul><li style=\"text-align:justify\"><span><span><span><span>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\" style=\"color:blue; text-decoration:underline\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></span></span></span></span></li></ul>",
     "_id": "66e19cae19a89242701869e2",
     "_parentId": "66e19ca519a892427018681f",
     "_type": "component",
@@ -7215,8 +7203,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -7233,63 +7219,6 @@
     "body": "",
     "_id": "66e19cae19a89242701869e3",
     "_parentId": "66e19ca419a89242701867df",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cae19a89242701869e6",
-    "_parentId": "66e19ca719a8924270186875",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7437,63 +7366,6 @@
     "body": "",
     "_id": "66e19cae19a89242701869eb",
     "_parentId": "66e19ca719a8924270186877",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": null
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cae19a89242701869ee",
-    "_parentId": "66e19ca719a8924270186878",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
@@ -7809,9 +7681,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19caf19a89242701869fc",
     "_parentId": "66e19ca919a89242701868a6",
     "_type": "component",
@@ -7842,8 +7714,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -7888,8 +7758,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Click below to view the lecture slides.",
     "_graphic": {
       "alt": "",
@@ -7897,8 +7765,8 @@
       "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
       "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth",
-      "_target": null
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -7969,9 +7837,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19caf19a8924270186a03",
     "_parentId": "66e19ca919a89242701868ab",
     "_type": "component",
@@ -8002,8 +7870,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -8129,9 +7995,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19caf19a8924270186a0a",
     "_parentId": "66e19ca919a89242701868b0",
     "_type": "component",
@@ -8162,8 +8028,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -8593,8 +8457,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\" target=\"_blank\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org, which is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC-BY-NC-SA</a>.</span></p>",
     "_id": "66e19caf19a8924270186a16",
     "_parentId": "66e19ca419a89242701867e6",
     "_type": "component",
@@ -8625,8 +8489,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -8773,8 +8635,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\" target=\"_blank\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org, which is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC-BY-NC-SA</a>.</span></p>",
     "_id": "66e19caf19a8924270186a1b",
     "_parentId": "66e19ca419a89242701867e8",
     "_type": "component",
@@ -8805,8 +8667,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -8953,8 +8813,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\" target=\"_blank\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org, which is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC-BY-NC-SA</a>.</span></p>",
     "_id": "66e19caf19a8924270186a20",
     "_parentId": "66e19ca419a89242701867ea",
     "_type": "component",
@@ -8985,8 +8845,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -9252,8 +9110,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/our-future-is-circular\">Our Future is Circular</a>\" by Francesca Milani&nbsp;for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/our-future-is-circular\" target=\"_blank\">Our Future is Circular</a>\" by Francesca Milani for ArtistsForClimate.org, which is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC-BY-NC-SA</a>.</span></p>",
     "_id": "66e19caf19a8924270186a2a",
     "_parentId": "66e19ca419a89242701867ec",
     "_type": "component",
@@ -9284,8 +9142,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -10245,177 +10101,6 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "66e19cb019a8924270186a48",
-    "_parentId": "66e19ca919a89242701868b7",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c4d",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a4b",
-    "_parentId": "66e19caa19a89242701868fb",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c4f",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a4e",
-    "_parentId": "66e19cab19a8924270186923",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c61",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
     "_id": "66e19cb019a8924270186a57",
     "_parentId": "66e19ca919a89242701868b8",
     "_type": "component",
@@ -10456,177 +10141,6 @@
       "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
       "attribution": "",
       "_url": "#/id/657972b41c652245d00c4c81",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a5d",
-    "_parentId": "66e19ca619a892427018684e",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c65",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a60",
-    "_parentId": "66e19cab19a8924270186929",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/653f97f7c0d6cf1334758cb7",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a63",
-    "_parentId": "66e19ca819a892427018687f",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c5f",
       "_target": "_self"
     },
     "_isScrollable": false,
@@ -12294,7 +11808,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Introduction",
     "displayTitle": "Introduction",
-    "body": "<p>In this lecture, we want to take a closer look at Life Cycle Assessement, a methodlogy that&nbsp;investigates the complete life journey of a product or system, from its creation to its end. Instead of just focusing on the end result, LCA looks at every stage—where materials come from, how things are made, how they're used, and even what happens when they're thrown away.</p><p>In essence, LCA enables us to zoom out and see the bigger picture, understanding how our choices impact the environment. It's not just about the end product; it's about comprehending the entire journey, from start to finish.&nbsp;</p>",
+    "body": "<p>In this lecture, we want to take a closer look at Life Cycle Assessement, a methodology that&nbsp;investigates the complete life journey of a product or system, from its creation to its end. Instead of just focusing on the end result, LCA looks at every stage—where materials come from, how things are made, how they're used, and even what happens when they're thrown away.</p><p>In essence, LCA enables us to zoom out and see the bigger picture, understanding how our choices impact the environment. It's not just about the end product; it's about comprehending the entire journey, from start to finish.&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>",
     "_id": "66e19cb119a8924270186a9e",
     "_parentId": "66e19ca619a892427018682d",
     "_type": "component",
@@ -12325,8 +11839,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -12348,6 +11860,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -12370,8 +11883,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/care-for-your-home\">Care for Your Home</a>\" by Ely Astorga for ArtistsForClimate.org used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/care-for-your-home\">Care for Your Home</a>\" by Ely Astorga for ArtistsForClimate.org and is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
     "_id": "66e19cb119a8924270186a9f",
     "_parentId": "66e19ca419a89242701867f2",
     "_type": "component",
@@ -12402,8 +11915,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -12623,7 +12134,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Scope of an LCA Study",
     "displayTitle": "Scope of an LCA Study",
-    "body": "<p>Moving forward, we discuss the <em><strong>scope of an LCA study</strong></em>. How do we define the boundaries of our assessment? What are the specific objectives we aim to achieve? This part will guide you through the scoping process, helping you delineate the system boundaries and identify the life cycle stages relevant to your analysis. In these two videos, we will talk about the following aspects that make up a LCA framework:</p><p>Firstly, defining the <strong>Functional Unit(s)</strong> is analogous to setting the success criteria for the product or system under scrutiny. It's about specifying what, precisely, we're measuring and evaluating.</p><p>Next, the concept of <strong>Reference Flow(s)</strong> comes into play. These are benchmarks, comparable standards that enable us to assess how well our subject performs to others.</p>",
+    "body": "<p>Moving forward, we discuss the <em><strong>scope of an LCA study</strong></em>. How do we define the boundaries of our assessment? What are the specific objectives we aim to achieve? This part will guide you through the scoping process, helping you delineate the system boundaries and identify the life cycle stages relevant to your analysis. In these two videos, we will talk about the following aspects that make up a LCA framework:</p><p>Firstly, defining the <strong>Functional Unit(s)</strong> is analogous to setting the success criteria for the product or system under scrutiny. It's about specifying what we're measuring and evaluating precisely.</p><p>Next, the concept of <strong>Reference Flow(s)</strong> comes into play. These are benchmarks, comparable standards that enable us to assess how well our subject performs to others.</p>",
     "_id": "66e19cb119a8924270186aa2",
     "_parentId": "66e19ca819a8924270186885",
     "_type": "component",
@@ -12654,8 +12165,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -12677,6 +12186,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -13747,8 +13257,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/two-possible-futures\">Two possible Futures</a>\" by Joana Campinas for ArtistsForClimate.org used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/two-possible-futures\">Two Possible Futures</a>\" by Joana Campinas for ArtistsForClimate.org, used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "66e19cb219a8924270186aba",
     "_parentId": "66e19ca419a89242701867f4",
     "_type": "component",
@@ -13779,8 +13289,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -14477,9 +13985,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cb219a8924270186ac6",
     "_parentId": "66e19ca919a89242701868bd",
     "_type": "component",
@@ -14510,8 +14018,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -14519,7 +14025,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -14703,63 +14209,6 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb219a8924270186ace",
-    "_parentId": "66e19ca819a8924270186887",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/6565d24b6d0c680678a51f44",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
@@ -14768,9 +14217,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cb219a8924270186ad1",
     "_parentId": "66e19ca919a89242701868c2",
     "_type": "component",
@@ -14990,63 +14439,6 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb219a8924270186ad9",
-    "_parentId": "66e19ca819a8924270186888",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/6565d24b6d0c680678a51f44",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "media",
     "_classes": "",
     "_isOptional": false,
@@ -15055,8 +14447,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L11",
-    "displayTitle": "Lecture Recording: L11",
+    "title": "Lecture Recording: L12",
+    "displayTitle": "Lecture Recording: L12",
     "body": "<p>Watch the lecture recording for Lecture L11 - Invited Lecture.</p>",
     "_id": "66e19cb219a8924270186adc",
     "_parentId": "66e19ca519a8924270186824",
@@ -15088,8 +14480,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -15111,6 +14501,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -15132,8 +14523,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L12",
-    "displayTitle": "Lecture Recording: L12",
+    "title": "Lecture Recording: L14",
+    "displayTitle": "Lecture Recording: L14",
     "body": "",
     "_id": "66e19cb219a8924270186add",
     "_parentId": "66e19ca519a8924270186825",
@@ -15165,8 +14556,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -15188,6 +14577,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -15440,8 +14830,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -15463,6 +14851,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -15978,8 +15367,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e19cb319a8924270186af5",
     "_parentId": "66e19ca719a892427018685c",
@@ -16130,8 +15519,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e19cb319a8924270186af7",
     "_parentId": "66e19ca719a892427018685e",
@@ -16163,8 +15552,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -16186,6 +15573,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -17022,61 +16410,6 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e3014f19a8924270186f25",
-    "_parentId": "66e3014b19a8924270186f24",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Slides",
     "displayTitle": "Slides",
     "body": "",
@@ -17132,61 +16465,6 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e301cd19a8924270186f2d",
-    "_parentId": "66e301ca19a8924270186f2c",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Slides",
     "displayTitle": "Slides",
     "body": "",
@@ -17228,61 +16506,6 @@
       "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
       "attribution": "",
       "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
-      "_target": "_blank"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e3035919a8924270186f35",
-    "_parentId": "66e3035519a8924270186f34",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
       "_target": "_blank"
     },
     "_isScrollable": false,
@@ -17352,61 +16575,6 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e3041219a8924270186f3d",
-    "_parentId": "66e3040e19a8924270186f3c",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
-      "_target": "_blank"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Slides",
     "displayTitle": "Slides",
     "body": "",
@@ -17448,61 +16616,6 @@
       "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
       "attribution": "",
       "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
-      "_target": "_blank"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e304a619a8924270186f45",
-    "_parentId": "66e304a219a8924270186f44",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
       "_target": "_blank"
     },
     "_isScrollable": false,
@@ -17575,61 +16688,6 @@
     "title": "New Component Title",
     "displayTitle": "",
     "body": "",
-    "_id": "66e3051519a8924270186f4d",
-    "_parentId": "66e3051119a8924270186f4c",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
-      "_target": "_blank"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
     "_id": "66e411f467cc9a1050ae60e9",
     "_parentId": "66e410b267cc9a1050ae60e7",
     "_type": "component",
@@ -17678,7 +16736,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
@@ -17813,8 +16871,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e4138a67cc9a1050ae60f5",
     "_parentId": "66e4138167cc9a1050ae60f4",
@@ -17907,14 +16965,14 @@
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
-    "_isAvailable": false,
+    "_isAvailable": true,
     "_isHidden": false,
-    "_isVisible": false,
+    "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E09",
-    "displayTitle": "Exercise E09",
-    "body": "<p>Go to our Github Repository (link below) to access the exercise sheets!</p>",
+    "displayTitle": "",
+    "body": "<p>Access the exercise sheets via our GitHub Repository (link below)!</p>",
     "_id": "66e414c467cc9a1050ae60fe",
     "_parentId": "66e414bf67cc9a1050ae60fd",
     "_type": "component",
@@ -18011,9 +17069,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "Endnotes",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching materials available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching materials available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e4155967cc9a1050ae6104",
     "_parentId": "66e4155067cc9a1050ae6103",
     "_type": "component",
@@ -18156,7 +17214,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E06",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p>Suppose a new sustainability-related technology is presented to you. What are meaningful criteria to assess its contribution to a more sustainable world, i.e., how do you figure out whether it promotes greenwashing or not?</p><ul><li>Collect at least 3 different criteria for assessing the technology.</li><li>Explain your choice.</li></ul><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address and your student ID. <strong>Submissions in a wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E06-&lt;firstname.lastname &gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p>Suppose a new sustainability-related technology is presented to you. What are meaningful criteria to assess its contribution to a more sustainable world, i.e., how do you figure out whether it promotes greenwashing?</p><ul><li>Collect at least three different criteria for assessing the technology.</li><li>Explain your choice.</li></ul><p>&nbsp;</p><p><em><strong><u>Submission instructions</u></strong></em></p><p>Submit the results as a PDF file. The PDF file should contain your full name, student email address, and student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E06-&lt;firstname.lastname &gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "66e428cb67cc9a1050ae6111",
     "_parentId": "66e428c567cc9a1050ae6110",
     "_type": "component",
@@ -18198,8 +17256,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e428ff67cc9a1050ae6113",
     "_parentId": "66e428fa67cc9a1050ae6112",
@@ -18274,61 +17332,6 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e4293567cc9a1050ae6115",
-    "_parentId": "66e4293267cc9a1050ae6114",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise Sheet",
     "displayTitle": "Exercise Sheet",
     "body": "",
@@ -18384,9 +17387,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e4299667cc9a1050ae611d",
     "_parentId": "66e4299267cc9a1050ae611c",
     "_type": "component",
@@ -18485,7 +17488,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E05",
     "displayTitle": "",
-    "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p><strong>Task(s): </strong></p><p><u>The goal of this LCA exercise is to compare the water consumption of washing dishes: manually using a sink vs a dishwasher, to determine which consumes less.</u></p><ul><li>We (simplisticly) assume that a dishwasher at full load requires ~11 litres of water to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery. We do this to obtain comparative results. We have further standardized the scope of this (unscientific) LCA:<ul><li>Functional Unit: 20 dishes, 20 glasses and 20 pieces of cutlery cleaned.</li><li>Reference Flow: Amount of water consumed (in Liters)</li></ul></li><li>Your main task is to collect LCI data, and determine<strong><em>&nbsp; </em></strong>“How much water do <strong><em>you</em></strong> consume to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery?” We denote this target value by <strong><em>X</em></strong><em>.</em></li></ul><p><strong>Steps:</strong></p><ol><li>Compute the <em>Flow Rate (<strong>f</strong>) </em>of your tap using a timer:<ol><li>Grab an empty cup which has a known maximum capacity (or a graduated measuring cup). We assume this maximum capacity is <strong><em>c </em></strong><em>liters. </em>Remember to compute this in liters and not milliliters.</li><li>Turn on your kitchen tap until the flow of water is indicative of what you use to clean dishes. Be sure to take note of the exact position of the tap, perhaps by using a marker on your tap.</li><li>With the tap open in this position, use a timer to determine the number of seconds (<strong><em>t</em></strong>) required for the cup to fill to it’s maximum capacity.</li><li>Compute the Flow Rate (<strong><em>f</em></strong><em>) = <strong>c / t </strong>&nbsp;</em>Liters per second.</li></ol></li><li>Lifecycle Inventory Analysis<ul><li>For this exercise you will only wash dishes under running tap water, and we divide this system into individual unit processes; one each for washing a dish, a glass and an item of cutlery, For each of these unit processes, we collect data.<ol><li>Wash 1 dish, while using a timer to count how much time the water is flowing<sub>. </sub>Ensure that you use the same tap position as used when computing the flow rate, and that you measure the time in seconds.</li><li>Repeat this process for at 2-3 dishes (possibly of different sizes and levels of dirtyness) and compute the average time required. We denote this average time by <strong><em>T<sub>d. </sub></em></strong></li><li>Repeat steps 1 and 2 for glasses and cutlery, computing&nbsp; <strong><em>T<sub>g&nbsp; </sub></em></strong>and<strong><em><sub> </sub>T<sub>c&nbsp; </sub></em></strong>respectively.</li><li>To relate the data collected to the functional unit of “20 dishes, 20 glasses and 20 pieces of cutlery cleaned”, compute <strong><em>X =&nbsp; (T<sub>d</sub> + T<sub>g</sub> + T<sub>c</sub>) * 20 * f&nbsp; </em></strong>Liters</li></ol></li></ul></li></ol><p>&nbsp;</p><p><u>Submission instructions</u></p><ul><li>Submit the result (<strong>X</strong>) via the poll – <a href=\"https://s.surveyplanet.com/jx167vyo\">Link</a></li><li><strong>BONUS: </strong>If you have a dishwasher, try to determine how much water it consumes for a full load.</li></ul>",
+    "body": "<p><strong>Task(s): </strong></p><p><u>The goal of this LCA exercise is to compare the water consumption of washing dishes manually using a sink vs. a dishwasher to determine which consumes less</u></p><ul><li>We (simplistically) assume that a full-load dishwasher requires ~11 litres of water to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery. We do this to obtain comparative results. We have further standardized the scope of this (unscientific) LCA:<ul><li>Functional Unit: 20 dishes, 20 glasses and 20 pieces of cutlery cleaned.</li><li>Reference Flow: Amount of water consumed (in Liters)</li></ul></li><li>Your main task is to collect LCI data and determine<strong><em>&nbsp; </em></strong>“How much water do <strong><em>you</em></strong> consume to perfectly clean 20 dishes, 20 glasses and 20 pieces of cutlery?” We denote this target value by <strong><em>X</em></strong><em>.</em></li></ul><p><em><strong>Steps:</strong></em></p><ol><li>Compute the <em>Flow Rate (<strong>f</strong>) </em>of your tap using a timer:<ol><li>Grab an empty cup with a known maximum capacity (or a graduated measuring cup). We assume this maximum capacity is <strong><em>c </em></strong><em>litres. Remember to compute this in litres and not millilitres.</em></li><li>Turn on your kitchen tap until the water flow indicates what you use to clean dishes. Be sure to take note of the exact position of the tap, perhaps by using a marker on your tap.</li><li>With the tap open in this position, use a timer to determine the number of seconds (<strong><em>t</em></strong>) required for the cup to fill to its maximum capacity.</li><li>Compute the Flow Rate (<strong><em>f</em></strong><em>) = <strong>c / t </strong>&nbsp;</em>Liters per second.</li></ol></li><li>Lifecycle Inventory Analysis<ul><li>For this exercise you will only wash dishes under running tap water, and we divide this system into individual unit processes; one each for washing a dish, a glass and an item of cutlery, For each of these unit processes, we collect data.<ol><li>Wash 1 dish, while using a timer to count how much time the water is flowing<sub>. </sub>Ensure that you use the same tap position as used when computing the flow rate, and that you measure the time in seconds.</li><li>Repeat this process for at 2-3 dishes (possibly of different sizes and levels of dirtyness) and compute the average time required. We denote this average time by <strong><em>T<sub>d. </sub></em></strong></li><li>Repeat steps 1 and 2 for glasses and cutlery, computing&nbsp; <strong><em>T<sub>g&nbsp; </sub></em></strong>and<strong><em><sub> </sub>T<sub>c&nbsp; </sub></em></strong>respectively.</li><li>To relate the data collected to the functional unit of “20 dishes, 20 glasses and 20 pieces of cutlery cleaned”, compute <strong><em>X =&nbsp; (T<sub>d</sub> + T<sub>g</sub> + T<sub>c</sub>) * 20 * f&nbsp; </em></strong>Liters</li></ol></li></ul></li></ol><p>&nbsp;</p><p><u>Submission instructions</u></p><ul><li>Submit the result (<strong>X</strong>) via the poll – <a href=\"https://s.surveyplanet.com/jx167vyo\">Link</a></li><li><strong>BONUS: </strong>If you have a dishwasher, try to determine how much water it consumes for a full load.</li></ul>",
     "_id": "66e42a5f67cc9a1050ae6125",
     "_parentId": "66e42a5b67cc9a1050ae6124",
     "_type": "component",
@@ -18527,8 +17530,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e42a8767cc9a1050ae6127",
     "_parentId": "66e42a8167cc9a1050ae6126",
@@ -18603,9 +17606,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
+    "title": "Submit your answer here!",
+    "displayTitle": "Submit your answer here!",
+    "body": "<iframe src=\"https://s.surveyplanet.com/jx167vyo#\" title=\"Submission Exercise E05\" width=\"100%\" height=\"500\"></iframe>",
     "_id": "66e42ab467cc9a1050ae6129",
     "_parentId": "66e42aaf67cc9a1050ae6128",
     "_type": "component",
@@ -18702,9 +17705,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e42b6c67cc9a1050ae6130",
     "_parentId": "66e42b6867cc9a1050ae612f",
     "_type": "component",
@@ -19842,8 +18845,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66f41cd3f59def4b2c74243b",
     "_parentId": "66f41ccff59def4b2c74243a",
@@ -19881,13 +18884,13 @@
     "_component": "text",
     "_classes": "",
     "_isOptional": false,
-    "_isAvailable": false,
+    "_isAvailable": true,
     "_isHidden": false,
-    "_isVisible": false,
+    "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E10",
-    "displayTitle": "Exercise E10",
+    "displayTitle": "",
     "body": "<p>Access the exercise sheets via our GitHub Repository (link below)!</p>",
     "_id": "66f41e51f59def4b2c742440",
     "_parentId": "66f41d52f59def4b2c74243e",
@@ -19985,8 +18988,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching materials available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66f41f16f59def4b2c742446",
     "_parentId": "66f41f12f59def4b2c742445",
@@ -21527,5 +20530,170 @@
       }
     },
     "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "66f6b80e4cea846ad470bb93",
+    "_parentId": "66f6b8094cea846ad470bb92",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "66f6bc114cea846ad470bb9a",
+    "_parentId": "66e19caa19a89242701868fb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "66f6bd244cea846ad470bba2",
+    "_parentId": "66e19cab19a8924270186923",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]

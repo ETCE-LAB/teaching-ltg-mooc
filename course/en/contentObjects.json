@@ -122,6 +122,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -129,12 +135,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -462,10 +462,10 @@
   {
     "title": "Linear Economy",
     "displayTitle": "Linear Economy",
-    "body": "<p>Before we can understand circular economic models, we have to take a look at the traditional, linear model of production and consumption, where resources are extracted, used to create products, and then discarded as waste. It follows a \"take, make, dispose\" approach.</p>",
+    "body": "<p>Before understanding circular economic models, we have to look at the traditional, linear model of production and consumption, where resources are extracted, used to create products, and then discarded as waste. It follows a \"take, make, dispose\" approach.</p>",
     "_classes": "",
     "subtitle": "L08 - Circular Economy",
-    "pageBody": "<p>A linear economy is a traditional model of production and consumption where resources are extracted, used to create products, and then discarded as waste. It follows a \"take, make, dispose\" approach, leading to resource depletion and environmental impact. In contrast to a circular economy, which promotes sustainability by emphasizing recycling and reusing materials, a linear economy lacks a closed-loop system.</p>",
+    "pageBody": "<p>A linear economy is a traditional model of production and consumption where resources are extracted, used to create products, and discarded as waste. It follows a \"take, make, dispose\" approach, leading to resource depletion and environmental impact. In contrast to a circular economy, which promotes sustainability by emphasizing recycling and reusing materials, a linear economy lacks a closed-loop system.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -490,6 +490,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -497,12 +503,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -554,10 +554,10 @@
   {
     "title": "Circular Societies",
     "displayTitle": "Circular Societies",
-    "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation.</p>",
+    "body": "<p>Beyond the circular economy, we delve into creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation.</p>",
     "_classes": "",
     "subtitle": "L08 - Circular Societies",
-    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
+    "pageBody": "<p>Beyond the circular economy, we delve into creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -582,6 +582,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -589,12 +595,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -738,14 +738,14 @@
   {
     "title": "Life Cycle Assessement - Part 1",
     "displayTitle": "Life Cycle Assessement - Part 1",
-    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "L06 - Life Cycle Assessement",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "90 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -766,6 +766,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -773,12 +779,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -830,10 +830,10 @@
   {
     "title": "Lecture L10",
     "displayTitle": "Lecture L10",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p>Part 1</p>",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p><strong>Part 1</strong></p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be held live&nbsp;on&nbsp;<span style=\"color:#4e7367\">15.01.2025 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture, and the exercise for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;<span style=\"color:#4e7367\">15.01.2025 from 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1012,35 +1012,41 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "title": "Lecture L05",
+    "displayTitle": "Lecture L05",
+    "body": "<p>This chapter will explore the concepts of ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate is essential to ensuring a future worth living.</p>",
     "_classes": "",
-    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
-    "pageBody": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "subtitle": "",
+    "pageBody": "<p>This chapter will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate to ensure a viable future is essential.&nbsp;</p><p>Below is the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. By clicking on the links, you will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186745",
+    "_id": "66e19ca119a892427018676b",
     "_parentId": "66e19c9f19a892427018671f",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/d50006cb9c63b9655c543ea0df443222b05efa7e.png"
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_resources": {
       "_isEnabled": true,
@@ -1049,12 +1055,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1067,9 +1067,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -1090,9 +1090,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1109,7 +1109,7 @@
     "body": "",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;22.01.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;22.01.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1569,7 +1569,7 @@
     "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
     "_classes": "",
     "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, orbioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels. In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
+    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind power, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly option than traditional fossil fuels. This section will discuss different technologies and their advantages and disadvantages.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1594,6 +1594,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -1601,12 +1607,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1661,7 +1661,7 @@
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1750,10 +1750,10 @@
   {
     "title": "Circular Economy",
     "displayTitle": "Circular Economy",
-    "body": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability.</p>",
+    "body": "<p>A circular economy is an alternative economic model designed to minimize waste and maximise resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability.</p>",
     "_classes": "",
     "subtitle": "L08 - Circular Economy",
-    "pageBody": "<p>A circular economy is an alternative economic model designed to minimize waste and make the most of resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability and reduces environmental impact.</p>",
+    "pageBody": "<p>A circular economy is an alternative economic model designed to minimize waste and maximise resources. It focuses on recycling, reusing, and regenerating materials to create a closed-loop system that promotes sustainability and reduces environmental impact.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1778,6 +1778,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -1785,12 +1791,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -1934,14 +1934,14 @@
   {
     "title": "Life Cycle Assessement - Part 2",
     "displayTitle": "Life Cycle Assessement - Part 2",
-    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "L06 - Life Cycle Assessement",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "90 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -1962,6 +1962,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -1969,12 +1975,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2026,10 +2026,10 @@
   {
     "title": "Lecture L10",
     "displayTitle": "Lecture L10",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p>Part 2</p>",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p><strong>Part 2</strong></p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be held live&nbsp;on the&nbsp;<span style=\"color:#4e7367\">31.01.2024 at 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below, you can find the lecture recording, the slides for this lecture and the exercise for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;<span style=\"color:#4e7367\">15.01.2025 from 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2039,7 +2039,7 @@
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
-    "_isVisible": false,
+    "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "66e19ca119a8924270186757",
@@ -2305,7 +2305,7 @@
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2578,10 +2578,10 @@
   {
     "title": "Exercise E10",
     "displayTitle": "Exercise E10",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "body": "<p>Here, you can find the lecture exercise. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3066,6 +3066,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -3073,12 +3079,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -3130,10 +3130,10 @@
   {
     "title": "Performance Economy",
     "displayTitle": "Performance Economy",
-    "body": "<p>A performance economy is centered on the idea of providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
+    "body": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
     "_classes": "",
     "subtitle": "L08 - Circular Economy",
-    "pageBody": "<p>A performance economy is centered on the idea of providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
+    "pageBody": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3142,7 +3142,7 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
@@ -3158,6 +3158,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -3165,12 +3171,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -3312,30 +3312,30 @@
     }
   },
   {
-    "title": "Lecture L05",
-    "displayTitle": "Lecture L05",
-    "body": "<p>In this chapter, we will explore the concepts of ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a future worth living.</p>",
+    "title": "Exercise E06",
+    "displayTitle": "Exercise E06",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p><p>Below, you can find the lecture recording, the slides for this lecture, and the exercise for this lecture. Lecture recordings will be available a day after the live sessions. By clicking on the links, you will be redirected to the video server of the TU Clausthal and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "90 minutes",
+    "duration": "30 minutes",
     "_lockedBy": [],
-    "_lockType": "custom",
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018676b",
-    "_parentId": "66e19c9f19a892427018671f",
+    "_id": "66e4269067cc9a1050ae6109",
+    "_parentId": "66e19c9f19a8924270186721",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3367,9 +3367,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -3390,9 +3390,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -3404,12 +3404,12 @@
     }
   },
   {
-    "title": "Exercise E06",
-    "displayTitle": "Exercise E06",
+    "title": "Exercise 05",
+    "displayTitle": "Exercise 05",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3422,8 +3422,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e4269067cc9a1050ae6109",
-    "_parentId": "66e19c9f19a8924270186721",
+    "_id": "66e42a2067cc9a1050ae611e",
+    "_parentId": "66e19c9f19a892427018671f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3772,6 +3772,98 @@
     }
   },
   {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "_classes": "",
+    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
+    "pageBody": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca019a8924270186745",
+    "_parentId": "66e19c9f19a892427018671f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d50006cb9c63b9655c543ea0df443222b05efa7e.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Exercise E06",
     "displayTitle": "Exercise E06",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -3785,9 +3877,9 @@
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
-    "_isAvailable": true,
+    "_isAvailable": false,
     "_isHidden": false,
-    "_isVisible": true,
+    "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "66e19ca119a8924270186763",
@@ -3958,10 +4050,10 @@
   {
     "title": "Resilient Food Production",
     "displayTitle": "Resilient Food Production",
-    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
     "_classes": "",
     "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "",
+    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3986,6 +4078,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -3993,12 +4091,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4129,98 +4221,6 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Exercise 05",
-    "displayTitle": "Exercise 05",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e42a2067cc9a1050ae611e",
-    "_parentId": "66e19c9f19a892427018671f",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -4604,8 +4604,8 @@
     "displayTitle": "Exercise E07",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4878,10 +4878,10 @@
   {
     "title": "Limits to Growth and Planetary Boundaries",
     "displayTitle": "Limits to Growth and Planetary Boundaries",
-    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure a future worth living.</p>",
+    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate is essential to ensuring a future worth living.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, we will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, we must grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p>",
+    "pageBody": "<p>This chapter will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, we must grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4970,10 +4970,10 @@
   {
     "title": "Life Cycle Assessement",
     "displayTitle": "Life Cycle Assessement",
-    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -5154,10 +5154,10 @@
   {
     "title": "Circular Economy",
     "displayTitle": "Circular Economy",
-    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this lecture, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled.</p>",
+    "body": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. This lecture will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. In this chapter, we will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
+    "pageBody": "<p>As we confront the challenges of resource depletion and waste accumulation, the concept of a circular economy emerges as a transformative solution. This chapter will delve into the main characteristics of a circular economy, where products and materials are reused, refurbished, remanufactured, and recycled, reducing waste and environmental impact.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -5246,10 +5246,10 @@
   {
     "title": "Circular Societies",
     "displayTitle": "Circular Societies",
-    "body": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
+    "body": "<p>Beyond the circular economy, we delve into creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Beyond the circular economy, we delve into the idea of creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
+    "pageBody": "<p>Beyond the circular economy, we delve into creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -5338,10 +5338,10 @@
   {
     "title": "Beyond the Circular Economy I",
     "displayTitle": "Beyond the Circular Economy I",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -5430,10 +5430,10 @@
   {
     "title": "Beyond the Circular Economy II",
     "displayTitle": "Beyond the Circular Economy II",
-    "body": "",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. Our focus will be on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -5525,7 +5525,7 @@
     "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;07.02.2024 at 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;29.01.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
