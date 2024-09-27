@@ -8,110 +8,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
-    "_id": "66e19cab19a892427018692b",
-    "_parentId": "66e19ca919a89242701868ce",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": ""
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Slides",
-    "displayTitle": "Slides",
-    "body": "",
-    "_id": "66e19cab19a892427018692c",
-    "_parentId": "66e19ca819a892427018688d",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "Click below to view the lecture slides.",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
-      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
-      "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cab19a892427018692f",
     "_parentId": "66e19ca619a8924270186837",
     "_type": "component",
@@ -142,8 +41,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -558,7 +455,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "What is a MOOC?",
     "displayTitle": "What is a MOOC?",
-    "body": "<p><strong><span><span><span>Massive Open Online Course </span></span></span></strong></p><ul><li><span><span><span>Remote and (often) asynchronous online courses not just for students enrolled in a specific university, but ideally open for everybody</span></span></span></li><li><span><span><span>Usually consist of pre-recorded lectures, interactive content and online quizzes</span></span></span></li><li><span><span><span>Some of you might have visited MOOC on platforms such as edX, LinkedIn Learning, Coursera, Udacity, etc. before</span></span></span></li></ul><p><span><span><span>We are currently developing a MOOC for the Limits to Growth Lecture.&nbsp;</span></span></span><span><span><span>This semester will be the a test run for this asynchronous and digital learning content.</span></span></span></p><p><span><span><span>We are very happy about any feedback you can give us to improve the course further! Just write us an email: <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:#0563c1; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> </span></span></span></p>",
+    "body": "<p><strong><span><span><span>Massive Open Online Course </span></span></span></strong></p><ul><li><span><span><span>Remote and (often) asynchronous online courses are not just for students enrolled in a specific university but are ideally open to everybody.</span></span></span></li><li><span><span><span>Usually consist of pre-recorded lectures, interactive content and online quizzes.</span></span></span></li><li><span><span><span>Some of you might have visited MOOC on platforms such as edX, LinkedIn Learning, Coursera, Udacity, etc. before</span></span></span></li></ul><p><span><span><span>We are currently developing a MOOC for the Limits to Growth Lecture.&nbsp;</span></span></span><span><span><span>This semester will be a test run for this asynchronous and digital learning content.</span></span></span></p><p><span><span><span>We are pleased about any feedback you can give us to improve the course further! Just write us an email: <a href=\"mailto:etce-ltg@tu-clausthal.de\" style=\"color:#0563c1; text-decoration:underline\">etce-ltg@tu-clausthal.de</a> </span></span></span></p>",
     "_id": "66e19cab19a892427018693e",
     "_parentId": "66e19ca319a89242701867bc",
     "_type": "component",
@@ -589,8 +486,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -604,7 +499,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
     "displayTitle": "Impressum",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cab19a892427018693f",
     "_parentId": "66e19ca719a8924270186867",
     "_type": "component",
@@ -635,8 +530,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -681,8 +574,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -704,6 +595,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -770,8 +662,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cab19a8924270186942",
     "_parentId": "66e19ca519a8924270186800",
     "_type": "component",
@@ -802,8 +694,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -2431,8 +2321,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
     "_id": "66e19cac19a8924270186967",
     "_parentId": "66e19ca819a8924270186890",
@@ -2464,8 +2354,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -2732,61 +2620,6 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Blocker",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cac19a8924270186973",
-    "_parentId": "66e19ca319a89242701867cc",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
-      "attribution": "",
-      "_url": "",
-      "_target": ""
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
@@ -2984,8 +2817,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -3054,9 +2885,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cac19a8924270186981",
     "_parentId": "66e19ca819a8924270186896",
     "_type": "component",
@@ -3087,8 +2918,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -4851,9 +4680,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
+    "title": "EndNotes",
     "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e19cad19a89242701869a5",
     "_parentId": "66e19ca719a8924270186871",
     "_type": "component",
@@ -4884,8 +4713,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -9817,7 +9644,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Plan",
     "displayTitle": "Lecture Plan",
-    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2024/25)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>30.10.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>06.11.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Environmental Pollution and Resources</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>13.11.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Climate Change</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>20.11.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L04 – A Short History of Political (In-) Action&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>27.11.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L05 – Overshoot, the Limits to Growth and Planetary Boundaries</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>04.12.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L06 – LifeCycle Assessment (LCA)&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>11.12.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Ethics and Morals of Sustainability</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>18.12.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Circular Economy<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>08.01.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L09 – Circular Societies <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>15.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy I&nbsp;</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>22.01.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L11 – Beyond the Circular Economy II </span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>29.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L12 – Invited Lecture </span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>05.02.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L13 – Complex Societies and Technology</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>12.02.2025</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
+    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2024/25)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>30.10.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>06.11.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Environmental Pollution and Resources</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>13.11.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Climate Change</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>20.11.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L04 – A Short History of Political (In-) Action&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>27.11.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L05 – Limits to Growth and Planetary Boundaries</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>04.12.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L06 – LifeCycle Assessment (LCA)&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>11.12.2024</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Ethics and Morals of Sustainability</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>18.12.2024</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Circular Economy<span style=\"color:#4e7367\"> <strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>08.01.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L09 – Circular Societies <span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>15.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L10 – Beyond the Circular Economy I&nbsp;</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>22.01.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L11 – Beyond the Circular Economy II </span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>29.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L12 – Invited Lecture </span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>05.02.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L13 – Complex Societies and Technology</span></span></span></p><p><span><span><span>L14 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>12.02.2025</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
     "_id": "66e19caf19a8924270186a3a",
     "_parentId": "66e19ca619a892427018684c",
     "_type": "component",
@@ -10572,120 +10399,6 @@
       "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
       "attribution": "",
       "_url": "#/id/657972b41c652245d00c4c61",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a51",
-    "_parentId": "66e19ca819a892427018687c",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c53",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb019a8924270186a54",
-    "_parentId": "66e19ca819a892427018687d",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "small": "course/en/assets/38801ed69b62b0d39418b5f564f9fd75660c04c7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c55",
       "_target": "_self"
     },
     "_isScrollable": false,
@@ -11569,158 +11282,6 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L00",
-    "displayTitle": "Lecture Recording: L00",
-    "body": "<p>Watch the lecture recording for lecture L00 - Organisation.</p>",
-    "_id": "66e19cb019a8924270186a76",
-    "_parentId": "66e19ca519a89242701867fd",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/vVt0H35GM4A",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "80%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_offsetMediaControls": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L01 - Part 1",
-    "displayTitle": "Lecture Recording: L01 - Part 1",
-    "body": "<p>Watch the lecture recording for lecture L01 - Introduction (Part 1).</p>",
-    "_id": "66e19cb019a8924270186a77",
-    "_parentId": "66e19ca719a8924270186850",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/P371viv131g",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "80%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_offsetMediaControls": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
@@ -11758,8 +11319,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -11767,81 +11326,6 @@
       "webm": "",
       "mp3": "",
       "source": "https://youtu.be/DcGlnEvso8k",
-      "type": "video/youtube",
-      "poster": "",
-      "cc": []
-    },
-    "_setCompletionOn": "play",
-    "_useClosedCaptions": false,
-    "_startLanguage": "en",
-    "_showVolumeControl": true,
-    "_startVolume": "80%",
-    "_allowFullScreen": true,
-    "_aspectRatio": "landscape",
-    "_pauseWhenOffScreen": false,
-    "_playsinline": false,
-    "_preventForwardScrubbing": false,
-    "_transcript": {
-      "_setCompletionOnView": true,
-      "_inlineTranscript": false,
-      "_externalTranscript": false,
-      "inlineTranscriptButton": "",
-      "inlineTranscriptCloseButton": "",
-      "inlineTranscriptBody": "",
-      "transcriptLinkButton": "",
-      "transcriptLink": ""
-    },
-    "_playerOptions": ""
-  },
-  {
-    "_component": "media",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L01 - Part 2",
-    "displayTitle": "Lecture Recording: L01 - Part 2",
-    "body": "<p>Watch the lecture recording for lecture L01 - Introduction (Part 2).</p>",
-    "_id": "66e19cb019a8924270186a79",
-    "_parentId": "66e19ca819a8924270186882",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_media": {
-      "mp4": "",
-      "ogv": "",
-      "webm": "",
-      "mp3": "",
-      "source": "https://youtu.be/0HP-oK20as0",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -12317,63 +11801,6 @@
     "_defaultScrollPercent": 0
   },
   {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e19cb119a8924270186a8a",
-    "_parentId": "66e19caa19a89242701868fe",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "#/id/657972b41c652245d00c4c5b",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
     "_component": "text",
     "_classes": "impressum",
     "_isOptional": false,
@@ -12383,8 +11810,8 @@
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Impressum",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to make all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/hand-in-hand\">Hand in Hand</a>\" by Alexandra Koleva used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/hand-in-hand\">Hand in Hand</a>\" by Alexandra Koleva used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
     "_id": "66e19cb119a8924270186a8d",
     "_parentId": "66e19ca419a89242701867f0",
     "_type": "component",
@@ -12415,8 +11842,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": ""
   },
   {
@@ -17432,61 +16857,6 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
-    "body": "",
-    "_id": "66e2f96d19a8924270186f15",
-    "_parentId": "66e2f96419a8924270186f14",
-    "_type": "component",
-    "_layout": "right",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": "",
-    "_graphic": {
-      "alt": "",
-      "longdescription": "",
-      "large": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "small": "course/en/assets/1f81398445d5f9fa9539a424b6ecd2d61e412bc7.png",
-      "attribution": "",
-      "_url": "",
-      "_target": "_self"
-    },
-    "_isScrollable": false,
-    "_defaultScrollPercent": 0
-  },
-  {
-    "_component": "graphic",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
     "title": "Slides",
     "displayTitle": "Slides",
     "body": "",
@@ -19371,9 +18741,9 @@
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
-    "_isAvailable": true,
+    "_isAvailable": false,
     "_isHidden": false,
-    "_isVisible": true,
+    "_isVisible": false,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
@@ -19433,7 +18803,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E04",
     "displayTitle": "",
-    "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p><u>What are the three most impactful actions we could take to move the World3 model toward the SW run/results as discussed in the lecture?</u></p><ol><li>&nbsp;Have a look at the 4 World3 scenarios that we discussed in the lecture (BAU, BAU2, CT, SW) → <u>Note:</u> Have a look at the links to World3 web version and play around with the model and learn about it in more detail.</li><li>&nbsp;What actions (which policies) could we (humans/politicians) act upon to move the simulation results of the World3 model towards the SW scenario.</li><li>&nbsp;Identify <strong>3</strong> proposals and describe each of them in 3 or more sentences.</li></ol><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address, and your student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E04-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>What are the three most impactful actions we could take to move the World3 model toward the SW run/results, as discussed in the lecture?</u></p><ol><li>&nbsp;Have a look at the 4 World3 scenarios that we discussed in the lecture (BAU, BAU2, CT, SW) →.&nbsp;<u>Note:</u> Look at the links to the World3 web version, play around with the model, and learn about it in more detail.</li><li>&nbsp;What actions (which policies) could we (humans/politicians) act upon to move the simulation results of the World3 model towards the SW scenario?</li><li>&nbsp;Identify <strong>three</strong> proposals and describe each of them in 3 or more sentences.</li></ol><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should contain your full name, student email address, and student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E04-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "66e4370767cc9a1050ae613a",
     "_parentId": "66e436fe67cc9a1050ae6139",
     "_type": "component",
@@ -19475,8 +18845,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "New Component Title",
-    "displayTitle": "",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e437e067cc9a1050ae613c",
     "_parentId": "66e437d567cc9a1050ae613b",
@@ -19606,9 +18976,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all of our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your own purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e438e767cc9a1050ae6142",
     "_parentId": "66e438d967cc9a1050ae6141",
     "_type": "component",
@@ -19645,9 +19015,9 @@
     "_component": "graphic",
     "_classes": "",
     "_isOptional": false,
-    "_isAvailable": true,
+    "_isAvailable": false,
     "_isHidden": false,
-    "_isVisible": true,
+    "_isVisible": false,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "New Component Title",
@@ -19707,7 +19077,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E03",
     "displayTitle": "",
-    "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p><u>Political, Collective, and Individual Action&nbsp;</u></p><p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels.</p><ol><li>In your opinion, what is more important when it comes to fighting climate change and the other challenges we have discussed? (1) Political Action (e.g. on the international or national level), (2) Collective Action (e.g. activism, protests), or (3) Individual Action (e.g. what you can do).<ol><li>Explain your choice.</li></ol></li></ol><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should further contain your full name, your student email address, and your student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E03-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>Political, Collective, and Individual Action&nbsp;</u></p><p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. We want to look at what can be done on the community and individual levels for the exercise.</p><ol><li>What is more important when fighting climate change and the other challenges we have discussed?&nbsp;<ul><li>Political Action (e.g. on the international or national level),&nbsp;</li><li>Collective Action (e.g. activism, protests), or&nbsp;</li><li>Individual Action (e.g. what you can do).</li></ul></li></ol><p>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;Explain your choice.</p><p>&nbsp;</p><p><u>Submission instructions</u></p><p>Submit the results as a PDF file. The PDF file should contain your full name, student email address, and student ID. <strong>Submissions in the wrong format or lacking that information will be ignored.</strong></p><p>Submission filename: “E03-&lt;firstname.lastname&gt;.pdf”</p><ul><li>Please upload your submission file under the following link:<br /><a href=\"https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT\">https://sync.academiccloud.de/index.php/s/2DowKa5TI0AYVBT</a></li></ul>",
     "_id": "66e43aca67cc9a1050ae614b",
     "_parentId": "66e43ac567cc9a1050ae614a",
     "_type": "component",
@@ -19749,8 +19119,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Exercise video",
-    "displayTitle": "Exercise video",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e43b3d67cc9a1050ae614d",
     "_parentId": "66e43b3767cc9a1050ae614c",
@@ -19880,9 +19250,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e43bc967cc9a1050ae6153",
     "_parentId": "66e43bc267cc9a1050ae6152",
     "_type": "component",
@@ -19981,7 +19351,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E02",
     "displayTitle": "",
-    "body": "<p><strong>Do you have any questions? </strong>Contact us via email <a href=\"mailto:etce-ltg@tu-clausthal.de\">etce-ltg@tu-clausthal.de</a> or write a message in the Matrix channel!</p><p>&nbsp;</p><p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
     "_id": "66e43ce767cc9a1050ae615c",
     "_parentId": "66e43ce267cc9a1050ae615b",
     "_type": "component",
@@ -20023,8 +19393,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Exercise video",
-    "displayTitle": "Exercise video",
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
     "body": "",
     "_id": "66e43d1e67cc9a1050ae615e",
     "_parentId": "66e43d1a67cc9a1050ae615d",
@@ -20101,7 +19471,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submit your answer here!",
     "displayTitle": "Submit your answer here!",
-    "body": "<iframe src=\"https://s.surveyplanet.com/653f9ee01a70833cea869b5f#\" title=\"W3Schools Free Online Web Tutorials\" width=\"100%\" height=\"500\"></iframe>",
+    "body": "<iframe src=\"https://s.surveyplanet.com/w8s33a1m#\" title=\"Submission Exercise E02\" width=\"100%\" height=\"500\"></iframe>",
     "_id": "66e43d7767cc9a1050ae6160",
     "_parentId": "66e43d7467cc9a1050ae615f",
     "_type": "component",
@@ -20183,7 +19553,7 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
       "_target": "_blank"
     },
     "_isScrollable": false,
@@ -20198,9 +19568,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Endnotes",
-    "displayTitle": "",
-    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes. Please share it widely.</p>",
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66e43dd967cc9a1050ae6166",
     "_parentId": "66e43dd667cc9a1050ae6165",
     "_type": "component",
@@ -20620,6 +19990,1514 @@
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching materials available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "66f41f16f59def4b2c742446",
     "_parentId": "66f41f12f59def4b2c742445",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Blocker",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66f62113f59def4b2c742461",
+    "_parentId": "66f62113f59def4b2c742457",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Lecture Recording: L00",
+    "displayTitle": "Lecture Recording: L00",
+    "body": "<p>Watch the lecture recording for lecture L00 - Organisation.</p>",
+    "_id": "66f62113f59def4b2c742464",
+    "_parentId": "66f62113f59def4b2c742458",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/vVt0H35GM4A",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Lecture Recording: L01 - Part 1",
+    "displayTitle": "Lecture Recording: L01 - Part 1",
+    "body": "<p>Watch the lecture recording for lecture L01 - Introduction (Part 1).</p>",
+    "_id": "66f62113f59def4b2c742465",
+    "_parentId": "66f62113f59def4b2c742459",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/P371viv131g",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Lecture Recording: L01 - Part 2",
+    "displayTitle": "Lecture Recording: L01 - Part 2",
+    "body": "<p>Watch the lecture recording for lecture L01 - Introduction (Part 2).</p>",
+    "_id": "66f62113f59def4b2c742466",
+    "_parentId": "66f62113f59def4b2c74245a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/0HP-oK20as0",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "66f62113f59def4b2c742467",
+    "_parentId": "66f62113f59def4b2c74245b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "66f62113f59def4b2c74246a",
+    "_parentId": "66f62113f59def4b2c74245c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise E01",
+    "displayTitle": "",
+    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/scvud50g\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "_id": "66f6239af59def4b2c742470",
+    "_parentId": "66f621a2f59def4b2c74246e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
+    "body": "",
+    "_id": "66f62542f59def4b2c742476",
+    "_parentId": "66f62529f59def4b2c742475",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/DcGlnEvso8k",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Submit your answer here!",
+    "displayTitle": "Submit your answer here!",
+    "body": "<iframe src=\"https://s.surveyplanet.com/653f9ee01a70833cea869b5f#\" title=\"Submission Exercise E01\" width=\"100%\" height=\"500\"></iframe>",
+    "_id": "66f626a8f59def4b2c742478",
+    "_parentId": "66f626a1f59def4b2c742477",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Sheet",
+    "displayTitle": "Exercise Sheet",
+    "body": "",
+    "_id": "66f626eff59def4b2c74247a",
+    "_parentId": "66f626e9f59def4b2c742479",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the exercise sheet.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "66f627aaf59def4b2c74247e",
+    "_parentId": "66f627a5f59def4b2c74247d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "66f62e5af59def4b2c74249e",
+    "_parentId": "66f62e5af59def4b2c742492",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Global Food Insecurity and World Hunger",
+    "displayTitle": "Global Food Insecurity and World Hunger",
+    "body": "<p>Before we start to get into the issue of food waste, it might be interesting to take a step back and look at another issue that hightlights the scope and effects of wasting food even more: world hunger and food insecurity.&nbsp;&nbsp;</p><p>Food insecurity and hunger remain pervasive global challenges that continue to afflict millions of individuals and communities worldwide. Despite remarkable advancements in agriculture and food production, a significant portion of the world's population continues to suffer from inadequate access to food. In 2022, a UN report on&nbsp;\"The State of Food Security and Nutrition in the World\" reported that in 2021 as many as<strong>&nbsp;828 million</strong>&nbsp;people were affected by hunger, a rise of <strong>46 million</strong>&nbsp;people from a year earlier and <strong>150 million</strong> more than in 2019<sup>1</sup>. The consequences of this ongoing crisis are far-reaching and extend beyond immediate health concerns. Hunger and malnutrition impair physical and cognitive development, compromise immune systems, hinder educational attainment, and perpetuate cycles of poverty and social inequality.</p><p>Food insecurity and hunger are influenced by a multitude of complex factors. Poverty, conflict, climate change, inadequate infrastructure, and unequal distribution of resources all contribute to the persistence of these challenges. In rural and marginalized communities, limited access to fertile land, clean water, and productive farming techniques further exacerbate the problem, making it difficult for individuals and families to meet their basic dietary needs.</p><p>Addressing food insecurity and hunger requires a comprehensive and multi-faceted approach. It involves not only increasing food production but also improving access to nutritious food, promoting sustainable agricultural practices, enhancing rural infrastructure, and fostering social safety nets.&nbsp;Even though efforts are underway to combat food insecurity and hunger globally. Initiatives such as the <em>United Nations' Sustainable Development Goals</em> that we talked about before in this course aims to achieve \"Zero Hunger\" as one of the most important targets for a sustainable future<sup>2</sup>.</p><p>With this information in mind, it is crucial to discuss&nbsp;food waste alongside worldwide hunger and fodd insecurity&nbsp; because it enables us to address the inefficiencies and inequities in our food systems. By reducing waste, optimizing resource utilization, and fostering responsible consumption, we can contribute to the eradication of hunger and malnutrition, while promoting sustainability and ensuring a more nourished world for all.</p><p>___________</p><p>1&nbsp;FAO, IFAD, UNICEF, WFP and WHO. 2022. <em>The State of Food Security and Nutrition in the World 2022. Repurposing food and agricultural policies to make healthy diets more affordable</em>. Rome, FAO.&nbsp;https://www.fao.org/documents/card/en/c/cc0639en.</p><p>2 UN. The 17 Sustainable Development Goals. https://sdgs.un.org/goals.</p>",
+    "_id": "66f62e5af59def4b2c7424a1",
+    "_parentId": "66f62e5af59def4b2c742494",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Food Waste: The Problem",
+    "displayTitle": "Food Waste: The Problem",
+    "body": "<p>For this course segment, we have a special guest that will discuss the problem of food waste and possible solutions together with Benjamin.&nbsp;</p>",
+    "_id": "66f62e5af59def4b2c7424a2",
+    "_parentId": "66f62e5af59def4b2c742495",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=nrX1bZJCVA4",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "The Importance of Talking about Food Waste",
+    "displayTitle": "The Importance of Talking about Food Waste",
+    "body": "<p>This first introductory video gave you an overview of what food waste is, what the scope of the problem is and what some of the causes of food waste, especially in the retail sector are.&nbsp;Before we move on to possible solutions to the food waste problems, here are several reasons why focusing on food waste is essential especially in the context of global hunger and malnutrition.</p>",
+    "_id": "66f62e5af59def4b2c7424a3",
+    "_parentId": "66f62e5af59def4b2c742496",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Addressing Inequitable Distribution",
+        "body": "<p>Food waste highlights the unequal distribution of food worldwide. While some regions struggle with excessive waste, others suffer from inadequate access to nutritious food. By reducing waste and improving distribution systems, we can work towards a more equitable distribution of food resources and alleviate hunger in underserved communities.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increased Food Availability",
+        "body": "<p>By minimizing food waste, we can increase the availability of food for vulnerable populations. Instead of discarding edible food, it can be redirected to those who are hungry, thereby alleviating immediate food shortages and reducing the burden of hunger and malnutrition.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Resource Optimization",
+        "body": "<p>Food waste represents a significant loss of valuable resources, including water, energy, and agricultural inputs. By reducing food waste, we can optimize resource utilization and ensure that the limited resources available are efficiently allocated to nourish those in need.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economic Efficiency",
+        "body": "<p>Food waste has significant economic implications. It represents a loss of investment in production, processing, and transportation. By minimizing waste, economies can unlock substantial cost savings and redirect those resources towards improving food security and nutrition programs, thus addressing the root causes of hunger.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Environmental Impact",
+        "body": "<p>Food waste contributes to environmental degradation, including greenhouse gas emissions and resource depletion. By tackling food waste, we can mitigate the environmental consequences associated with food production, contributing to a more sustainable and resilient food system for future generations.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Behavioral Change and Awareness",
+        "body": "<p>Discussions around food waste foster greater awareness and encourage individuals, businesses, and policymakers to take action. Raising awareness about the issue helps to shift attitudes and behaviors towards responsible consumption and more sustainable practices, both at the individual and systemic levels.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Food Waste: Possible Solutions  ",
+    "displayTitle": "Food Waste: Possible Solutions  ",
+    "body": "",
+    "_id": "66f62e5af59def4b2c7424a4",
+    "_parentId": "66f62e5af59def4b2c742497",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=D9CMs24CQY8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Foodsharing: How to get Started",
+    "displayTitle": "Foodsharing: How to get Started",
+    "body": "<p>To sum it up, food sharing is a sustainable everyday practice that holds great potential for reducing food waste and fostering a more environmentally conscious society.&nbsp;In the video, we have introduced you to the concept of foodsharing and <a href=\"http://foodsharing.de\">foodsharing.de</a> as a plattform to share food with others and prevent food waste.&nbsp;</p><p>If you are living in Clausthal-Zellerfeld, and want to be part of the local foodsharing network, you can get in touch with Annika and the rest of the community by writing to them here&nbsp;<em>clausthal-zellerfeld(at)foodsharing.network</em>. If you are living somewhere else in Germany, you can check out <a href=\"https://foodsharing.de/?page=content&amp;sub=communitiesGermany\">this list</a> to find out whether your city has its own foodsharing community!</p>",
+    "_id": "66f62e5af59def4b2c7424a5",
+    "_parentId": "66f62e5af59def4b2c742498",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise: Food Waste and Food Sharing",
+    "displayTitle": "Exercise: Food Waste and Food Sharing",
+    "body": "<p><strong>Question 1: </strong>By becoming a foodsharer, you can...</p>",
+    "_id": "66f62e5af59def4b2c7424a6",
+    "_parentId": "66f62e5af59def4b2c742499",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "... reduce food waste.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... encourage food education and awareness.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… get free food from every retail store in your neighbourhood.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… promote a more sustainable consumption behaviour.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2</strong>: Where is the most amount of food being thrown away?</p>",
+    "_id": "66f62e5af59def4b2c7424a7",
+    "_parentId": "66f62e5af59def4b2c74249a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Private Housholds",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Retail",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Out-of-Home-Consumption",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Processing and Manufacturing",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;About 52% of food waste in Germany is being produced in private households.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3</strong>: What is the meaning of the best-before date (in German: <em>Mindesthaltbarkeitsdatum</em>)?</p>",
+    "_id": "66f62e5af59def4b2c7424a8",
+    "_parentId": "66f62e5af59def4b2c74249b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Never eat food after the best before date, even if it looks and smells normal, as it could make you very ill.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "After the best before date listed on a product, the food will be safe to eat but may not be at its best. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "66f62e5bf59def4b2c7424ac",
+    "_parentId": "66f62e5af59def4b2c74249d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p dir=\"auto\"><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/consciousness\">Consciousness</a>\" by Dajana Oroz for ArtistsForClimate.org and is used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "66f62ed4f59def4b2c7424ae",
+    "_parentId": "66f62ecef59def4b2c7424ad",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
