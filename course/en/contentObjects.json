@@ -92,98 +92,6 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186731",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "L00 - Organization",
     "displayTitle": "L00 - Organization",
     "body": "<p>Here you can find the live lecture recording explaining how the course is organised and the lecture slides of the current semester.&nbsp;</p>",
@@ -278,16 +186,18 @@
   {
     "title": "Lecture L03",
     "displayTitle": "Lecture L03",
-    "body": "<p>Climate change is one of our most pressing issues, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability.</p>",
+    "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of climate change&nbsp;<ul><li><em>weather vs climate</em></li><li><em>global warming</em></li><li><em>GHGs etc</em></li></ul></li><li>the effects of different global warning paths</li></ul><p>The Lecture recordings will be available <strong>the day&nbsp;</strong><span><strong>after the live session on 13/11/2024</strong>. </span></p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Climate change is one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.<br />The lecture recording, slides, and exercises for this lesson are all available below. Lecture recordings will be available <strong>a day&nbsp;</strong><span style=\"box-sizing:border-box; margin:0px; padding:0px\"><strong>after the live session</strong>. By clicking on the links, you will be redirected to the TU Clausthal video server</span>&nbsp;and our publicly available teaching material on GitHub.</p>",
+    "pageBody": "<p>Climate change is one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.<br />The lecture recording, slides, and exercises for this lesson are all available below. Lecture recordings will be available <strong>a day&nbsp;</strong><span><strong>after the live session</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links</span>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66e19ca019a8924270186735"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -370,16 +280,18 @@
   {
     "title": "Lecture L02",
     "displayTitle": "Lecture L02",
-    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
+    "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of sustainability and related to sustainability, resources, environmental pollution</li><li>the limits to recycling</li></ul><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The Lecture recordings will be available&nbsp;<strong>the day after the live session on 06/11/2024</strong>.</span></p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. In this session, we will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.&nbsp;<br />Please find this lesson's lecture recording, slides, and exercise below. Lecture recordings will be available <strong>a day after the live session</strong>. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p><p>&nbsp;</p>",
+    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.&nbsp;<br />Please find this lesson's lecture recording, slides, and exercise below. Lecture recordings will be available <strong>a day after the live session</strong>. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66e19ca019a8924270186737"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -646,14 +558,14 @@
   {
     "title": "Political (In) Action",
     "displayTitle": "Political (In) Action",
-    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "body": "<p>This lecture is about</p><ul><li>sustainable development goals</li><li>a short history of the actions on climate change</li><li>individual activism as a response or counter-movement to inactive governments who ignore urgent issues (i.e., the three critical challenges of the 21<sup>st</sup> Century).</li></ul>",
     "_classes": "",
     "subtitle": "L04 - A History of Political (In) Action",
     "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "90 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -1014,7 +926,7 @@
   {
     "title": "Lecture L05",
     "displayTitle": "Lecture L05",
-    "body": "<p>This chapter will explore the concepts of ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate is essential to ensuring a future worth living.</p>",
+    "body": "<p>This lecture is about</p><ul><li>planetary boundaries</li><li>modelling the world using system dynamics</li><li>four commonly used scenarios (BAU, BAU2, CT, SW)</li><li>warning that unsustainable human behaviour could cause societal collapse</li></ul><p>&nbsp;The Lecture recordings will be available <strong>the day after the live session on 27/11/2024</strong>.</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>This chapter will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate to ensure a viable future is essential.&nbsp;</p><p>Below is the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. By clicking on the links, you will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub.</p>",
@@ -1022,7 +934,9 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
+    "_lockedBy": [
+      "66e19ca119a892427018676b"
+    ],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1290,7 +1204,7 @@
   {
     "title": "Lecture 01",
     "displayTitle": "Lecture 01",
-    "body": "<p>This chapter explains the core principle underlying the course. It also provides a short overview of key terminology, including the ecological problems and societal challenges that we will discuss throughout the course.&nbsp;</p>",
+    "body": "<p>This lecture is about</p><ul><li>gaining an understanding of causes, dimensions, and the characterization of the three critical challenges of the 21st century, i.e.,<ul><li><em>climate change</em></li><li><em>environmental pollution</em></li><li><em>dwindling non-renewable resources</em></li></ul></li><li>carefully assessing available solutions</li></ul><p>Lecture recordings will be available <strong>the day after the live session on 30/10/2024</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>In this lecture, you will discover the central concept behind the course. We will provide a brief overview of the ecological problems and societal challenges and discuss and explain why we believe this is more important to you than you may realize.</p><p>Below, find the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. Clicking on the links will take you to our publicly available teaching materials on GitHub.</p>",
@@ -1298,8 +1212,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66f62112f59def4b2c742454"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1369,6 +1285,192 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture L07",
+    "displayTitle": "Lecture L07",
+    "body": "<p>This lecture is about</p><ul><li>ethics-related concepts to sustainability</li><li>intergenerational responsibilities</li><li>corporate social responsibility</li></ul><p>&nbsp;The Lecture recordings will be available <strong>the day after the live session on 11/12/2024</strong>.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Sustainable innovations, from renewable energy to efficient transportation, can potentially drive positive change. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p><p>Below is the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "66e19ca119a892427018676b"
+    ],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670688bdb82a7967f4fe779a",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670696d0b82a7967f4fe77b3",
+    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -1564,98 +1666,6 @@
     }
   },
   {
-    "title": "Alternative Sources of Energy",
-    "displayTitle": "Alternative Sources of Energy",
-    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind power, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly option than traditional fossil fuels. This section will discuss different technologies and their advantages and disadvantages.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186749",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Exercise E08",
     "displayTitle": "Exercise E08",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -1772,98 +1782,6 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/f40a78afee509235b6e8c64ed0c257353aad9e98.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Activism",
-    "displayTitle": "Activism",
-    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
-    "_classes": "",
-    "subtitle": "L04 - A History of Political (In) Action",
-    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186753",
-    "_parentId": "66e19c9f19a892427018671b",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -2760,6 +2678,282 @@
     }
   },
   {
+    "title": "Sustainable Everyday Practices",
+    "displayTitle": "Sustainable Everyday Practices",
+    "body": "<p>Throughout this module, we will delve into examples of sustainable everyday practices,&nbsp;discuss why embracing sustainable practices in your everyday life is crucial and&nbsp;explore the differences between individual and corporate sustainability.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Throughout this module, we will delve into various examples of sustainable everyday practices. By exploring these examples, you will gain a comprehensive understanding of how small actions in your daily life can contribute to a more sustainable world.&nbsp;Moreover, we will discuss the reasons why it is crucial to embrace sustainable practices in your everyday life.&nbsp;Furthermore, we will explore the differences between individual and corporate sustainability. While individuals have the power to make choices and take actions in their personal lives, corporations have a larger scale and influence in driving sustainable change.</p><p>By the end of this module, you will have a comprehensive overview of sustainable everyday practices, (hopefully) be inspired by examples of how you can make a difference, understand the reasons to act more sustainably in your everyday life, and recognize the distinct roles and respobsibilities of individuals and corporations in promoting sustainability.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "15 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "67066da4b82a7967f4fe770e",
+    "_parentId": "66e19c9f19a892427018671b",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1e7a177ac4987b857279159b700a4109a5db10e7.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Technologies and Sustainabilty",
+    "displayTitle": "Technologies and Sustainabilty",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "67068af7b82a7967f4fe77b1",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": ""
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Alternative Sources of Energy",
+    "displayTitle": "Alternative Sources of Energy",
+    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind power, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly option than traditional fossil fuels. This section will discuss different technologies and their advantages and disadvantages.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670696e1b82a7967f4fe77df",
+    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Exercise E02",
     "displayTitle": "Exercise E02",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -3036,98 +3230,6 @@
     }
   },
   {
-    "title": "Carbon Capture and Storage",
-    "displayTitle": "Carbon Capture and Storage",
-    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186761",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Performance Economy",
     "displayTitle": "Performance Economy",
     "body": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
@@ -3240,6 +3342,98 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "66e19ca119a8924270186769",
     "_parentId": "66e19ca019a892427018672d",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E07",
+    "displayTitle": "Exercise E07",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca119a8924270186775",
+    "_parentId": "66e19ca019a8924270186723",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3501,13 +3695,13 @@
     "body": "<p>Here, you will find the course introduction chapter. This lecture introduces the foundational concept that shapes the learning ahead. We'll examine the significant ecological and sociological challenges in more detail and show why these topics are relevant.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here, you will find the course introduction chapter. This is where you will be introduced to the foundational concept that shapes the learning ahead. We'll examine the significant ecological and sociological challenges of our day in more detail and show you why grasping these problems is more important than you would think.</p>",
+    "pageBody": "<p>Here, you will find the course introduction lecture. This is where you will be introduced to the foundational concept that shapes the learning ahead. We'll examine our day's significant ecological and sociological challenges in more detail and show you why grasping these problems is more important than you would think.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3680,6 +3874,190 @@
     }
   },
   {
+    "title": "Political (In) Action",
+    "displayTitle": "Political (In) Action",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "67066ea8b82a7967f4fe7734",
+    "_parentId": "66e19c9f19a892427018671d",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670696e5b82a7967f4fe7803",
+    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Challenges I",
     "displayTitle": "Challenges I",
     "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
@@ -3761,6 +4139,98 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca019a8924270186731",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -4048,98 +4518,6 @@
     }
   },
   {
-    "title": "Resilient Food Production",
-    "displayTitle": "Resilient Food Production",
-    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018676f",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Exercise E07",
     "displayTitle": "Exercise E07",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -4324,12 +4702,196 @@
     }
   },
   {
+    "title": "Activism",
+    "displayTitle": "Activism",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "67066eb0b82a7967f4fe7751",
+    "_parentId": "66e19c9f19a892427018671d",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670696eab82a7967f4fe7826",
+    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Challenges II",
     "displayTitle": "Challenges II",
-    "body": "<p>Climate change stands as one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability.</p>",
+    "body": "<p>Climate change is one of our most pressing issues, affecting ecosystems, economies, and societies worldwide. This chapter will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
     "subtitle": "Climate Change",
-    "pageBody": "<p>Climate change is one of our most pressing issues, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.</p>",
+    "pageBody": "<p>The impacts of climate change on ecosystems, economies, and societies make it one of the most urgent concerns of our day.&nbsp;We will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4416,16 +4978,108 @@
     }
   },
   {
-    "title": "The Importance of Individual Action",
-    "displayTitle": "The Importance of Individual Action",
-    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "title": "Alternative Sources of Energy",
+    "displayTitle": "Alternative Sources of Energy",
+    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind power, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly option than traditional fossil fuels. This section will discuss different technologies and their advantages and disadvantages.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca019a8924270186749",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Activism",
+    "displayTitle": "Activism",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -4434,12 +5088,12 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a892427018671d",
+    "_id": "66e19ca119a8924270186753",
     "_parentId": "66e19c9f19a892427018671b",
-    "_type": "menu",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+      "src": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4600,12 +5254,104 @@
     }
   },
   {
-    "title": "Exercise E07",
-    "displayTitle": "Exercise E07",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "title": "A Short History of Political (In-) Action",
+    "displayTitle": "A Short History of Political (In-) Action",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
+    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges. Moreover, we will cover the responsibilities that individuals and businesses can play in promoting sustainability, illustrating how little, sustainable daily actions can significantly impact the world. By the end, you'll comprehend these methods and be inspired to help create a more sustainable future.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19c9f19a892427018671b",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/fd7b3e7f462c5f93a564549eb5101d1fe094cddb.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "The Importance of Individual Action",
+    "displayTitle": "The Importance of Individual Action",
+    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4614,13 +5360,13 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186775",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "page",
+    "_id": "66e19c9f19a892427018671d",
+    "_parentId": "66e19c9f19a892427018671b",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
@@ -4655,9 +5401,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -4678,9 +5424,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -4692,12 +5438,104 @@
     }
   },
   {
-    "title": "A Short History of Political (In-) Action",
-    "displayTitle": "A Short History of Political (In-) Action",
-    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca119a8924270186761",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Limits to Growth and Planetary Boundaries",
+    "displayTitle": "Limits to Growth and Planetary Boundaries",
+    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate is essential to ensuring a future worth living.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this chapter, we will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "pageBody": "<p>This chapter will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, we must grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4710,12 +5548,104 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a892427018671b",
+    "_id": "66e19c9f19a892427018671f",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/fd7b3e7f462c5f93a564549eb5101d1fe094cddb.png"
+      "src": "course/en/assets/8322b28fcfa22d26037319c511e9077f9a6e9c78.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca119a892427018676f",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4865,98 +5795,6 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Limits to Growth and Planetary Boundaries",
-    "displayTitle": "Limits to Growth and Planetary Boundaries",
-    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate is essential to ensuring a future worth living.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This chapter will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, we must grasp the constraints within which our societies must operate to ensure a viable future.&nbsp;</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a892427018671f",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/8322b28fcfa22d26037319c511e9077f9a6e9c78.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
