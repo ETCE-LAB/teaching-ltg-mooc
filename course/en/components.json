@@ -18242,7 +18242,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E02",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p style=\"text-align:left\"><span><span><span><span><u>Environmental Pollution and Climate Change</u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>In Exercise E01, you collected/measured trash that you threw away during the last week. We will do a bit of a retrospective exercise about how we can reduce the production of our trash. Look back at the articles that were in your jar of trash, and try to list out the following:</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span>&nbsp;Which of these articles that you have thrown away could have been repurposed into something more useful, hence prolonging their life, reducing raw material extraction, and reducing waste production?</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>&nbsp;In what ways is it possible to restructure/redesign the supply chain of the product of which this waste is a byproduct so that waste is never even produced in the first place?</span></span></span></span></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><strong>Submission Guideline:</strong></p><ul><li style=\"text-align: left;\"><span><span><span><span>Upload your answers to <a href=\"https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY\" style=\"color:blue; text-decoration:underline\">https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY</a>.&nbsp;</span></span></span></span></li><li style=\"text-align: left;\"><span><span><span><span>Use the password “<strong>LTG2425</strong>”. </span></span></span></span></li><li style=\"text-align: left;\"><span><span><span><span>Name your file like this: “E02-Your_Name.pdf”.</span></span></span></span></li></ul>",
     "_id": "66e43ce767cc9a1050ae615c",
     "_parentId": "66e43ce267cc9a1050ae615b",
     "_type": "component",
@@ -18350,50 +18350,6 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
-  },
-  {
-    "_component": "text",
-    "_classes": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_isResetOnRevisit": "false",
-    "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Submit your answer here!",
-    "displayTitle": "Submit your answer here!",
-    "body": "<iframe src=\"https://s.surveyplanet.com/w8s33a1m#\" title=\"Submission Exercise E02\" width=\"100%\" height=\"500\"></iframe>",
-    "_id": "66e43d7767cc9a1050ae6160",
-    "_parentId": "66e43d7467cc9a1050ae615f",
-    "_type": "component",
-    "_layout": "full",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_tutor": {
-      "_isInherited": true,
-      "_type": "notify",
-      "_classes": "",
-      "_hasNotifyBottomButton": false,
-      "_button": {
-        "text": "{{_globals._extensions._tutor.hideFeedback}}",
-        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      }
-    },
-    "instruction": ""
   },
   {
     "_component": "graphic",
@@ -27020,5 +26976,49 @@
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise E02",
+    "displayTitle": "",
+    "body": "<p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "_id": "670967e0b82a7967f4fe7894",
+    "_parentId": "670967e0b82a7967f4fe788f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]
