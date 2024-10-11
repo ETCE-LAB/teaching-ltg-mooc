@@ -466,7 +466,7 @@
   {
     "title": "Circular Societies",
     "displayTitle": "Circular Societies",
-    "body": "<p>Beyond the circular economy, we delve into creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation.</p>",
+    "body": "<p>This lecture is about</p><ul><li>reorganizing and transforming society for a purpose beyond \"CE + Social.\"</li><li>substituting opaque and inequity-based value chains with democratic, transparent, and cooperative ones.</li><li>democratizing value creation processes and strategies for empowering stakeholders.</li></ul>",
     "_classes": "",
     "subtitle": "L08 - Circular Societies",
     "pageBody": "<p>Beyond the circular economy, we delve into creating societies that embrace circular principles. This entails fostering inclusivity, sharing resources, reducing inequalities, and promoting cooperation. We'll explore how circular thinking can reshape governance, education, and community dynamics, ultimately envisioning a world where human well-being and environmental health coexist harmoniously.</p>",
@@ -742,7 +742,7 @@
   {
     "title": "Lecture L10",
     "displayTitle": "Lecture L10",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability.</p><p><strong>Part 1</strong></p>",
+    "body": "<p>This lecture is about</p><ul><li>criticising the concept of circular economy</li><li>exploring the idea of eco-sufficiency<ul><li><em>eco-efficiency</em></li><li><em>eco-consistency</em></li><li><em>sufficiency vs overconsumption</em></li></ul></li><li>exploring alternative paths or unusual changes to accomplish sustainable objectives</li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 15/01/2025</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;<span style=\"color:#4e7367\">15.01.2025 from 1:15 - 2:45 p.m.</span>&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p><p>&nbsp;</p>",
@@ -750,8 +750,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66e19ca019a8924270186741"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1020,7 +1022,7 @@
   {
     "title": "Lecture L11",
     "displayTitle": "Lecture L11",
-    "body": "",
+    "body": "<p>This lecture is about</p><ul><li>Universal Basic Income (UBI)<ul><li><em>its concepts</em></li><li><em>goals</em></li><li><em>challenges</em></li><li><em>experiments conducted</em></li></ul></li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 22/01/2025</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;22.01.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p>",
@@ -1028,8 +1030,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66e410b267cc9a1050ae60e5"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1112,7 +1116,7 @@
   {
     "title": "Lecture 13",
     "displayTitle": "Lecture 13",
-    "body": "",
+    "body": "<p>This lecture is about</p><ul><li>&nbsp;</li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 29/01/2025</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;05.02.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.</p>",
@@ -1120,8 +1124,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66f4167cf59def4b2c74242d"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1956,7 +1962,7 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
@@ -2772,10 +2778,10 @@
   {
     "title": "Technologies and Sustainabilty",
     "displayTitle": "Technologies and Sustainabilty",
-    "body": "",
+    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2793,7 +2799,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": ""
+      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6185,7 +6191,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6277,7 +6283,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6360,7 +6366,7 @@
   {
     "title": "Invited Lecture",
     "displayTitle": "Invited Lecture",
-    "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p>",
+    "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 29/01/2025</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;29.01.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
@@ -6368,8 +6374,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "66e19ca119a8924270186777"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6461,7 +6469,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6544,7 +6552,7 @@
   {
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>In this last lecture, we will take stock of what we have learned about environmental, social, and economic sustainability during the course and what comes next.&nbsp;</p>",
+    "body": "<p>In this last lecture, we will take stock of what we have learned about environmental, social, and economic sustainability during the course and what comes next.&nbsp;</p><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 05/02/2025</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;05.02.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
@@ -6552,7 +6560,9 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
+    "_lockedBy": [
+      "66e19ca119a8924270186779"
+    ],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
