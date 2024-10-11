@@ -19304,7 +19304,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E01",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/scvud50g\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin) - <strong>starting on Thursday</strong> (31/10/2024 at 00:01) <strong>until Tuesday</strong> (5/11/2024 at 23:59).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/ndrupy2c\">Link</a> – by clicking on the matching poll result.</li></ul>",
     "_id": "66f6239af59def4b2c742470",
     "_parentId": "66f621a2f59def4b2c74246e",
     "_type": "component",
@@ -19424,7 +19424,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submit your answer here!",
     "displayTitle": "Submit your answer here!",
-    "body": "<iframe src=\"https://s.surveyplanet.com/653f9ee01a70833cea869b5f#\" title=\"Submission Exercise E01\" width=\"100%\" height=\"500\"></iframe>",
+    "body": "<iframe src=\"https://s.surveyplanet.com/ndrupy2c\" title=\"Submission Exercise E01\" width=\"100%\" height=\"500\"></iframe>\n",
     "_id": "66f626a8f59def4b2c742478",
     "_parentId": "66f626a1f59def4b2c742477",
     "_type": "component",
@@ -26915,6 +26915,105 @@
       "longdescription": "",
       "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Submission step 3",
+    "displayTitle": "Submission step 3",
+    "body": "<p>Your exercise will be visible once it has been properly uploaded. Please avoid uploading duplicates. This will ensure that everything remains well-organized.</p>",
+    "_id": "67093cefb82a7967f4fe7889",
+    "_parentId": "67093ce9b82a7967f4fe7888",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Submission step3",
+    "displayTitle": "",
+    "body": "",
+    "_id": "67093e78b82a7967f4fe788a",
+    "_parentId": "67093ce9b82a7967f4fe7888",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/5778abb72983b92627f55f603c5e2a53820ba810.png",
+      "small": "course/en/assets/5778abb72983b92627f55f603c5e2a53820ba810.png",
       "attribution": "",
       "_url": "",
       "_target": "_blank"
