@@ -454,19 +454,9 @@
     "description": "1",
     "tags": []
   },
-  "419ca43c5a100a30c0e3c9fa61cfaf7104bfca1b.png": {
-    "title": "LTG - Lecture title frames - 11new.png",
-    "description": "Beyond the Cicular Economy II",
-    "tags": []
-  },
   "ab8288cb689b12d0f63cf83073ed03837701d027.png": {
     "title": "LTG - Lecture title frames - 10new.png",
     "description": "Beyond the Circular Economy I ",
-    "tags": []
-  },
-  "b49fc89153c0660ff1d893769c1c8ded8a886a6b.png": {
-    "title": "LTG - Lecture title frames - 12new.png",
-    "description": "invited lecture",
     "tags": []
   },
   "5cf6e87440317f3c2ab1837e36bfa745d7477bd5.png": {
@@ -522,6 +512,11 @@
   "5778abb72983b92627f55f603c5e2a53820ba810.png": {
     "title": "submission_step3.png",
     "description": "sub3",
+    "tags": []
+  },
+  "cb327c8ed61b59a5bb8441eeb8a2b88433ef06c6.png": {
+    "title": "LTG - Lecture title frames - 12CE2.png",
+    "description": "CE II",
     "tags": []
   }
 }

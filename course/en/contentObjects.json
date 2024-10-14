@@ -1020,12 +1020,12 @@
     }
   },
   {
-    "title": "Lecture L11",
-    "displayTitle": "Lecture L11",
-    "body": "<p>This lecture is about</p><ul><li>Universal Basic Income (UBI)<ul><li><em>its concepts</em></li><li><em>goals</em></li><li><em>challenges</em></li><li><em>experiments conducted</em></li></ul></li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 22/01/2025</strong>.&nbsp;</p>",
+    "title": "Lecture L12",
+    "displayTitle": "Lecture L12",
+    "body": "<p>This lecture is about</p><ul><li>Universal Basic Income (UBI)<ul><li><em>its concepts</em></li><li><em>goals</em></li><li><em>challenges</em></li><li><em>experiments conducted</em></li></ul></li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 29/01/2025</strong>.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;22.01.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p>",
+    "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;29.01.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1477,6 +1477,194 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture L11",
+    "displayTitle": "Lecture L11",
+    "body": "<p>This lecture is about</p><ul><li>reliable alternatives for a sustainable future</li><li>community life</li><li>self-management</li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 22/01/2025</strong>.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;29.01.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "670cd61cb82a7967f4fe7897"
+    ],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670cd61cb82a7967f4fe7897",
+    "_parentId": "670ccf20b82a7967f4fe7895",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Summary",
+    "displayTitle": "Summary",
+    "body": "<p>In a nutshell</p><ul><li>you don't have to be a sustainability saint -- be as sustainable as possible</li><li>small progress vs. no progress</li><li>silence/being inactive supports the destruction of our planet</li><li>lead by example -- do something&nbsp;</li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 05/02/2025</strong>.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;05.02.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "670d1bfcb82a7967f4fe78b1"
+    ],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "670d1bfcb82a7967f4fe78b1",
+    "_parentId": "670d1be5b82a7967f4fe78af",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -6364,12 +6552,12 @@
     }
   },
   {
-    "title": "Beyond the Circular Economy II",
-    "displayTitle": "Beyond the Circular Economy II",
-    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "title": "Invited Lecture",
+    "displayTitle": "Invited Lecture",
+    "body": "<p>This lecture will explore distinctive strategies from an eco-community to encourage sustainable growth, ecological responsibility, and community involvement. The objective is to inspire students to embrace environmentally conscious practices and empower them to spark social movements that promote environmental accountability and creative approaches to problem-solving.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
+    "pageBody": "<p>This lecture will centre on sustainable living practices, using insights from an innovative eco-community. We will explore distinctive strategies to encourage sustainable growth, ecological responsibility, and community involvement.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -6382,12 +6570,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e3febd67cc9a1050ae60e3",
+    "_id": "670ccf20b82a7967f4fe7895",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/419ca43c5a100a30c0e3c9fa61cfaf7104bfca1b.png"
+      "src": "course/en/assets/97202c48680ff31044944be9b607f1d77661bbc7.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6456,19 +6644,17 @@
     }
   },
   {
-    "title": "Invited Lecture",
-    "displayTitle": "Invited Lecture",
-    "body": "<p>For this lecture, we will invite people working on practical solutions towards a more sustainable future to present and discuss their ideas.&nbsp;</p><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 29/01/2025</strong>.&nbsp;</p>",
+    "title": "Beyond the Circular Economy II",
+    "displayTitle": "Beyond the Circular Economy II",
+    "body": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;29.01.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>While the circular economy is a critical step, we'll now venture into advanced strategies that push the boundaries of sustainability. We will focus on economic models that reimagine consumption, production, and finance. We will explore innovative approaches that prioritize people and the planet over profit, aiming to create a harmonious, prosperous, and sustainable world.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "66e19ca119a8924270186777"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -6476,12 +6662,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186777",
+    "_id": "66e3febd67cc9a1050ae60e3",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/b49fc89153c0660ff1d893769c1c8ded8a886a6b.png"
+      "src": "course/en/assets/cb327c8ed61b59a5bb8441eeb8a2b88433ef06c6.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6513,9 +6699,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -6536,9 +6722,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -6644,17 +6830,15 @@
   {
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>In this last lecture, we will take stock of what we have learned about environmental, social, and economic sustainability during the course and what comes next.&nbsp;</p><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 05/02/2025</strong>.&nbsp;</p>",
+    "body": "<p>In this last lecture, we will review the fundamental concepts of sustainability that we discussed. We will go through the impact of renewable energy and ethical practices, as well as the transition to a performance economy, while highlighting the crucial role of human behaviour. By the end, you will have more knowledge to help advocate for a more sustainable future.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;05.02.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>&nbsp;&nbsp;In this last lecture, we will review what we have learned about environmental, social, and economic sustainability during the course and consider what is next.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "66e19ca119a8924270186779"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -6662,9 +6846,9 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186779",
+    "_id": "670d1be5b82a7967f4fe78af",
     "_parentId": "course",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/e26bda1a37e545e4e260cfcfbfe5fa178ab777d8.png"
@@ -6699,9 +6883,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -6722,9 +6906,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
