@@ -2,10 +2,10 @@
   {
     "title": "Course Overview",
     "displayTitle": "Course Overview",
-    "body": "<p>Watch the&nbsp;trailer for the \"Limits to Growth - Sustainability and the Circular Economy\" course and get a first idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p>",
+    "body": "<p>Watch the \"Limits to Growth - Sustainability and the Circular Economy\" trailer and get an idea of what this course is about, what topics we will cover and how you can sign up.&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Watch our course trailer and get an idea of what this course is about, what topics we will cover and how you can sign-up.&nbsp;</p><p>The Clausthal University&nbsp;of&nbsp;Technology&nbsp;offers&nbsp;a&nbsp;free&nbsp;online&nbsp;course&nbsp;titled&nbsp;„The Limits&nbsp;to&nbsp;Growth –&nbsp;Sustainability&nbsp;and&nbsp;the&nbsp;Circular&nbsp;Economy “. This&nbsp;course&nbsp;will&nbsp;introduce&nbsp;you&nbsp;to the circular economy, sustainability, and related concepts (biocapacity, etc.). You will learn about sustainability goals and different approaches to sustainability and gain an understanding of the basics of climate change, environmental pollution, and dwindling non-renewable resources.</p>",
+    "pageBody": "<p><em>Watch our course trailer to get an idea of what this course is about, what topics we will cover, and how you can sign up.</em>&nbsp;</p><p>The Clausthal University&nbsp;of&nbsp;Technology&nbsp;offers&nbsp;a&nbsp;free&nbsp;online&nbsp;course&nbsp;titled&nbsp;„The Limits&nbsp;to&nbsp;Growth –&nbsp;Sustainability&nbsp;and&nbsp;the&nbsp;Circular&nbsp;Economy “. This&nbsp;course&nbsp;will&nbsp;introduce&nbsp;you&nbsp;to the circular economy, sustainability, and related concepts (biocapacity, etc.). You will learn about sustainability goals and different approaches to sustainability and gain an understanding of the basics of climate change, environmental pollution, and dwindling non-renewable resources.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -30,6 +30,12 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
@@ -37,12 +43,6 @@
     "_bookmarking": {
       "_isEnabled": true,
       "_level": "inherit"
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
     },
     "_boxMenu": {
       "_renderAsGroup": false
