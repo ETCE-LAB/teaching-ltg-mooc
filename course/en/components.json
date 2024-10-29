@@ -18386,7 +18386,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E01",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin) - <strong>starting on Thursday</strong> (31/10/2024 at 00:01) <strong>until Tuesday</strong> (5/11/2024 at 23:59).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/ndrupy2c\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin) - <strong>starting on Thursday</strong> (<strong><em>31/10/2024</em></strong> at 00:01) <strong>until Tuesday</strong> (<strong><em>05/11/2024</em></strong> at 23:59).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/ndrupy2c\" target=\"_blank\">Link</a> – by clicking on the matching poll result.</li></ul>",
     "_id": "66f6239af59def4b2c742470",
     "_parentId": "66f621a2f59def4b2c74246e",
     "_type": "component",

@@ -4620,12 +4620,12 @@
     }
   },
   {
-    "title": "Activism",
-    "displayTitle": "Activism",
-    "body": "<p>This reading will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "title": "World3 Model",
+    "displayTitle": "World3 Model",
+    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This reading will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4638,12 +4638,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "671f94eb68434a65902554c4",
+    "_id": "671f970a68434a6590255530",
     "_parentId": "671f770568434a6590255409",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png"
+      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -5540,16 +5540,16 @@
     }
   },
   {
-    "title": "World3 Model",
-    "displayTitle": "World3 Model",
-    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
+    "title": "Technologies and Sustainabilty",
+    "displayTitle": "Technologies and Sustainabilty",
+    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
+    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "15 minutes",
+    "duration": "90 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -5558,12 +5558,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "671f970a68434a6590255530",
+    "_id": "671f97c568434a6590255545",
     "_parentId": "671f770568434a6590255409",
-    "_type": "page",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
+      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6184,30 +6184,30 @@
     }
   },
   {
-    "title": "Technologies and Sustainabilty",
-    "displayTitle": "Technologies and Sustainabilty",
-    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
+    "title": "Activism",
+    "displayTitle": "Activism",
+    "body": "<p>This reading will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
+    "pageBody": "<p>This reading will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "90 minutes",
+    "duration": "15 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "671f97c568434a6590255545",
+    "_id": "671f94eb68434a65902554c4",
     "_parentId": "671f770568434a6590255409",
-    "_type": "menu",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
+      "src": "course/en/assets/1d96ae801ebf51cb7b4963ad12b068f0bbf2bcdf.png"
     },
     "_onScreen": {
       "_isEnabled": false,
