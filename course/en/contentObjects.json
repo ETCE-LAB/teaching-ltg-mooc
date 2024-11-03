@@ -1210,7 +1210,7 @@
   {
     "title": "Lecture 01",
     "displayTitle": "Lecture 01",
-    "body": "<p>This lecture is about</p><ul><li>gaining an understanding of causes, dimensions, and the characterization of the three critical challenges of the 21st century, i.e.,<ul><li><em>climate change</em></li><li><em>environmental pollution</em></li><li><em>dwindling non-renewable resources</em></li></ul></li><li>carefully assessing available solutions</li></ul><p>Lecture recordings will be available <strong>the day after the live session on 30/10/2024</strong>.&nbsp;</p>",
+    "body": "<p>This lecture is about</p><ul><li>gaining an understanding of causes, dimensions, and the characterization of the three critical challenges of the 21st century, i.e.,<ul><li><em>climate change</em></li><li><em>environmental pollution</em></li><li><em>dwindling non-renewable resources</em></li></ul></li><li>carefully assessing available solutions</li></ul>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>In this lecture, you will discover the central concept behind the course. We will provide a brief overview of the ecological problems and societal challenges and discuss and explain why we believe this is more important to you than you may realize.</p><p>Below, find the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. Clicking on the links will take you to our publicly available teaching materials on GitHub.</p>",
@@ -1218,10 +1218,8 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "66f62112f59def4b2c742454"
-    ],
-    "_lockType": "custom",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -4171,7 +4169,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "custom",
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
