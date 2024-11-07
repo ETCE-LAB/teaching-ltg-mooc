@@ -280,7 +280,7 @@
   {
     "title": "Lecture L02",
     "displayTitle": "Lecture L02",
-    "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of sustainability and related to sustainability, resources, environmental pollution</li><li>the limits to recycling</li></ul><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The Lecture recordings will be available&nbsp;<strong>the day after the live session on 06/11/2024</strong>.</span></p>",
+    "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of sustainability and related to sustainability, resources, environmental pollution</li><li>the limits to recycling</li></ul><p>&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.&nbsp;<br />Please find this lesson's lecture recording, slides, and exercise below. Lecture recordings will be available <strong>a day after the live session</strong>. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p><p>&nbsp;</p>",
@@ -288,9 +288,7 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "66e19ca019a8924270186737"
-    ],
+    "_lockedBy": [],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
