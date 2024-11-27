@@ -8903,8 +8903,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
     "ariaQuestion": "",
     "_items": [
@@ -18846,7 +18844,7 @@
     "_items": [
       {
         "title": "Watch the videos that were mentioned in the video here!",
-        "body": "<p>Beyond just protesting (Lars Werner):&nbsp;<a href=\"http:// https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D-qBK_1Ju_6A\" target=\"_blank\"><span style=\"color:#3498db\">Link</span></a></p><p>Olaf Scholz (Chancellor Germany) and Last Generation:&nbsp;<a href=\"https://www.youtube.com/supported_browsers?next_url=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dq0KpnFzFQgc\" target=\"_blank\"><span style=\"color:#3498db\">Link</span></a></p>",
+        "body": "<p>Beyond just protesting (Lars Werner):&nbsp;<a href=\"https://www.youtube.com/watch?v=-qBK_1Ju_6A\" target=\"_blank\"><span style=\"color:#3498db\">Link</span></a></p><p>Olaf Scholz (Chancellor Germany) and Last Generation:&nbsp;<a href=\"https://www.youtube.com/watch?v=q0KpnFzFQgc\" target=\"_blank\"><span style=\"color:#3498db\">Link</span></a></p>",
         "_imageAlignment": "full",
         "_graphic": {
           "alt": "",
@@ -24973,6 +24971,5335 @@
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching materials available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "67444f850f829922a04ceb71",
     "_parentId": "67444f850f829922a04ceb65",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "67473f610f829922a04ceba7",
+    "_parentId": "67473f610f829922a04ceb9b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Global Food Insecurity and World Hunger",
+    "displayTitle": "Global Food Insecurity and World Hunger",
+    "body": "<p>Before we start to get into the issue of food waste, it might be interesting to take a step back and look at another issue that hightlights the scope and effects of wasting food even more: world hunger and food insecurity.&nbsp;&nbsp;</p><p>Food insecurity and hunger remain pervasive global challenges that continue to afflict millions of individuals and communities worldwide. Despite remarkable advancements in agriculture and food production, a significant portion of the world's population continues to suffer from inadequate access to food. In 2022, a UN report on&nbsp;\"The State of Food Security and Nutrition in the World\" reported that in 2021 as many as<strong>&nbsp;828 million</strong>&nbsp;people were affected by hunger, a rise of <strong>46 million</strong>&nbsp;people from a year earlier and <strong>150 million</strong> more than in 2019<sup>1</sup>. The consequences of this ongoing crisis are far-reaching and extend beyond immediate health concerns. Hunger and malnutrition impair physical and cognitive development, compromise immune systems, hinder educational attainment, and perpetuate cycles of poverty and social inequality.</p><p>Food insecurity and hunger are influenced by a multitude of complex factors. Poverty, conflict, climate change, inadequate infrastructure, and unequal distribution of resources all contribute to the persistence of these challenges. In rural and marginalized communities, limited access to fertile land, clean water, and productive farming techniques further exacerbate the problem, making it difficult for individuals and families to meet their basic dietary needs.</p><p>Addressing food insecurity and hunger requires a comprehensive and multi-faceted approach. It involves not only increasing food production but also improving access to nutritious food, promoting sustainable agricultural practices, enhancing rural infrastructure, and fostering social safety nets.&nbsp;Even though efforts are underway to combat food insecurity and hunger globally. Initiatives such as the <em>United Nations' Sustainable Development Goals</em> that we talked about before in this course aims to achieve \"Zero Hunger\" as one of the most important targets for a sustainable future<sup>2</sup>.</p><p>With this information in mind, it is crucial to discuss&nbsp;food waste alongside worldwide hunger and fodd insecurity&nbsp; because it enables us to address the inefficiencies and inequities in our food systems. By reducing waste, optimizing resource utilization, and fostering responsible consumption, we can contribute to the eradication of hunger and malnutrition, while promoting sustainability and ensuring a more nourished world for all.</p><p>___________</p><p>1&nbsp;FAO, IFAD, UNICEF, WFP and WHO. 2022. <em>The State of Food Security and Nutrition in the World 2022. Repurposing food and agricultural policies to make healthy diets more affordable</em>. Rome, FAO.&nbsp;https://www.fao.org/documents/card/en/c/cc0639en.</p><p>2 UN. The 17 Sustainable Development Goals. https://sdgs.un.org/goals.</p>",
+    "_id": "67473f610f829922a04cebaa",
+    "_parentId": "67473f610f829922a04ceb9d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Food Waste: The Problem",
+    "displayTitle": "Food Waste: The Problem",
+    "body": "<p>For this course segment, we have a special guest that will discuss the problem of food waste and possible solutions together with Benjamin.&nbsp;</p>",
+    "_id": "67473f610f829922a04cebab",
+    "_parentId": "67473f610f829922a04ceb9e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=nrX1bZJCVA4",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "The Importance of Talking about Food Waste",
+    "displayTitle": "The Importance of Talking about Food Waste",
+    "body": "<p>This first introductory video gave you an overview of what food waste is, what the scope of the problem is and what some of the causes of food waste, especially in the retail sector are.&nbsp;Before we move on to possible solutions to the food waste problems, here are several reasons why focusing on food waste is essential especially in the context of global hunger and malnutrition.</p>",
+    "_id": "67473f610f829922a04cebac",
+    "_parentId": "67473f610f829922a04ceb9f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Addressing Inequitable Distribution",
+        "body": "<p>Food waste highlights the unequal distribution of food worldwide. While some regions struggle with excessive waste, others suffer from inadequate access to nutritious food. By reducing waste and improving distribution systems, we can work towards a more equitable distribution of food resources and alleviate hunger in underserved communities.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Increased Food Availability",
+        "body": "<p>By minimizing food waste, we can increase the availability of food for vulnerable populations. Instead of discarding edible food, it can be redirected to those who are hungry, thereby alleviating immediate food shortages and reducing the burden of hunger and malnutrition.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Resource Optimization",
+        "body": "<p>Food waste represents a significant loss of valuable resources, including water, energy, and agricultural inputs. By reducing food waste, we can optimize resource utilization and ensure that the limited resources available are efficiently allocated to nourish those in need.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Economic Efficiency",
+        "body": "<p>Food waste has significant economic implications. It represents a loss of investment in production, processing, and transportation. By minimizing waste, economies can unlock substantial cost savings and redirect those resources towards improving food security and nutrition programs, thus addressing the root causes of hunger.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Environmental Impact",
+        "body": "<p>Food waste contributes to environmental degradation, including greenhouse gas emissions and resource depletion. By tackling food waste, we can mitigate the environmental consequences associated with food production, contributing to a more sustainable and resilient food system for future generations.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Behavioral Change and Awareness",
+        "body": "<p>Discussions around food waste foster greater awareness and encourage individuals, businesses, and policymakers to take action. Raising awareness about the issue helps to shift attitudes and behaviors towards responsible consumption and more sustainable practices, both at the individual and systemic levels.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Food Waste: Possible Solutions  ",
+    "displayTitle": "Food Waste: Possible Solutions  ",
+    "body": "",
+    "_id": "67473f610f829922a04cebad",
+    "_parentId": "67473f610f829922a04ceba0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=D9CMs24CQY8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Foodsharing: How to get Started",
+    "displayTitle": "Foodsharing: How to get Started",
+    "body": "<p>To sum it up, food sharing is a sustainable everyday practice that holds great potential for reducing food waste and fostering a more environmentally conscious society.&nbsp;In the video, we have introduced you to the concept of foodsharing and <a href=\"http://foodsharing.de\">foodsharing.de</a> as a plattform to share food with others and prevent food waste.&nbsp;</p><p>If you are living in Clausthal-Zellerfeld, and want to be part of the local foodsharing network, you can get in touch with Annika and the rest of the community by writing to them here&nbsp;<em>clausthal-zellerfeld(at)foodsharing.network</em>. If you are living somewhere else in Germany, you can check out <a href=\"https://foodsharing.de/?page=content&amp;sub=communitiesGermany\">this list</a> to find out whether your city has its own foodsharing community!</p>",
+    "_id": "67473f610f829922a04cebae",
+    "_parentId": "67473f610f829922a04ceba1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise: Food Waste and Food Sharing",
+    "displayTitle": "Exercise: Food Waste and Food Sharing",
+    "body": "<p><strong>Question 1: </strong>By becoming a foodsharer, you can...</p>",
+    "_id": "67473f610f829922a04cebaf",
+    "_parentId": "67473f610f829922a04ceba2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "... reduce food waste.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... encourage food education and awareness.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… get free food from every retail store in your neighbourhood.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… promote a more sustainable consumption behaviour.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2</strong>: Where is the most amount of food being thrown away?</p>",
+    "_id": "67473f610f829922a04cebb0",
+    "_parentId": "67473f610f829922a04ceba3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Private Housholds",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Retail",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Out-of-Home-Consumption",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Processing and Manufacturing",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;About 52% of food waste in Germany is being produced in private households.</p>",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3</strong>: What is the meaning of the best-before date (in German: <em>Mindesthaltbarkeitsdatum</em>)?</p>",
+    "_id": "67473f610f829922a04cebb1",
+    "_parentId": "67473f610f829922a04ceba4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Never eat food after the best before date, even if it looks and smells normal, as it could make you very ill.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "After the best before date listed on a product, the food will be safe to eat but may not be at its best. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "67473f620f829922a04cebb5",
+    "_parentId": "67473f610f829922a04ceba6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "67473f800f829922a04cebf0",
+    "_parentId": "67473f800f829922a04cebe2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "narrative",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Examples of Sustainable Everyday Practices",
+    "displayTitle": "Examples of Sustainable Everyday Practices",
+    "body": "<p>Sustainable everyday practices are the key to building a greener and more sustainable future. By adopting energy conservation methods, reducing (food) waste, preserving water, choosing eco-friendly transportation, and practicing ethical consumption, we can make a significant positive impact on the environment. These practices are not limited to a select few but can be adopted by individuals from all walks of life.</p>",
+    "_id": "67473f800f829922a04cebf3",
+    "_parentId": "67473f800f829922a04cebe4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "mobileInstruction": "",
+    "_isTextBelowImage": false,
+    "_isMobileTextBelowImage": true,
+    "_isStackedOnMobile": false,
+    "_hasNavigationInTextArea": false,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>By minimizing energy consumption in private home and at the workplace, the overall impact on the planet can be reduced.</p><p>This can be archieved through simple actions such as turning off lights when not in use,&nbsp; utilizing natural light and ventilation, opting for energy-efficient appliances, and insulating buildings for better energy retention.</p><p>Additionally, embracing renewable energy sources like solar power can further reduce our reliance on fossil fuels.</p>",
+        "_graphic": {
+          "src": "course/en/assets/73942e79884ff34f699a7dca07d54e351e995450.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Energy Conservation"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>Sustainable practices involve making conscious choices about what we consume.&nbsp; Supporting local and sustainable businesses, opting for organic and fair-trade products, and reducing meat consumption can significantly reduce the environmental impact of our dietary choices.&nbsp;</p><p>Additionally, embracing a circular economy by repairing and repurposing items, instead of constantly buying new, helps to reduce resource extraction and waste generation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1906c3bed900159b8fd294cdd94ae38a2078b9bd.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Ethical Consumption"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>Sustainable everyday practices extend to transportation choices. By reducing reliance on private vehicles and embracing eco-friendly alternatives, such as cycling, walking, carpooling, or using public transportation, we can minimize carbon emissions and alleviate traffic congestion.</p><p>Furthermore, the adoption of electric vehicles or hybrid cars promotes a cleaner and greener mode of transportation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/02c3f5b8b4fae1cf612dd8a625bedad7267d6f2e.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Eco-Friendly Transportation"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>To preserve this vital resource, it is important to consume water consciously. Adopting measures like fixing leaky faucets and pipes, installing water-saving devices such as low-flow showerheads, and practicing responsible irrigation techniques in the gardens are all important building blocks for that.</p><p>Capturing rainwater for household use and landscaping can also contribute to water conservation efforts.</p>",
+        "_graphic": {
+          "src": "course/en/assets/36901b8967ac9c4ca279322dcd637918b199f9eb.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Water Preservation"
+      },
+      {
+        "title": "",
+        "_ariaLevel": 0,
+        "body": "<p>&nbsp;</p><p>The concept of \"reduce, reuse, and recycle\" lies at the heart of sustainable consumption behaviour. By reducing overall consumption, reusing items, and recycling materials, we can significantly minimize waste generation and reduce the strain on landfills. This involves using reusable bags, bottles, and containers, composting organic waste, and opting for products with minimal packaging.</p><p>Additionally, proper waste segregation and responsible disposal are also crucial aspects of waste reduction.</p>",
+        "_graphic": {
+          "src": "course/en/assets/198fdff3b2c8943127c55470319ddd212d8a4efe.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Reducing (Food) Waste"
+      }
+    ]
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Reasons for Incorporating Sustainable Practices into your Everyday Life",
+    "displayTitle": "Reasons for Incorporating Sustainable Practices into your Everyday Life",
+    "body": "<p>Acting sustainably in your everyday life is not only important for the health of our planet but also for your own well-being and the well-being of future generations. Here are some reasons why it is important to incorporate some of these practices into your everyday life:</p><ul><li><p><strong>Environmental Stewardship</strong>: By acting sustainably, you become an active participant in preserving and protecting the environment. Our planet is facing significant challenges such as climate change, deforestation, habitat destruction, and pollution. Embracing sustainable practices helps to mitigate these issues and ensures the preservation of biodiversity and natural resources.</p></li><li><p><strong>Personal Health</strong>: Sustainable practices often promote a healthier lifestyle. For instance, opting for organic and locally sourced food reduces exposure to harmful chemicals and supports sustainable farming practices. Walking, biking, or using public transportation instead of relying solely on cars not only reduces air pollution but also promotes physical activity, leading to improved fitness and well-being.</p></li><li><p><strong>Resource Conservation</strong>: Acting sustainably helps conserve valuable resources such as water, energy, and materials. By reducing consumption and implementing efficient practices, you contribute to the responsible management of resources. This not only helps to address resource scarcity but also reduces the strain on ecosystems and minimizes waste generation.</p></li><li><p><strong>Future Generations</strong>: Sustainable practices are essential for the well-being of future generations. By acting sustainably today, you are helping to create a world where resources are preserved, ecosystems are thriving, and the quality of life is enhanced for generations to come. It is our responsibility to leave behind a planet that is habitable and sustainable for future inhabitants.</p></li><li><p><strong>Global Impact</strong>: Your individual actions, when combined with the efforts of others, have the power to drive systemic change. By acting sustainably in your everyday life, you inspire and influence those around you. Your choices can spark conversations, raise awareness, and create a ripple effect of positive change in your community and beyond.</p></li></ul><p>In conclusion, acting sustainably in your everyday life is crucial for the health of the planet, your own well-being, and the well-being of future generations. By embracing sustainable practices, you contribute to environmental stewardship, conserve resources, and make a positive impact on a global scale.</p>",
+    "_id": "67473f800f829922a04cebf9",
+    "_parentId": "67473f800f829922a04cebe9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "accordion",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "The Difference Between Individual and Corporate Sustainability",
+    "displayTitle": "The Difference Between Individual and Corporate Sustainability",
+    "body": "<p>Corporate sustainable behavior and individual sustainable behavior differ in their scope, scale, and the level of impact they can have on sustainability efforts. Individual sustainable behavior focuses on personal choices and actions, while corporate sustainable behavior involves the efforts and responsibilities of organizations. While both are important, corporate actions have a larger scale, influence, and potential for systemic change. Individuals play a crucial role as advocates and consumers, driving demand for sustainability, and inspiring change in their personal spheres. Ultimately, a collective effort from both individuals and corporations is necessary to address the global sustainability challenges we face.</p>",
+    "_id": "67473f800f829922a04cebfa",
+    "_parentId": "67473f800f829922a04cebea",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the headings to find out more.",
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Scope and Scale",
+        "body": "<p>Individual sustainable behavior typically refers to the choices and actions taken by individuals in their personal lives. This may include practices such as energy conservation at home, waste reduction, responsible consumption, and eco-friendly transportation choices.&nbsp;Individual actions, although important, generally have a relatively smaller scale and impact compared to corporate actions.</p><p>On the other hand, corporate sustainable behavior encompasses the practices and actions adopted by organizations and businesses. This can include initiatives such as implementing energy-efficient technologies, reducing carbon emissions, adopting sustainable supply chain practices, investing in renewable energy, and implementing corporate social responsibility&nbsp; programs. Corporate actions have a larger scope and scale, as they impact not only the organization itself but also its employees, suppliers, customers, and the wider community.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Influence and Responsibility",
+        "body": "<p>Individuals have the power to influence sustainability through their choices and behaviors. By making conscious decisions in their personal lives, individuals can drive demand for sustainable products and services, support environmentally responsible businesses, and advocate for sustainable practices in their communities. While individuals have a responsibility to act sustainably, their influence is more indirect and limited to their personal sphere.</p><p>Corporations, on the other hand, have a greater influence and responsibility due to their significant economic and social impact. They have the ability to drive change at a larger scale by integrating sustainability into their core business practices. By implementing sustainable policies, investing in green technologies, and incorporating sustainable principles throughout their operations, corporations can make substantial contributions to addressing environmental and social challenges.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Causing Systemic Change",
+        "body": "<p>Individual sustainable behavior is vital as it sets an example, creates awareness, and inspires others to adopt sustainable practices. However, individual actions alone may not be sufficient to drive systemic change and address complex sustainability issues. While individual efforts can collectively make a difference, systemic change often requires collaboration, policy changes, and industry-wide transformations.</p><p>Corporate sustainable behavior has the potential to drive systemic change as corporations can influence supply chains, production methods, and consumer behavior on a larger scale. When corporations commit to sustainability and prioritize it within their operations, it can lead to significant shifts in market trends, industry standards, and policy frameworks.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Accountability and Reporting",
+        "body": "<p>Individuals typically have limited reporting and accountability requirements for their sustainable behavior. While personal sustainability efforts are valuable, they often rely on personal motivation and accountability.</p><p>In contrast, corporations are subject to increased scrutiny and accountability for their sustainable behavior. Many organizations now publish sustainability reports, adhere to sustainability frameworks such as the Global Reporting Initiative (GRI) or the Sustainability Accounting Standards Board (SASB), and engage in third-party audits to ensure transparency and credibility in their sustainability efforts.</p>",
+        "_imageAlignment": "full",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": false,
+    "_shouldExpandFirstItem": false
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Questions",
+    "displayTitle": "Questions",
+    "body": "<p><strong>Question 1:</strong> By implementing some of these sustainable practices into your everyday life, you can…</p>",
+    "_id": "67473f800f829922a04cebfb",
+    "_parentId": "67473f800f829922a04cebeb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "… improve your own well-being.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "... preserve natural resources.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… increase global resource scarcity.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "… influence the behavior of the people around you. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2</strong>: Which of the following are effective ways to save energy at home?</p>",
+    "_id": "67473f810f829922a04cebfc",
+    "_parentId": "67473f800f829922a04cebec",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Keeping lights and electronics on when not in use",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Using energy-efficient appliances and light bulbs",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Insulating windows and doors to prevent drafts ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Taking longer showers to maximize water heating efficiency",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 4,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "textinput",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong> Name three specific actions that you could take to make your everyday life more sustainable.&nbsp;</p>",
+    "_id": "67473f810f829922a04cebfd",
+    "_parentId": "67473f800f829922a04cebed",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Input your answer and select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "_answers": [],
+        "prefix": "",
+        "suffix": "",
+        "placeholder": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": false,
+    "_canShowFeedback": false,
+    "_canShowMarking": false,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_allowsAnyCase": false,
+    "_allowsPunctuation": false,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "67473f810f829922a04cec01",
+    "_parentId": "67473f800f829922a04cebef",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "674740150f829922a04cecb1",
+    "_parentId": "674740150f829922a04ceca3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png",
+      "small": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Technologies and What They (Can) Not Do",
+    "displayTitle": "Technologies and What They (Can) Not Do",
+    "body": "<p>During the&nbsp;initial lectures, we explored the current challenges, such as the urgent matters of climate change, environmental pollution and resource scarcity. We have emphasised potential sustainability challenges and the consequences of global warming and resource depletion. Additionally, we have looked at different forms of political, collective or individual action in a lecture focusing on the timeline of political action regarding climate change.</p><p>This lecture will examine the relationship between technology and sustainability, weighing how technological advancements can improve or worsen environmental challenges. In this short introductory video, you will get an overview of what different strategies can be used to combat climate change, and we will introduce the three use cases of sustainability-related technologies that we will look at in detail during this lecture.&nbsp;</p>",
+    "_id": "674740150f829922a04cecb4",
+    "_parentId": "674740150f829922a04ceca4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/NeTzV5H6TaE",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Technology Advancement as a Political Priority",
+    "displayTitle": "Technology Advancement as a Political Priority",
+    "body": "<p>In the legally binding treaty on climate change adopted by 196 parties at the UN Climate Change Conference in 2015, finance, technology, and capacity-building were highlighted as the most important areas where countries worldwide must cooperate and support each other to combat climate change.</p><p>Article 10 of the Paris Agreement focuses exclusively on technology advancement, transfer, and innovations. The treaty underscores \"the importance of technology for the implementation of&nbsp;mitigation and adaptation actions\" and the need to \"strengthen cooperative&nbsp;action on technology development and transfer\".</p><p>Even without specifics on which technologies or areas of application this policy paper aims to address, it underscores the crucial role of technological advances and the sharing of technological innovation for political actors. Simultaneously, the ambiguity of the statements and the absence of clarity on political priorities raise questions about which technologies deserve further advancement and attention. Technology advancement is costly—not just financially but also in terms of the resources used during development and production. The uncertainty regarding its field of application and efficacy poses a significant challenge.</p><p>Source:&nbsp;<a href=\"https://unfccc.int/sites/default/files/english_paris_agreement.pdf\">https://unfccc.int/sites/default/files/english_paris_agreement.pdf</a></p>",
+    "_id": "674740150f829922a04cecb5",
+    "_parentId": "674740150f829922a04ceca5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "hotgraphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "674740150f829922a04cecb6",
+    "_parentId": "674740150f829922a04ceca6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the icons to find out more.",
+    "_setCompletionOn": "allItems",
+    "_graphic": {
+      "src": "course/en/assets/ef7119cde213abd845af0838f0dc336e664ab171.png",
+      "alt": "",
+      "attribution": ""
+    },
+    "mobileBody": "",
+    "mobileInstruction": "Select the plus icon followed by the next arrow to find out more.",
+    "_isMobileTextBelowImage": false,
+    "_hidePagination": false,
+    "_canCycleThroughPagination": false,
+    "_isNarrativeOnMobile": true,
+    "_useNumberedPins": false,
+    "_useGraphicsAsPins": false,
+    "_isRound": false,
+    "_items": [
+      {
+        "title": "Renewable Energy Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Renewable Energy Technologies include for example:</p><ul><li>Solar panels: Convert sunlight into electricity.</li><li>Wind turbines: Generate electricity from wind energy.</li><li>Hydroelectric power: Generate electricity from flowing water.</li><li>Geothermal systems: Use heat from the Earth's core to produce energy.</li></ul>",
+        "strapline": "Renewable Energy Technologies",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/35371828e558ad63c574f3415e1cb51493080532.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 20,
+        "_top": 1
+      },
+      {
+        "title": "Energy Storage Solutions",
+        "_ariaLevel": 0,
+        "body": "<p>Energy Storage Solutions include for example:</p><ul></ul><ul><li>Battery technology: Enables the storage of excess renewable energy for later use.</li><li>Pumped hydro storage: Stores energy by pumping water uphill and releasing it to generate electricity when needed.</li><li>Flywheel energy storage: Stores kinetic energy for rapid release.</li></ul>",
+        "strapline": "Energy Storage Solutions",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/7af8156f7fa60f3236e4ae64cea8a8b75bc939db.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 45,
+        "_top": 0
+      },
+      {
+        "title": "Sustainable Agriculture and Food Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainable Agriculture and Food Technologies include for example:</p><ul><li>Precision agriculture: Uses data and technology to optimize farming practices.</li><li>Vertical farming: Grows crops indoors using less space and resources.</li><li>Lab-grown meat: Produces animal-based products without the need for traditional livestock farming.</li></ul>",
+        "strapline": "Sustainable Agriculture and Food Technologies:",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/9ddac0c67530960be6ec56d4656e6780ce33c4c4.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 45,
+        "_top": 85
+      },
+      {
+        "title": "Water Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Water Technologies include for example:</p><ul><li>Water purification and desalination: Provide access to clean drinking water.</li><li>Water-saving technologies: Reduce water wastage in agriculture and households.</li></ul>",
+        "strapline": "Water Technologies:",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/50e66c872b96bee78638ad9085c567fb3f91e3a1.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 23,
+        "_top": 71
+      },
+      {
+        "title": "Waste Management and Recycling",
+        "_ariaLevel": 0,
+        "body": "<p>Waste Management and Recycling include for example:</p><ul><li>Advanced recycling technologies: Improve the recycling process for various materials.</li><li>Waste-to-energy: Converts waste into energy through incineration or other methods.</li></ul>",
+        "strapline": "Waste Management and Recycling",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/62d85fd2388aff8d8b52c1eec7cac4d13624e5a9.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 86,
+        "_top": 50
+      },
+      {
+        "title": "Sustainable Transportation",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainable Transportation includes:</p><ul><li>Public transportation systems: Promote mass transit to reduce individual car usage.</li><li>Bike-sharing and electric scooters: Encourage eco-friendly urban mobility.</li></ul>",
+        "strapline": "Sustainable Transportation",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/c508e9e2475613af2549bded7fb8c23e51d54cbe.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 60,
+        "_top": 85
+      },
+      {
+        "title": "Carbon Capture and Storage (CCS)",
+        "_ariaLevel": 0,
+        "body": "<p>Carbon Capture and Storage (CCS) is a:</p><ul><li>Technology that captures and stores carbon emissions from industrial processes and power plants.</li></ul>",
+        "strapline": "Carbon Capture and Storage (CCS)",
+        "_imageAlignment": "right",
+        "_graphic": {
+          "src": "course/en/assets/45bfcc6347642a9f51edc5ca8d8cd7e4a5c57c2f.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 70,
+        "_top": 6
+      },
+      {
+        "title": "Green Building and Construction Technologies",
+        "_ariaLevel": 0,
+        "body": "<p>Green Building and Construction Technologies include for example:</p><ul><li>Sustainable construction materials and practices.</li><li>Energy-efficient HVAC (heating, ventilation, and air conditioning) systems.</li></ul>",
+        "strapline": "Green Building and Construction Technologies",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/7cee0cbf7b31d8827d2cb1112dcde0866ed3cf51.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 92,
+        "_top": 18
+      },
+      {
+        "title": "Sustainable Supply Chain and Logistics",
+        "_ariaLevel": 0,
+        "body": "<p>Sustainable Supply Chain and Logistics:</p><ul><li>IoT (Internet of Things) sensors for supply chain optimization.</li><li>Eco-friendly packaging materials and practices.</li></ul>",
+        "strapline": "Sustainable Supply Chain and Logistics",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/549c8deeb367daef75c8b4e6a506dbf1be5b3800.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 12,
+        "_top": 36
+      },
+      {
+        "title": "Environmental Monitoring and Data Analytics",
+        "_ariaLevel": 0,
+        "body": "<p>The field of Environmental Monitoring and Data Analytics includes for example:</p><ul><li>Remote sensing technologies for monitoring ecosystems and climate change.</li><li>Big data analytics for understanding and mitigating environmental challenges.</li></ul>",
+        "strapline": "Environmental Monitoring and Data Analytics:",
+        "_imageAlignment": "left",
+        "_graphic": {
+          "src": "course/en/assets/4736224e39d72f7bb07055036af9874f3f5cdc88.png",
+          "alt": "",
+          "attribution": "",
+          "_classes": ""
+        },
+        "_tooltip": {
+          "_isEnabled": false,
+          "text": "{{ariaLabel}}"
+        },
+        "_pin": {
+          "src": "",
+          "alt": ""
+        },
+        "_classes": "",
+        "_left": 5,
+        "_top": 65
+      }
+    ]
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Questions",
+    "displayTitle": "",
+    "body": "<p><strong>Question 1:</strong> Which of the following statements is true?</p>",
+    "_id": "674740150f829922a04cecc2",
+    "_parentId": "674740150f829922a04ceca7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Sustainable-related technologies encompass a wide range of different fields of application.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The main aim of sustainablity-related technologies to produce less waste.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The integration of renewable energy technologies contributes to a more sustainable and resilient energy infrastructure, reducing reliance on non-renewable resources.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Sustainability-related technologies can be used to lower carbon emissions.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "slider",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:</strong> Based on the information in the video, how much will the&nbsp;global average temperature (compared to pre-industrial levels) rise if we continue with the current policies and trajectory?</p>",
+    "_id": "674740150f829922a04cecc3",
+    "_parentId": "674740150f829922a04ceca8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Drag the slider to make your choice and select Submit.",
+    "ariaQuestion": "",
+    "ariaScaleName": "",
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_questionWeight": 1,
+    "_recordInteraction": true,
+    "labelStart": "",
+    "labelEnd": "°C ",
+    "_scaleStart": 0,
+    "_scaleEnd": 5,
+    "_scaleStep": 1,
+    "scaleStepPrefix": "",
+    "scaleStepSuffix": "",
+    "_correctAnswer": "",
+    "_correctRange": {
+      "_bottom": 2,
+      "_top": 3
+    },
+    "_showScaleIndicator": false,
+    "_showNumber": false,
+    "_showScale": true,
+    "_showScaleNumbers": true,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;The global average temperature (compared to pre-industrial levels) will rise 2.5 to 2.9 °C if we continue with the current policies and trajectory.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p>Incorrect.&nbsp;The global average temperature (compared to pre-industrial levels) will rise 2.5 to 2.9 °C if we continue with the current policies and trajectory.&nbsp;</p>",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;Which of the following statements are true?</p>",
+    "_id": "674740150f829922a04cecc4",
+    "_parentId": "674740150f829922a04ceca9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Mitigation involves efforts to reduce or prevent the emission of greenhouse gases (GHGs) into the atmosphere, thereby minimizing the extent of global warming and its associated impacts. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Mitigation efforts can include actions such as transitioning to renewable energy sources, improving energy efficiency, afforestation, and implementing policies to limit emissions from various sectors like transportation and industry.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Renewable energy sources, such as wind and solar power, are considered harmful to mitigation efforts.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 4:</strong>&nbsp;Which of the following statements are true?</p>",
+    "_id": "674740150f829922a04cecc5",
+    "_parentId": "674740150f829922a04cecaa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Adaptation involves developing strategies to cope with and respond to the unavoidable impacts of climate change.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Adaptation focuses on increasing the vulnerability of communities to climate change by ignoring infrastructure improvements.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Adaptation strategies include e.g. developing early warning systems for extreme weather events, implementing sustainable agricultural practices, and creating plans for managing water resources in the face of changing precipitation patterns.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Encouraging deforestation is a key component of effective climate change adaptation efforts.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Adaptation recognizes that some level of climate change is already underway and focuses on minimizing its negative effects on ecosystems and human societies.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "674740150f829922a04cecc6",
+    "_parentId": "674740150f829922a04cecab",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/energy-consumption\" target=\"_blank\">Energy Consumption</a>\" by Tengwan Quek for ArtistsForClimate.org, which is used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\" target=\"_blank\">CC-BY-NC-SA</a>.</span></p>",
+    "_id": "674740150f829922a04cecc9",
+    "_parentId": "674740150f829922a04cecac",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "674740180f829922a04cecdf",
+    "_parentId": "674740180f829922a04cecd0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png",
+      "small": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Global Greenhouse Gas Emissions, by Sector",
+    "displayTitle": "Global Greenhouse Gas Emissions, by Sector",
+    "body": "<p>So, what are the main sources of our greenhouse gas emissions on a global level? This interactive graphic&nbsp;illustrates the distribution of overall greenhouse gas emissions (the sum of all greenhouse gases measured in tonnes of carbon dioxide equivalents) across different sectors.</p><p>Notably, electricity and heat production emerge as the primary contributors to worldwide emissions, which is why it is an important sector to lower overall global GHG emissions.&nbsp;However, the emission landscape varies across regions. In the United States, for instance, transport plays a&nbsp; more prominent role than the worldwide average. Meanwhile, in Brazil, the majority of emissions originate from agriculture and changes in land use.</p><p>In the following video, we will discuss the most important current technologies in the energy sector and technologies that might be less widespread as of now but could help in the mitigation efforts in the future. Before we take a closer look at those technologies, use the interactive graphic below to understand how the global GHG emissions by sector have changed over time and how they differ if you compare two or more countries with one another.</p>",
+    "_id": "674740180f829922a04cece2",
+    "_parentId": "674740180f829922a04cecd1",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "GHG Emissions by Sector",
+    "displayTitle": "",
+    "body": "<iframe src=\"https://ourworldindata.org/grapher/ghg-emissions-by-sector\" loading=\"lazy\" style=\"width: 100%; height: 600px; border: 0px none;\"></iframe>",
+    "_id": "674740180f829922a04cece3",
+    "_parentId": "674740180f829922a04cecd2",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Question 1",
+    "displayTitle": "",
+    "body": "<p><strong>Question 1:</strong> Which of the following countries produced the most GHG emissions in the sector \"electricity and heat\" compared to other sectors (in 2019)?</p>",
+    "_id": "674740190f829922a04cece4",
+    "_parentId": "674740180f829922a04cecd3",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Australia",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Thailand",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Portugal",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Chile",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Ireland",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:</strong> Compare the GHG emissions between&nbsp;low-income countries and high-income countries. Which of the following statements are true.&nbsp;</p>",
+    "_id": "674740190f829922a04cece5",
+    "_parentId": "674740180f829922a04cecd4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The high-income countries produce twelve times as many GHG emissions than the low income countries. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "In low-income countries the sector \"Electricity and Heat\" is the main cause of GHG emissions.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Even though emissions in the sector \"Electricity and Heat\" are slowly decreasing in high-income countries they remain the larger contributor of GHG. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 2,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Alternative Sources of Energy",
+    "displayTitle": "Alternative Sources of Energy",
+    "body": "<p><strong>What Electricity Sources Power the World?</strong></p><p>As the previous data showed, electricity and heating are the largest contributer of GHG emissions by sector. If we take a closer look at the sources of electricity, it becomes clear why that is. Until 2022 gas and coal remain the prime sources for electricity and together make up for more than half of the global electricity production.&nbsp;<br /><br />During the course, we have discussed the negative&nbsp;environmental impacts of fossil fuels, including coal, oil, and natural gas, which contribute to various ecological problems and pose challenges to the health of the planet. The combustion of fossil fuels releases significant amounts of carbon dioxide (CO2) and other greenhouse gases into the atmosphere. These gases trap heat and contribute to the greenhouse effect, leading to global warming and climate change. This has far-reaching consequences, including rising sea levels, extreme weather events, disruptions to ecosystems, and threats to biodiversity.&nbsp; Additionally, burning fossil fuels produces air pollutants such as sulfur dioxide, nitrogen oxides, and particulate matter. These pollutants can have detrimental effects on air quality, human health, and ecosystems.&nbsp;</p><p>Fossil fuels are finite resources, and their extraction contributes to resource depletion. This not only poses a threat to future energy security but also leads to ecological disruptions as ecosystems are disturbed in the process of extraction.</p><p><u>Source</u>:&nbsp;Hannah Ritchie, Max Roser and Pablo Rosado (2022) - \"Energy\". Published online at OurWorldInData.org. Retrieved from: 'https://ourworldindata.org/energy'</p>",
+    "_id": "674740190f829922a04cece6",
+    "_parentId": "674740180f829922a04cecd5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<iframe src=\"https://ourworldindata.org/grapher/electricity-prod-source-stacked\" loading=\"lazy\" style=\"width: 100%; height: 600px; border: 0px none;\"></iframe>",
+    "_id": "674740190f829922a04cece7",
+    "_parentId": "674740180f829922a04cecd6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Decarbonisation",
+    "displayTitle": "Decarbonisation",
+    "body": "<p>Alternative energy sources, such as solar, wind, tidal or fusion power, play a pivotal role in decarbonisation efforts. Unlike traditional fossil fuels, renewable sources produce energy with significantly lower carbon emissions, contributing to a cleaner and more sustainable energy landscape. The importance of decarbonisation lies in mitigating climate change by reducing the release of greenhouse gases into the atmosphere, ultimately curbing global warming and its adverse effects on the environment.&nbsp;</p><p>The following video will give you an overview of some alternative energy sources.</p>",
+    "_id": "674740190f829922a04cece8",
+    "_parentId": "674740180f829922a04cecd7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/2hpi5FJkIuo",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Electrification",
+    "displayTitle": "Electrification",
+    "body": "<p>Electrification is crucial for combatting climate change due to its potential to reduce greenhouse gas emissions across various sectors. We can significantly decrease the carbon footprint by shifting from fossil fuel-based energy sources to electricity, mainly when generated from renewable sources like solar, wind, and hydropower.</p><p>In the transportation sector, electrification of vehicles, such as electric cars and buses, reduces reliance on fossil fuels and lowers emissions. Similarly, electrifying industrial processes and buildings, coupled with using renewable energy, contributes to a more sustainable and low-carbon economy. The versatility and efficiency of electricity make it a key enabler for integrating renewable energy, enhancing energy efficiency, and fostering a cleaner, greener future as part of broader climate change mitigation strategies.&nbsp;</p>",
+    "_id": "674740190f829922a04cece9",
+    "_parentId": "674740180f829922a04cecd8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/rzlcnYiipHE",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "674740190f829922a04cecea",
+    "_parentId": "674740180f829922a04cecd9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/renewable-energy-sun\">Renewable Energy (Sun)</a>\" by Burcu Köleli and is used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "674740190f829922a04ceced",
+    "_parentId": "674740180f829922a04cecda",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6747401d0f829922a04ced02",
+    "_parentId": "6747401c0f829922a04cecf4",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png",
+      "small": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Carbon Capture and Storage Part 1",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6747401d0f829922a04ced05",
+    "_parentId": "6747401c0f829922a04cecf5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/YCej6BzQ-J8",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Carbon Capture and Storage Part 2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6747401d0f829922a04ced06",
+    "_parentId": "6747401c0f829922a04cecf6",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/KsXZV--h_tk",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "3 Perspectives on CCS",
+    "displayTitle": "",
+    "body": "<p><strong>Non-Governmental Organisation (BUND)</strong></p><p>\"For fossil corporations, entering a CCS economy would be very profitable. For ecosystems, health and climate, however, CCS would create incalculable risks that would span generations. Society would have to bear the consequential costs as a burden for eternity. CCS technology sets the completely wrong course. Heavy industry could continue as before instead of converting its climate-damaging production and developing sustainable products. CCS even creates additional emissions. The construction of new plants and pipelines for CCS creates long-term directional decisions that further justify and even increase the consumption of natural gas and oil. The expansion of renewable energies and an energy- and raw material-saving circular economy is thus slowed down.\"</p><p style=\"text-align:right\">Source:&nbsp;https://www.bund.net/klimawandel/ccs/ (translated from German)</p>",
+    "_id": "6747401d0f829922a04ced07",
+    "_parentId": "6747401c0f829922a04cecf7",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "3 Perspectives on CCS",
+    "displayTitle": "",
+    "body": "<p><strong>Industry Actor (Saudi Aramco</strong><strong>)</strong></p><p>\"We believe carbon capture, utilization, and storage (CCUS) will play a role in global efforts to reduce greenhouse gas (GHG) emissions, while ensuring the world can continue to thrive.&nbsp;</p><p><em>How does CCUS work?</em></p><p>CCUS technologies capture CO<sub>2</sub> emissions at source or directly from the air. CO<sub>2</sub>&nbsp;emissions are then transported away and stored deep underground or turned into useful products. Capturing carbon has been used for decades to help improve the quality of natural gas, but pioneering new technologies may mean we can now potentially remove and sequester CO<sub>2 </sub>permanently. Moreover, we are exploring new ways to add value to waste CO<sub>2</sub> by turning it into marketable industrial and commercial products.\"</p><p style=\"text-align:right\">Source:&nbsp;https://www.aramco.com/en/sustainability/climate-change/managing-our-footprint/carbon-capture-rbon-capture-use-and-storage</p>",
+    "_id": "6747401d0f829922a04ced08",
+    "_parentId": "6747401c0f829922a04cecf7",
+    "_type": "component",
+    "_layout": "right",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "3 Perspectives on CCS",
+    "displayTitle": "",
+    "body": "<p><strong>Political Actor (European Commission)</strong></p><p>\"While CO<sub>2</sub> emissions from fuel combustion have been declining in Europe, industries like cement, iron and steel, aluminium, pulp and paper, and refineries have inherent CO<sub>2</sub> emissions resulting from energy-intensive industry processes. Carbon capture, use and storage can provide a key contribution to tackling these sectors’ emissions. Furthermore, it can help removing carbon from the atmosphere through carbon removals such as bio-energy carbon capture and storage (BECCS) and direct air carbon capture and storage (DACCS) and be a platform for low-carbon hydrogen production.&nbsp;(...)&nbsp;<br />The Commission’s <a href=\"https://climate.ec.europa.eu/eu-action/climate-strategies-targets/2050-long-term-strategy_en\">strategic long-term vision</a>&nbsp;depends in part on CO<sub>2</sub> removal techniques based on CCS: either in combination with direct air capture (DACCS) or biomass (BECCS) to achieve climate neutrality. The target of climate neutrality has been written into law by the European Climate Law (<a href=\"https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=uriserv:OJ.L_.2021.243.01.0001.01.ENG\">Regulation (EU) 2021/1119</a>), which requires that Union-wide greenhouse gas emissions (GHG) and removals are balanced within the Union at the latest by 2050 and that the Union shall aim to achieve negative emissions thereafter. Furthermore, several organisations and institutions such as the <a href=\"https://www.ipcc.ch\">Intergovernmental Panel on ClimateChange (IPCC)</a>, <a href=\"https://www.iea.org/fuels-and-technologies/carbon-capture-utilisation-and-storage\">International Energy Agency (IEA)</a> and <a href=\"https://netl.doe.gov/coal/carbon-storage\">National Energy Technology Laboratory (NETL)</a> argue that without carbon removals it is difficult to keep the temperature levels indicated in the Paris agreement (<a href=\"https://www.ipcc.ch/sr15/chapter/chapter-2/\">explore the IPCC report</a>).\"&nbsp;</p><p style=\"text-align:right\">Source: https://climate.ec.europa.eu/eu-action/carbon-capture-use-and-storage/overview_en#why-do-we-need-carbon-capture-use-and-storage</p>",
+    "_id": "6747401d0f829922a04ced09",
+    "_parentId": "6747401c0f829922a04cecf8",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The <em>BUND </em>is a Germen non-governmental organisation that is&nbsp;committed to the preservation of nature and the safeguarding of the environment. The abbrevation <em>BUND </em>translates to&nbsp;\"German Federation for the Environment and Nature Conservation\".&nbsp;They have&nbsp;about 660,000 members and are one of the largest environmental organisations in Germany.</p><p>Which of the following statements is true?</p>",
+    "_id": "6747401d0f829922a04ced0a",
+    "_parentId": "6747401c0f829922a04cecf9",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The BUND believes that CCS would lead to a rapid transition in heavy industry towards sustainable practices and the development of eco-friendly products.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The BUND argues that CCS could lead to heavy industry maintaining its current climate-damaging production practices.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The BUND expresses concerns that CCS could create incalculable risks for ecosystems, health, and climate, lasting for generations.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "As a non-governemental organisation the BUND can make political decisions in Germany.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The BUND has no financial interest in promoting CCS technologies.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>The BUND does not believe that CCS would lead to a rapid transition towards sustainable practices. Instead, they&nbsp;express concerns that CCS might allow heavy industry to continue its climate-damaging practices. Additionally, they also&nbsp;have concerns about the potential risks of CCS on ecosystems, health, and climate over the long term.&nbsp;Even though it is not mentioned in the text, the BUND is unlikely to have any financial interests in promoting CCS technologies.</p><p>As an NGO (non-governmental organisation), the BUND can advocate for specific policies and influence decision-making, but it doesn't make political decisions.</p>",
+      "_incorrect": {
+        "final": "<p>You did not select all the correct answers! Let's sum it up:</p><p>The BUND does not believe that CCS would lead to a rapid transition towards sustainable practices. Instead, they&nbsp;express concerns that CCS might allow heavy industry to continue its climate-damaging practices. Additionally, they also&nbsp;have concerns about the potential risks of CCS on ecosystems, health, and climate over the long term.&nbsp;Even though it is not mentioned in the text, the BUND is unlikely to have any financial interests in promoting CCS technologies.</p><p>As an NGO (non-governmental organisation), the BUND can advocate for specific policies and influence decision-making, but it doesn't make political decisions.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>The European Commission is the executive branch of the European Union (EU) and is responsible for proposing legislation, implementing decisions, and managing the day-to-day affairs of the EU. It is one of the critical institutions in the EU's complex political system. The Commission plays a central role in shaping EU policies, ensuring the implementation of common policies, and representing the EU on the global stage.</p>",
+    "_id": "6747401d0f829922a04ced0b",
+    "_parentId": "6747401c0f829922a04cecfa",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "The European Commission highlights the importance of carbon removal techniques, including CCS, to achieve climate neutrality by 2050 and meet the targets set in the European Climate Law.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The European Commission denies the importance of carbon removal techniques in achieving climate neutrality by 2050.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The European Commission states that industries like cement, iron and steel, etc., have inherent CO2 emissions from energy-intensive processes.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "In their statement the European Commission quotes many scientific publications, giving their statement higher authority.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "The text does not mention any disadvantages of CCS technologies or take a critical view on them.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!&nbsp;</p><p>The text does not address the disadvantages of CCS technologies or offer a critical viewpoint on them. At the same time, the European Commission references scientific publications to enhance the credibility of its statements. The Commission acknowledges inherent CO2 emissions from energy-intensive processes in the cement, iron, and steel industries. The European Commission does not deny the importance of carbon removal techniques; it underscores their significance in achieving climate neutrality by 2050.</p>",
+      "_incorrect": {
+        "final": "<p>You did not select all the correct answers! Let's sum it up: The text does not address the disadvantages of CCS technologies or offer a critical viewpoint on them. At the same time, the European Commission references scientific publications to enhance the credibility of its statements. The Commission acknowledges inherent CO2 emissions from energy-intensive processes in the cement, iron, and steel industries. The European Commission does not deny the importance of carbon removal techniques; it underscores their significance in achieving climate neutrality by 2050.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p>Saudi Aramco is a Saudi Arabian multinational petroleum and natural gas company, considered one of the largest energy companies globally.&nbsp;As a significant contributor to global carbon emissions, the company's role in the fossil fuel industry raises environmental alarms in the context of climate change and the global shift toward sustainable energy. Its state-owned status ties its operations closely to geopolitical considerations, potentially influencing regional stability and global energy markets. Questions about transparency and adherence to international corporate governance standards have been raised, given its state-owned nature.</p>",
+    "_id": "6747401d0f829922a04ced0c",
+    "_parentId": "6747401d0f829922a04cecfb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Saudi Aramco has expressed interest in and invested in carbon capture and storage (CCS) technologies. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "They have financial incentives to both further develop CCS technologies and to continue with producing fossil fuels.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "For Saudi Aramco CCS is a way to move completely away from fossil fuels towards more sustainable, greener energy sources. ",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Their statement presents a very positive view on CCS technologies. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Going beyond CCS technologies, they mention the possibility of using the capture CO2 to turn them into marketable products. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "<p>Correct!</p><p>Their statement reflects a notably optimistic stance on CCS technologies. Saudi Aramco has demonstrated interest in and financial investment in carbon capture and storage (CCS) technologies. However, it's crucial to note that, for Saudi Aramco, the adoption of CCS signifies a partial departure from fossil fuels toward more sustainable energy alternatives. Instead, there is a dual financial motivation—driving the advancement of CCS technologies while concurrently maintaining fossil fuel production. In addition to CCS, they explore the potential of converting captured CO2 into marketable products, indicating a broader perspective on utilising captured emissions.</p>",
+      "_incorrect": {
+        "final": "<p>You did not select all the correct answers! Let's sum it up:</p><p>Their statement reflects a notably optimistic stance on CCS technologies. Saudi Aramco has demonstrated interest in and financial investment in carbon capture and storage (CCS) technologies. However, it's crucial to note that, for Saudi Aramco, the adoption of CCS signifies a partial departure from fossil fuels toward more sustainable energy alternatives. Instead, there is a dual financial motivation—driving the advancement of CCS technologies while concurrently maintaining fossil fuel production. In addition to CCS, they explore the potential of converting captured CO2 into marketable products, indicating a broader perspective on utilising captured emissions.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "6747401d0f829922a04ced0d",
+    "_parentId": "6747401d0f829922a04cecfc",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p dir=\"auto\">The title picture for this learning module is adapted from &nbsp;\"<a href=\"https://thegreats.co/artworks/break-the-cycle-upcycle\">Break The Cycle – Upcycle</a>\" by Maria Picassó i Piquer for ArtistsForClimate.org, used under&nbsp;<a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</p>",
+    "_id": "6747401d0f829922a04ced10",
+    "_parentId": "6747401d0f829922a04cecfd",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "674740210f829922a04ced25",
+    "_parentId": "674740210f829922a04ced16",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png",
+      "small": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Environmental Impacts of Food and Agriculture",
+    "displayTitle": "Environmental Impacts of Food and Agriculture",
+    "body": "<p>Food and agriculture exert significant environmental impacts, contributing to deforestation, water depletion, pollution, greenhouse gas emissions, soil degradation, and biodiversity loss. Expanding agricultural activities often result in the clearance of natural habitats, leading to the decline of ecosystems. Water-intensive farming practices contribute to water scarcity, while livestock farming, in particular, generates substantial greenhouse gas emissions. Additionally, monoculture and the use of agrochemicals degrade soil quality, posing long-term threats to agricultural sustainability.</p><p>Addressing these environmental challenges is essential for fostering a more sustainable and resilient global food system.</p>",
+    "_id": "674740210f829922a04ced28",
+    "_parentId": "674740210f829922a04ced17",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/668374a079f479a9bb1cc09cdc8dea883fad3f44.png",
+      "small": "course/en/assets/668374a079f479a9bb1cc09cdc8dea883fad3f44.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Food Production and GHGs",
+    "displayTitle": "Food Production and GHGs",
+    "body": "<p>Food production is a major contributor to greenhouse gas (GHG) emissions, stemming from various stages of the supply chain. Agricultural activities, such as livestock farming and rice cultivation, release methane, while the use of synthetic fertilizers and energy-intensive practices contributes to carbon dioxide emissions. Additionally, deforestation for agricultural expansion further exacerbates the carbon footprint. From cultivation and processing to transportation and waste, the entire food production system influences GHG levels.</p><p>Therefore, sustainable food production practices and reduced food waste, are crucial for mitigating the environmental impact of food production and addressing the challenges posed by climate change.</p>",
+    "_id": "674740210f829922a04ced2b",
+    "_parentId": "674740210f829922a04ced18",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/861446b19c8422f9206f9f18e5b49463c54e85bc.png",
+      "small": "course/en/assets/861446b19c8422f9206f9f18e5b49463c54e85bc.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 1:</strong>&nbsp;Food production is responsible for approximately one-quarter (26%) of the world's greenhouse gas emissions.</p>",
+    "_id": "674740210f829922a04ced2e",
+    "_parentId": "674740210f829922a04ced19",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "True",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "False",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 2:</strong>&nbsp;Which are of food production produces the most GHG emissions?</p>",
+    "_id": "674740210f829922a04ced2f",
+    "_parentId": "674740210f829922a04ced1a",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Livestock & Fisheries",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Crop Production",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Land Use",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Supply Chain",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "mcq",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "<p><strong>Question 3:</strong>&nbsp;Which of the following statements is true?</p>",
+    "_id": "674740210f829922a04ced30",
+    "_parentId": "674740210f829922a04ced1b",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Choose {{#if _isRadio}}one option{{else}}one or more options{{/if}} then select Submit.",
+    "ariaQuestion": "",
+    "_items": [
+      {
+        "text": "Livestock, particularly cattle, produce methane, a potent greenhouse gas. ",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Food production is responsible for only 5 percent of the world's greenhouse gas emissions.",
+        "_shouldBeSelected": false,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      },
+      {
+        "text": "Land use, particularly for livestock, accounts for 24 percent of food emissions, involving the conversion of forests and grasslands into cropland or pasture.",
+        "_shouldBeSelected": true,
+        "_isPartlyCorrect": false,
+        "feedback": "",
+        "_score": 0
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": false,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_hasItemScoring": false,
+    "_questionWeight": 1,
+    "_selectable": 10,
+    "_feedback": {
+      "title": "",
+      "correct": "",
+      "_incorrect": {
+        "final": "",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>The negative impacts of industrial farming, only heightened by global warming and pollution, have underscored the urgent need for sustainable alternatives. In this video, we will look at some resilient food production techniques. We will be centring our attention on indoor farming techniques, offering a perspective that embraces a food production approach that is both resilient and environmentally conscious.</p>",
+    "_id": "674740210f829922a04ced31",
+    "_parentId": "674740210f829922a04ced1c",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/B6Jup8tZeC8 ",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Resilient Food Production Part 2",
+    "displayTitle": "",
+    "body": "",
+    "_id": "674740210f829922a04ced32",
+    "_parentId": "674740210f829922a04ced1d",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/pgszDP3Fr60 ",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Conclusion",
+    "displayTitle": "Conclusion",
+    "body": "<p>So, after covering three different use cases, what can we say about the importance of sustainability-related technologies? What can they do, and what can they not do?</p><p>First of all, the role of technology in driving sustainable change is undeniable. Technologies, including alternative energy sources, carbon capture and storage (CCS), and resilient food production methods, are crucial in mitigating environmental challenges. However, it's essential to recognise that technology alone cannot be the sole sustainable strategy. While it is often vital, relying solely on technological solutions oversimplifies the complex issues. here are multiple dimensions to consider, including behavioural change on individual, industry, and political levels. Politicians may favour emphasising technology's role as it offers a seemingly straightforward solution, yet a comprehensive approach involves addressing behavioural changes.</p><p>This encompasses shifts towards reduced consumption, such as the development of circular societies, where the focus lies on prolonged resource reuse. Achieving true sustainability requires a holistic perspective that combines the benefits of technology with fundamental changes in behavior across various sectors.</p>",
+    "_id": "674740210f829922a04ced33",
+    "_parentId": "674740210f829922a04ced1e",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "674740210f829922a04ced34",
+    "_parentId": "674740210f829922a04ced1f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "impressum",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p><p><span><span><span>The title picture for this learning module is adapted from \"<a href=\"https://thegreats.co/artworks/growth-is-a-community-effort\">Growth is a Community Effort</a>\" by Marko Jovanovac and used under <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0/\">CC-BY-NC-SA</a>.</span></span></span></p>",
+    "_id": "674740210f829922a04ced37",
+    "_parentId": "674740210f829922a04ced20",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "674740550f829922a04ced5c",
+    "_parentId": "674740550f829922a04ced52",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png",
+      "small": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png",
+      "attribution": "",
+      "_url": "",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "World3 Model Overview",
+    "displayTitle": "World3 Model Overview",
+    "body": "<p>The World3 model is a computer-based simulation model used in the study presented in the book \"The Limits to Growth,\" published in 1972 by the Club of Rome. The study aimed to explore the long-term implications of exponential growth in population, industrialisation, pollution, food production, and resource consumption. The authors of the book, Donella Meadows, Dennis Meadows, Jørgen Randers, and William W. Behrens III, used the World3 model to simulate different scenarios and assess the potential consequences of various policy choices.</p><p>In this video, we will learn more about the background of the simulation.</p>",
+    "_id": "674740550f829922a04ced5f",
+    "_parentId": "674740550f829922a04ced53",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/R4Asb4nkDNQ",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "World3 Model Scenarios",
+    "displayTitle": "World3 Model Scenarios",
+    "body": "<p>The World3 model explored various scenarios to understand the potential outcomes of different policy choices and trends in human behaviour. The scenarios were based on different assumptions about the aforementioned factors, such as population growth, industrialisation, pollution control, and resource management.&nbsp;</p>",
+    "_id": "674740550f829922a04ced60",
+    "_parentId": "674740550f829922a04ced54",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/CcO7CMnG01I",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Links",
+    "displayTitle": "Links",
+    "body": "<p><strong>Click the links below to look at different World3 Simulators</strong>:&nbsp;</p><ul><li><a href=\"https://insightmaker.com/insight/2pCL5ePy8wWgr4SN8BQ4DD/The-World3-Model-Classic-World-Simulation\">World3 Classic World Simulation</a></li><li><a href=\"http://bit-player.org/extras/limits/ltg.html\">World3 Simulation</a></li></ul><p>&nbsp;</p>",
+    "_id": "674740550f829922a04ced61",
+    "_parentId": "674740550f829922a04ced55",
+    "_type": "component",
+    "_layout": "left",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "World3 Model Structure",
+    "displayTitle": "World3 Model Structure",
+    "body": "<p>Stock and flow diagram (dynamo representation) of&nbsp;World3 Model Structure</p><p><em>Source: Pasqualino R, Jones AW, Monasterolo I, Phillips A. Understanding Global Systems Today—A Calibration of the World3-03 Model between 1995 and 2012. Sustainability. 2015; 7(8):9864-9889. https://doi.org/10.3390/su7089864</em></p>",
+    "_id": "674740550f829922a04ced62",
+    "_parentId": "674740550f829922a04ced56",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "_disableAccessibilityState": false,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "https://pub.mdpi-res.com/sustainability/sustainability-07-09864/article_deploy/html/images/sustainability-07-09864-g001.png?1441246190",
+      "small": "https://pub.mdpi-res.com/sustainability/sustainability-07-09864/article_deploy/html/images/sustainability-07-09864-g001.png?1441246190",
+      "attribution": "",
+      "_url": "https://pub.mdpi-res.com/sustainability/sustainability-07-09864/article_deploy/html/images/sustainability-07-09864-g001.png?1441246190",
+      "_target": null
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "674740550f829922a04ced63",
+    "_parentId": "674740550f829922a04ced57",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
