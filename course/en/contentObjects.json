@@ -924,7 +924,7 @@
   {
     "title": "Lecture L05",
     "displayTitle": "Lecture L05",
-    "body": "<p>This lecture is about</p><ul><li>planetary boundaries</li><li>modelling the world using system dynamics</li><li>four commonly used scenarios (BAU, BAU2, CT, SW)</li><li>warning that unsustainable human behaviour could cause societal collapse</li></ul><p>&nbsp;The Lecture recordings will be available <strong>the day after the live session on 27/11/2024</strong>.</p>",
+    "body": "<p>This lecture is about</p><ul><li>planetary boundaries</li><li>modelling the world using system dynamics</li><li>four commonly used scenarios (BAU, BAU2, CT, SW)</li><li>warning that unsustainable human behaviour could cause societal collapse</li></ul>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>This chapter will explore the critical concepts of ecological limits and planetary boundaries that shape our understanding of sustainable development.&nbsp;As our planet faces escalating environmental challenges, grasping the constraints within which our societies must operate to ensure a viable future is essential.&nbsp;</p><p>Below is the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. By clicking on the links, you will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub.</p>",
@@ -932,10 +932,8 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "66e19ca119a892427018676b"
-    ],
-    "_lockType": "custom",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1935,6 +1933,98 @@
           "_backgroundRepeat": null,
           "_backgroundSize": null,
           "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "_classes": "",
+    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
+    "pageBody": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca019a8924270186745",
+    "_parentId": "66e19c9f19a892427018671f",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/d50006cb9c63b9655c543ea0df443222b05efa7e.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -3418,98 +3508,6 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
-    "_classes": "",
-    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
-    "pageBody": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186745",
-    "_parentId": "66e19c9f19a892427018671f",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/d50006cb9c63b9655c543ea0df443222b05efa7e.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Exercise E02",
     "displayTitle": "Exercise E02",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -3714,6 +3712,98 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "66e19ca019a892427018674f",
     "_parentId": "66e19ca019a892427018672b",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E04",
+    "displayTitle": "Exercise E04",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca119a8924270186765",
+    "_parentId": "66e19c9f19a892427018671f",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4890,12 +4980,12 @@
     }
   },
   {
-    "title": "Frequently Asked Questions",
-    "displayTitle": "Frequently Asked Questions",
-    "body": "<p>Here is a compilation of the most common queries regarding the course structure, student expectations, and the exam.</p>",
+    "title": "World3 Model",
+    "displayTitle": "World3 Model",
+    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Here, you can find a collection of the most frequently asked questions about the course organization, student requirements, and the exam.&nbsp;</p>",
+    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
+    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4903,17 +4993,17 @@
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
-    "_isAvailable": true,
+    "_isAvailable": false,
     "_isHidden": false,
-    "_isVisible": true,
+    "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018675f",
-    "_parentId": "66e19c9f19a8924270186715",
+    "_id": "66e19ca119a892427018675b",
+    "_parentId": "66e19c9f19a892427018671f",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/999891d8908b6948537a42af2c7ea8de82df32dc.png"
+      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4945,9 +5035,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -4968,9 +5058,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -4982,30 +5072,30 @@
     }
   },
   {
-    "title": "Exercise E04",
-    "displayTitle": "Exercise E04",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "title": "Frequently Asked Questions",
+    "displayTitle": "Frequently Asked Questions",
+    "body": "<p>Here is a compilation of the most common queries regarding the course structure, student expectations, and the exam.</p>",
     "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "subtitle": "",
+    "pageBody": "<p>Here, you can find a collection of the most frequently asked questions about the course organization, student requirements, and the exam.&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
-    "_isAvailable": false,
+    "_isAvailable": true,
     "_isHidden": false,
-    "_isVisible": false,
+    "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186765",
-    "_parentId": "66e19c9f19a892427018671f",
+    "_id": "66e19ca119a892427018675f",
+    "_parentId": "66e19c9f19a8924270186715",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+      "src": "course/en/assets/999891d8908b6948537a42af2c7ea8de82df32dc.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -5994,98 +6084,6 @@
     }
   },
   {
-    "title": "World3 Model",
-    "displayTitle": "World3 Model",
-    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
-    "_classes": "",
-    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
-    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018675b",
-    "_parentId": "66e19c9f19a892427018671f",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Course Organization",
     "displayTitle": "Course Organization",
     "body": "<p>Find out who the team organising the course is, how the course is structured and what the formal requirements for successful participation are.</p>",
@@ -6373,7 +6371,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "custom",
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
