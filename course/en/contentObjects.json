@@ -1296,10 +1296,10 @@
   {
     "title": "Lecture L07",
     "displayTitle": "Lecture L07",
-    "body": "<p>This lecture is about</p><ul><li>ethics-related concepts to sustainability</li><li>intergenerational responsibilities</li><li>corporate social responsibility</li></ul><p>&nbsp;The Lecture recordings will be available <strong>the day after the live session on 11/12/2024</strong>.</p>",
+    "body": "<p>This lecture is about</p><ul><li>Environmental Values and their Impact on Sustainability Issues</li><li>Sustainability and Justice –the Case of Climate Change</li><li>the Morality of Sustainable Conduct</li></ul><p>&nbsp;The Lecture recordings will be available <strong>the day after the live session on 11/12/2024</strong>.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Sustainable innovations, from renewable energy to efficient transportation, can potentially drive positive change. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p><p>Below is the lecture recording, the slides, and the exercise for this lecture. Lecture recordings will be available <strong>a day after the live session</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p>",
+    "pageBody": "<p>Sustainable innovations, from renewable energy to efficient transportation, can potentially drive positive change. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p><p><span style=\"box-sizing:border-box; margin:0px; padding:0px\">Below are the lecture recordings, slides, and exercises for this lecture. The lecture recordings will be available&nbsp;<strong>a day after the live session</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -2956,6 +2956,98 @@
     }
   },
   {
+    "title": "Technologies and Sustainabilty",
+    "displayTitle": "Technologies and Sustainabilty",
+    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "67068af7b82a7967f4fe77b1",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Alternative Sources of Energy",
     "displayTitle": "Alternative Sources of Energy",
     "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
@@ -3440,6 +3532,98 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "66e19ca019a8924270186731",
+    "_parentId": "66e19ca019a8924270186723",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4244,98 +4428,6 @@
     }
   },
   {
-    "title": "Technologies and Sustainabilty",
-    "displayTitle": "Technologies and Sustainabilty",
-    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67068af7b82a7967f4fe77b1",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Carbon Capture and Storage",
     "displayTitle": "Carbon Capture and Storage",
     "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
@@ -4888,12 +4980,12 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "title": "Alternative Sources of Energy",
+    "displayTitle": "Alternative Sources of Energy",
+    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
     "_classes": "",
     "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. However, realising these possibilities requires overcoming challenges like e-waste management energy consumption in tech production. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
+    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind power, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly option than traditional fossil fuels. This section will discuss different technologies and their advantages and disadvantages.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4906,12 +4998,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186731",
+    "_id": "66e19ca019a8924270186749",
     "_parentId": "66e19ca019a8924270186723",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/6baa5f008eaa875a895f2cdc69dc5fd7e82721d5.png"
+      "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -5992,12 +6084,12 @@
     }
   },
   {
-    "title": "Alternative Sources of Energy",
-    "displayTitle": "Alternative Sources of Energy",
-    "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
     "_classes": "",
     "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Alternative energy sources encompass various options, including solar power, wind power, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly option than traditional fossil fuels. This section will discuss different technologies and their advantages and disadvantages.</p>",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -6010,12 +6102,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186749",
+    "_id": "66e19ca119a8924270186761",
     "_parentId": "66e19ca019a8924270186723",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6268,12 +6360,12 @@
     }
   },
   {
-    "title": "Carbon Capture and Storage",
-    "displayTitle": "Carbon Capture and Storage",
-    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
     "_classes": "",
     "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
+    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -6286,12 +6378,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186761",
+    "_id": "66e19ca119a892427018676f",
     "_parentId": "66e19ca019a8924270186723",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
+      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6452,98 +6544,6 @@
     }
   },
   {
-    "title": "Resilient Food Production",
-    "displayTitle": "Resilient Food Production",
-    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018676f",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Life Cycle Assessement",
     "displayTitle": "Life Cycle Assessement",
     "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
@@ -6636,8 +6636,8 @@
     }
   },
   {
-    "title": "Ethics and Morals of Sustainability",
-    "displayTitle": "Ethics and Morals of Sustainability",
+    "title": "Sustainability and Ethics",
+    "displayTitle": "Sustainability and Ethics",
     "body": "<p>Sustainable innovations can potentially drive positive change, from renewable energy to efficient transportation. Yet, it's essential to acknowledge their limitations. In this chapter, we will scrutinise the boundaries of technology, emphasising the need for holistic approaches to achieve genuine sustainability.</p>",
     "_classes": "",
     "subtitle": "",
