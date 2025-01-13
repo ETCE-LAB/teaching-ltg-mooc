@@ -26374,7 +26374,7 @@
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
