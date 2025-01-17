@@ -12883,7 +12883,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://www.youtube.com/watch?v=5ZPvVJ5SJj0",
+      "source": "https://youtu.be/Ml0YHUng08o",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -22725,7 +22725,7 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
