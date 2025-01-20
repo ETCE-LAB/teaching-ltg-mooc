@@ -8069,8 +8069,8 @@
     "_graphic": {
       "alt": "",
       "longdescription": "",
-      "large": "course/en/assets/f034c2d545864f0bd73da9c91405dc88146e0b11.png",
-      "small": "course/en/assets/f034c2d545864f0bd73da9c91405dc88146e0b11.png",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "attribution": "",
       "_url": "",
       "_target": ""
@@ -8283,8 +8283,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -8306,6 +8304,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -9571,8 +9570,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -9594,6 +9591,7 @@
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
     "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
     "_transcript": {
       "_setCompletionOnView": true,
       "_inlineTranscript": false,
@@ -13008,8 +13006,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -13018,7 +13014,7 @@
       "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "attribution": "",
       "_url": "",
-      "_target": null
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -30709,5 +30705,136 @@
       }
     },
     "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Performance Economy",
+    "displayTitle": "Performance Economy",
+    "body": "<p>Watch the lecture recording for Performance Economy</p>",
+    "_id": "678e347fd8b5347ea4e39883",
+    "_parentId": "678e3470d8b5347ea4e39882",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://www.youtube.com/watch?v=aawowP0hLdw",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Slides",
+    "displayTitle": "Slides",
+    "body": "",
+    "_id": "678e39aed8b5347ea4e39887",
+    "_parentId": "678e39a9d8b5347ea4e39886",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the lecture slides.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
   }
 ]
