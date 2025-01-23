@@ -8463,7 +8463,7 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "longdescription": "",
+      "longdescription": "Table adapted from M. C. Friant, R. Salomone, W. J. V. Vermeulen (2020) – A Typology of Circular Economy Discourses: Navigating the Diverse Visions of a Contested Paradigm ",
       "large": "course/en/assets/3004bddca15719b9b8c62202ddd2a86ba27dfe55.png",
       "small": "course/en/assets/3004bddca15719b9b8c62202ddd2a86ba27dfe55.png",
       "attribution": "",
@@ -8518,7 +8518,7 @@
     "instruction": "",
     "_graphic": {
       "alt": "",
-      "longdescription": "",
+      "longdescription": "Table adapted from M. C. Friant, R. Salomone, W. J. V. Vermeulen (2020) – A Typology of Circular Economy Discourses: Navigating the Diverse Visions of a Contested Paradigm ",
       "large": "course/en/assets/2b3787cfa196ba8db0ae137058ca3ef83eff8368.png",
       "small": "course/en/assets/2b3787cfa196ba8db0ae137058ca3ef83eff8368.png",
       "attribution": "",
@@ -23388,7 +23388,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Recording: L11",
     "displayTitle": "Lecture Recording: L11",
-    "body": "<p>Watch the lecture recording for Lecture L11 - Invited Lecture.</p>",
+    "body": "<p>Watch the lecture recording for Lecture L11 - Power in Balance: Horizontal Governance for Collaborative Communities.</p>",
     "_id": "670cd61cb82a7967f4fe78a6",
     "_parentId": "670cd61cb82a7967f4fe789c",
     "_type": "component",
@@ -23419,13 +23419,13 @@
         "_instruction": ""
       }
     },
-    "instruction": "Select the play button to start the video.",
+    "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://www.youtube.com/watch?v=5ZPvVJ5SJj0",
+      "source": "https://youtu.be/B27tabsSrjw",
       "type": "video/youtube",
       "poster": "",
       "cc": []
