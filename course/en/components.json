@@ -12951,7 +12951,7 @@
         "_instruction": ""
       }
     },
-    "instruction": "Click below to view the lecture slides.",
+    "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
@@ -15143,7 +15143,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E08",
     "displayTitle": "",
-    "body": "<p>Access the exercise sheets via our GitHub Repository (link below)!</p>",
+    "body": "<p>The exercise sheet is not yet available!</p>",
     "_id": "66e414c467cc9a1050ae60fe",
     "_parentId": "66e414bf67cc9a1050ae60fd",
     "_type": "component",
@@ -16612,7 +16612,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E09",
     "displayTitle": "",
-    "body": "<p>Access the exercise sheets via our GitHub Repository (link below)!</p>",
+    "body": "<p>The exercise sheet is not yet available!</p>",
     "_id": "66f41e51f59def4b2c742440",
     "_parentId": "66f41d52f59def4b2c74243e",
     "_type": "component",
@@ -23362,8 +23362,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
     "instruction": "",
     "_graphic": {
       "alt": "",
@@ -23372,7 +23370,7 @@
       "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
       "attribution": "",
       "_url": "",
-      "_target": null
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
@@ -23495,17 +23493,15 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "_disableAccessibilityState": false,
-    "instruction": "Click below to view the lecture slides.",
+    "instruction": "",
     "_graphic": {
       "alt": "",
       "longdescription": "",
       "large": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
       "small": "course/en/assets/0c441a9afad0d8bcc2f77ff2572d8f1eb9930c27.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth",
-      "_target": null
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": ""
     },
     "_isScrollable": false,
     "_defaultScrollPercent": 0
