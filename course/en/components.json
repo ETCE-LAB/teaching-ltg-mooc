@@ -14911,9 +14911,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L11",
-    "displayTitle": "Lecture Recording: L11",
-    "body": "<p>Watch the lecture recording for Lecture L11 - Beyond the Circular Economy II.</p>",
+    "title": "Lecture Recording: L12",
+    "displayTitle": "Lecture Recording: L12",
+    "body": "<p>Watch the lecture recording for Lecture L12 - Beyond the Circular Economy (Part 2).</p>",
     "_id": "66e412cc67cc9a1050ae60ee",
     "_parentId": "66e412c467cc9a1050ae60ed",
     "_type": "component",
@@ -14944,13 +14944,13 @@
         "_instruction": ""
       }
     },
-    "instruction": "Select the play button to start the video.",
+    "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://www.youtube.com/watch?v=5ZPvVJ5SJj0",
+      "source": "https://youtu.be/1cBqzcyRAhI",
       "type": "video/youtube",
       "poster": "",
       "cc": []

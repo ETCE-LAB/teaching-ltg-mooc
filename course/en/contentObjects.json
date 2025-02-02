@@ -1014,7 +1014,7 @@
   {
     "title": "Lecture L12",
     "displayTitle": "Lecture L12",
-    "body": "<p>This lecture is about</p><ul><li>Universal Basic Income (UBI)<ul><li><em>its concepts</em></li><li><em>goals</em></li><li><em>challenges</em></li><li><em>experiments conducted</em></li></ul></li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 29/01/2025</strong>.&nbsp;</p>",
+    "body": "<p>This lecture is about</p><ul><li>Universal Basic Income (UBI)<ul><li><em>its concepts</em></li><li><em>goals</em></li><li><em>challenges</em></li><li><em>experiments conducted</em></li></ul></li></ul>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p><strong>The lecture will be live&nbsp;on&nbsp;29.01.2025 from 1:15 - 2:45 p.m.&nbsp;via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p><p>Below are the lecture recordings, slides, and exercises for this lecture. Lecture recordings will be available a day after the live sessions.&nbsp;</p>",
@@ -1022,10 +1022,8 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "66e410b267cc9a1050ae60e5"
-    ],
-    "_lockType": "custom",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7193,7 +7191,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "custom",
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
