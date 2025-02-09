@@ -23616,9 +23616,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L14",
-    "displayTitle": "Lecture Recording: L14",
-    "body": "",
+    "title": "Lecture Recording: L13",
+    "displayTitle": "Lecture Recording: L13",
+    "body": "<p>Watch the lecture recording for Lecture L13 - Summary of the entire course.</p>",
     "_id": "670d1bfdb82a7967f4fe78c0",
     "_parentId": "670d1bfdb82a7967f4fe78b6",
     "_type": "component",
@@ -23649,13 +23649,13 @@
         "_instruction": ""
       }
     },
-    "instruction": "Select the play button to start the video.",
+    "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://www.youtube.com/watch?v=5ZPvVJ5SJj0",
+      "source": "https://youtu.be/K0JMdroqPf8",
       "type": "video/youtube",
       "poster": "",
       "cc": []

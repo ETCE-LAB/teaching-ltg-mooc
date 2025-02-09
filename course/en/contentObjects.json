@@ -1568,18 +1568,16 @@
   {
     "title": "Summary",
     "displayTitle": "Summary",
-    "body": "<p>In a nutshell</p><ul><li>you don't have to be a sustainability saint -- be as sustainable as possible</li><li>small progress vs. no progress</li><li>silence/being inactive supports the destruction of our planet</li><li>lead by example -- do something&nbsp;</li></ul><p>Lecture recordings will be available&nbsp;<strong>the day after the live session on 05/02/2025</strong>.&nbsp;</p>",
+    "body": "<p>In a nutshell</p><ul><li>you don't have to be a sustainability saint -- be as sustainable as possible</li><li>small progress vs. no progress</li><li>silence/being inactive supports the destruction of our planet</li><li>lead by example -- do something&nbsp;</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p><strong>The lecture will be live&nbsp;on <span style=\"color:#4e7367\">&nbsp;05.02.2025 from 1:15 - 2:45 p.m.</span> via the BBB virtual classroom platform&nbsp;</strong>(<a href=\"http://webconf.tu-clausthal.de/rooms/ben-aoi-v9o-q7r/join\">Link</a>).</p>",
+    "pageBody": "<p>In this course, we have explored the nuances of environmental, social, and economic sustainability, recognizing their interplay. Throughout our discussions, we've discovered that sustainable solutions demand collaborative efforts, innovative thinking, and a commitment to change.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [
-      "670d1bfcb82a7967f4fe78b1"
-    ],
-    "_lockType": "custom",
+    "_lockedBy": [],
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7286,7 +7284,7 @@
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
@@ -7375,7 +7373,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "custom",
+    "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7387,7 +7385,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/e26bda1a37e545e4e260cfcfbfe5fa178ab777d8.png"
+      "src": "course/en/assets/7f94a0c608c1bb9eb352797bbabec883dd97c457.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -7479,7 +7477,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/f063a841cb272f2354236f6ea60a7c6cf0b085e1.png"
+      "src": "course/en/assets/384d8505ea3e8dbe0718aae37765397f8b29d169.png"
     },
     "_onScreen": {
       "_isEnabled": false,
