@@ -18,7 +18,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018672f",
+    "_id": "68f4eb66c483f95894c448e5",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -110,8 +110,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186733",
-    "_parentId": "66e19c9f19a8924270186715",
+    "_id": "68f4eb66c483f95894c448e7",
+    "_parentId": "68f4eb66c483f95894c448bb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -202,8 +202,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186735",
-    "_parentId": "66e19c9f19a8924270186719",
+    "_id": "68f4eb66c483f95894c448e9",
+    "_parentId": "68f4eb66c483f95894c448c1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -294,8 +294,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186737",
-    "_parentId": "66e19c9f19a8924270186717",
+    "_id": "68f4eb66c483f95894c448eb",
+    "_parentId": "68f4eb66c483f95894c448bf",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -386,8 +386,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186739",
-    "_parentId": "66e19ca019a8924270186729",
+    "_id": "68f4eb66c483f95894c448ed",
+    "_parentId": "68f4eb66c483f95894c448d3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -478,8 +478,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018673b",
-    "_parentId": "66e19ca019a892427018672b",
+    "_id": "68f4eb66c483f95894c448ef",
+    "_parentId": "68f4eb66c483f95894c448d5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -570,8 +570,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018673d",
-    "_parentId": "66e19c9f19a892427018671b",
+    "_id": "68f4eb66c483f95894c448f1",
+    "_parentId": "68f4eb66c483f95894c448c3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -662,8 +662,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018673f",
-    "_parentId": "66e19c9f19a8924270186721",
+    "_id": "68f4eb66c483f95894c448f3",
+    "_parentId": "68f4eb66c483f95894c448c9",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -754,8 +754,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186741",
-    "_parentId": "66e19ca019a892427018672d",
+    "_id": "68f4eb66c483f95894c448f5",
+    "_parentId": "68f4eb66c483f95894c448d7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -846,8 +846,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186743",
-    "_parentId": "66e19c9f19a892427018671d",
+    "_id": "68f4eb66c483f95894c448f7",
+    "_parentId": "68f4eb66c483f95894c448c5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -938,8 +938,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018676b",
-    "_parentId": "66e19c9f19a892427018671f",
+    "_id": "68f4eb66c483f95894c448f9",
+    "_parentId": "68f4eb66c483f95894c448c7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1030,8 +1030,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e410b267cc9a1050ae60e5",
-    "_parentId": "66e3febd67cc9a1050ae60e3",
+    "_id": "68f4eb66c483f95894c448fb",
+    "_parentId": "68f4eb66c483f95894c448db",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1124,8 +1124,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66f4167cf59def4b2c74242d",
-    "_parentId": "66f413d3f59def4b2c74242a",
+    "_id": "68f4eb66c483f95894c448fd",
+    "_parentId": "68f4eb66c483f95894c448dd",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1216,8 +1216,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66f62112f59def4b2c742454",
-    "_parentId": "66f61485f59def4b2c742451",
+    "_id": "68f4eb66c483f95894c448ff",
+    "_parentId": "68f4eb66c483f95894c448bd",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1308,8 +1308,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670688bdb82a7967f4fe779a",
-    "_parentId": "66e19ca019a8924270186723",
+    "_id": "68f4eb66c483f95894c44901",
+    "_parentId": "68f4eb66c483f95894c448cb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1400,8 +1400,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670696d0b82a7967f4fe77b3",
-    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_id": "68f4eb66c483f95894c44903",
+    "_parentId": "68f4eb66c483f95894c448d1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1492,8 +1492,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670cd61cb82a7967f4fe7897",
-    "_parentId": "670ccf20b82a7967f4fe7895",
+    "_id": "68f4eb66c483f95894c44905",
+    "_parentId": "68f4eb66c483f95894c448d9",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1584,8 +1584,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670d1bfcb82a7967f4fe78b1",
-    "_parentId": "670d1be5b82a7967f4fe78af",
+    "_id": "68f4eb66c483f95894c44907",
+    "_parentId": "68f4eb66c483f95894c448df",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1676,8 +1676,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67473f610f829922a04ceb96",
-    "_parentId": "67473d620f829922a04ceb72",
+    "_id": "68f4eb67c483f95894c44909",
+    "_parentId": "68f4eb66c483f95894c448e1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1768,8 +1768,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "674740150f829922a04cec9f",
-    "_parentId": "67473fac0f829922a04cec02",
+    "_id": "68f4eb67c483f95894c4490b",
+    "_parentId": "68f4eb66c483f95894c448e3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1860,7 +1860,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a8924270186715",
+    "_id": "68f4eb66c483f95894c448bb",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -1934,6 +1934,98 @@
     }
   },
   {
+    "title": "Technologies and Sustainabilty",
+    "displayTitle": "Technologies and Sustainabilty",
+    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "68f4eb66c483f95894c448d1",
+    "_parentId": "68f4eb66c483f95894c448cb",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Introduction",
     "displayTitle": "Introduction",
     "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
@@ -1952,8 +2044,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186745",
-    "_parentId": "66e19c9f19a892427018671f",
+    "_id": "68f4eb67c483f95894c4490d",
+    "_parentId": "68f4eb66c483f95894c448c7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2044,8 +2136,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186747",
-    "_parentId": "66e19c9f19a8924270186715",
+    "_id": "68f4eb67c483f95894c4490f",
+    "_parentId": "68f4eb66c483f95894c448bb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2136,8 +2228,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186751",
-    "_parentId": "66e19ca019a8924270186729",
+    "_id": "68f4eb67c483f95894c44911",
+    "_parentId": "68f4eb66c483f95894c448d3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2228,8 +2320,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186755",
-    "_parentId": "66e19c9f19a8924270186721",
+    "_id": "68f4eb67c483f95894c44913",
+    "_parentId": "68f4eb66c483f95894c448c9",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2320,8 +2412,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186759",
-    "_parentId": "66e19c9f19a892427018671d",
+    "_id": "68f4eb67c483f95894c44915",
+    "_parentId": "68f4eb66c483f95894c448c5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2412,8 +2504,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e413f267cc9a1050ae60f6",
-    "_parentId": "66e3febd67cc9a1050ae60e3",
+    "_id": "68f4eb67c483f95894c44917",
+    "_parentId": "68f4eb66c483f95894c448db",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2504,8 +2596,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e4364967cc9a1050ae6132",
-    "_parentId": "66e19c9f19a892427018671b",
+    "_id": "68f4eb67c483f95894c44919",
+    "_parentId": "68f4eb66c483f95894c448c3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2596,8 +2688,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e439ca67cc9a1050ae6143",
-    "_parentId": "66e19c9f19a8924270186719",
+    "_id": "68f4eb67c483f95894c4491b",
+    "_parentId": "68f4eb66c483f95894c448c1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2688,8 +2780,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e43c6f67cc9a1050ae6154",
-    "_parentId": "66e19c9f19a8924270186717",
+    "_id": "68f4eb67c483f95894c4491d",
+    "_parentId": "68f4eb66c483f95894c448bf",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2780,8 +2872,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66f41d52f59def4b2c74243c",
-    "_parentId": "66f413d3f59def4b2c74242a",
+    "_id": "68f4eb67c483f95894c4491f",
+    "_parentId": "68f4eb66c483f95894c448dd",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2872,104 +2964,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66f621a2f59def4b2c74246c",
-    "_parentId": "66f61485f59def4b2c742451",
+    "_id": "68f4eb67c483f95894c44921",
+    "_parentId": "68f4eb66c483f95894c448bd",
     "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Technologies and Sustainabilty",
-    "displayTitle": "Technologies and Sustainabilty",
-    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies like sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices in tackling environmental problems.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67068af7b82a7967f4fe77b1",
-    "_parentId": "66e19ca019a8924270186723",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3056,8 +3056,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670696e1b82a7967f4fe77df",
-    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_id": "68f4eb67c483f95894c44923",
+    "_parentId": "68f4eb66c483f95894c448d1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3148,8 +3148,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67444ba30f829922a04ceb0e",
-    "_parentId": "66e19ca019a892427018672d",
+    "_id": "68f4eb67c483f95894c44925",
+    "_parentId": "68f4eb66c483f95894c448d7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3240,8 +3240,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67444f850f829922a04ceb5b",
-    "_parentId": "66e19ca019a892427018672b",
+    "_id": "68f4eb67c483f95894c44927",
+    "_parentId": "68f4eb66c483f95894c448d5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3332,8 +3332,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67473f800f829922a04cebdd",
-    "_parentId": "67473d620f829922a04ceb72",
+    "_id": "68f4eb67c483f95894c44929",
+    "_parentId": "68f4eb66c483f95894c448e1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3424,12 +3424,104 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "674740180f829922a04ceccb",
-    "_parentId": "67473fac0f829922a04cec02",
+    "_id": "68f4eb67c483f95894c4492b",
+    "_parentId": "68f4eb66c483f95894c448e3",
     "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/7c167e7038211a776ce71216d7f6c7faa56dd598.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Here, you will find the course introduction chapter. This lecture introduces the foundational concept that shapes the learning ahead. We'll examine the significant ecological and sociological challenges in more detail and show why these topics are relevant.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Here, you will find the course introduction lecture. This is where you will be introduced to the foundational concept that shapes the learning ahead. We'll examine our day's significant ecological and sociological challenges in more detail and show you why grasping these problems is more important than you would think.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "68f4eb66c483f95894c448bd",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/51cb97a0e4c39e0b71e7538095a598446aa3e547.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3516,12 +3608,104 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a892427018671d",
-    "_parentId": "66e19c9f19a892427018671b",
+    "_id": "68f4eb66c483f95894c448c5",
+    "_parentId": "68f4eb66c483f95894c448c3",
     "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Technologies and Sustainabilty",
+    "displayTitle": "Technologies and Sustainabilty",
+    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies such as sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices for tackling environmental problems.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "68f4eb66c483f95894c448e3",
+    "_parentId": "68f4eb66c483f95894c448e1",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3608,8 +3792,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186731",
-    "_parentId": "66e19ca019a8924270186723",
+    "_id": "68f4eb67c483f95894c4492d",
+    "_parentId": "68f4eb66c483f95894c448cb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3700,8 +3884,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018674b",
-    "_parentId": "66e19c9f19a8924270186719",
+    "_id": "68f4eb67c483f95894c4492f",
+    "_parentId": "68f4eb66c483f95894c448c1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3792,8 +3976,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018674d",
-    "_parentId": "66e19c9f19a8924270186717",
+    "_id": "68f4eb67c483f95894c44931",
+    "_parentId": "68f4eb66c483f95894c448bf",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3884,8 +4068,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018674f",
-    "_parentId": "66e19ca019a892427018672b",
+    "_id": "68f4eb67c483f95894c44933",
+    "_parentId": "68f4eb66c483f95894c448d5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3976,8 +4160,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186765",
-    "_parentId": "66e19c9f19a892427018671f",
+    "_id": "68f4eb67c483f95894c44935",
+    "_parentId": "68f4eb66c483f95894c448c7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4068,8 +4252,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186767",
-    "_parentId": "66e19ca019a8924270186729",
+    "_id": "68f4eb67c483f95894c44937",
+    "_parentId": "68f4eb66c483f95894c448d3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4160,8 +4344,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186769",
-    "_parentId": "66e19ca019a892427018672d",
+    "_id": "68f4eb67c483f95894c44939",
+    "_parentId": "68f4eb66c483f95894c448d7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4234,98 +4418,6 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>Here, you will find the course introduction chapter. This lecture introduces the foundational concept that shapes the learning ahead. We'll examine the significant ecological and sociological challenges in more detail and show why these topics are relevant.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Here, you will find the course introduction lecture. This is where you will be introduced to the foundational concept that shapes the learning ahead. We'll examine our day's significant ecological and sociological challenges in more detail and show you why grasping these problems is more important than you would think.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66f61485f59def4b2c742451",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/51cb97a0e4c39e0b71e7538095a598446aa3e547.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Political (In) Action",
     "displayTitle": "Political (In) Action",
     "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
@@ -4344,8 +4436,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67066ea8b82a7967f4fe7734",
-    "_parentId": "66e19c9f19a892427018671d",
+    "_id": "68f4eb67c483f95894c4493b",
+    "_parentId": "68f4eb66c483f95894c448c5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4436,8 +4528,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670696e5b82a7967f4fe7803",
-    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_id": "68f4eb67c483f95894c4493d",
+    "_parentId": "68f4eb66c483f95894c448d1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4528,8 +4620,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6709031ab82a7967f4fe7865",
-    "_parentId": "66e19c9f19a8924270186715",
+    "_id": "68f4eb67c483f95894c4493f",
+    "_parentId": "68f4eb66c483f95894c448bb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4620,104 +4712,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67444a9c0f829922a04ceaa0",
-    "_parentId": "66e19c9f19a8924270186721",
+    "_id": "68f4eb67c483f95894c44941",
+    "_parentId": "68f4eb66c483f95894c448c9",
     "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Technologies and Sustainabilty",
-    "displayTitle": "Technologies and Sustainabilty",
-    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies such as sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices for tackling environmental problems.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67473fac0f829922a04cec02",
-    "_parentId": "67473d620f829922a04ceb72",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4804,8 +4804,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6747401c0f829922a04cecef",
-    "_parentId": "67473fac0f829922a04cec02",
+    "_id": "68f4eb67c483f95894c44943",
+    "_parentId": "68f4eb66c483f95894c448e3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -4896,7 +4896,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a8924270186717",
+    "_id": "68f4eb66c483f95894c448bf",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -4988,8 +4988,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186749",
-    "_parentId": "66e19ca019a8924270186723",
+    "_id": "68f4eb67c483f95894c44945",
+    "_parentId": "68f4eb66c483f95894c448cb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5080,8 +5080,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018675b",
-    "_parentId": "66e19c9f19a892427018671f",
+    "_id": "68f4eb67c483f95894c44947",
+    "_parentId": "68f4eb66c483f95894c448c7",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5172,8 +5172,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018675f",
-    "_parentId": "66e19c9f19a8924270186715",
+    "_id": "68f4eb67c483f95894c44949",
+    "_parentId": "68f4eb66c483f95894c448bb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5264,8 +5264,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186773",
-    "_parentId": "66e19c9f19a892427018671b",
+    "_id": "68f4eb67c483f95894c4494b",
+    "_parentId": "68f4eb66c483f95894c448c3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5356,8 +5356,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e4269067cc9a1050ae6109",
-    "_parentId": "66e19c9f19a8924270186721",
+    "_id": "68f4eb67c483f95894c4494d",
+    "_parentId": "68f4eb66c483f95894c448c9",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5448,8 +5448,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67066eb0b82a7967f4fe7751",
-    "_parentId": "66e19c9f19a892427018671d",
+    "_id": "68f4eb67c483f95894c4494f",
+    "_parentId": "68f4eb66c483f95894c448c5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5540,8 +5540,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670696eab82a7967f4fe7826",
-    "_parentId": "67068af7b82a7967f4fe77b1",
+    "_id": "68f4eb67c483f95894c44951",
+    "_parentId": "68f4eb66c483f95894c448d1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5632,8 +5632,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67444b060f829922a04cead7",
-    "_parentId": "66e19ca019a892427018672b",
+    "_id": "68f4eb67c483f95894c44953",
+    "_parentId": "68f4eb66c483f95894c448d5",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5724,8 +5724,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "674740210f829922a04ced12",
-    "_parentId": "67473fac0f829922a04cec02",
+    "_id": "68f4eb67c483f95894c44955",
+    "_parentId": "68f4eb66c483f95894c448e3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5816,8 +5816,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "674740550f829922a04ced4f",
-    "_parentId": "67473d620f829922a04ceb72",
+    "_id": "68f4eb67c483f95894c44957",
+    "_parentId": "68f4eb66c483f95894c448e1",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5908,8 +5908,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "677418e72f234839f4ff43e6",
-    "_parentId": "66e19ca019a8924270186729",
+    "_id": "68f4eb67c483f95894c44959",
+    "_parentId": "68f4eb66c483f95894c448d3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6000,7 +6000,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a8924270186719",
+    "_id": "68f4eb66c483f95894c448c1",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6092,8 +6092,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186761",
-    "_parentId": "66e19ca019a8924270186723",
+    "_id": "68f4eb67c483f95894c4495b",
+    "_parentId": "68f4eb66c483f95894c448cb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6184,8 +6184,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018676d",
-    "_parentId": "66e19c9f19a8924270186715",
+    "_id": "68f4eb67c483f95894c4495d",
+    "_parentId": "68f4eb66c483f95894c448bb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6276,8 +6276,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a8924270186771",
-    "_parentId": "66e19ca019a8924270186729",
+    "_id": "68f4eb67c483f95894c4495f",
+    "_parentId": "68f4eb66c483f95894c448d3",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6368,7 +6368,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a892427018671b",
+    "_id": "68f4eb66c483f95894c448c3",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6460,8 +6460,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca119a892427018676f",
-    "_parentId": "66e19ca019a8924270186723",
+    "_id": "68f4eb67c483f95894c44961",
+    "_parentId": "68f4eb66c483f95894c448cb",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6552,7 +6552,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a892427018671f",
+    "_id": "68f4eb66c483f95894c448c7",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6644,7 +6644,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19c9f19a8924270186721",
+    "_id": "68f4eb66c483f95894c448c9",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6736,7 +6736,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186723",
+    "_id": "68f4eb66c483f95894c448cb",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6828,7 +6828,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a8924270186729",
+    "_id": "68f4eb66c483f95894c448d3",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6920,7 +6920,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018672b",
+    "_id": "68f4eb66c483f95894c448d5",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7012,7 +7012,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e19ca019a892427018672d",
+    "_id": "68f4eb66c483f95894c448d7",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7104,7 +7104,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670ccf20b82a7967f4fe7895",
+    "_id": "68f4eb66c483f95894c448d9",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7196,7 +7196,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66e3febd67cc9a1050ae60e3",
+    "_id": "68f4eb66c483f95894c448db",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7288,7 +7288,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "66f413d3f59def4b2c74242a",
+    "_id": "68f4eb66c483f95894c448dd",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7380,7 +7380,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "670d1be5b82a7967f4fe78af",
+    "_id": "68f4eb66c483f95894c448df",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7472,7 +7472,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "67473d620f829922a04ceb72",
+    "_id": "68f4eb66c483f95894c448e1",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
