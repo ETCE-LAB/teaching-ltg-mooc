@@ -15837,7 +15837,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E02",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Resource Scarcity – Live Exercise </span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>This exercise is a live exercise that will take as part of the Q&amp;A session on 06.11.2024. If you cannot participate in the live session, please <span style=\"background-color:#f1c40f\">submit at least an empty PDF to ensure you are still eligible to participate in the exam</span>.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span>Visit the webiste <a href=\"http://www.breakeven.app\" target=\"_blank\"><span class=\"MsoHyperlink\" style=\"color:blue\"><u>www.breakeven.app</u></span></a></span></span></span></span></li><li style=\"text-align:left\"><em><span><span><span><span>Game 1 – Scarcity</span></span></span></span></em><ul><li style=\"text-align:left\"><span><span><span><span>Join the link presented during the Q&amp;A session and participate in round 1 and round 2.</span></span></span></span></li></ul></li><li style=\"text-align:left\"><em><span><span><span><span>Game 2 – Tragedy of the Commons</span></span></span></span></em><ul><li style=\"text-align:left\"><span><span><span><span>​​​​​​​</span>Join the link presented during the Q&amp;A session and participate in round 1 and round 2.</span></span></span></li></ul></li><li style=\"text-align:left\"><em><span><span><span><span>Game 3 – Externalities</span></span></span></span></em><ul><li style=\"text-align:left\"><span><span><span><span>​​​​​​​</span>Join the link presented during the Q&amp;A session and participate in round 1 and round 2.</span></span></span></li></ul></li><li style=\"text-align:left\"><span><span><span><span>Summarize your lessons learned from Games 1, 2, and 3 (separately – all together, <strong>max. 0.5 pages</strong>). How would you address/solve the issue of Game 2 in the specific fishery example using the Atlantic Ocean as a particular scenario (<strong>max. 0.5 pages</strong>)?</span></span></span></span></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><strong>Submission Guideline:</strong></p><ul><li style=\"text-align:left\"><span><span><span><span>Upload your answers to <a href=\"https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY\" style=\"color:blue; text-decoration:underline\">https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY</a>.&nbsp;</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Use the password “<strong>LTG2425</strong>”. </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Name your file like this: “E02-Your_Name.pdf”.</span></span></span></span></li></ul>",
+    "body": "<p><strong>Task(s):</strong><span><span><span><span><span style=\"color:black\">&nbsp;</span><u><span style=\"color:black\">How long does it take for the yellow and black bins to fill? What are the characteristics of your<br />trash? </span></u></span></span></span></span></p><ul><li style=\"text-align: left;\">Note the capacity and size of the bags you use for the yellow and black trash bin(s) in your house / WG / Shared kitchen.</li><li style=\"text-align: left;\">Note the day new trash bag is set in place (Start_Date) as well as note the day it is thrown to the container (End_Date).</li><li style=\"text-align: left;\">Fill out the information in the PDF and share your reflections</li></ul>",
     "_id": "68f4eb76c483f95894c44e73",
     "_parentId": "68f4eb6cc483f95894c44aea",
     "_type": "component",
@@ -16809,9 +16809,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Exercise E01",
+    "title": "Exercise E00",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin) - <strong>starting on Thursday</strong> (<strong><em>31/10/2024</em></strong> at 00:01) <strong>until Tuesday</strong> (<strong><em>05/11/2024</em></strong> at 23:59).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/ndrupy2c\" target=\"_blank\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p>Getting to know you and your strengths!<br />We want to get to know a few information about you — not just your name, but the perspectives, experiences,<br />and expectations you bring. This exercise will help us better understand each participant’s background and<br />interests so we can create well-balanced peer groups for the collaborative work ahead.</p><p>Follow the instructions in the PDF file.</p>",
     "_id": "68f4eb76c483f95894c44e90",
     "_parentId": "68f4eb6ac483f95894c44a3f",
     "_type": "component",
@@ -22477,7 +22477,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Requirements",
     "displayTitle": "Requirements",
-    "body": "<ol><li>The assignments in this course are <strong>individual work</strong> and must reflect personal effort rather than group contributions (individual work --&gt; no group submissions).</li><li>Submission of each exercise is <strong>mandatory</strong>.</li><li>The timely submission of exercises (even if they are empty pages) is vital for your success in this course. So, manage your time effectively.</li><li>With every submission, you will receive detailed feedback.</li><li>Exercise = learning feedback</li></ol><p>&nbsp;</p>",
+    "body": "<ol><li>The assignments in this course are <strong>individual work</strong> and must reflect personal effort.</li><li>The first two exercises (Exercise 1 &amp; 2) would be individual assignments. Later, we will build on these insights as you work together in assigned groups to explore various avenues of sustainability through the following three group exercises (Exercises 3, 4, and 5).</li><li>Submission of each exercise is <strong>mandatory</strong>.</li><li>The timely submission of exercises (even if they are empty pages) is vital for your success in this course. So, manage your time effectively.</li><li>With every submission, you will receive detailed feedback.</li><li>Exercise = learning feedback</li></ol><p>&nbsp;</p>",
     "_id": "68f4eb78c483f95894c44f27",
     "_parentId": "68f4eb6cc483f95894c44b01",
     "_type": "component",
@@ -22565,7 +22565,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submission step 1",
     "displayTitle": "Submission step 1",
-    "body": "<p>Open&nbsp;</p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY\" target=\"_blank\"><span style=\"color:#2980b9\">https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY</span></a>&nbsp;</p><p><span><span><span style=\"color:black\"><span><span>and enter the password&nbsp;<strong>LTG2425.</strong></span></span></span></span></span></p>",
+    "body": "<p>Open&nbsp;</p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/KfqACnqRHwCbPLg\" rel=\"noreferrer noopener\" target=\"_blank\">https://tucloud.tu-clausthal.de/index.php/s/KfqACnqRHwCbPLg</a></p><p><span><span><span style=\"color:black\"><span><span>and enter the password&nbsp;</span></span></span></span></span><strong>Limitstogrowth2526</strong><span><span><span style=\"color:black\"><span><span><strong>.</strong></span></span></span></span></span></p>",
     "_id": "68f4eb78c483f95894c44f29",
     "_parentId": "68f4eb6ec483f95894c44bd0",
     "_type": "component",
@@ -30518,7 +30518,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E01",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin) - <strong>starting on Friday&nbsp;</strong>(<strong><em>14/11/2025</em></strong>&nbsp;at 00:01) <strong>until Wednesday</strong> (<strong><em>19/11/2025</em></strong>&nbsp;at 23:59).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/ndrupy2c\" target=\"_blank\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Gather information about your daily life over the past months, such as transportation habits (car, public&nbsp;transportation, flights, etc.), household energy consumption (electricity, heating, cooling, etc.), dietary&nbsp;patterns (meat consumption, overview of eating habits), shopping, and waste habits.</li><li>Follow the detailled instructions in the PDF file</li></ul>",
     "_id": "68fba05b49f0161458b45497",
     "_parentId": "68fba05b49f0161458b4548a",
     "_type": "component",
@@ -30740,6 +30740,642 @@
     "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
     "_id": "68fba05b49f0161458b4549d",
     "_parentId": "68fba05b49f0161458b45492",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "68ff38c649f0161458b454a0",
+    "_parentId": "68ff38c649f0161458b4549f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise E01",
+    "displayTitle": "",
+    "body": "<p><strong>Task(s):</strong></p><p><u>How much waste do you produce in a week?</u></p><ul><li>Get the largest jar that you can find (either at your place or ask your friends).</li><li>Collect all the trash you produce in the upcoming week (except for bio-waste that is supposed to go into the green trash bin) - <strong>starting on Friday&nbsp;</strong>(<strong><em>14/11/2025</em></strong>&nbsp;at 00:01) <strong>until Wednesday</strong> (<strong><em>19/11/2025</em></strong>&nbsp;at 23:59).</li><li>How many days of trash can you fit into your jar?</li><li>Submit your result via the poll – <a href=\"https://s.surveyplanet.com/ndrupy2c\" target=\"_blank\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "_id": "68ff3cc649f0161458b454b4",
+    "_parentId": "68ff3cc649f0161458b454a7",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
+    "body": "",
+    "_id": "68ff3cc649f0161458b454b5",
+    "_parentId": "68ff3cc649f0161458b454ac",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/DcGlnEvso8k",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Submit your answer here!",
+    "displayTitle": "Submit your answer here!",
+    "body": "<iframe src=\"https://s.surveyplanet.com/ndrupy2c\" title=\"Submission Exercise E01\" width=\"100%\" height=\"500\"></iframe>\n",
+    "_id": "68ff3cc749f0161458b454b6",
+    "_parentId": "68ff3cc649f0161458b454ad",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Sheet",
+    "displayTitle": "Exercise Sheet",
+    "body": "",
+    "_id": "68ff3cc749f0161458b454b7",
+    "_parentId": "68ff3cc649f0161458b454ae",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the exercise sheet.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "68ff3cc749f0161458b454ba",
+    "_parentId": "68ff3cc649f0161458b454af",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "68ff3d7949f0161458b454d1",
+    "_parentId": "68ff3d7949f0161458b454bf",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": ""
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise E02",
+    "displayTitle": "",
+    "body": "<p><strong>Task(s):</strong></p><p style=\"text-align:left\"><span><span><span><span><u><span style=\"color:black\">Resource Scarcity – Live Exercise </span></u></span></span></span></span></p><p style=\"text-align:left\"><span><span><span><span>This exercise is a live exercise that will take as part of the Q&amp;A session on 06.11.2024. If you cannot participate in the live session, please <span style=\"background-color:#f1c40f\">submit at least an empty PDF to ensure you are still eligible to participate in the exam</span>.</span></span></span></span></p><ol><li style=\"text-align:left\"><span><span><span><span>Visit the webiste <a href=\"http://www.breakeven.app\" target=\"_blank\"><span class=\"MsoHyperlink\" style=\"color:blue\"><u>www.breakeven.app</u></span></a></span></span></span></span></li><li style=\"text-align:left\"><em><span><span><span><span>Game 1 – Scarcity</span></span></span></span></em><ul><li style=\"text-align:left\"><span><span><span><span>Join the link presented during the Q&amp;A session and participate in round 1 and round 2.</span></span></span></span></li></ul></li><li style=\"text-align:left\"><em><span><span><span><span>Game 2 – Tragedy of the Commons</span></span></span></span></em><ul><li style=\"text-align:left\"><span><span><span><span>​​​​​​​</span>Join the link presented during the Q&amp;A session and participate in round 1 and round 2.</span></span></span></li></ul></li><li style=\"text-align:left\"><em><span><span><span><span>Game 3 – Externalities</span></span></span></span></em><ul><li style=\"text-align:left\"><span><span><span><span>​​​​​​​</span>Join the link presented during the Q&amp;A session and participate in round 1 and round 2.</span></span></span></li></ul></li><li style=\"text-align:left\"><span><span><span><span>Summarize your lessons learned from Games 1, 2, and 3 (separately – all together, <strong>max. 0.5 pages</strong>). How would you address/solve the issue of Game 2 in the specific fishery example using the Atlantic Ocean as a particular scenario (<strong>max. 0.5 pages</strong>)?</span></span></span></span></li></ol><p style=\"text-align:left\">&nbsp;</p><p style=\"text-align:left\"><strong>Submission Guideline:</strong></p><ul><li style=\"text-align:left\"><span><span><span><span>Upload your answers to <a href=\"https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY\" style=\"color:blue; text-decoration:underline\">https://tucloud.tu-clausthal.de/index.php/s/KGQqI0R6VoPwtNY</a>.&nbsp;</span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Use the password “<strong>LTG2425</strong>”. </span></span></span></span></li><li style=\"text-align:left\"><span><span><span><span>Name your file like this: “E02-Your_Name.pdf”.</span></span></span></span></li></ul>",
+    "_id": "68ff3d7949f0161458b454d4",
+    "_parentId": "68ff3d7949f0161458b454c0",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise E02",
+    "displayTitle": "",
+    "body": "<p><strong>Task(s):</strong></p><p><u>Calculate your Carbon Footprint</u></p><ul><li>Go to the website of the UN carbon footprint calculator – <a href=\"https://offset.climateneutralnow.org/footprintcalc\">Link</a></li><li>Calculate your carbon footprint</li><li>Submit your result via the poll below or the direct link – <a href=\"https://s.surveyplanet.com/w8s33a1m\">Link</a> – by clicking on the matching poll result.</li></ul>",
+    "_id": "68ff3d7949f0161458b454d5",
+    "_parentId": "68ff3d7949f0161458b454c5",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Walkthrough",
+    "displayTitle": "Exercise Walkthrough",
+    "body": "",
+    "_id": "68ff3d7949f0161458b454d6",
+    "_parentId": "68ff3d7949f0161458b454ca",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Select the play button to start the video.",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/QoG054XvhEM?feature=shared",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Sheet",
+    "displayTitle": "Exercise Sheet",
+    "body": "",
+    "_id": "68ff3d7949f0161458b454d7",
+    "_parentId": "68ff3d7949f0161458b454cb",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "Click below to view the exercise sheet.",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
+      "attribution": "",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Impressum",
+    "displayTitle": "Impressum",
+    "body": "<p>This content was developed by the Emerging Technologies for the Circular Economy Lab (<a href=\"https://etce-lab.com/\">ETCE LAB</a>) at Clausthal University of Technology, Germany.&nbsp;</p><p dir=\"auto\">We are committed to making all our teaching material available to the public.&nbsp;This work is licensed under a <a href=\"https://creativecommons.org/licenses/by-sa/4.0/\">Creative Commons Attribution-ShareAlike 4.0&nbsp;International License</a>. Feel free to use it for your purposes, and please share it widely.</p>",
+    "_id": "68ff3d7949f0161458b454da",
+    "_parentId": "68ff3d7949f0161458b454cc",
     "_type": "component",
     "_layout": "full",
     "_onScreen": {
