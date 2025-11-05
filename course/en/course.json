@@ -1,7 +1,7 @@
 {
-  "title": "Limits to Growth - Sustainability and the Circular Economy - Twillo Version",
+  "title": "Limits to Growth - Sustainability and the Circular Economy - Nelly Version 05-11-2025",
   "displayTitle": "Online Course",
-  "body": "<p style=\"text-align:justify\"><span><span><span><span><span><span><span style=\"color:#333333\"><span><span>This course „The Limits </span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span>to</span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span> Growth – </span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span>Sustainability</span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span> and </span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span>the</span></span></span></span></span> <span><span><span style=\"color:#333333\"><span><span>Circular</span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span> Economy“</span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span>&nbsp;will </span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span>introduce</span></span></span></span></span> <span><span><span style=\"color:#333333\"><span><span>you</span></span></span></span></span><span><span><span style=\"color:#333333\"><span><span> to the circular economy, sustainability, and related concepts (biocapacity, etc.). You will learn about sustainability goals and different approaches to sustainability and gain an understanding of the basics of climate change, environmental pollution, and dwindling non-renewable resources.</span></span></span></span></span></span></span></span></span></p>",
+  "body": "<p style=\"text-align:justify;\"><span style=\"color:#333333;\"><span>This course „The Limits to Growth – Sustainability and the</span></span><span> </span><span style=\"color:#333333;\"><span>Circular Economy“&nbsp;will introduce</span></span><span> </span><span style=\"color:#333333;\"><span>you to the circular economy, sustainability, and related concepts (biocapacity, etc.). You will learn about sustainability goals and different approaches to sustainability and gain an understanding of the basics of climate change, environmental pollution, and dwindling non-renewable resources.</span></span></p>",
   "subtitle": "",
   "description": "",
   "instruction": "",
@@ -68,15 +68,15 @@
         "locked": "Locked",
         "visited": "Visited",
         "required": "Required",
-        "optional": "Optional"
+        "optional": "Optional",
+        "topOfContentObject": "{{type}} {{displayTitle}}",
+        "course": "Main menu",
+        "menu": "Sub menu",
+        "page": "Page"
       },
       "altFeedbackTitle": "Feedback"
     },
     "_extensions": {
-      "_resources": {
-        "ariaRegion": "",
-        "resources": "Additional resources."
-      },
       "_trickle": {
         "incompleteContent": "There is incomplete content above. You must complete this before you can proceed through the course."
       },
@@ -96,6 +96,14 @@
         "_showLabel": true,
         "navLabel": "Page progress",
         "_drawerPosition": "auto"
+      },
+      "_resources": {
+        "ariaRegion": "",
+        "resources": "Additional resources."
+      },
+      "_bookmarking": {
+        "resumeButtonText": "Resume",
+        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
       },
       "_drawer": {
         "_navOrder": 100,
@@ -120,55 +128,11 @@
             "_navOrder": 0
           }
         ]
-      },
-      "_bookmarking": {
-        "resumeButtonText": "Resume",
-        "resumeButtonAriaLabel": "Navigate to your furthest point of progress."
       }
     },
     "_components": {
       "_text": {
         "ariaRegion": ""
-      },
-      "_hotgraphic": {
-        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
-        "item": "Item {{{itemNumber}}} of {{{totalItems}}}",
-        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
-        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
-        "popupPagination": "{{itemNumber}} / {{totalItems}}"
-      },
-      "_accordion": {
-        "ariaRegion": "List of expandable sections. Select each button to expand the content."
-      },
-      "_graphic": {
-        "ariaRegion": "",
-        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
-      },
-      "_matching": {
-        "ariaRegion": "Matching. Select from lists and then submit.",
-        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}"
-      },
-      "_textinput": {
-        "ariaRegion": "Text input. Type your answer and then submit."
-      },
-      "_mcq": {
-        "ariaRegion": "Multiple choice question",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_gmcq": {
-        "ariaRegion": "Multiple choice question",
-        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
-        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
-        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
-        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
-      },
-      "_assessmentResults": {
-        "ariaRegion": "Assessment results.",
-        "retryText": "Retry"
       },
       "_narrative": {
         "ariaRegion": "Slide show. Select the next button to progress.",
@@ -198,6 +162,50 @@
         "skipBackText": "Skip back %1 seconds",
         "allyVolumeControlText": "Use Up/Down Arrow keys to increase or decrease volume.",
         "progessHelpText": "Use Left/Right Arrow keys to advance one second, Up/Down arrows to advance ten seconds."
+      },
+      "_hotgraphic": {
+        "ariaRegion": "Image with selectable areas. Select each button to show more information.",
+        "item": "Item {{{itemNumber}}} of {{{totalItems}}}",
+        "previous": "{{#if title}}Back to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.previous}}{{/if}}",
+        "next": "{{#if title}}Forward to {{{title}}} (item {{itemNumber}} of {{totalItems}}){{else}}{{_globals._accessibility._ariaLabels.next}}{{/if}}",
+        "popupPagination": "{{itemNumber}} / {{totalItems}}"
+      },
+      "_accordion": {
+        "ariaRegion": "List of expandable sections. Select each button to expand the content."
+      },
+      "_graphic": {
+        "ariaRegion": "",
+        "scrollAriaLabel": "Use the scrollbar to pan the image left and right. {{#if _graphic.alt}}{{_graphic.alt}}{{/if}}"
+      },
+      "_matching": {
+        "ariaRegion": "Matching. Select from lists and then submit.",
+        "ariaCorrectAnswer": "The correct answer for {{{itemText}}} is {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose for {{{itemText}}} was {{{userAnswer}}}",
+        "correctAnswerPrefix": "The correct answer is",
+        "correctAnswersPrefix": "The correct answers are"
+      },
+      "_textinput": {
+        "ariaRegion": "Text input. Type your answer and then submit.",
+        "correctAnswerPrefix": "The correct answer is",
+        "correctAnswersPrefix": "Accepted correct answers include"
+      },
+      "_mcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_gmcq": {
+        "ariaRegion": "Multiple choice question",
+        "ariaCorrectAnswer": "The correct answer is {{{correctAnswer}}}",
+        "ariaCorrectAnswers": "The correct answers are {{{correctAnswer}}}",
+        "ariaUserAnswer": "The answer you chose was {{{userAnswer}}}",
+        "ariaUserAnswers": "The answers you chose were {{{userAnswer}}}"
+      },
+      "_assessmentResults": {
+        "ariaRegion": "Assessment results.",
+        "retryText": "Retry"
       },
       "_slider": {
         "ariaRegion": "Slider. Respond to the question by selecting a value on the scale and then submit.",
@@ -349,6 +357,25 @@
     "_scoreToPass": 50,
     "_correctToPass": 50
   },
+  "_tutor": {
+    "_type": "inline",
+    "_classes": "",
+    "_hasNotifyBottomButton": false,
+    "_autoScrollWhenInline": true,
+    "_button": {
+      "text": "{{_globals._extensions._tutor.hideFeedback}}",
+      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+    }
+  },
+  "_pageLevelProgress": {
+    "_isEnabled": false,
+    "title": "",
+    "_showPageCompletion": false,
+    "_isCompletionIndicatorEnabled": false,
+    "_isShownInNavigationBar": false,
+    "_showAtCourseLevel": false,
+    "_useCourseProgressInNavigationButton": false
+  },
   "_resources": {
     "_isEnabled": true,
     "_drawerOrder": 0,
@@ -357,6 +384,7 @@
     "displayTitle": "",
     "body": "",
     "instruction": "",
+    "_enableFilters": true,
     "_filterButtons": {
       "all": "All",
       "document": "Documents",
@@ -410,35 +438,21 @@
       }
     ]
   },
+  "_spoor": {
+    "_messages": ""
+  },
   "_bookmarking": {
     "_isEnabled": true,
     "_level": "component",
+    "_location": "previous",
     "_showPrompt": true,
+    "_autoRestore": true,
     "title": "Bookmarking",
     "body": "Would you like to continue where you left off?",
     "_buttons": {
       "yes": "Yes",
       "no": "No"
     }
-  },
-  "_tutor": {
-    "_type": "inline",
-    "_classes": "",
-    "_hasNotifyBottomButton": false,
-    "_button": {
-      "text": "{{_globals._extensions._tutor.hideFeedback}}",
-      "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
-    }
-  },
-  "_pageLevelProgress": {
-    "_isEnabled": false,
-    "_showPageCompletion": false,
-    "_isCompletionIndicatorEnabled": false,
-    "_isShownInNavigationBar": false,
-    "_showAtCourseLevel": false
-  },
-  "_spoor": {
-    "_messages": ""
   },
   "_boxMenu": {
     "_graphic": {
