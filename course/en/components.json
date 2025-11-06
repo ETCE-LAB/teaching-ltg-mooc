@@ -4801,6 +4801,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -4817,7 +4818,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "Click below to view the exercise sheet.",
     "_graphic": {
       "alt": "",
@@ -4825,7 +4825,7 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#exercises",
       "_target": "_blank"
     },
     "_isScrollable": false,
@@ -4964,7 +4964,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E00",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p>Getting to know you and your strengths!<br>We want to get to know a few information about you — not just your name, but the perspectives, experiences,<br>and expectations you bring. This exercise will help us better understand each participant’s background and<br>interests so we can create well-balanced peer groups for the collaborative work ahead.</p><p>Follow the instructions in the <a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/Exercises/E00-Getting%20to%20know%20you.pdf\">PDF</a> file.</p>",
+    "body": "<p><strong>Task(s):</strong></p><p>Getting to know you and your strengths!<br />We want to get to know a few information about you — not just your name, but the perspectives, experiences,<br />and expectations you bring. This exercise will help us better understand each participant’s background and<br />interests so we can create well-balanced peer groups for the collaborative work ahead.</p><p>Follow the instructions in the PDF file.</p>",
     "_id": "690c52e8e75f0679dce68e92",
     "_parentId": "690c52cae75f0679dce68aeb",
     "_type": "component",
@@ -4996,7 +4996,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -8065,7 +8064,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E01",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p><u>Ecological Footprint</u></p><ul><li>Gather information about your daily life over the past months, such as transportation habits (car, public&nbsp;transportation, flights, etc.), household energy consumption (electricity, heating, cooling, etc.), dietary&nbsp;patterns (meat consumption, overview of eating habits), shopping, and waste habits.</li><li>Follow the detailed instructions in the <a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/Exercises/E01-Ecological%20Footprint.pdf\">PDF</a> file</li></ul>",
+    "body": "<p><strong>Task(s):</strong></p><p><u>Ecological Footprint</u></p><ul><li>Gather information about your daily life over the past months, such as transportation habits (car, public&nbsp;transportation, flights, etc.), household energy consumption (electricity, heating, cooling, etc.), dietary&nbsp;patterns (meat consumption, overview of eating habits), shopping, and waste habits.</li><li>Follow the detailed instructions in the PDF file.</li></ul>",
     "_id": "690c52ebe75f0679dce68ee2",
     "_parentId": "690c52cae75f0679dce68b06",
     "_type": "component",
@@ -8097,7 +8096,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -9995,6 +9993,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -10011,7 +10010,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "Click below to view the exercise sheet.",
     "_graphic": {
       "alt": "",
@@ -10019,7 +10017,7 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#exercises",
       "_target": ""
     },
     "_isScrollable": false,
@@ -10113,7 +10111,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E04",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p>This is a group exercise, and each group will produce a small \"manifesto\" for forming your own hypothetical and somewhat realistic \"Protest movement\". It should somehow relate to the vision and goals of your Verein outlined in the previous exercise.</p><p>Follow the instructions in the <a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/Exercises/E04-Protest%20Manifesto%20-%20Group%20Exercise.pdf\">PDF</a> file and submit accordingly.</p>",
+    "body": "<p><strong>Task(s):</strong></p><p>This is a group exercise, and each group will produce a small \"manifesto\" for forming your own hypothetical and somewhat realistic \"Protest movement\". It should somehow relate to the vision and goals of your Verein outlined in the previous exercise.</p><p>Follow the instructions in the PDF file and submit accordingly.</p>",
     "_id": "690c52ede75f0679dce68f18",
     "_parentId": "690c52d0e75f0679dce68bcd",
     "_type": "component",
@@ -10145,7 +10143,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -10509,6 +10506,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -10525,7 +10523,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "Click below to view the exercise sheet.",
     "_graphic": {
       "alt": "",
@@ -10533,7 +10530,7 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#exercises",
       "_target": "_blank"
     },
     "_isScrollable": false,
@@ -10672,7 +10669,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E02",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong><span style=\"color:black;\"><span>&nbsp;<u>Establish Der Verein</u></span></span></p><ul><li style=\"text-align:left;\">The Verein model, commonly used in Germany and other European countries, provides a practical framework for communities, groups, and organizations to come together with a shared mission.</li><li>Follow the detailed instructions in the <a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/Exercises/E03-Der%20Verein%20-%20Group%20exercise.pdf\">PDF</a> file and submit accordingly.</li></ul>",
+    "body": "<p><strong>Task(s):</strong><span style=\"color:black\"><span>&nbsp;<u>Establish Der Verein</u></span></span></p><ul><li style=\"text-align:left\">The Verein model, commonly used in Germany and other European countries, provides a practical framework for communities, groups, and organizations to come together with a shared mission.</li><li>Follow the detailed instructions in the PDF file and submit accordingly.</li></ul>",
     "_id": "690c52ede75f0679dce68f2a",
     "_parentId": "690c52d0e75f0679dce68bd3",
     "_type": "component",
@@ -10704,7 +10701,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -11556,6 +11552,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -11572,7 +11569,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "Click below to view the exercise sheet.",
     "_graphic": {
       "alt": "",
@@ -11580,7 +11576,7 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#exercises",
       "_target": "_blank"
     },
     "_isScrollable": false,
@@ -13480,6 +13476,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -13496,7 +13493,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "Click below to view the exercise sheet.",
     "_graphic": {
       "alt": "",
@@ -13504,7 +13500,7 @@
       "large": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "small": "course/en/assets/a6e9fb6deda0e594e0a88ffbcb1310a05c5a8638.png",
       "attribution": "",
-      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#readme",
+      "_url": "https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth#exercises",
       "_target": ""
     },
     "_isScrollable": false,
@@ -13598,7 +13594,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Exercise E05",
     "displayTitle": "",
-    "body": "<p><strong>Task(s):</strong></p><p>This is a group exercise about Circular Economy (CE) and Circular Society (CS).</p><p>Follow the instructions in the <a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/Exercises/E05-Circular%20Society%20-%20Group%20Exercise.pdf\">PDF</a> and submit accordingly.</p><p style=\"text-align:left;\">&nbsp;</p>",
+    "body": "<p><strong>Task(s):</strong></p><p>This is a group exercise about Circular Economy (CE) and Circular Society (CS).</p><p>Follow the instructions in the PDF and submit accordingly.</p><p style=\"text-align:left\">&nbsp;</p>",
     "_id": "690c52f0e75f0679dce68f70",
     "_parentId": "690c52cfe75f0679dce68baf",
     "_type": "component",
@@ -13630,7 +13626,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -26116,8 +26111,8 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "L05: Lecture Recording",
-    "displayTitle": "L05: Lecture Recording",
+    "title": "L04: Lecture Recording",
+    "displayTitle": "L04: Lecture Recording",
     "body": "",
     "_id": "690c52f9e75f0679dce690b0",
     "_parentId": "690c52d4e75f0679dce68c35",
@@ -26133,6 +26128,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -26149,7 +26145,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "Select the play button to start the video.",
     "_media": {
       "mp4": "",
@@ -30169,7 +30164,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Plan",
     "displayTitle": "Lecture Plan",
-    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2025/26)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>06.11.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>13.11.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Climate Change</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>20.11.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Environmental Pollution and Resources&nbsp; +&nbsp;</span></span></span></p><p><span><span><span>L04 – Limits to Growth and Planetary Boundaries&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>27.11.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L05 – Circular Economy (CE)&nbsp; +&nbsp;&nbsp;</span></span></span></p><p><span><span><span>L06 – A Short History of Political (In-) Action&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>04.12.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Circular Societies</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>11.12.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Ethics and Morals of Sustainability&nbsp; +&nbsp;</span></span></span></p><p><span><span><span>L09 – LifeCycle Assessment (LCA)&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>18.12.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Invited Lecture – Life Cycle Planning for Durable Products</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>08.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L011 – Complex Societies and Technology</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>15.01.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – Beyond the Circular Economy</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>22.01.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L13 – The Common Good and Collective Decision Making</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>29.01.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>Group Presentation</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>05.02.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L14 – Invited Lecture</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>12.02.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L15 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>19.02.2026</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
+    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2025/26)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>06.11.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>13.11.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Climate Change</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>20.11.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Environmental Pollution and Resources&nbsp; +&nbsp;</span></span></span></p><p><span><span><span>L04 – Limits to Growth and Planetary Boundaries&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>27.11.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L05 – Circular Economy (CE)&nbsp; +&nbsp;&nbsp;</span></span></span></p><p><span><span><span>L06 – A Short History of Political (In-) Action&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>04.12.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Circular Societies&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>11.12.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Ethics and Morals of Sustainability&nbsp; +&nbsp;</span></span></span></p><p><span><span><span>L09 – LifeCycle Assessment (LCA)&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>18.12.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Invited Lecture – Life Cycle Planning for Durable Products&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>08.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L011 – Complex Societies and Technology</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>15.01.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – Beyond the Circular Economy</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>22.01.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L13 – The Common Good and Collective Decision Making</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>29.01.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>Group Presentation</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>05.02.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L14 – Invited Lecture</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>12.02.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L15 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>19.02.2026</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
     "_id": "690c52fce75f0679dce6911a",
     "_parentId": "690c52d6e75f0679dce68c71",
     "_type": "component",
@@ -30184,6 +30179,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
