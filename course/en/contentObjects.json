@@ -18,9 +18,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d280a",
-    "_parentId": "690b1443de6fbef63b6d27d8",
+    "_id": "690c52c0e75f0679dce689c4",
+    "_parentId": "690c52bfe75f0679dce689b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -111,9 +110,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2802",
-    "_parentId": "690b1443de6fbef63b6d27e4",
+    "_id": "690c52c0e75f0679dce689c6",
+    "_parentId": "690c52bfe75f0679dce689bc",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -204,9 +202,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2800",
-    "_parentId": "690b1443de6fbef63b6d27c8",
+    "_id": "690c52c0e75f0679dce689c8",
+    "_parentId": "690c52bfe75f0679dce689a0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -297,9 +294,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27fe",
-    "_parentId": "690b1443de6fbef63b6d27ce",
+    "_id": "690c52c0e75f0679dce689ca",
+    "_parentId": "690c52bfe75f0679dce689a6",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -390,9 +386,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27fc",
-    "_parentId": "690b1443de6fbef63b6d27e0",
+    "_id": "690c52c0e75f0679dce689cc",
+    "_parentId": "690c52bfe75f0679dce689b8",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -483,9 +478,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27fa",
-    "_parentId": "690b1443de6fbef63b6d27da",
+    "_id": "690c52c0e75f0679dce689ce",
+    "_parentId": "690c52bfe75f0679dce689b2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -576,9 +570,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27f8",
-    "_parentId": "690b1443de6fbef63b6d27cc",
+    "_id": "690c52c0e75f0679dce689d0",
+    "_parentId": "690c52bfe75f0679dce689a4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -669,9 +662,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27f6",
-    "_parentId": "690b1443de6fbef63b6d27d0",
+    "_id": "690c52c0e75f0679dce689d2",
+    "_parentId": "690c52bfe75f0679dce689a8",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -762,9 +754,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27f4",
-    "_parentId": "690b1443de6fbef63b6d27ca",
+    "_id": "690c52c0e75f0679dce689d4",
+    "_parentId": "690c52bfe75f0679dce689a2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -855,9 +846,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27f2",
-    "_parentId": "690b1443de6fbef63b6d27c4",
+    "_id": "690c52c0e75f0679dce689d6",
+    "_parentId": "690c52bfe75f0679dce6899c",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -948,9 +938,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27f0",
-    "_parentId": "690b1443de6fbef63b6d27c6",
+    "_id": "690c52c0e75f0679dce689d8",
+    "_parentId": "690c52bfe75f0679dce6899e",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1041,9 +1030,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27ee",
-    "_parentId": "690b1443de6fbef63b6d27c0",
+    "_id": "690c52c0e75f0679dce689da",
+    "_parentId": "690c52bfe75f0679dce68998",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1134,8 +1122,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27ec",
+    "_id": "690c52c0e75f0679dce689dc",
     "_parentId": "course",
     "_type": "page",
     "_graphic": {
@@ -1229,9 +1216,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2804",
-    "_parentId": "690b1443de6fbef63b6d27de",
+    "_id": "690c52c0e75f0679dce689de",
+    "_parentId": "690c52bfe75f0679dce689b6",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1322,9 +1308,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2806",
-    "_parentId": "690b1443de6fbef63b6d27c2",
+    "_id": "690c52c1e75f0679dce689e0",
+    "_parentId": "690c52bfe75f0679dce6899a",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1415,9 +1400,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2808",
-    "_parentId": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52c1e75f0679dce689e2",
+    "_parentId": "690c52bfe75f0679dce689aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1508,9 +1492,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d280c",
-    "_parentId": "690b1443de6fbef63b6d27e2",
+    "_id": "690c52c1e75f0679dce689e4",
+    "_parentId": "690c52bfe75f0679dce689ba",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1601,9 +1584,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d280e",
-    "_parentId": "690b1444de6fbef63b6d27e6",
+    "_id": "690c52c1e75f0679dce689e6",
+    "_parentId": "690c52c0e75f0679dce689be",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1694,9 +1676,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2810",
-    "_parentId": "690b1444de6fbef63b6d27e8",
+    "_id": "690c52c1e75f0679dce689e8",
+    "_parentId": "690c52c0e75f0679dce689c0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1787,9 +1768,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2812",
-    "_parentId": "690b1444de6fbef63b6d27ea",
+    "_id": "690c52c1e75f0679dce689ea",
+    "_parentId": "690c52c0e75f0679dce689c2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -1880,13 +1860,104 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2814",
-    "_parentId": "690b1443de6fbef63b6d27dc",
+    "_id": "690c52c1e75f0679dce689ec",
+    "_parentId": "690c52bfe75f0679dce689b4",
     "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Course Guide",
+    "displayTitle": "Course Guide",
+    "body": "<p>This course guide summarizes the course objectives, layout, and structure. It also outlines the different learning resources and techniques you will use and addresses frequently asked questions to help you navigate the course effectively.</p>",
+    "_classes": "",
+    "subtitle": "Course Organization and FAQs",
+    "pageBody": "<p>Welcome to the online course \"The Limits to Growth—Sustainability and the Circular Economy.\" The ETCE Lab teaches this course at the Technical University of Clausthal.&nbsp;</p><p>This course guide will give you an overview of the learning goals, structure and organisation of the course and&nbsp;the different types of learning material and techniques you will encounter during the course.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52bfe75f0679dce68998",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/5064ed9870c62babebbf77e28d27d558ec26374e.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -1973,9 +2044,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d282a",
-    "_parentId": "690b1443de6fbef63b6d27d8",
+    "_id": "690c52c1e75f0679dce689ee",
+    "_parentId": "690c52bfe75f0679dce689b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2066,9 +2136,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2816",
-    "_parentId": "690b1443de6fbef63b6d27c8",
+    "_id": "690c52c1e75f0679dce689f0",
+    "_parentId": "690c52bfe75f0679dce689a0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2159,9 +2228,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2818",
-    "_parentId": "690b1443de6fbef63b6d27c0",
+    "_id": "690c52c1e75f0679dce689f2",
+    "_parentId": "690c52bfe75f0679dce68998",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2252,9 +2320,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d281a",
-    "_parentId": "690b1443de6fbef63b6d27ca",
+    "_id": "690c52c1e75f0679dce689f4",
+    "_parentId": "690c52bfe75f0679dce689a2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2345,9 +2412,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d281c",
-    "_parentId": "690b1443de6fbef63b6d27da",
+    "_id": "690c52c1e75f0679dce689f6",
+    "_parentId": "690c52bfe75f0679dce689b2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2438,9 +2504,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d281e",
-    "_parentId": "690b1443de6fbef63b6d27ce",
+    "_id": "690c52c1e75f0679dce689f8",
+    "_parentId": "690c52bfe75f0679dce689a6",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2531,9 +2596,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2820",
-    "_parentId": "690b1443de6fbef63b6d27e4",
+    "_id": "690c52c1e75f0679dce689fa",
+    "_parentId": "690c52bfe75f0679dce689bc",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2624,9 +2688,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2822",
-    "_parentId": "690b1443de6fbef63b6d27cc",
+    "_id": "690c52c1e75f0679dce689fc",
+    "_parentId": "690c52bfe75f0679dce689a4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2717,9 +2780,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2824",
-    "_parentId": "690b1443de6fbef63b6d27c6",
+    "_id": "690c52c1e75f0679dce689fe",
+    "_parentId": "690c52bfe75f0679dce6899e",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2810,9 +2872,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2826",
-    "_parentId": "690b1443de6fbef63b6d27de",
+    "_id": "690c52c1e75f0679dce68a00",
+    "_parentId": "690c52bfe75f0679dce689b6",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2903,9 +2964,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2828",
-    "_parentId": "690b1443de6fbef63b6d27c2",
+    "_id": "690c52c2e75f0679dce68a02",
+    "_parentId": "690c52bfe75f0679dce6899a",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -2996,9 +3056,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d282e",
-    "_parentId": "690b1443de6fbef63b6d27d0",
+    "_id": "690c52c2e75f0679dce68a04",
+    "_parentId": "690c52bfe75f0679dce689a8",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3089,9 +3148,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2830",
-    "_parentId": "690b1444de6fbef63b6d27e8",
+    "_id": "690c52c2e75f0679dce68a06",
+    "_parentId": "690c52c0e75f0679dce689c0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3182,9 +3240,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2832",
-    "_parentId": "690b1444de6fbef63b6d27ea",
+    "_id": "690c52c2e75f0679dce68a08",
+    "_parentId": "690c52c0e75f0679dce689c2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3275,9 +3332,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2834",
-    "_parentId": "690b1443de6fbef63b6d27c4",
+    "_id": "690c52c2e75f0679dce68a0a",
+    "_parentId": "690c52bfe75f0679dce6899c",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3368,9 +3424,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2836",
-    "_parentId": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52c2e75f0679dce68a0c",
+    "_parentId": "690c52bfe75f0679dce689aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3461,9 +3516,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2838",
-    "_parentId": "690b1443de6fbef63b6d27dc",
+    "_id": "690c52c2e75f0679dce68a0e",
+    "_parentId": "690c52bfe75f0679dce689b4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3554,106 +3608,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d282c",
-    "_parentId": "690b1443de6fbef63b6d27e0",
+    "_id": "690c52c2e75f0679dce68a10",
+    "_parentId": "690c52bfe75f0679dce689b8",
     "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Course Guide",
-    "displayTitle": "Course Guide",
-    "body": "<p>This course guide summarizes the course objectives, layout, and structure. It also outlines the different learning resources and techniques you will use and addresses frequently asked questions to help you navigate the course effectively.</p>",
-    "_classes": "",
-    "subtitle": "Course Organization and FAQs",
-    "pageBody": "<p>Welcome to the online course \"The Limits to Growth—Sustainability and the Circular Economy.\" The ETCE Lab teaches this course at the Technical University of Clausthal.&nbsp;</p><p>This course guide will give you an overview of the learning goals, structure and organisation of the course and&nbsp;the different types of learning material and techniques you will encounter during the course.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27c0",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/5064ed9870c62babebbf77e28d27d558ec26374e.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3740,1129 +3700,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27c2",
+    "_id": "690c52bfe75f0679dce6899a",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/dce2a22561ade3124b193023ed67b150b3f86457.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Carbon Capture and Storage",
-    "displayTitle": "Carbon Capture and Storage",
-    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d284e",
-    "_parentId": "690b1444de6fbef63b6d27ea",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Previous Exercise 05",
-    "displayTitle": "Previous Exercise 05",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>11.12.2024</strong></i> at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d284c",
-    "_parentId": "690b1443de6fbef63b6d27da",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Exercise Submission",
-    "displayTitle": "Exercise Submission",
-    "body": "<p>Find out how to submit your exercises on time and avoid last-minute stress. Pay attention to the guidelines.</p>",
-    "_classes": "",
-    "subtitle": "How to submit exercise",
-    "pageBody": "<p>Follow these guidelines to submit your exercises and successfully avoid delays. Maintaining your coursework schedule requires you to comprehend the submission procedure and effectively fulfil your deadlines. Moreover, always double-check your work for any errors before submitting.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d284a",
-    "_parentId": "690b1443de6fbef63b6d27c0",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/ca941a624756689f99974778186400a6c996a19e.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Carbon Capture and Storage",
-    "displayTitle": "Carbon Capture and Storage",
-    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2848",
-    "_parentId": "690b1443de6fbef63b6d27d8",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Political (In) Action",
-    "displayTitle": "Political (In) Action",
-    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
-    "_classes": "",
-    "subtitle": "L04 - A History of Political (In) Action",
-    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2846",
-    "_parentId": "690b1443de6fbef63b6d27ce",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Previous Exercise E08 and E09",
-    "displayTitle": "Previous Exercise E08 and E09",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2844",
-    "_parentId": "690b1443de6fbef63b6d27e0",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Performance Economy",
-    "displayTitle": "Performance Economy",
-    "body": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
-    "_classes": "",
-    "subtitle": "L08 - Circular Economy",
-    "pageBody": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2842",
-    "_parentId": "690b1443de6fbef63b6d27ca",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/f034c2d545864f0bd73da9c91405dc88146e0b11.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Previous Exercise E04",
-    "displayTitle": "Previous Exercise E04",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2840",
-    "_parentId": "690b1443de6fbef63b6d27c8",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Exercise E06  - not in use",
-    "displayTitle": "Exercise E06  - not in use",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d283e",
-    "_parentId": "690b1443de6fbef63b6d27d0",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Exercise E02",
-    "displayTitle": "Exercise E02",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d283c",
-    "_parentId": "690b1443de6fbef63b6d27c6",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Exercise E02",
-    "displayTitle": "Exercise E02",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>27.11.2025</strong></i>&nbsp;at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d283a",
-    "_parentId": "690b1443de6fbef63b6d27c4",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Technologies and Sustainabilty",
-    "displayTitle": "Technologies and Sustainabilty",
-    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies such as sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices for tackling environmental problems.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27ea",
-    "_parentId": "690b1444de6fbef63b6d27e8",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4949,9 +3792,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27ce",
-    "_parentId": "690b1443de6fbef63b6d27cc",
+    "_id": "690c52bfe75f0679dce689a6",
+    "_parentId": "690c52bfe75f0679dce689a4",
     "_type": "menu",
     "_graphic": {
       "alt": "",
@@ -5042,9 +3884,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27d8",
-    "_parentId": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52bfe75f0679dce689b0",
+    "_parentId": "690c52bfe75f0679dce689aa",
     "_type": "menu",
     "_graphic": {
       "alt": "",
@@ -5117,6 +3958,1202 @@
     }
   },
   {
+    "title": "Technologies and Sustainabilty",
+    "displayTitle": "Technologies and Sustainabilty",
+    "body": "<p>Technology holds enormous potential for promoting sustainability via breakthroughs like resource management and renewable energy, yet it is insufficient. For long-lasting impact, significant systemic changes, ethics, and human behaviour are needed. Moreover, compared to fossil fuels, renewable energy sources like solar, bioenergy, and wind offer environmentally friendly solutions, each with benefits and cons. Furthermore, by absorbing CO<sub>2</sub> emissions before they enter the environment, carbon capture and storage (CCS) helps lower them. Finally, climate-resilient agricultural practices are imperative to ensure food security while adjusting to climate change.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture explores the capabilities and hurdles of technologies such as sustainable energy options, carbon capture and storage, and climate-resilient agricultural practices for tackling environmental problems.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c0e75f0679dce689c2",
+    "_parentId": "690c52c0e75f0679dce689c0",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a12",
+    "_parentId": "690c52c0e75f0679dce689c2",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Previous Exercise 05",
+    "displayTitle": "Previous Exercise 05",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>11.12.2024</strong></i> at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a14",
+    "_parentId": "690c52bfe75f0679dce689b2",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise Submission",
+    "displayTitle": "Exercise Submission",
+    "body": "<p>Find out how to submit your exercises on time and avoid last-minute stress. Pay attention to the guidelines.</p>",
+    "_classes": "",
+    "subtitle": "How to submit exercise",
+    "pageBody": "<p>Follow these guidelines to submit your exercises and successfully avoid delays. Maintaining your coursework schedule requires you to comprehend the submission procedure and effectively fulfil your deadlines. Moreover, always double-check your work for any errors before submitting.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a16",
+    "_parentId": "690c52bfe75f0679dce68998",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ca941a624756689f99974778186400a6c996a19e.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a18",
+    "_parentId": "690c52bfe75f0679dce689b0",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Political (In) Action",
+    "displayTitle": "Political (In) Action",
+    "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "_classes": "",
+    "subtitle": "L04 - A History of Political (In) Action",
+    "pageBody": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a1a",
+    "_parentId": "690c52bfe75f0679dce689a6",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/ce3853da8a2333876107058d782fb481e44adf2f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Previous Exercise E08 and E09",
+    "displayTitle": "Previous Exercise E08 and E09",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a1c",
+    "_parentId": "690c52bfe75f0679dce689b8",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Performance Economy",
+    "displayTitle": "Performance Economy",
+    "body": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
+    "_classes": "",
+    "subtitle": "L08 - Circular Economy",
+    "pageBody": "<p>A performance economy is centered on providing services and performance outcomes to customers rather than selling products. In this model, businesses retain ownership of products, ensuring their optimal performance and longevity, while customers pay for the utility or service derived from the product.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a1e",
+    "_parentId": "690c52bfe75f0679dce689a2",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/f034c2d545864f0bd73da9c91405dc88146e0b11.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Previous Exercise E04",
+    "displayTitle": "Previous Exercise E04",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a20",
+    "_parentId": "690c52bfe75f0679dce689a0",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E06  - not in use",
+    "displayTitle": "Exercise E06  - not in use",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Do you have any questions?&nbsp;</strong>Email us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message in the Matrix channel!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c2e75f0679dce68a22",
+    "_parentId": "690c52bfe75f0679dce689a8",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E02",
+    "displayTitle": "Exercise E02",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "Here you can find the exercise for this lecture.",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c3e75f0679dce68a24",
+    "_parentId": "690c52bfe75f0679dce6899e",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Exercise E02",
+    "displayTitle": "Exercise E02",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>27.11.2025</strong></i>&nbsp;at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c3e75f0679dce68a26",
+    "_parentId": "690c52bfe75f0679dce6899c",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Challenges I",
+    "displayTitle": "Challenges I",
+    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
+    "_classes": "",
+    "subtitle": "Environmental Pollution and Resource Scarcity",
+    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52bfe75f0679dce6899c",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9fc2a34cf02cf00a815f7512d87520ffc26ea553.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Exercise E06  - not in use",
     "displayTitle": "Exercise E06  - not in use",
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
@@ -5135,9 +5172,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d285e",
-    "_parentId": "690b1443de6fbef63b6d27d0",
+    "_id": "690c52c3e75f0679dce68a28",
+    "_parentId": "690c52bfe75f0679dce689a8",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5228,9 +5264,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d285a",
-    "_parentId": "690b1443de6fbef63b6d27ce",
+    "_id": "690c52c3e75f0679dce68a2a",
+    "_parentId": "690c52bfe75f0679dce689a6",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5321,9 +5356,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2858",
-    "_parentId": "690b1443de6fbef63b6d27da",
+    "_id": "690c52c3e75f0679dce68a2c",
+    "_parentId": "690c52bfe75f0679dce689b2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5414,9 +5448,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2856",
-    "_parentId": "690b1443de6fbef63b6d27cc",
+    "_id": "690c52c3e75f0679dce68a2e",
+    "_parentId": "690c52bfe75f0679dce689a4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5507,9 +5540,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2854",
-    "_parentId": "690b1443de6fbef63b6d27c0",
+    "_id": "690c52c3e75f0679dce68a30",
+    "_parentId": "690c52bfe75f0679dce68998",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5600,9 +5632,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2852",
-    "_parentId": "690b1443de6fbef63b6d27c8",
+    "_id": "690c52c3e75f0679dce68a32",
+    "_parentId": "690c52bfe75f0679dce689a0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5693,9 +5724,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2850",
-    "_parentId": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52c3e75f0679dce68a34",
+    "_parentId": "690c52bfe75f0679dce689aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5768,99 +5798,6 @@
     }
   },
   {
-    "title": "Challenges I",
-    "displayTitle": "Challenges I",
-    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
-    "_classes": "",
-    "subtitle": "Environmental Pollution and Resource Scarcity",
-    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "custom",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27c4",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/9fc2a34cf02cf00a815f7512d87520ffc26ea553.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Resilient Food Production",
     "displayTitle": "Resilient Food Production",
     "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
@@ -5879,9 +5816,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d285c",
-    "_parentId": "690b1443de6fbef63b6d27d8",
+    "_id": "690c52c3e75f0679dce68a36",
+    "_parentId": "690c52bfe75f0679dce689b0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -5972,9 +5908,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2860",
-    "_parentId": "690b1444de6fbef63b6d27ea",
+    "_id": "690c52c3e75f0679dce68a38",
+    "_parentId": "690c52c0e75f0679dce689c2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6065,9 +6000,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2862",
-    "_parentId": "690b1444de6fbef63b6d27e8",
+    "_id": "690c52c3e75f0679dce68a3a",
+    "_parentId": "690c52c0e75f0679dce689c0",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6158,9 +6092,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2864",
-    "_parentId": "690b1443de6fbef63b6d27ca",
+    "_id": "690c52c3e75f0679dce68a3c",
+    "_parentId": "690c52bfe75f0679dce689a2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6251,102 +6184,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2866",
-    "_parentId": "690b1443de6fbef63b6d27c4",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "previous Exercise E02",
-    "displayTitle": "previous Exercise E02",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <em><strong><span style=\"background-color:#f1c40f\">20.11.2025</span></strong></em><span style=\"background-color:#f1c40f\">&nbsp;at </span><em><strong><span style=\"background-color:#f1c40f\">1:00 pm</span></strong></em></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d286e",
-    "_parentId": "690b1443de6fbef63b6d27c4",
+    "_id": "690c52c3e75f0679dce68a3e",
+    "_parentId": "690c52bfe75f0679dce6899c",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6437,8 +6276,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27c6",
+    "_id": "690c52bfe75f0679dce6899e",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6512,6 +6350,98 @@
     }
   },
   {
+    "title": "previous Exercise E02",
+    "displayTitle": "previous Exercise E02",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <em><strong><span style=\"background-color:#f1c40f\">20.11.2025</span></strong></em><span style=\"background-color:#f1c40f\">&nbsp;at </span><em><strong><span style=\"background-color:#f1c40f\">1:00 pm</span></strong></em></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c3e75f0679dce68a40",
+    "_parentId": "690c52bfe75f0679dce6899c",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
     "title": "Alternative Sources of Energy",
     "displayTitle": "Alternative Sources of Energy",
     "body": "<p>Alternative energy sources encompass various options, including solar power, wind energy, hydropower, geothermal energy, and bioenergy. Each alternative offers a more sustainable and environmentally friendly opportunity than traditional fossil fuels.&nbsp;In this section, we will discuss different technologies and their advantages and disadvantages.</p>",
@@ -6530,9 +6460,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2868",
-    "_parentId": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52c3e75f0679dce68a42",
+    "_parentId": "690c52bfe75f0679dce689aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6623,9 +6552,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d286a",
-    "_parentId": "690b1443de6fbef63b6d27c0",
+    "_id": "690c52c3e75f0679dce68a44",
+    "_parentId": "690c52bfe75f0679dce68998",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6716,9 +6644,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d286c",
-    "_parentId": "690b1443de6fbef63b6d27ca",
+    "_id": "690c52c3e75f0679dce68a46",
+    "_parentId": "690c52bfe75f0679dce689a2",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -6809,8 +6736,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27c8",
+    "_id": "690c52bfe75f0679dce689a0",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -6902,106 +6828,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2870",
-    "_parentId": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52c3e75f0679dce68a48",
+    "_parentId": "690c52bfe75f0679dce689aa",
     "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Resilient Food Production",
-    "displayTitle": "Resilient Food Production",
-    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d2872",
-    "_parentId": "690b1443de6fbef63b6d27d2",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -7088,13 +6920,104 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27ca",
+    "_id": "690c52bfe75f0679dce689a2",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/c9a2137f7441eda2250fcaa870d582d65436bb03.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c4e75f0679dce68a4a",
+    "_parentId": "690c52bfe75f0679dce689aa",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -7181,8 +7104,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27cc",
+    "_id": "690c52bfe75f0679dce689a4",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7274,8 +7196,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27d0",
+    "_id": "690c52bfe75f0679dce689a8",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7367,8 +7288,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27d2",
+    "_id": "690c52bfe75f0679dce689aa",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7460,8 +7380,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27da",
+    "_id": "690c52bfe75f0679dce689b2",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7553,8 +7472,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27dc",
+    "_id": "690c52bfe75f0679dce689b4",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7646,8 +7564,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27de",
+    "_id": "690c52bfe75f0679dce689b6",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7739,8 +7656,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27e0",
+    "_id": "690c52bfe75f0679dce689b8",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -7814,8 +7730,8 @@
     }
   },
   {
-    "title": "Invited Lecture",
-    "displayTitle": "Invited Lecture",
+    "title": "The Common Good and Collective Decision-Making",
+    "displayTitle": "The Common Good and Collective Decision-Making",
     "body": "",
     "_classes": "",
     "subtitle": "",
@@ -7832,13 +7748,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27e2",
+    "_id": "690c52bfe75f0679dce689ba",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/432cacc51428f07a122336decd6d980b2ee6eaf2.png"
+      "src": "course/en/assets/f57ca2ac0d39432c75be91390a223e2b72e3d153.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -7925,8 +7840,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1443de6fbef63b6d27e4",
+    "_id": "690c52bfe75f0679dce689bc",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -8018,8 +7932,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27e6",
+    "_id": "690c52c0e75f0679dce689be",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
@@ -8111,8 +8024,7 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_ariaLevel": 0,
-    "_id": "690b1444de6fbef63b6d27e8",
+    "_id": "690c52c0e75f0679dce689c0",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
