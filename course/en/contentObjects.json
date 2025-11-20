@@ -925,7 +925,7 @@
     "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of climate change&nbsp;<ul><li><em>weather vs climate</em></li><li><em>global warming</em></li><li><em>GHGs etc</em></li></ul></li><li>the effects of different global warning paths</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Climate change is one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.<br />The lecture recording, slides, and exercises for this lesson are all available below. Lecture recordings will be available <strong>a day&nbsp;</strong><span><strong>after the live session</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links</span>.</p>",
+    "pageBody": "<p>Climate change is one of the most pressing issues of our time, affecting ecosystems, economies, and societies worldwide. In this chapter, we will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.<br />The lecture recording, slides, and exercises for this lesson are all available below. <span>You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links</span>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -950,15 +950,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
