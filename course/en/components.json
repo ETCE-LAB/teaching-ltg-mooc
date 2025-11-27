@@ -8013,9 +8013,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L08",
-    "displayTitle": "Lecture Recording: L08",
-    "body": "<p><strong>Watch the lecture recording for Lecture L08 - Developing Circularity.</strong></p>",
+    "title": "Lecture Recording: L05",
+    "displayTitle": "Lecture Recording: L05",
+    "body": "<p><strong>Watch the lecture recording for Lecture L05 - Developing Circularity.</strong></p>",
     "_id": "690c52ebe75f0679dce68eeb",
     "_parentId": "690c52d1e75f0679dce68be0",
     "_type": "component",
@@ -8030,6 +8030,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -8046,14 +8047,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/DlMdN6OQF0w",
+      "source": "https://youtu.be/P7Y0szRF9K4",
       "type": "video/youtube",
       "poster": "",
       "cc": []

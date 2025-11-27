@@ -5619,7 +5619,7 @@
     "body": "<p>This lecture is about:</p><ul><li>Challenges and Drivers</li><li>Circular Economy Goals</li><li>Circular cities and regions</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture focuses on how the economy and society are changing from linear to circular. It highlights recycling, sustainable resource management, and creative solutions to social, economic, and environmental issues.</p><p>Please find the lecture recording, slides, and exercise materials below. Lecture recordings will be available&nbsp;<strong>a day after the live session on 27/11/2025</strong>. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p>",
+    "pageBody": "<p>This lecture focuses on how the economy and society are changing from linear to circular. It highlights recycling, sustainable resource management, and creative solutions to social, economic, and environmental issues.</p><p>Please find the lecture recording, slides, and exercise materials below. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -5644,15 +5644,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,

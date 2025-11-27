@@ -3492,15 +3492,17 @@
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "690c52cbe75f0679dce68b15",
     "_parentId": "690c52c5e75f0679dce68a64",
     "_type": "block",
-    "_assessment": {
-      "_quizBankID": 1
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
     },
     "_trickle": {
       "_isEnabled": false,
@@ -3534,9 +3536,47 @@
         "_isLockedOnRevisit": false
       }
     },
+    "_assessment": {
+      "_quizBankID": 1
+    },
     "_pageLevelProgress": {
       "_isEnabled": false,
       "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_minimumHeights": {
+        "_xlarge": null,
+        "_large": null,
+        "_medium": null,
+        "_small": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_isDividerBlock": false,
+      "_paddingTop": "standard",
+      "_paddingBottom": "standard",
+      "_componentVerticalAlignment": "top",
+      "_componentHorizontalAlignment": "left"
     }
   },
   {
@@ -12214,7 +12254,7 @@
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
@@ -12225,9 +12265,6 @@
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_quizBankID": 1
     },
     "_trickle": {
       "_isEnabled": false,
@@ -12260,6 +12297,9 @@
         "_isCompletionRequired": true,
         "_isLockedOnRevisit": false
       }
+    },
+    "_assessment": {
+      "_quizBankID": 1
     },
     "_pageLevelProgress": {
       "_isEnabled": false,
