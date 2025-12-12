@@ -6864,9 +6864,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L07 - Part 1",
-    "displayTitle": "Lecture Recording: L07 - Part 1",
-    "body": "<p><strong>Watch the lecture recording for Lecture L07 - Sustainability and Ethics (Part 1).</strong></p>",
+    "title": "Lecture Recording: L08",
+    "displayTitle": "Lecture Recording: L08",
+    "body": "<p><strong>Watch the lecture recording - Sustainability and Ethics (Part 1).</strong></p>",
     "_id": "690c52eae75f0679dce68ec8",
     "_parentId": "690c52d0e75f0679dce68bc4",
     "_type": "component",
@@ -6881,6 +6881,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -6897,14 +6898,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/q1Vxzn5_b5E",
+      "source": "https://youtu.be/H2deprq1xz4",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -8146,9 +8146,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L07 - Part 3",
-    "displayTitle": "Lecture Recording: L07 - Part 3",
-    "body": "<p><span><span><span><strong><span>Watch the lecture recording for Lecture L07 - Sustainability and Ethics (Part 3).</span></strong></span></span></span></p>",
+    "title": "Lecture Recording: L08",
+    "displayTitle": "Lecture Recording: L08",
+    "body": "<p><span><span><span><strong><span>Watch the lecture recording - Sustainability and Ethics (Q&amp;A).</span></strong></span></span></span></p>",
     "_id": "690c52ebe75f0679dce68eef",
     "_parentId": "690c52dae75f0679dce68cd7",
     "_type": "component",
@@ -8163,6 +8163,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -8179,14 +8180,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/xVC4x4lVbGY",
+      "source": "https://youtu.be/6liJJPt-h0o",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -8223,9 +8223,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L07 - Part 2",
-    "displayTitle": "Lecture Recording: L07 - Part 2",
-    "body": "<p><span><span><span><strong><span>Watch the lecture recording for Lecture L07 - Sustainability and Ethics (Part 2).</span></strong></span></span></span></p>",
+    "title": "Lecture Recording: L08",
+    "displayTitle": "Lecture Recording: L08",
+    "body": "<p><span><span><span><strong><span>Watch the lecture recording - Sustainability and Ethics (Part 2).</span></strong></span></span></span></p>",
     "_id": "690c52ebe75f0679dce68ef0",
     "_parentId": "690c52d6e75f0679dce68c65",
     "_type": "component",
@@ -8240,6 +8240,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -8256,14 +8257,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/gemkLXLWPRE",
+      "source": "https://youtu.be/ddWNtXwEJGg",
       "type": "video/youtube",
       "poster": "",
       "cc": []
