@@ -9985,7 +9985,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Recording: L10 ",
     "displayTitle": "Lecture Recording: L10 ",
-    "body": "<p><strong>Watch the lecture recording for Lecture L010 - Life Cycle Planning for Durable Products.</strong></p>",
+    "body": "<p><strong>Watch the lecture recording for Lecture L10 - Life Cycle Planning for Durable Products.</strong></p>",
     "_id": "690c52ede75f0679dce68f20",
     "_parentId": "690c52d0e75f0679dce68bd2",
     "_type": "component",
@@ -25248,9 +25248,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L13",
-    "displayTitle": "Lecture Recording: L13",
-    "body": "<p>Watch the lecture recording for Lecture L13 - Complex Societies and Technology.</p>",
+    "title": "Lecture Recording: L11",
+    "displayTitle": "Lecture Recording: L11",
+    "body": "<p><strong>Watch the lecture recording - Complex Societies and Technology (Part 1).</strong></p>",
     "_id": "690c52f9e75f0679dce690ba",
     "_parentId": "690c52d0e75f0679dce68bca",
     "_type": "component",
@@ -25265,6 +25265,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -25281,15 +25282,14 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
-    "instruction": "Select the play button to start the video.",
+    "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "",
-      "type": "",
+      "source": "https://youtu.be/eLDajlrUpX8",
+      "type": "video/youtube",
       "poster": "",
       "cc": []
     },
@@ -25298,7 +25298,7 @@
     "_startLanguage": "en",
     "_showVolumeControl": false,
     "_startVolume": "80%",
-    "_allowFullScreen": false,
+    "_allowFullScreen": true,
     "_aspectRatio": "landscape",
     "_pauseWhenOffScreen": false,
     "_playsinline": false,
@@ -31524,6 +31524,83 @@
     "_useClosedCaptions": false,
     "_startLanguage": "en",
     "_showVolumeControl": true,
+    "_startVolume": "80%",
+    "_allowFullScreen": true,
+    "_aspectRatio": "landscape",
+    "_pauseWhenOffScreen": false,
+    "_playsinline": false,
+    "_preventForwardScrubbing": false,
+    "_offsetMediaControls": false,
+    "_transcript": {
+      "_setCompletionOnView": true,
+      "_inlineTranscript": false,
+      "_externalTranscript": false,
+      "inlineTranscriptButton": "",
+      "inlineTranscriptCloseButton": "",
+      "inlineTranscriptBody": "",
+      "transcriptLinkButton": "",
+      "transcriptLink": ""
+    },
+    "_playerOptions": ""
+  },
+  {
+    "_component": "media",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Lecture Recording: L11",
+    "displayTitle": "Lecture Recording: L11",
+    "body": "<p><strong>Watch the lecture recording - Complex Societies and Technology (Part 2).</strong></p>",
+    "_id": "69609ba7cf557c6c7ca88348",
+    "_parentId": "69609ba7cf557c6c7ca88347",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": "",
+    "_media": {
+      "mp4": "",
+      "ogv": "",
+      "webm": "",
+      "mp3": "",
+      "source": "https://youtu.be/qU0qfDe9HPE",
+      "type": "video/youtube",
+      "poster": "",
+      "cc": []
+    },
+    "_setCompletionOn": "play",
+    "_useClosedCaptions": false,
+    "_startLanguage": "en",
+    "_showVolumeControl": false,
     "_startVolume": "80%",
     "_allowFullScreen": true,
     "_aspectRatio": "landscape",

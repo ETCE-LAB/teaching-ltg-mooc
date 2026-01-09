@@ -1201,7 +1201,7 @@
     "body": "<p>This lecture is about</p><ul><li>Carbon capture and storage</li><li>Alternative sources of energy</li></ul><p>&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture offers a strong ethical foundation on the relationship between the Circular Economy, Circular Societies, and Technology.&nbsp;</p><p><span>Below are the lecture recordings, slides, and exercises for this lecture. The lecture recordings will be available&nbsp;<strong>a day after the live session on 08/01/2026</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</span></p>",
+    "pageBody": "<p>This lecture offers a strong ethical foundation on the relationship between the Circular Economy, Circular Societies, and Technology.&nbsp;</p><p><span>Below are the lecture recordings, slides, and exercises for this lecture. Clicking the links will redirect you to the TU Clausthal video server and our publicly available teaching material on GitHub.</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -1228,15 +1228,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
