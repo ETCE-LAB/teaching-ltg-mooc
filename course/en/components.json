@@ -49,13 +49,13 @@
     "_classes": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L10",
-    "displayTitle": "Lecture Recording: L10",
-    "body": "<p>Watch the lecture recording for Lecture L10 - Beyond the Circular Economy (Part 2).</p>",
+    "title": "Lecture Recording: L12",
+    "displayTitle": "Lecture Recording: L12",
+    "body": "<p><strong>Watch the lecture recording - Beyond the Circular Economy (Part 2).</strong></p>",
     "_id": "690c52e4e75f0679dce68e04",
     "_parentId": "690c52d5e75f0679dce68c49",
     "_type": "component",
@@ -70,6 +70,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -86,14 +87,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://www.youtube.com/watch?v=5ZPvVJ5SJj0",
+      "source": "https://youtu.be/CSrZ2EZFc2o",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -29231,9 +29231,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L10",
-    "displayTitle": "Lecture Recording: L10",
-    "body": "<p>Watch the lecture recording for Lecture L10 - Beyond the Circular Economy (Part 1).</p>",
+    "title": "Lecture Recording: L12",
+    "displayTitle": "Lecture Recording: L12",
+    "body": "<p><strong>Watch the lecture recording - Beyond the Circular Economy (Part 1).</strong></p>",
     "_id": "690c52fde75f0679dce6912f",
     "_parentId": "690c52d4e75f0679dce68c36",
     "_type": "component",
@@ -29248,6 +29248,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -29264,14 +29265,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/Ml0YHUng08o",
+      "source": "https://youtu.be/pbEMuUl72ME",
       "type": "video/youtube",
       "poster": "",
       "cc": []

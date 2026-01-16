@@ -373,7 +373,7 @@
     "body": "<p>This lecture is about</p><ul><li>criticising the concept of circular economy</li><li>exploring the idea of eco-sufficiency<ul><li><em>eco-efficiency</em></li><li><em>eco-consistency</em></li><li><em>sufficiency vs overconsumption</em></li></ul></li><li>exploring alternative paths or unusual changes to accomplish sustainable objectives</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture highlights the shortcomings of the traditional circular economy (CE), which emphasises business model innovations and earned value management. By outlining alternatives, including sufficiency strategies and dismantling current power dynamics, it questions the need for unrelenting economic growth and excessive resource consumption.</p><p>Below are the lecture recordings, slides, and exercises for this lecture. The lecture recordings will be available&nbsp;<strong>a day after the live session on 15/01/2026</strong>. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p><p>&nbsp;</p>",
+    "pageBody": "<p>This lecture highlights the shortcomings of the traditional circular economy (CE), which emphasises business model innovations and earned value management. By outlining alternatives, including sufficiency strategies and dismantling current power dynamics, it questions the need for unrelenting economic growth and excessive resource consumption.</p><p>Below are the lecture recordings, slides, and exercises for this lecture.&nbsp;You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -398,15 +398,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
