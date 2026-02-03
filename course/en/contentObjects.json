@@ -94,7 +94,7 @@
   {
     "title": "Lecture L14",
     "displayTitle": "Lecture L14",
-    "body": "<p>This lecture is about</p><ul><li>&nbsp;</li></ul>",
+    "body": "<p>This lecture is about</p><ul><li>shifting from sustainable (doing less harm) to regenerative (actively doing good)</li><li>learning from past knowledge, exploring modern applications, and envisioning the future.</li><li>framing agriculture as a fundamental means of achieving ecological and social well-being</li></ul>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>Please find the lecture recording, slides, and exercise materials below. Lecture recordings will be available&nbsp;<strong>a day after the live session on 05/02/2026</strong>. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p>",
@@ -7454,12 +7454,12 @@
     }
   },
   {
-    "title": "Invited Lecture",
-    "displayTitle": "Invited Lecture",
-    "body": "",
+    "title": "Reimagining Agricultural: A Look at Regenerative Pasts, Presents and Futures",
+    "displayTitle": "Reimagining Agricultural: A Look at Regenerative Pasts, Presents and Futures",
+    "body": "<p>This lecture will explore beyond sustainable agriculture the regenerative practices that can heal our landscapes by examining wisdom from our past, ecological techniques of the present, and envisioning a future where farms are engines of carbon capture, biodiversity, and community resilience.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "",
+    "pageBody": "<p>This lecture is not just about sustainability but about creating a thriving agro-ecological future in which food systems actively enrich the environment, enhance climate stability, and nurture human communities. It is about a journey through time to answer questions about the regenerative transformation of our relationship with the land from a depleted one to one of reciprocal healing.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -7477,7 +7477,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/5d780e691e8305277b841ecb878cc9b507bb272a.png"
+      "src": "course/en/assets/758681cb5fc4cc3b96f89669040d24af08e2263f.png"
     },
     "_onScreen": {
       "_isEnabled": false,
