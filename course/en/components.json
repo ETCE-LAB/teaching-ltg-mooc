@@ -2641,9 +2641,9 @@
     "_isVisible": true,
     "_isResetOnRevisit": "false",
     "_isA11yCompletionDescriptionEnabled": true,
-    "title": "Lecture Recording: L13",
-    "displayTitle": "Lecture Recording: L13",
-    "body": "<p>Watch the lecture recording for Lecture L13 - Summary of the entire course.</p>",
+    "title": "Lecture Recording: L15",
+    "displayTitle": "Lecture Recording: L15",
+    "body": "<p><strong>Watch the lecture recording - Summary of the entire course.</strong></p>",
     "_id": "690c52e6e75f0679dce68e4d",
     "_parentId": "690c52cfe75f0679dce68bbb",
     "_type": "component",
@@ -2658,6 +2658,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -2674,14 +2675,13 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/K0JMdroqPf8",
+      "source": "https://youtu.be/rBC3nnGZYBk",
       "type": "video/youtube",
       "poster": "",
       "cc": []

@@ -10186,7 +10186,7 @@
     "instruction": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
