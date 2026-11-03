@@ -3404,7 +3404,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submission step 1",
     "displayTitle": "Submission step 1",
-    "body": "<p>Open the link provided in the exercise sheet.&nbsp;<br />Links :<br /><a href=\"https://tucloud.tu-clausthal.de/index.php/s/kJrpxJpdfzqfpjZ\">E00</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/DXZppmL8kAWSaJP\">E01</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/MNWDs4JxPoenH7C\">E02</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/KgKwXG7Pfe7xtb5\">E03</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/aaKW4TbrPdZLnks\">E04</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/tqZ7p66SnemGjs8\">E05</a>&nbsp;</p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/QgyAGYXKQpmiYK2\">E06</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/dJZH978264MPooR\">E07</a></p><p><span style=\"color:black\"><span>and enter the password&nbsp;<strong>Limitstogrowth2627</strong></span></span></p>",
+    "body": "<p>Open the link provided in the exercise sheet.&nbsp;<br />Links :<br /><a href=\"https://tucloud.tu-clausthal.de/index.php/s/kJrpxJpdfzqfpjZ\">E00</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/DXZppmL8kAWSaJP\">E01</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/MNWDs4JxPoenH7C\">E02</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/KgKwXG7Pfe7xtb5\">E03</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/aaKW4TbrPdZLnks\">E04</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/tqZ7p66SnemGjs8\">E05</a>&nbsp;</p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/QgyAGYXKQpmiYK2\">E06</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/dJZH978264MPooR\">E07</a></p><p><span style=\"color:black\"><span>and enter the password&nbsp;<strong>limitstogrowth2627</strong></span></span></p>",
     "_id": "690c52e7e75f0679dce68e67",
     "_parentId": "690c52dee75f0679dce68d40",
     "_type": "component",
@@ -3449,7 +3449,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Instructions",
     "displayTitle": "Instructions",
-    "body": "<ul><li>All exercises require you to submit your work to the cloud link mentioned in exercise sheet.</li><li>The password to be used is : Limitstogrowth2526</li><li><span style=\"color:black;\"><span><strong><u>Important</u></strong></span></span><ul><li><span style=\"color:black;\"><span>Always follow the instructions mentioned in each Exercise sheet.</span></span></li><li><span style=\"color:black;\"><span>The exercise sheets are provided </span></span><a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth/Exercises\"><span style=\"color:black;\"><span>here</span></span></a><span style=\"color:black;\"><span> in the form of interactive PDFs, you do not need to create any separate PDF file for submission. The exercise sheet has dedicated spaces where you can submit your answers.</span></span></li><li>Please rename the file according to the instructions provided in the exercise sheets before submitting.</li></ul></li></ul><p>&nbsp;</p>",
+    "body": "<ul><li>All exercises require you to submit your work to the cloud link mentioned in exercise sheet.</li><li>The password to be used is : limitstogrowth2627</li><li><span style=\"color:black\"><span><strong><u>Important</u></strong></span></span><ul><li><span style=\"color:black\"><span>Always follow the instructions mentioned in each Exercise sheet.</span></span></li><li><span style=\"color:black\"><span>The exercise sheets are provided </span></span><a href=\"https://github.com/ETCE-LAB/teaching-material/tree/master/The-Limits-to-Growth/Exercises\"><span style=\"color:black\"><span>here</span></span></a><span style=\"color:black\"><span> in the form of interactive PDFs, you do not need to create any separate PDF file for submission. The exercise sheet has dedicated spaces where you can submit your answers.</span></span></li><li>Please rename the file according to the instructions provided in the exercise sheets before submitting.</li></ul></li></ul><p>&nbsp;</p>",
     "_id": "690c52e7e75f0679dce68e68",
     "_parentId": "690c52d5e75f0679dce68c44",
     "_type": "component",
@@ -3481,7 +3481,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
