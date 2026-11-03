@@ -1064,7 +1064,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Requirements",
     "displayTitle": "Requirements",
-    "body": "<ol><li><span style=\"box-sizing:border-box;margin:0;padding:0;text-align:left;\">The assignments in this course are a mix of <strong>Individual </strong>and<strong> Group work.</strong></span><strong> </strong>Each exercise is carefully crafted to foster learning and deepen the understanding of the lecture content. The submissions must reflect personal effort and contributions in a group setting.</li><li>For the WS25/26, there are five exercises in total, excluding the introductory exercise (E00), where we get to know your strengths.&nbsp;</li><li>The first two exercises (<strong>E01 &amp; E02</strong>) are <strong>individual</strong> assignments.</li><li>&nbsp;<strong>E03, E04 &amp; E05 </strong>are <strong>group</strong> assignments.</li><li>Submission of each exercise is <strong>mandatory</strong>.</li><li>The timely submission of exercises (even if they are empty pages) is vital for your success in this course. So, manage your time effectively.</li><li>With every submission, you will receive detailed feedback.</li><li>Exercise = learning feedback</li></ol>",
+    "body": "<ol><li><span>The assignments in this course are a mix of <strong>Individual </strong>and<strong> Group work.</strong></span><strong> </strong>Each exercise is carefully crafted to foster learning and deepen the understanding of the lecture content. The submissions must reflect personal effort and contributions in a group setting.</li><li>For WS26/27, there are seven exercises in total, excluding the introductory exercise (E00), where we get to know your strengths.&nbsp;</li><li>The first two exercises (<strong>E01 &amp; E02</strong>) are <strong>individual</strong> assignments.</li><li>&nbsp;<strong>E03, E04, E05, E06, and E07&nbsp;</strong>are <strong>group</strong> assignments.</li><li>Submission of each exercise is <strong>mandatory</strong>.</li><li>The timely submission of exercises (even if they are empty pages) is vital for your success in this course. So, manage your time effectively.</li><li>With every submission, you will receive detailed feedback.</li><li>Exercise = learning feedback</li></ol>",
     "_id": "690c52e5e75f0679dce68e1e",
     "_parentId": "690c52cfe75f0679dce68bbd",
     "_type": "component",
@@ -1096,7 +1096,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -3405,7 +3404,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Submission step 1",
     "displayTitle": "Submission step 1",
-    "body": "<p>Open the link provided in exercise sheet.&nbsp;<br>Links :<br><a href=\"https://tucloud.tu-clausthal.de/index.php/s/KfqACnqRHwCbPLg/authenticate/showshare\">E00</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/R3MJASqTADmPpTm\">E01</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/r54Ys5CrHs8cqBz\">E02</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/Ryo2t4zKKtmWSwA\">E03</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/fdFieGdDbX2EAZk\">E04</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/FiaawwMStjkQNwq\">E05</a>&nbsp;</p><p><span style=\"color:black;\"><span>and enter the password&nbsp;<strong>Limitstogrowth2526</strong></span></span></p>",
+    "body": "<p>Open the link provided in the exercise sheet.&nbsp;<br />Links :<br /><a href=\"https://tucloud.tu-clausthal.de/index.php/s/kJrpxJpdfzqfpjZ\">E00</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/DXZppmL8kAWSaJP\">E01</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/MNWDs4JxPoenH7C\">E02</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/KgKwXG7Pfe7xtb5\">E03</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/aaKW4TbrPdZLnks\">E04</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/tqZ7p66SnemGjs8\">E05</a>&nbsp;</p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/QgyAGYXKQpmiYK2\">E06</a></p><p><a href=\"https://tucloud.tu-clausthal.de/index.php/s/dJZH978264MPooR\">E07</a></p><p><span style=\"color:black\"><span>and enter the password&nbsp;<strong>Limitstogrowth2627</strong></span></span></p>",
     "_id": "690c52e7e75f0679dce68e67",
     "_parentId": "690c52dee75f0679dce68d40",
     "_type": "component",
@@ -3437,7 +3436,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -17639,7 +17637,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Course Overview",
     "displayTitle": "Course Overview",
-    "body": "<p><strong>Course Title:&nbsp;</strong>The Limits to Growth – Sustainability and the Circular Economy</p><p><strong>Credits:&nbsp;</strong>5/6 ECTS</p><p><strong>Course Content:</strong></p><ul><li>Introduction to the circular economy, sustainability, and related concepts (biocapacity, etc.)</li><li>Sustainability goals</li><li>Basics of climate change, environmental pollution, and dwindling non-renewable resources</li><li>Feedback loops and tipping points</li><li>Implications of closed systems with a finite supply of resources</li><li>The sub-processes and steps of a circular economy – including the era of R and the era of D</li><li>Approaches towards sustainability</li><li>The complete module and course description can be found&nbsp;<a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/module-description/LTG-module-description.pdf\" target=\"_blank\">here</a>.</li></ul><p><strong>Requirements:</strong></p><ul><li>No requirements. The course is available to all students, no matter the study program.</li></ul><p><strong>Registration:</strong></p><ul><li>DigiTec Students and students from the TU Clausthal can sign up via Stud.IP.</li><li>Everybody else can register by sending us an E-mail&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\">here</a>.</li></ul><p><strong>Course Dates/Times/Locations:</strong></p><ul><li>Lecture:<ul><li><strong>Thursday 2:00 pm</strong> to <strong>3:30 pm</strong> (Berlin time) – <strong>06.11.2025</strong>&nbsp;to <strong>12.02.2026</strong></li><li>Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-aoi-v9o-q7r\" rel=\"noopener\" target=\"_blank\">Link</a>)</li></ul></li><li>Exercise / Q&amp;A:<ul><li><strong>Thursday 3:45 pm</strong> to <strong>4:45 pm</strong> (Berlin time) – <strong>06.11.2025</strong> to <strong>29.01.2026</strong></li></ul><ul><li>Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-aoi-v9o-q7r\" rel=\"noopener\" target=\"_blank\">Link</a>)</li></ul></li></ul>",
+    "body": "<p><strong>Course Title:&nbsp;</strong>The Limits to Growth – Sustainability and the Circular Economy</p><p><strong>Credits:&nbsp;</strong>5/6 ECTS</p><p><strong>Course Content:</strong></p><ul><li>Introduction to the circular economy, sustainability, and related concepts (biocapacity, etc.)</li><li>Sustainability goals</li><li>Basics of climate change, environmental pollution, and dwindling non-renewable resources</li><li>Feedback loops and tipping points</li><li>Implications of closed systems with a finite supply of resources</li><li>The sub-processes and steps of a circular economy – including the era of R and the era of D</li><li>Approaches towards sustainability</li><li>The complete module and course description can be found&nbsp;<a href=\"https://github.com/ETCE-LAB/teaching-material/blob/master/The-Limits-to-Growth/module-description/LTG-module-description.pdf\" target=\"_blank\">here</a>.</li></ul><p><strong>Requirements:</strong></p><ul><li>No requirements. The course is available to all students, regardless of the study program.</li></ul><p><strong>Registration:</strong></p><ul><li>DigiTec Students and students from TU Clausthal can sign up via StudIP.</li><li>Everyone else can register by emailing us&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\">here</a>.</li></ul><p><strong>Course Dates/Times/Locations:</strong></p><ul><li>Lecture:<ul><li><strong>Tuesday 2:00 pm</strong> to <strong>3:30 pm</strong> (Berlin time) – <strong>03.11.2026</strong>&nbsp;to <strong>16.02.2027</strong></li><li>Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-aoi-v9o-q7r\" rel=\"noopener\" target=\"_blank\">Link</a>)</li></ul></li><li>Exercise / Q&amp;A:<ul><li><strong>Tuesday 3:45 pm</strong> to <strong>4:40 pm</strong> (Berlin time) – <strong>03.11.2026</strong> to <strong>16.02.2027</strong></li></ul><ul><li>Location: Goslar Gotec (Am Stollen 19 C, 38640 Goslar, Germany) or via BigBlueButton (<a href=\"https://webconf.tu-clausthal.de/b/ben-aoi-v9o-q7r\" rel=\"noopener\" target=\"_blank\">Link</a>)</li></ul></li></ul>",
     "_id": "690c52f3e75f0679dce68fd0",
     "_parentId": "690c52d2e75f0679dce68bf5",
     "_type": "component",
@@ -17654,6 +17652,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -17670,7 +17669,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": ""
   },
   {
@@ -28699,7 +28697,7 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "title": "Lecture Plan",
     "displayTitle": "Lecture Plan",
-    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2025/26)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>06.11.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>13.11.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Climate Change</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>20.11.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Environmental Pollution and Resources&nbsp; +&nbsp;</span></span></span></p><p><span><span><span>L04 – Limits to Growth and Planetary Boundaries&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>27.11.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L05 – Circular Economy (CE)&nbsp; +&nbsp;&nbsp;</span></span></span></p><p><span><span><span>L06 – A Short History of Political (In-) Action&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>04.12.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Circular Societies&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>11.12.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L08 – Ethics and Morals of Sustainability&nbsp; +&nbsp;</span></span></span></p><p><span><span><span>L09 – LifeCycle Assessment (LCA)&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>18.12.2025</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Invited Lecture – Life Cycle Planning for Durable Products&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>08.01.2025</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L011 – Complex Societies and Technology</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>15.01.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – Beyond the Circular Economy</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>22.01.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L13 – The Common Good and Collective Decision Making</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>29.01.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>Group Presentation</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>05.02.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L14 – Invited Lecture</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>12.02.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L15 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>19.02.2026</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>Exam Q&amp;A</span></span></span></p></td></tr></tbody></table>",
+    "body": "<p><strong>Lecture Plan for the Current Semester<br /><span style=\"color:#4e7367\">(Winter Semester 2025/26)</span></strong></p><table cellspacing=\"0\" class=\"Table\" style=\"border-collapse:collapse; width:650px\"><tbody><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:113px\"><p><span><span><span><strong>Date</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:1px solid black; height:23px; width:463px\"><p><span><span><span><strong>Lecture Title</strong></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>03.11.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; border-bottom:none; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L00 – Organisation + L01 – Introduction</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>10.11.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L02 – Challenges I –&nbsp;Environmental Pollution and Resource Scarcity</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>17.11.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L03 – Challenges II – Climate Change&nbsp;</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>24.11.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L04 – Limits to Growth and Planetary Boundaries&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>01.12.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L05 – Circular Economy (CE)&nbsp; </span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>08.12.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L06 – A Short History of Political (In-) Action&nbsp;</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>15.12.2026</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L07 – Circular Societies</span></span></span></p><p><span><span><span>L08 – Complex Societies and Technology&nbsp;</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>22.12.2026</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L09 – Life Cycle Planning for Durable Products&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>05.01.2027</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L10 – Ethics/Moral Sustainability&nbsp;<span style=\"color:#4e7367\"><strong>(MOOC)</strong></span></span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>12.01.2027</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L11 – Beyond the Circular Economy</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>19.01.2027</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>L12 – LCA - Part 1</span></span></span></p></td></tr><tr><td style=\"height:23px; width:113px\"><p><span><span><span><strong>26.01.2027</strong></span></span></span></p></td><td style=\"height:23px; width:463px\"><p><span><span><span>L13 – LCA - Part 2</span></span></span></p></td></tr><tr><td style=\"background-color:#e7e7e7; height:23px; width:113px\"><p><span><span><span><strong>02.02.2027</strong></span></span></span></p></td><td style=\"background-color:#e7e7e7; height:23px; width:463px\"><p><span><span><span>Group Presentation and Lessons Learned</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><p><span><span><span><strong>09.02.2027</strong></span></span></span></p></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><p><span><span><span>L14 – Summary</span></span></span></p></td></tr><tr><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:113px\"><span><span><span><strong>16.02.2027</strong></span></span></span></td><td style=\"border-bottom:1px solid black; border-left:none; border-right:none; border-top:none; height:23px; width:463px\"><span style=\"color:#c0392b\"><strong>Exam Q&amp;A</strong></span></td></tr></tbody></table>",
     "_id": "690c52fce75f0679dce6911a",
     "_parentId": "690c52d6e75f0679dce68c71",
     "_type": "component",
@@ -31696,5 +31694,106 @@
       "transcriptLink": ""
     },
     "_playerOptions": ""
+  },
+  {
+    "_component": "graphic",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "New Component Title",
+    "displayTitle": "",
+    "body": "",
+    "_id": "6ae9c3a9b6fd782b68f62330",
+    "_parentId": "6ae9c3a9b6fd782b68f6232f",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "_ariaLevel": 0,
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "longdescription": "",
+      "large": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "small": "course/en/assets/d8d2638d15ba406b695d383ef9e70d5c1189ad21.png",
+      "attribution": "",
+      "_url": "",
+      "_target": "_blank"
+    },
+    "_isScrollable": false,
+    "_defaultScrollPercent": 0
+  },
+  {
+    "_component": "text",
+    "_classes": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_isResetOnRevisit": "false",
+    "_isA11yCompletionDescriptionEnabled": true,
+    "title": "Exercise Deadlines",
+    "displayTitle": "Exercise Deadlines",
+    "body": "<p><strong>Exercises and Submission Deadlines&nbsp;<br /><span style=\"color:#16a085\">(Winter Semester 2026/27)</span></strong></p><table border=\"1\" cellpadding=\"0\" cellspacing=\"0\" style=\"width:650px\"><tbody><tr><td style=\"text-align:center\"><strong>Publication Date</strong></td><td style=\"text-align:center\"><strong>Submission Deadline</strong></td><td><strong>&nbsp;Exercise</strong></td></tr><tr><td style=\"text-align:center\"><strong>03.11.2026</strong></td><td style=\"text-align:center\"><strong>10.11.2026</strong></td><td><p><strong>&nbsp;E00</strong> - Intro</p><p><strong>&nbsp;E01</strong> - Ecological Footprint</p></td></tr><tr><td style=\"text-align:center\"><strong>10.11.2026</strong></td><td style=\"text-align:center\"><strong>17.11.2026</strong></td><td><strong>&nbsp;E02</strong> - Household Waste</td></tr><tr><td style=\"text-align:center\"><strong>01.12.2026</strong></td><td style=\"text-align:center\"><strong>08.12.2026</strong></td><td><strong>&nbsp;E03</strong> - Der Verein (Group Exercise)</td></tr><tr><td style=\"text-align:center\"><strong>15.12.2026</strong></td><td style=\"text-align:center\"><strong>22.12.2026</strong></td><td><strong>&nbsp;E04</strong> - Protest Manifesto (Group Exercise)</td></tr><tr><td style=\"text-align:center\"><strong>22.12.2026</strong></td><td style=\"text-align:center\"><strong>05.01.2027</strong></td><td><strong>&nbsp;E05</strong> - Circular Societies (Group Exercise)</td></tr><tr><td style=\"text-align:center\"><strong>19.01.2027</strong></td><td style=\"text-align:center\"><strong>02.02.2027</strong></td><td><p><strong>&nbsp;E06 </strong>- LCA ~ Part 1(Group Exercise)</p><p><strong>&nbsp;E07 </strong>- LCA ~ Part 2 (Group Exercise)</p></td></tr><tr><td style=\"text-align:center\"><strong>02.02.2027</strong></td><td style=\"text-align:center\">&nbsp;</td><td><span style=\"color:#2980b9\">&nbsp;Group Presentations</span></td></tr></tbody></table><p>&nbsp;</p>",
+    "_id": "6ae9c43ab6fd782b68f62335",
+    "_parentId": "6ae9c3c4b6fd782b68f62334",
+    "_type": "component",
+    "_layout": "full",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_tutor": {
+      "_isInherited": true,
+      "_type": "notify",
+      "_classes": "",
+      "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
+      "_button": {
+        "text": "{{_globals._extensions._tutor.hideFeedback}}",
+        "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      }
+    },
+    "instruction": ""
   }
 ]
