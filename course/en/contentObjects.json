@@ -368,18 +368,20 @@
     }
   },
   {
-    "title": "Lecture L12",
-    "displayTitle": "Lecture L12",
-    "body": "<p>This lecture is about</p><ul><li>criticising the concept of circular economy</li><li>exploring the idea of eco-sufficiency<ul><li><em>eco-efficiency</em></li><li><em>eco-consistency</em></li><li><em>sufficiency vs overconsumption</em></li></ul></li><li>exploring alternative paths or unusual changes to accomplish sustainable objectives</li></ul>",
+    "title": "Lecture L11",
+    "displayTitle": "Lecture L11",
+    "body": "<p>This lecture is about</p><ul><li>criticizing the concept of the circular economy</li><li>exploring the idea of eco-sufficiency<ul><li><em>eco-efficiency</em></li><li><em>eco-consistency</em></li><li><em>sufficiency vs overconsumption</em></li></ul></li><li>exploring alternative paths or unusual changes to accomplish sustainable objectives</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture highlights the shortcomings of the traditional circular economy (CE), which emphasises business model innovations and earned value management. By outlining alternatives, including sufficiency strategies and dismantling current power dynamics, it questions the need for unrelenting economic growth and excessive resource consumption.</p><p>Below are the lecture recordings, slides, and exercises for this lecture.&nbsp;You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p><p>&nbsp;</p>",
+    "pageBody": "<p>This lecture highlights the shortcomings of the traditional circular economy (CE), which emphasizes business model innovations and earned value management. By outlining alternatives, including sufficiency strategies and dismantling current power dynamics, it questions the need for unrelenting economic growth and excessive resource consumption.</p><p>Below are the lecture recordings, slides, and exercises for this lecture.&nbsp;You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c0e75f0679dce689cc"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -470,8 +472,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c0e75f0679dce689ce"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -490,15 +494,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -830,15 +834,17 @@
   {
     "title": "Lecture L02",
     "displayTitle": "Lecture L02",
-    "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of sustainability and related to sustainability, resources, environmental pollution</li><li>the limits to recycling</li></ul><p>&nbsp;</p>",
+    "body": "<p>This lecture is about</p><ul><li>basic concepts and definitions of sustainability and related to sustainability, resources, and environmental pollution</li><li>the limits of recycling</li></ul><p>&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.&nbsp;<br />Please find the lecture recording, slides, and exercise materials below. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p><p>&nbsp;</p>",
+    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.&nbsp;<br />Please find the lecture recording, slides, and exercise materials below. Click the links to access the TU Clausthal video server and our publicly available teaching materials on GitHub.</p><p>&nbsp;</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
+    "_lockedBy": [
+      "690c52c0e75f0679dce689d6"
+    ],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -930,7 +936,9 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
+    "_lockedBy": [
+      "690c52c0e75f0679dce689d8"
+    ],
     "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
@@ -1196,18 +1204,18 @@
     }
   },
   {
-    "title": "Lecture 11",
-    "displayTitle": "Lecture 11",
+    "title": "Lecture 8",
+    "displayTitle": "Lecture 8",
     "body": "<p>This lecture is about</p><ul><li>Carbon capture and storage</li><li>Alternative sources of energy</li></ul><p>&nbsp;</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture offers a strong ethical foundation on the relationship between the Circular Economy, Circular Societies, and Technology.&nbsp;</p><p><span>Below are the lecture recordings, slides, and exercises for this lecture. Clicking the links will redirect you to the TU Clausthal video server and our publicly available teaching material on GitHub.</span></p>",
+    "pageBody": "<p>This lecture offers a strong ethical foundation on the relationship between the Circular Economy, Circular Societies, and Technology.&nbsp;</p><p><span>Below are the lecture recordings, slides, and exercises for this lecture. Clicking the links will redirect you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</span></p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [
-      "66f4167cf59def4b2c74242d"
+      "690c52c0e75f0679dce689de"
     ],
     "_lockType": "custom",
     "_isOptional": false,
@@ -1382,8 +1390,8 @@
     }
   },
   {
-    "title": "Lecture L08",
-    "displayTitle": "Lecture L08",
+    "title": "Lecture L10",
+    "displayTitle": "Lecture L10",
     "body": "<p>This lecture is about</p><ul><li>Environmental Values and their Impact on Sustainability Issues</li><li>Sustainability and Justice – the Case of Climate Change</li><li>the Morality of Sustainable Conduct</li></ul>",
     "_classes": "",
     "subtitle": "",
@@ -1476,7 +1484,7 @@
   {
     "title": "Lecture L13",
     "displayTitle": "Lecture L13",
-    "body": "<p>This lecture is about</p><ul><li>Democracy and Collective Autonomy</li><li>Democracy and Collective Rationality</li></ul>",
+    "body": "<p>This lecture is about</p><ul><li>&nbsp;</li></ul>",
     "_classes": "",
     "subtitle": "",
     "pageBody": "<p>For this lecture, our guest lecturer will discuss the concept of the&nbsp;<span><span>Common Good and Collective Decision-Making</span></span>. It will examine how groups, governments, and communities make choices that strike a balance between personal interests and common social and environmental objectives.</p><p>Below are the lecture recordings, slides, and exercises for this lecture. You will be redirected to the TU Clausthal video server and our publicly available teaching material on GitHub by clicking on the links.</p>",
@@ -1484,8 +1492,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c1e75f0679dce689e4"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -1842,8 +1852,8 @@
     }
   },
   {
-    "title": "Lecture L10",
-    "displayTitle": "Lecture L10",
+    "title": "Lecture L9",
+    "displayTitle": "Lecture L9",
     "body": "<p>This lecture is about</p><ul><li>optimization of long-lasting products</li></ul>",
     "_classes": "",
     "subtitle": "",
@@ -2408,7 +2418,7 @@
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": false,
+    "_isHidden": true,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
@@ -2424,15 +2434,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -2598,98 +2608,6 @@
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "690c52c1e75f0679dce689fa",
     "_parentId": "690c52bfe75f0679dce689bc",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Previous Exercise E04",
-    "displayTitle": "Previous Exercise E04",
-    "body": "<p>Here, you can find the lecture exercise. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>27.11.2024</strong></i> at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c1e75f0679dce689fc",
-    "_parentId": "690c52bfe75f0679dce689a4",
     "_type": "page",
     "_graphic": {
       "alt": "",
@@ -3132,15 +3050,17 @@
   {
     "title": "Exercise E01",
     "displayTitle": "Exercise E01",
-    "body": "<p>Here, you can find the exercise for this lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "body": "<p>Here, you can find the exercise for this lecture. Click to view the task and submission guidelines. Remember to submit your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>20.11.2025</strong></i> at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Click the link to access our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><em><strong>10.11.2026</strong></em> at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "30 minutes",
-    "_lockedBy": [],
+    "_lockedBy": [
+      "690c52c2e75f0679dce68a0a"
+    ],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -3160,15 +3080,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -3227,13 +3147,15 @@
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>18.12.2025</strong></i>&nbsp;at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><em><strong>18.12.2025</strong></em>&nbsp;at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c2e75f0679dce68a0c"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3252,15 +3174,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -3319,13 +3241,15 @@
     "body": "<p>Here, you can find the lecture exercise. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>08.01.2026</strong></i> at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><em><strong>22.12.2026</strong></em> at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c2e75f0679dce68a0e"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3344,15 +3268,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -3411,13 +3335,15 @@
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><strong>22.01.2026 </strong>at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><strong>22.01.2026 </strong>at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c2e75f0679dce68a10"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3436,15 +3362,15 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -3508,8 +3434,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "69329b8be75f0679dce6916f"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -3590,12 +3518,106 @@
     }
   },
   {
-    "title": "Introduction",
-    "displayTitle": "Introduction",
-    "body": "<p>Here, you will find the course introduction chapter. This lecture introduces the foundational concept that shapes the learning ahead. We'll examine the significant ecological and sociological challenges in more detail and show why these topics are relevant.</p>",
+    "title": "Lecture L06",
+    "displayTitle": "Lecture L06",
+    "body": "<p>This lecture is about:</p><ul><li>Sustainable development goals</li><li>Actions on climate change</li><li>Individual activism</li></ul>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Here, you will find the course introduction lecture. This is where you will be introduced to the foundational concept that shapes the learning ahead. We'll examine our day's significant ecological and sociological challenges in more detail and show you why grasping these problems is more important than you would think.</p>",
+    "pageBody": "<p>This lecture explores how the economy and society are shifting from linear to circular. It highlights recycling, sustainable resource management, and creative solutions to social, economic, and environmental issues.</p><p>Please find the lecture recording, slides, and exercise materials below. Click the links to access the TU Clausthal video server and our publicly available teaching materials on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [
+      "6aecb5f1c9dec28340400536"
+    ],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6aecb5f1c9dec28340400536",
+    "_parentId": "690c52bfe75f0679dce689a4",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Life Cycle Assessement - Part 2",
+    "displayTitle": "Life Cycle Assessement - Part 2",
+    "body": "<p>This lecture is about:</p><ul><li>a high-level overview and guide of LCA<ul><li>goal and scope definition</li><li>Life Cycle Inventory analysis</li><li>Life Cycle Impact Assessment</li><li>Life Cycle Interpretation</li></ul></li><li>Examples from Polestar, 2020 EU Commission report, MushR project</li></ul>",
+    "_classes": "",
+    "subtitle": "L06 - Life Cycle Assessement",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -3608,12 +3630,12 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce6899a",
-    "_parentId": "course",
-    "_type": "menu",
+    "_id": "6aecbf42c9dec2834040057b",
+    "_parentId": "690c52bfe75f0679dce689ba",
+    "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/dce2a22561ade3124b193023ed67b150b3f86457.png"
+      "src": "course/en/assets/7e3f695c42c1ac18f9334b158b49a8f3be254713.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3682,30 +3704,30 @@
     }
   },
   {
-    "title": "The Importance of Individual Action",
-    "displayTitle": "The Importance of Individual Action",
-    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "title": "Introduction",
+    "displayTitle": "Introduction",
+    "body": "<p>Here, you will find the course introduction chapter. This lecture introduces the foundational concept that shapes the learning ahead. We'll examine the significant ecological and sociological challenges in more detail and show why these topics are relevant.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "pageBody": "<p>Here, you will find the course introduction lecture. This is where you will be introduced to the foundational concept that shapes the learning ahead. We'll examine our day's significant ecological and sociological challenges in more detail and show you why grasping these problems is more important than you would think.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "90 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
-    "_isHidden": true,
+    "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce689a6",
-    "_parentId": "690c52bfe75f0679dce689a4",
+    "_id": "690c52bfe75f0679dce6899a",
+    "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+      "src": "course/en/assets/dce2a22561ade3124b193023ed67b150b3f86457.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -3890,6 +3912,98 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/0c773f8002d827d03cdf76f6d5c7261eecc53bce.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Previous Exercise E04",
+    "displayTitle": "Previous Exercise E04",
+    "body": "<p>Here, you can find the lecture exercise. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>27.11.2024</strong></i> at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c1e75f0679dce689fc",
+    "_parentId": "690c52bfe75f0679dce689a4",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4699,12 +4813,14 @@
     "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f;\"><i><strong>27.11.2025</strong></i>&nbsp;at <i><strong>1:00 pm</strong></i></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><em><strong>10.11.2026</strong></em>&nbsp;at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "30 minutes",
-    "_lockedBy": [],
+    "_lockedBy": [
+      "690c52c3e75f0679dce68a26"
+    ],
     "_lockType": "",
     "_isOptional": false,
     "_isAvailable": true,
@@ -4715,6 +4831,190 @@
     "_id": "690c52c3e75f0679dce68a26",
     "_parentId": "690c52bfe75f0679dce6899c",
     "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Challenges of the 21st Century - I",
+    "displayTitle": "Challenges of the 21st Century - I",
+    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
+    "_classes": "",
+    "subtitle": "Environmental Pollution and Resource Scarcity",
+    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore the intricate connections among these challenges, showing how environmental pollution amplifies social disparities and sparks political instability.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52bfe75f0679dce6899c",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/e5907691205b17d469f29638869a14de9ce94a5f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "The Importance of Individual Action",
+    "displayTitle": "The Importance of Individual Action",
+    "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we have discussed the global and national perspective. For the exercise we want to take a closer look at what can be done on the community and individual level!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52bfe75f0679dce689a6",
+    "_parentId": "690c52bfe75f0679dce689a4",
+    "_type": "menu",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
@@ -4775,98 +5075,6 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Challenges of the 21st Century - I",
-    "displayTitle": "Challenges of the 21st Century - I",
-    "body": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will explore how pollution and resource scarcity amplify these challenges and social disparities.</p>",
-    "_classes": "",
-    "subtitle": "Environmental Pollution and Resource Scarcity",
-    "pageBody": "<p>Our planet faces an alarming convergence of environmental degradation, resource depletion, and escalating social and political tensions. This session will unravel the intricate connections between these challenges, exploring how environmental pollution amplifies social disparities and sparks political instability.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "custom",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce6899c",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/9fc2a34cf02cf00a815f7512d87520ffc26ea553.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -5051,98 +5259,6 @@
           "_backgroundRepeat": "no-repeat",
           "_backgroundSize": "cover",
           "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Previous Exercise E03",
-    "displayTitle": "Previous Exercise E03",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c3e75f0679dce68a2e",
-    "_parentId": "690c52bfe75f0679dce689a4",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -5716,8 +5832,10 @@
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
+    "_lockedBy": [
+      "690c52c3e75f0679dce68a3c"
+    ],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -5892,16 +6010,16 @@
   {
     "title": "Challenges of the 21st Century - II",
     "displayTitle": "Challenges of the 21st Century - II",
-    "body": "<p>Climate change is one of our most pressing issues, affecting ecosystems, economies, and societies worldwide. This chapter will explore climate change's science, impacts, and causes, emphasizing its profound implications for sustainability.</p>",
+    "body": "<p>Climate change is one of our most pressing issues, affecting ecosystems, economies, and societies worldwide. This chapter explores the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability.</p>",
     "_classes": "",
     "subtitle": "Climate Change",
-    "pageBody": "<p>The impacts of climate change on ecosystems, economies, and societies make it one of the most urgent concerns of our day.&nbsp;We will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we delve into the complexities of this global challenge, we'll also examine strategies, policies, and individual actions aimed at mitigating its effects and building a resilient, sustainable future.</p>",
+    "pageBody": "<p>The impacts of climate change on ecosystems, economies, and societies make it one of the most urgent concerns of our day.&nbsp;We will explore the science, impacts, and causes of climate change, emphasizing its profound implications for sustainability. As we explore the complexities of this global challenge, we'll also examine strategies, policies, and individual actions to mitigate its effects and build a resilient, sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -5913,7 +6031,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/3c458718aacea2a643af314b62d46687f6dcd76b.png"
+      "src": "course/en/assets/d4a4700878c0cf00c5d0b1a724cedf1be21406d0.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -5929,6 +6047,98 @@
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": null,
+          "_backgroundSize": null,
+          "_backgroundPosition": null
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Previous Exercise E03",
+    "displayTitle": "Previous Exercise E03",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": false,
+    "_isHidden": false,
+    "_isVisible": false,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52c3e75f0679dce68a2e",
+    "_parentId": "690c52bfe75f0679dce689a4",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -6373,22 +6583,22 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/c7934b6f164238f98059e761e3d7f4a75920d526.png"
+      "src": "course/en/assets/a1cb81fc1f768d2e2a25ca3ff88cdbae6bbbe551.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -6545,7 +6755,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6557,22 +6767,22 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/c9a2137f7441eda2250fcaa870d582d65436bb03.png"
+      "src": "course/en/assets/ec020a02b20bd9638a0dd40bfcb4d701cb614e78.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -6723,7 +6933,7 @@
     "body": "<p>This lecture will discuss different understandings and definitions of sustainable development.&nbsp;Additionally, we will examine the dynamic interplay between political and social actors in addressing and delaying actions to fight urgent global challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>We will explore how political and social entities interact to address and hinder efforts to tackle urgent global problems. Moreover, we will cover the responsibilities that individuals and businesses can play in promoting sustainability, illustrating how little, sustainable daily actions can significantly impact the world. By the end, you'll comprehend these methods and be inspired to help create a more sustainable future.</p>",
+    "pageBody": "<p>We will explore how political and social entities interact to address and hinder efforts to tackle urgent global problems. Moreover, we will cover the responsibilities that individuals and businesses can play in promoting sustainability, illustrating how small, sustainable daily actions can significantly impact the world. By the end, you'll comprehend these methods and be inspired to help create a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -6741,22 +6951,22 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/93cf70a9ca3eb9c70d01da74b70ccac231450d36.png"
+      "src": "course/en/assets/1d9d1aeae2defafad9084445e21588bbba5c3efe.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -6821,7 +7031,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -6833,7 +7043,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/8e41e40e7bcde77a7e62e52aeed55139f610dc21.png"
+      "src": "course/en/assets/083162faf6c4d6b4ee934cd4df942f2631a65178.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -6902,122 +7112,30 @@
     }
   },
   {
-    "title": "Sustainability and Ethics ",
-    "displayTitle": "Sustainability and Ethics ",
-    "body": "<p>In order to better understand and guide our activities towards a sustainable future, this course explores the fundamental values and principles that support sustainability and ethics. Students will learn to address ecological problems effectively by understanding core environmental values and how they relate to sustainability challenges.</p>",
+    "title": "Complex Societies and Technology",
+    "displayTitle": "Complex Societies and Technology",
+    "body": "<p>This chapter highlights the significance of integrating sustainable practices into the complex web of modern technological and social systems by examining how technology can be both a force for social advancement and a possible source of environmental damage.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This course explores the fundamental intersection of sustainability and ethics, examining the fundamental principles and concepts that guide our behaviour towards a sustainable future.</p>",
+    "pageBody": "<p>The relationship between complex societies and technology has significantly impacted how humans interact with the environment and one another throughout the ongoing tale of human civilization. This chapter highlights the importance of integrating sustainable practices into the complex web of modern technological and social systems by examining how technology can drive social advancement while also causing environmental harm. We will explore how societies can use technology to reduce their environmental impact, foster equity, and increase resilience—all of which will lead to a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce689aa",
+    "_id": "690c52bfe75f0679dce689b6",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/d6d0c61d175b0a3b73cc774284892f966ae53d59.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
-          "_large": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
-          "_medium": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
-          "_small": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png"
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "repeat",
-          "_backgroundSize": "auto",
-          "_backgroundPosition": "center center"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Life Cycle Assessement",
-    "displayTitle": "Life Cycle Assessement",
-    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce689b2",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/2999032f87ccb51fe3267f6a84daa56eec7bfb6c.png"
+      "src": "course/en/assets/cec739dca5f43804cac4de1d2544f4675ec434e5.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -7097,7 +7215,7 @@
     "linkText": "View",
     "duration": "",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7109,22 +7227,22 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/7be18e3315d49ba37021f566f5d2f8102a012b0b.png"
+      "src": "course/en/assets/89fa6442cc6978d82cd298063e3be7b1b36416e6.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -7178,12 +7296,12 @@
     }
   },
   {
-    "title": "Complex Societies and Technology",
-    "displayTitle": "Complex Societies and Technology",
-    "body": "<p>This chapter highlights the significance of integrating sustainable practices into the complex web of modern technological and social systems by examining how technology can be both a force for social advancement and a possible source of environmental damage.</p>",
+    "title": "Ethics/Moral Sustainability",
+    "displayTitle": "Ethics/Moral Sustainability",
+    "body": "<p>In order to better understand and guide our activities towards a sustainable future, this course explores the fundamental values and principles that support sustainability and ethics. Students will learn to address ecological problems effectively by understanding core environmental values and how they relate to sustainability challenges.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>The relationship between complex societies and technology has significantly impacted how humans interact with the environment and one another throughout the ongoing tale of human civilisation. This chapter highlights the significance of integrating sustainable practices into the complex web of modern technological and social systems by examining how technology can be both a force for social advancement and a possible source of environmental damage. We will look into how societies may use technology to lessen their influence on the environment, foster equity, and increase resilience—all of which will lead to a more sustainable future.</p>",
+    "pageBody": "<p>This course explores the fundamental intersection of sustainability and ethics, examining the fundamental principles and concepts that guide our behaviour towards a sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -7196,27 +7314,27 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce689b6",
+    "_id": "690c52bfe75f0679dce689aa",
     "_parentId": "course",
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/e2a19c2ccef4474f369274bb2a2155dcc826d8a2.png"
+      "src": "course/en/assets/9d4ad92f1ca395173fd91288d9e39709056efc0f.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -7233,9 +7351,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -7250,15 +7368,15 @@
           "_instruction": ""
         },
         "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
+          "_xlarge": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
+          "_large": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
+          "_medium": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png",
+          "_small": "course/en/assets/f931dda268bce0b1762b704cbc160ddb5d321a08.png"
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
+          "_backgroundRepeat": "repeat",
+          "_backgroundSize": "auto",
+          "_backgroundPosition": "center center"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -7281,7 +7399,7 @@
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7293,22 +7411,22 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/7882f437bb79d11e5a0b2c91dfde871c93d6ef7d.png"
+      "src": "course/en/assets/cd43e779d54c4f0d1ed6ebbd3b3c352ec91bc097.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -7362,18 +7480,110 @@
     }
   },
   {
-    "title": "The Common Good and Collective Decision-Making",
-    "displayTitle": "The Common Good and Collective Decision-Making",
-    "body": "<p>This lecture will examine how communities, governments, and organizations make decisions that strike a balance between individual interests and shared environmental and social goals. This thereby sparks discussion on how sustainable outcomes depend not just on science and technology, but also on values, cooperation, and a shared vision.</p>",
+    "title": "Life Cycle Assessement - Part 1",
+    "displayTitle": "Life Cycle Assessement - Part 1",
+    "body": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts.</p>",
     "_classes": "",
     "subtitle": "",
-    "pageBody": "<p>This lecture will explore how communities, governments, and organizations make decisions that balance individual interests with shared environmental and social goals. This thereby sparks discussion on how sustainable outcomes depend not just on science and technology, but also on values, cooperation, and a shared vision.</p>",
+    "pageBody": "<p>Life cycle assessments (LCAs) are powerful tools for evaluating the environmental impacts of products, processes, and services throughout their entire life cycle. In this session, we will explore the methodology, principles, and applications of LCAs in sustainability efforts. From raw material extraction to disposal, LCAs provide insights into resource use, emissions, and energy consumption, aiding in informed decision-making for a more sustainable future.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
     "duration": "90 minutes",
     "_lockedBy": [],
-    "_lockType": "",
+    "_lockType": "custom",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52bfe75f0679dce689b2",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/bc6c63f8375c33414ab7357fc337b42ccd1fb095.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Life Cycle Assessment - Part 2",
+    "displayTitle": "Life Cycle Assessment - Part 2",
+    "body": "",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "custom",
     "_isOptional": false,
     "_isAvailable": true,
     "_isHidden": false,
@@ -7385,99 +7595,7 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/f57ca2ac0d39432c75be91390a223e2b72e3d153.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Reimagining Agricultural: A Look at Regenerative Pasts, Presents and Futures",
-    "displayTitle": "Reimagining Agricultural: A Look at Regenerative Pasts, Presents and Futures",
-    "body": "<p>This lecture will explore beyond sustainable agriculture the regenerative practices that can heal our landscapes by examining wisdom from our past, ecological techniques of the present, and envisioning a future where farms are engines of carbon capture, biodiversity, and community resilience.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture is not just about sustainability but about creating a thriving agro-ecological future in which food systems actively enrich the environment, enhance climate stability, and nurture human communities. It is about a journey through time to answer questions about the regenerative transformation of our relationship with the land from a depleted one to one of reciprocal healing.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52bfe75f0679dce689bc",
-    "_parentId": "course",
-    "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/758681cb5fc4cc3b96f89669040d24af08e2263f.png"
+      "src": "course/en/assets/9eee6d58a2a044112f5c9b8f498eb56a608cdd82.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -7569,22 +7687,22 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/9effe1620b859829c2cbad24a84d926bb228463d.png"
+      "src": "course/en/assets/150214acae4b7eb9deb213fb747a446a6277e310.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -7661,12 +7779,16 @@
     "_type": "menu",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/3a7c8a66ee50281bb672a9e2f16cbc4d4faba86b.png"
+      "src": "course/en/assets/4ca0585d9352b0f1fa2d5c8e5dc972f7ff7cab02.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -7674,9 +7796,97 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Reimagining Agricultural: A Look at Regenerative Pasts, Presents and Futures",
+    "displayTitle": "Reimagining Agricultural: A Look at Regenerative Pasts, Presents and Futures",
+    "body": "<p>This lecture will explore beyond sustainable agriculture the regenerative practices that can heal our landscapes by examining wisdom from our past, ecological techniques of the present, and envisioning a future where farms are engines of carbon capture, biodiversity, and community resilience.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture is not just about sustainability but about creating a thriving agro-ecological future in which food systems actively enrich the environment, enhance climate stability, and nurture human communities. It is about a journey through time to answer questions about the regenerative transformation of our relationship with the land from a depleted one to one of reciprocal healing.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "690c52bfe75f0679dce689bc",
+    "_parentId": "course",
+    "_type": "menu",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/758681cb5fc4cc3b96f89669040d24af08e2263f.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
     },
     "_bookmarking": {
       "_isEnabled": true,
