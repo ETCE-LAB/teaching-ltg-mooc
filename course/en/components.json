@@ -4940,7 +4940,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/-FxfyV5-XIU",
+      "source": "https://youtu.be/iW7pQu10Fhc",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -5017,7 +5017,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/k5rbZb_8Y_E",
+      "source": "https://youtu.be/8dAX7djX4f4",
       "type": "video/youtube",
       "poster": "",
       "cc": []
@@ -17574,6 +17574,7 @@
       "_type": "notify",
       "_classes": "",
       "_hasNotifyBottomButton": false,
+      "_autoScrollWhenInline": true,
       "_button": {
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
@@ -17590,7 +17591,6 @@
         "_instruction": ""
       }
     },
-    "_ariaLevel": 0,
     "instruction": "",
     "_media": {
       "mp4": "",
