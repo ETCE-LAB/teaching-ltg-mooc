@@ -73,8 +73,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -178,8 +178,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -262,8 +262,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -370,8 +370,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -480,8 +480,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -585,8 +585,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -666,8 +666,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -750,8 +750,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -853,8 +853,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -932,8 +932,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1011,8 +1011,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1092,8 +1092,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1178,8 +1178,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1283,8 +1283,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1364,8 +1364,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1445,8 +1445,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1526,8 +1526,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1607,8 +1607,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1691,8 +1691,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1796,8 +1796,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1877,8 +1877,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -1958,8 +1958,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2039,8 +2039,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2120,8 +2120,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2199,8 +2199,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2278,8 +2278,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2359,8 +2359,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2443,8 +2443,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2546,8 +2546,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2630,8 +2630,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2738,8 +2738,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2846,8 +2846,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -2954,8 +2954,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3062,8 +3062,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3170,8 +3170,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3278,8 +3278,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3431,8 +3431,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3539,8 +3539,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3644,8 +3644,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3818,8 +3818,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -3921,8 +3921,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4005,8 +4005,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4108,8 +4108,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4192,8 +4192,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4295,8 +4295,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4376,8 +4376,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4457,8 +4457,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4543,8 +4543,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4651,8 +4651,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4759,8 +4759,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4862,8 +4862,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -4941,8 +4941,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5025,8 +5025,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5128,8 +5128,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5207,8 +5207,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5286,8 +5286,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5410,8 +5410,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5489,8 +5489,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5573,8 +5573,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5678,8 +5678,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5759,8 +5759,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5838,8 +5838,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -5924,8 +5924,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6029,8 +6029,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6113,8 +6113,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6218,8 +6218,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6299,8 +6299,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6385,8 +6385,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6490,8 +6490,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6571,8 +6571,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6652,8 +6652,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6736,8 +6736,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6841,8 +6841,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -6967,8 +6967,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -7053,8 +7053,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -7163,8 +7163,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -7273,8 +7273,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -7426,8 +7426,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -7619,8 +7619,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -7840,8 +7840,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8080,8 +8080,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8211,8 +8211,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8321,8 +8321,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8426,8 +8426,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8507,8 +8507,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8588,8 +8588,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8672,8 +8672,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8780,8 +8780,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8885,8 +8885,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -8966,8 +8966,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -9095,8 +9095,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
@@ -9203,8 +9203,8 @@
         "_component": "trickle-button"
       },
       "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
+        "_isEnabled": false,
+        "_isCompletionRequired": false,
         "_isLockedOnRevisit": false
       }
     },
