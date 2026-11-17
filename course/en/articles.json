@@ -11,8 +11,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a4c",
-    "_parentId": "690c52c1e75f0679dce689e2",
+    "_id": "6afc0f3a4843c72074094579",
+    "_parentId": "6afc0f394843c72074094513",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -119,8 +119,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a4d",
-    "_parentId": "690c52c2e75f0679dce68a14",
+    "_id": "6afc0f3a4843c7207409457a",
+    "_parentId": "6afc0f3a4843c72074094547",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -200,8 +200,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a4e",
-    "_parentId": "690c52c1e75f0679dce689e6",
+    "_id": "6afc0f3a4843c7207409457b",
+    "_parentId": "6afc0f394843c72074094517",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -308,8 +308,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a4f",
-    "_parentId": "690c52c1e75f0679dce689e4",
+    "_id": "6afc0f3a4843c7207409457c",
+    "_parentId": "6afc0f394843c72074094515",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -416,8 +416,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a50",
-    "_parentId": "690c52c2e75f0679dce68a16",
+    "_id": "6afc0f3a4843c7207409457d",
+    "_parentId": "6afc0f3a4843c72074094549",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -526,8 +526,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a51",
-    "_parentId": "690c52c3e75f0679dce68a36",
+    "_id": "6afc0f3a4843c7207409457e",
+    "_parentId": "6afc0f3a4843c72074094561",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -607,8 +607,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a52",
-    "_parentId": "690c52c2e75f0679dce68a18",
+    "_id": "6afc0f3a4843c7207409457f",
+    "_parentId": "6afc0f3a4843c7207409454b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -688,8 +688,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a53",
-    "_parentId": "690c52c1e75f0679dce689ee",
+    "_id": "6afc0f3a4843c72074094580",
+    "_parentId": "6afc0f394843c7207409451f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -796,8 +796,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a54",
-    "_parentId": "690c52c0e75f0679dce689c4",
+    "_id": "6afc0f3a4843c72074094581",
+    "_parentId": "6afc0f394843c720740944f5",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -875,8 +875,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a56",
-    "_parentId": "690c52c3e75f0679dce68a2a",
+    "_id": "6afc0f3a4843c72074094582",
+    "_parentId": "6afc0f3a4843c72074094557",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -954,8 +954,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a57",
-    "_parentId": "690c52c2e75f0679dce68a1a",
+    "_id": "6afc0f3a4843c72074094583",
+    "_parentId": "6afc0f3a4843c7207409454d",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1033,8 +1033,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a58",
-    "_parentId": "690c52c2e75f0679dce68a02",
+    "_id": "6afc0f3a4843c72074094584",
+    "_parentId": "6afc0f3a4843c7207409452f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1114,8 +1114,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a59",
-    "_parentId": "690c52c1e75f0679dce689e0",
+    "_id": "6afc0f3b4843c72074094585",
+    "_parentId": "6afc0f394843c72074094511",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1224,8 +1224,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a5a",
-    "_parentId": "690c52c1e75f0679dce68a00",
+    "_id": "6afc0f3b4843c72074094586",
+    "_parentId": "6afc0f3a4843c7207409452d",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1305,8 +1305,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a5b",
-    "_parentId": "690c52c0e75f0679dce689de",
+    "_id": "6afc0f3b4843c72074094587",
+    "_parentId": "6afc0f394843c7207409450f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1386,8 +1386,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a5c",
-    "_parentId": "690c52c3e75f0679dce68a26",
+    "_id": "6afc0f3b4843c72074094588",
+    "_parentId": "6afc0f3a4843c72074094555",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1467,8 +1467,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a5d",
-    "_parentId": "690c52c3e75f0679dce68a38",
+    "_id": "6afc0f3b4843c72074094589",
+    "_parentId": "6afc0f3a4843c72074094563",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1548,8 +1548,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a5e",
-    "_parentId": "690c52c2e75f0679dce68a0e",
+    "_id": "6afc0f3b4843c7207409458a",
+    "_parentId": "6afc0f3a4843c72074094539",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1629,8 +1629,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a5f",
-    "_parentId": "690c52c1e75f0679dce689ec",
+    "_id": "6afc0f3b4843c7207409458b",
+    "_parentId": "6afc0f394843c7207409451d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -1737,8 +1737,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a60",
-    "_parentId": "690c52c2e75f0679dce68a0c",
+    "_id": "6afc0f3b4843c7207409458c",
+    "_parentId": "6afc0f3a4843c72074094537",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1818,8 +1818,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c4e75f0679dce68a61",
-    "_parentId": "690c52c3e75f0679dce68a40",
+    "_id": "6afc0f3b4843c7207409458d",
+    "_parentId": "6afc0f3a4843c7207409456d",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1899,8 +1899,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a62",
-    "_parentId": "690c52c3e75f0679dce68a3e",
+    "_id": "6afc0f3b4843c7207409458e",
+    "_parentId": "6afc0f3a4843c72074094569",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -1980,8 +1980,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a63",
-    "_parentId": "690c52c2e75f0679dce68a0a",
+    "_id": "6afc0f3b4843c7207409458f",
+    "_parentId": "6afc0f3a4843c72074094535",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2061,8 +2061,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a64",
-    "_parentId": "690c52c3e75f0679dce68a3c",
+    "_id": "6afc0f3b4843c72074094590",
+    "_parentId": "6afc0f3a4843c72074094567",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2142,8 +2142,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a65",
-    "_parentId": "690c52c3e75f0679dce68a3a",
+    "_id": "6afc0f3b4843c72074094591",
+    "_parentId": "6afc0f3a4843c72074094565",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2221,8 +2221,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a66",
-    "_parentId": "690c52c3e75f0679dce68a34",
+    "_id": "6afc0f3b4843c72074094592",
+    "_parentId": "6afc0f3a4843c7207409455f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2300,8 +2300,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a67",
-    "_parentId": "690c52c2e75f0679dce68a12",
+    "_id": "6afc0f3b4843c72074094593",
+    "_parentId": "6afc0f3a4843c72074094545",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2381,8 +2381,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a68",
-    "_parentId": "690c52c2e75f0679dce68a08",
+    "_id": "6afc0f3b4843c72074094594",
+    "_parentId": "6afc0f3a4843c72074094533",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2489,8 +2489,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a69",
-    "_parentId": "690c52c1e75f0679dce689ea",
+    "_id": "6afc0f3b4843c72074094595",
+    "_parentId": "6afc0f394843c7207409451b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -2568,8 +2568,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a6a",
-    "_parentId": "690c52c2e75f0679dce68a06",
+    "_id": "6afc0f3b4843c72074094596",
+    "_parentId": "6afc0f3a4843c72074094531",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2676,8 +2676,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a6b",
-    "_parentId": "690c52c1e75f0679dce689e8",
+    "_id": "6afc0f3b4843c72074094597",
+    "_parentId": "6afc0f394843c72074094519",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2784,8 +2784,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a6d",
-    "_parentId": "690c52c2e75f0679dce68a10",
+    "_id": "6afc0f3b4843c72074094598",
+    "_parentId": "6afc0f3a4843c7207409453b",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -2892,8 +2892,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a6e",
-    "_parentId": "690c52c0e75f0679dce689d8",
+    "_id": "6afc0f3b4843c72074094599",
+    "_parentId": "6afc0f394843c72074094509",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3000,8 +3000,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a6f",
-    "_parentId": "690c52c0e75f0679dce689c8",
+    "_id": "6afc0f3b4843c7207409459a",
+    "_parentId": "6afc0f394843c720740944f9",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3108,8 +3108,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a70",
-    "_parentId": "690c52c3e75f0679dce68a46",
+    "_id": "6afc0f3b4843c7207409459b",
+    "_parentId": "6afc0f3a4843c72074094573",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3216,8 +3216,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a72",
-    "_parentId": "690c52c2e75f0679dce68a20",
+    "_id": "6afc0f3b4843c7207409459c",
+    "_parentId": "6afc0f3a4843c72074094553",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3324,8 +3324,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a73",
-    "_parentId": "690c52c0e75f0679dce689dc",
+    "_id": "6afc0f3b4843c7207409459d",
+    "_parentId": "6afc0f394843c7207409450d",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3369,8 +3369,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a74",
-    "_parentId": "690c52c1e75f0679dce689f8",
+    "_id": "6afc0f3b4843c7207409459e",
+    "_parentId": "6afc0f3a4843c72074094529",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3477,8 +3477,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a75",
-    "_parentId": "690c52c0e75f0679dce689ca",
+    "_id": "6afc0f3b4843c7207409459f",
+    "_parentId": "6afc0f394843c720740944fb",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3585,8 +3585,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a77",
-    "_parentId": "690c52c1e75f0679dce689fc",
+    "_id": "6afc0f3b4843c720740945a0",
+    "_parentId": "6afc0f3a4843c72074094543",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3666,8 +3666,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c5e75f0679dce68a78",
-    "_parentId": "690c52c4e75f0679dce68a4a",
+    "_id": "6afc0f3b4843c720740945a1",
+    "_parentId": "6afc0f3a4843c72074094577",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3711,8 +3711,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a79",
-    "_parentId": "690c52c3e75f0679dce68a48",
+    "_id": "6afc0f3b4843c720740945a2",
+    "_parentId": "6afc0f3a4843c72074094575",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3756,8 +3756,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a7a",
-    "_parentId": "690c52c3e75f0679dce68a42",
+    "_id": "6afc0f3b4843c720740945a3",
+    "_parentId": "6afc0f3a4843c7207409456f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -3864,8 +3864,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a7b",
-    "_parentId": "690c52c3e75f0679dce68a30",
+    "_id": "6afc0f3b4843c720740945a4",
+    "_parentId": "6afc0f3a4843c7207409455b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -3943,195 +3943,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a7c",
-    "_parentId": "690c52c1e75f0679dce689f2",
-    "_type": "article",
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    },
-    "_vanilla": {
-      "_textAlignment": {
-        "_title": "",
-        "_body": "",
-        "_instruction": ""
-      },
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      }
-    }
-  },
-  {
-    "title": "New Article Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a7d",
-    "_parentId": "690c52c0e75f0679dce689da",
-    "_type": "article",
-    "_assessment": {
-      "_isEnabled": false,
-      "_id": "",
-      "_attempts": -1,
-      "_isPercentageBased": true,
-      "_scoreToPass": 60,
-      "_correctToPass": 60,
-      "_includeInTotalScore": true,
-      "_assessmentWeight": 1,
-      "_suppressMarking": false,
-      "_isResetOnRevisit": false,
-      "_allowResetIfPassed": false,
-      "_scrollToOnReset": false,
-      "_randomisation": {
-        "_isEnabled": false,
-        "_blockCount": -1
-      },
-      "_banks": {
-        "_isEnabled": false,
-        "_split": "",
-        "_randomisation": false
-      },
-      "_questions": {
-        "_resetType": "hard",
-        "_canShowFeedback": false,
-        "_canShowMarking": false,
-        "_canShowModelAnswer": false
-      }
-    },
-    "_trickle": {
-      "_isEnabled": false,
-      "_autoScroll": false,
-      "_scrollDuration": 500,
-      "_onChildren": false,
-      "_scrollTo": "@block +1",
-      "_completionAttribute": "_isComplete",
-      "_button": {
-        "_isEnabled": false,
-        "_styleBeforeCompletion": "hidden",
-        "_styleAfterClick": "hidden",
-        "_isFullWidth": true,
-        "_autoHide": false,
-        "_showEndOfPage": true,
-        "_className": "",
-        "_hasIcon": false,
-        "text": "Continue",
-        "ariaLabel": "Continue",
-        "startText": "Begin",
-        "startAriaLabel": "Begin",
-        "finalText": "Finish",
-        "finalAriaLabel": "Finish",
-        "_component": "trickle-button"
-      },
-      "_stepLocking": {
-        "_isEnabled": true,
-        "_isCompletionRequired": true,
-        "_isLockedOnRevisit": false
-      }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": false,
-      "_isCompletionIndicatorEnabled": false
-    }
-  },
-  {
-    "title": "New Article Title",
-    "displayTitle": "",
-    "body": "",
-    "_classes": "",
-    "instruction": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a7e",
-    "_parentId": "690c52c3e75f0679dce68a44",
+    "_id": "6afc0f3b4843c720740945a5",
+    "_parentId": "6afc0f394843c72074094523",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4238,8 +4051,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a80",
-    "_parentId": "690c52c2e75f0679dce68a1e",
+    "_id": "6afc0f3b4843c720740945a6",
+    "_parentId": "6afc0f394843c7207409450b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4317,8 +4130,195 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a81",
-    "_parentId": "690c52c3e75f0679dce68a2c",
+    "_id": "6afc0f3b4843c720740945a7",
+    "_parentId": "6afc0f3a4843c72074094571",
+    "_type": "article",
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    },
+    "_vanilla": {
+      "_textAlignment": {
+        "_title": "",
+        "_body": "",
+        "_instruction": ""
+      },
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": null,
+        "_backgroundSize": null,
+        "_backgroundPosition": null
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      }
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6afc0f3b4843c720740945a8",
+    "_parentId": "6afc0f3a4843c72074094551",
+    "_type": "article",
+    "_assessment": {
+      "_isEnabled": false,
+      "_id": "",
+      "_attempts": -1,
+      "_isPercentageBased": true,
+      "_scoreToPass": 60,
+      "_correctToPass": 60,
+      "_includeInTotalScore": true,
+      "_assessmentWeight": 1,
+      "_suppressMarking": false,
+      "_isResetOnRevisit": false,
+      "_allowResetIfPassed": false,
+      "_scrollToOnReset": false,
+      "_randomisation": {
+        "_isEnabled": false,
+        "_blockCount": -1
+      },
+      "_banks": {
+        "_isEnabled": false,
+        "_split": "",
+        "_randomisation": false
+      },
+      "_questions": {
+        "_resetType": "hard",
+        "_canShowFeedback": false,
+        "_canShowMarking": false,
+        "_canShowModelAnswer": false
+      }
+    },
+    "_trickle": {
+      "_isEnabled": false,
+      "_autoScroll": false,
+      "_scrollDuration": 500,
+      "_onChildren": false,
+      "_scrollTo": "@block +1",
+      "_completionAttribute": "_isComplete",
+      "_button": {
+        "_isEnabled": false,
+        "_styleBeforeCompletion": "hidden",
+        "_styleAfterClick": "hidden",
+        "_isFullWidth": true,
+        "_autoHide": false,
+        "_showEndOfPage": true,
+        "_className": "",
+        "_hasIcon": false,
+        "text": "Continue",
+        "ariaLabel": "Continue",
+        "startText": "Begin",
+        "startAriaLabel": "Begin",
+        "finalText": "Finish",
+        "finalAriaLabel": "Finish",
+        "_component": "trickle-button"
+      },
+      "_stepLocking": {
+        "_isEnabled": true,
+        "_isCompletionRequired": true,
+        "_isLockedOnRevisit": false
+      }
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": false,
+      "_isCompletionIndicatorEnabled": false
+    }
+  },
+  {
+    "title": "New Article Title",
+    "displayTitle": "",
+    "body": "",
+    "_classes": "",
+    "instruction": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6afc0f3b4843c720740945a9",
+    "_parentId": "6afc0f3a4843c72074094559",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4398,8 +4398,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a82",
-    "_parentId": "690c52c1e75f0679dce689fa",
+    "_id": "6afc0f3b4843c720740945aa",
+    "_parentId": "6afc0f3a4843c7207409452b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4479,8 +4479,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a83",
-    "_parentId": "690c52c0e75f0679dce689c6",
+    "_id": "6afc0f3b4843c720740945ab",
+    "_parentId": "6afc0f394843c720740944f7",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4589,8 +4589,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a84",
-    "_parentId": "690c52c0e75f0679dce689cc",
+    "_id": "6afc0f3b4843c720740945ac",
+    "_parentId": "6afc0f394843c720740944fd",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4697,8 +4697,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a85",
-    "_parentId": "690c52c0e75f0679dce689d6",
+    "_id": "6afc0f3b4843c720740945ad",
+    "_parentId": "6afc0f394843c72074094507",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -4805,8 +4805,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a86",
-    "_parentId": "690c52c3e75f0679dce68a32",
+    "_id": "6afc0f3b4843c720740945ae",
+    "_parentId": "6afc0f3a4843c7207409455d",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4884,8 +4884,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a87",
-    "_parentId": "690c52c1e75f0679dce689f0",
+    "_id": "6afc0f3b4843c720740945af",
+    "_parentId": "6afc0f394843c72074094521",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -4963,8 +4963,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a88",
-    "_parentId": "690c52c2e75f0679dce68a1c",
+    "_id": "6afc0f3b4843c720740945b0",
+    "_parentId": "6afc0f3a4843c7207409454f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -5071,8 +5071,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a89",
-    "_parentId": "690c52c1e75f0679dce689f6",
+    "_id": "6afc0f3b4843c720740945b1",
+    "_parentId": "6afc0f3a4843c72074094527",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5150,8 +5150,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a8a",
-    "_parentId": "690c52c0e75f0679dce689ce",
+    "_id": "6afc0f3b4843c720740945b2",
+    "_parentId": "6afc0f394843c720740944ff",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5229,8 +5229,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a8b",
-    "_parentId": "690c52c0e75f0679dce689d0",
+    "_id": "6afc0f3b4843c720740945b3",
+    "_parentId": "6afc0f394843c72074094501",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5308,8 +5308,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a8c",
-    "_parentId": "690c52c1e75f0679dce689f4",
+    "_id": "6afc0f3b4843c720740945b4",
+    "_parentId": "6afc0f3a4843c72074094525",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5353,8 +5353,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a8d",
-    "_parentId": "690c52c0e75f0679dce689d2",
+    "_id": "6afc0f3b4843c720740945b5",
+    "_parentId": "6afc0f394843c72074094503",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5432,8 +5432,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a8e",
-    "_parentId": "690c52c0e75f0679dce689d4",
+    "_id": "6afc0f3b4843c720740945b6",
+    "_parentId": "6afc0f394843c72074094505",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5511,8 +5511,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a8f",
-    "_parentId": "690c52c3e75f0679dce68a2e",
+    "_id": "6afc0f3b4843c720740945b7",
+    "_parentId": "6afc0f3a4843c7207409456b",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -5619,8 +5619,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "69329b8be75f0679dce69171",
-    "_parentId": "69329b8be75f0679dce6916f",
+    "_id": "6afc0f3b4843c720740945b8",
+    "_parentId": "6afc0f3a4843c7207409453d",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5700,8 +5700,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6aecb5f1c9dec28340400538",
-    "_parentId": "6aecb5f1c9dec28340400536",
+    "_id": "6afc0f3b4843c720740945b9",
+    "_parentId": "6afc0f3a4843c7207409453f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5781,8 +5781,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6aecbf42c9dec2834040057d",
-    "_parentId": "6aecbf42c9dec2834040057b",
+    "_id": "6afc0f3b4843c720740945ba",
+    "_parentId": "6afc0f3a4843c72074094541",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -5860,8 +5860,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c6e75f0679dce68a90",
-    "_parentId": "690c52c1e75f0679dce689e2",
+    "_id": "6afc0f3b4843c720740945bb",
+    "_parentId": "6afc0f394843c72074094513",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -5970,8 +5970,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a91",
-    "_parentId": "690c52c0e75f0679dce689c4",
+    "_id": "6afc0f3b4843c720740945bc",
+    "_parentId": "6afc0f394843c720740944f5",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6051,8 +6051,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a92",
-    "_parentId": "690c52c1e75f0679dce689ee",
+    "_id": "6afc0f3b4843c720740945bd",
+    "_parentId": "6afc0f394843c7207409451f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -6159,8 +6159,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a93",
-    "_parentId": "690c52c2e75f0679dce68a18",
+    "_id": "6afc0f3b4843c720740945be",
+    "_parentId": "6afc0f3a4843c7207409454b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6240,8 +6240,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a94",
-    "_parentId": "690c52c3e75f0679dce68a36",
+    "_id": "6afc0f3b4843c720740945bf",
+    "_parentId": "6afc0f3a4843c72074094561",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6321,8 +6321,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a95",
-    "_parentId": "690c52c2e75f0679dce68a16",
+    "_id": "6afc0f3b4843c720740945c0",
+    "_parentId": "6afc0f3a4843c72074094549",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -6431,8 +6431,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a96",
-    "_parentId": "690c52c1e75f0679dce689e8",
+    "_id": "6afc0f3b4843c720740945c1",
+    "_parentId": "6afc0f394843c72074094519",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6512,8 +6512,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a97",
-    "_parentId": "690c52c2e75f0679dce68a06",
+    "_id": "6afc0f3b4843c720740945c2",
+    "_parentId": "6afc0f3a4843c72074094531",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6593,8 +6593,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a98",
-    "_parentId": "690c52c1e75f0679dce689ea",
+    "_id": "6afc0f3b4843c720740945c3",
+    "_parentId": "6afc0f394843c7207409451b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6674,8 +6674,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a99",
-    "_parentId": "690c52c2e75f0679dce68a08",
+    "_id": "6afc0f3b4843c720740945c4",
+    "_parentId": "6afc0f3a4843c72074094533",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -6782,8 +6782,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a9a",
-    "_parentId": "690c52c2e75f0679dce68a12",
+    "_id": "6afc0f3b4843c720740945c5",
+    "_parentId": "6afc0f3a4843c72074094545",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6863,8 +6863,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a9b",
-    "_parentId": "690c52c1e75f0679dce689f8",
+    "_id": "6afc0f3b4843c720740945c6",
+    "_parentId": "6afc0f3a4843c72074094529",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6908,8 +6908,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a9c",
-    "_parentId": "690c52c3e75f0679dce68a38",
+    "_id": "6afc0f3b4843c720740945c7",
+    "_parentId": "6afc0f3a4843c72074094563",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -6989,8 +6989,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a9d",
-    "_parentId": "690c52c3e75f0679dce68a3c",
+    "_id": "6afc0f3c4843c720740945c8",
+    "_parentId": "6afc0f3a4843c72074094567",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -7099,8 +7099,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a9e",
-    "_parentId": "690c52c1e75f0679dce689ec",
+    "_id": "6afc0f3c4843c720740945c9",
+    "_parentId": "6afc0f394843c7207409451d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -7209,8 +7209,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68a9f",
-    "_parentId": "690c52c2e75f0679dce68a1a",
+    "_id": "6afc0f3c4843c720740945ca",
+    "_parentId": "6afc0f3a4843c7207409454d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -7319,8 +7319,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa0",
-    "_parentId": "690c52c4e75f0679dce68a4a",
+    "_id": "6afc0f3c4843c720740945cb",
+    "_parentId": "6afc0f3a4843c72074094577",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7364,8 +7364,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa1",
-    "_parentId": "690c52c3e75f0679dce68a42",
+    "_id": "6afc0f3c4843c720740945cc",
+    "_parentId": "6afc0f3a4843c7207409456f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -7472,8 +7472,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa2",
-    "_parentId": "690c52c0e75f0679dce689ca",
+    "_id": "6afc0f3c4843c720740945cd",
+    "_parentId": "6afc0f394843c720740944fb",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7517,8 +7517,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa3",
-    "_parentId": "690c52c3e75f0679dce68a48",
+    "_id": "6afc0f3c4843c720740945ce",
+    "_parentId": "6afc0f3a4843c72074094575",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7562,8 +7562,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa4",
-    "_parentId": "690c52c1e75f0679dce689f4",
+    "_id": "6afc0f3c4843c720740945cf",
+    "_parentId": "6afc0f3a4843c72074094525",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7641,8 +7641,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa5",
-    "_parentId": "690c52c3e75f0679dce68a34",
+    "_id": "6afc0f3c4843c720740945d0",
+    "_parentId": "6afc0f3a4843c7207409455f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7686,8 +7686,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa6",
-    "_parentId": "690c52c0e75f0679dce689d4",
+    "_id": "6afc0f3c4843c720740945d1",
+    "_parentId": "6afc0f394843c72074094505",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7731,8 +7731,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa7",
-    "_parentId": "690c52c0e75f0679dce689d2",
+    "_id": "6afc0f3c4843c720740945d2",
+    "_parentId": "6afc0f394843c72074094503",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7776,8 +7776,8 @@
     "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c7e75f0679dce68aa8",
-    "_parentId": "690c52c0e75f0679dce689d0",
+    "_id": "6afc0f3c4843c720740945d3",
+    "_parentId": "6afc0f394843c72074094501",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -7886,8 +7886,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aa9",
-    "_parentId": "690c52c0e75f0679dce689ce",
+    "_id": "6afc0f3c4843c720740945d4",
+    "_parentId": "6afc0f394843c720740944ff",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7931,8 +7931,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aaa",
-    "_parentId": "690c52c1e75f0679dce689f6",
+    "_id": "6afc0f3c4843c720740945d5",
+    "_parentId": "6afc0f3a4843c72074094527",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -7976,8 +7976,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aab",
-    "_parentId": "690c52c1e75f0679dce689f0",
+    "_id": "6afc0f3c4843c720740945d6",
+    "_parentId": "6afc0f394843c72074094521",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8021,8 +8021,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aac",
-    "_parentId": "690c52c3e75f0679dce68a2a",
+    "_id": "6afc0f3c4843c720740945d7",
+    "_parentId": "6afc0f3a4843c72074094557",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8102,8 +8102,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aad",
-    "_parentId": "690c52c2e75f0679dce68a1e",
+    "_id": "6afc0f3c4843c720740945d8",
+    "_parentId": "6afc0f3a4843c72074094551",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8147,8 +8147,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "69329b8be75f0679dce69172",
-    "_parentId": "69329b8be75f0679dce6916f",
+    "_id": "6afc0f3c4843c720740945d9",
+    "_parentId": "6afc0f3a4843c7207409453d",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -8257,8 +8257,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6aecb5f1c9dec28340400539",
-    "_parentId": "6aecb5f1c9dec28340400536",
+    "_id": "6afc0f3c4843c720740945da",
+    "_parentId": "6afc0f3a4843c7207409453f",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -8367,8 +8367,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6aecbf42c9dec2834040057e",
-    "_parentId": "6aecbf42c9dec2834040057b",
+    "_id": "6afc0f3c4843c720740945db",
+    "_parentId": "6afc0f3a4843c72074094541",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8448,8 +8448,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aae",
-    "_parentId": "690c52c2e75f0679dce68a12",
+    "_id": "6afc0f3c4843c720740945dc",
+    "_parentId": "6afc0f3a4843c72074094545",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8529,8 +8529,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68aaf",
-    "_parentId": "690c52c2e75f0679dce68a08",
+    "_id": "6afc0f3c4843c720740945dd",
+    "_parentId": "6afc0f3a4843c72074094533",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8610,8 +8610,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab0",
-    "_parentId": "690c52c2e75f0679dce68a06",
+    "_id": "6afc0f3c4843c720740945de",
+    "_parentId": "6afc0f3a4843c72074094531",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -8718,8 +8718,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab1",
-    "_parentId": "690c52c1e75f0679dce689e8",
+    "_id": "6afc0f3c4843c720740945df",
+    "_parentId": "6afc0f394843c72074094519",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -8826,8 +8826,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab2",
-    "_parentId": "690c52c2e75f0679dce68a18",
+    "_id": "6afc0f3c4843c720740945e0",
+    "_parentId": "6afc0f3a4843c7207409454b",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8907,8 +8907,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab3",
-    "_parentId": "690c52c1e75f0679dce689ee",
+    "_id": "6afc0f3c4843c720740945e1",
+    "_parentId": "6afc0f394843c7207409451f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -8988,8 +8988,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab4",
-    "_parentId": "690c52c1e75f0679dce689f4",
+    "_id": "6afc0f3c4843c720740945e2",
+    "_parentId": "6afc0f3a4843c72074094525",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -9033,8 +9033,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab5",
-    "_parentId": "690c52c1e75f0679dce689f8",
+    "_id": "6afc0f3c4843c720740945e3",
+    "_parentId": "6afc0f3a4843c72074094529",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -9141,8 +9141,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab6",
-    "_parentId": "690c52c0e75f0679dce689ca",
+    "_id": "6afc0f3c4843c720740945e4",
+    "_parentId": "6afc0f394843c720740944fb",
     "_type": "article",
     "_onScreen": {
       "_isEnabled": false,
@@ -9249,8 +9249,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab7",
-    "_parentId": "690c52c3e75f0679dce68a48",
+    "_id": "6afc0f3c4843c720740945e5",
+    "_parentId": "6afc0f3a4843c72074094575",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
@@ -9294,8 +9294,8 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "690c52c8e75f0679dce68ab8",
-    "_parentId": "690c52c3e75f0679dce68a42",
+    "_id": "6afc0f3c4843c720740945e6",
+    "_parentId": "6afc0f3a4843c7207409456f",
     "_type": "article",
     "_assessment": {
       "_isEnabled": false,
