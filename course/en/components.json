@@ -26702,6 +26702,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_isCompletionIndicatorEnabled": false
+    },
     "_tutor": {
       "_isInherited": true,
       "_type": "notify",
@@ -26712,10 +26716,6 @@
         "text": "{{_globals._extensions._tutor.hideFeedback}}",
         "ariaLabel": "{{_globals._extensions._tutor.hideFeedback}}"
       }
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_isCompletionIndicatorEnabled": false
     },
     "_vanilla": {
       "_textAlignment": {
@@ -26730,7 +26730,7 @@
       "ogv": "",
       "webm": "",
       "mp3": "",
-      "source": "https://youtu.be/S9U6p7P0344",
+      "source": "https://youtu.be/ies0Vt0Nt-A",
       "type": "video/youtube",
       "poster": "",
       "cc": []
