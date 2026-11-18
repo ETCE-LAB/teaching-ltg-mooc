@@ -197,9 +197,9 @@
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
-    "_isAvailable": true,
+    "_isAvailable": false,
     "_isHidden": false,
-    "_isVisible": true,
+    "_isVisible": false,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "6afc0f394843c720740944f9",
@@ -214,9 +214,9 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_resources": {
+    "_bookmarking": {
       "_isEnabled": true,
-      "_resourcesItems": []
+      "_level": "inherit"
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -224,9 +224,9 @@
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
     },
-    "_bookmarking": {
+    "_resources": {
       "_isEnabled": true,
-      "_level": "inherit"
+      "_resourcesItems": []
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -2120,7 +2120,7 @@
     "displayTitle": "Introduction",
     "body": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
     "_classes": "",
-    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
+    "subtitle": "L04 - Planetary Boundaries and the Limits to Growth",
     "pageBody": "<p>In this lecture, we will explore the concepts of&nbsp;ecological limits and planetary boundaries.&nbsp;As our planet faces escalating environmental challenges, it is essential to grasp the constraints within which our societies must operate to ensure future worth living.</p>",
     "instruction": "",
     "_htmlClasses": "",
@@ -2129,9 +2129,9 @@
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
-    "_isAvailable": false,
+    "_isAvailable": true,
     "_isHidden": false,
-    "_isVisible": false,
+    "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
     "_id": "6afc0f394843c72074094521",
@@ -2146,6 +2146,10 @@
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
@@ -2155,10 +2159,6 @@
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4232,30 +4232,30 @@
     }
   },
   {
-    "title": "Previous Exercise E04",
-    "displayTitle": "Previous Exercise E04",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "title": "Exercise Submission",
+    "displayTitle": "Exercise Submission",
+    "body": "<p>Find out how to submit your exercises on time and avoid last-minute stress. Pay attention to the guidelines.</p>",
     "_classes": "",
-    "subtitle": "Here you can find the exercise for this lecture.",
-    "pageBody": "<p>Below, you can find the exercise for this lecture. By clicking on the link, you will be redirected to our publicly available teaching material on GitHub.</p>",
+    "subtitle": "How to submit exercise",
+    "pageBody": "<p>Follow these guidelines to submit your exercises and successfully avoid delays. Maintaining your coursework schedule requires you to comprehend the submission procedure and effectively fulfil your deadlines. Moreover, always double-check your work for any errors before submitting.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
-    "_isAvailable": false,
+    "_isAvailable": true,
     "_isHidden": false,
-    "_isVisible": false,
+    "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094553",
-    "_parentId": "6afc0f394843c720740944d1",
+    "_id": "6afc0f3a4843c72074094549",
+    "_parentId": "6afc0f384843c720740944c9",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+      "src": "course/en/assets/ca941a624756689f99974778186400a6c996a19e.png"
     },
     "_onScreen": {
       "_isEnabled": false,
@@ -4287,9 +4287,9 @@
         "_small": ""
       },
       "_backgroundStyles": {
-        "_backgroundRepeat": null,
-        "_backgroundSize": null,
-        "_backgroundPosition": null
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
       },
       "_responsiveClasses": {
         "_xlarge": "",
@@ -4310,9 +4310,9 @@
           "_small": ""
         },
         "_backgroundStyles": {
-          "_backgroundRepeat": null,
-          "_backgroundSize": null,
-          "_backgroundPosition": null
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
         },
         "_minimumHeights": {
           "_xlarge": null,
@@ -4324,12 +4324,12 @@
     }
   },
   {
-    "title": "Carbon Capture and Storage",
-    "displayTitle": "Carbon Capture and Storage",
-    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
+    "title": "World3 Model",
+    "displayTitle": "World3 Model",
+    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
     "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
+    "subtitle": "L04 - Planetary Boundaries and the Limits to Growth",
+    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
@@ -4342,17 +4342,21 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c7207409454b",
-    "_parentId": "6afc0f394843c720740944e5",
+    "_id": "6afc0f3a4843c7207409455d",
+    "_parentId": "6afc0f394843c720740944d1",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
+      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
     },
     "_pageLevelProgress": {
       "_isEnabled": true,
@@ -4363,10 +4367,6 @@
     "_resources": {
       "_isEnabled": true,
       "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
     },
     "_boxMenu": {
       "_renderAsGroup": false
@@ -4692,16 +4692,16 @@
     }
   },
   {
-    "title": "Exercise Submission",
-    "displayTitle": "Exercise Submission",
-    "body": "<p>Find out how to submit your exercises on time and avoid last-minute stress. Pay attention to the guidelines.</p>",
+    "title": "Exercise E02",
+    "displayTitle": "Exercise E02",
+    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
     "_classes": "",
-    "subtitle": "How to submit exercise",
-    "pageBody": "<p>Follow these guidelines to submit your exercises and successfully avoid delays. Maintaining your coursework schedule requires you to comprehend the submission procedure and effectively fulfil your deadlines. Moreover, always double-check your work for any errors before submitting.</p>",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><em><strong>10.11.2026</strong></em>&nbsp;at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "",
+    "duration": "30 minutes",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -4710,27 +4710,27 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094549",
-    "_parentId": "6afc0f384843c720740944c9",
+    "_id": "6afc0f3a4843c72074094555",
+    "_parentId": "6afc0f394843c720740944cd",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/ca941a624756689f99974778186400a6c996a19e.png"
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -4784,16 +4784,16 @@
     }
   },
   {
-    "title": "Exercise E02",
-    "displayTitle": "Exercise E02",
-    "body": "<p>Here, you can find the exercise for the lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "title": "Carbon Capture and Storage",
+    "displayTitle": "Carbon Capture and Storage",
+    "body": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p>",
     "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <span style=\"background-color:#f1c40f\"><em><strong>10.11.2026</strong></em>&nbsp;at <em><strong>1:00 pm</strong></em></span></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>.</p>",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Carbon capture and storage (CCS) is a technology designed to mitigate the impact of carbon dioxide (CO2) emissions from industrial processes and power generation. It involves capturing CO2 emissions at their source, such as from power plants or industrial facilities, before they are released into the atmosphere.&nbsp;</p><p>CCS aims to prevent large amounts of CO2, a greenhouse gas contributing to climate change, from entering the atmosphere. While it's considered a potential tool for reducing emissions, it also faces challenges such as high costs, potential environmental risks associated with long-term storage, and the need for significant infrastructure development.</p>",
     "instruction": "",
     "_htmlClasses": "",
     "linkText": "View",
-    "duration": "30 minutes",
+    "duration": "",
     "_lockedBy": [],
     "_lockType": "",
     "_isOptional": false,
@@ -4802,27 +4802,27 @@
     "_isVisible": true,
     "_requireCompletionOf": -1,
     "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094555",
-    "_parentId": "6afc0f394843c720740944cd",
+    "_id": "6afc0f3a4843c7207409454b",
+    "_parentId": "6afc0f394843c720740944e5",
     "_type": "page",
     "_graphic": {
       "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
+      "src": "course/en/assets/6f31ece99b453feb210338411906ab2cd2c57a05.png"
     },
     "_onScreen": {
       "_isEnabled": false,
       "_classes": "",
       "_percentInviewVertical": 50
     },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
     "_pageLevelProgress": {
       "_isEnabled": true,
       "_showPageCompletion": true,
       "_isCompletionIndicatorEnabled": false,
       "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
     },
     "_bookmarking": {
       "_isEnabled": true,
@@ -4968,282 +4968,6 @@
     }
   },
   {
-    "title": "Resilient Food Production",
-    "displayTitle": "Resilient Food Production",
-    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
-    "_classes": "",
-    "subtitle": "L07 - Technologies and Sustainability",
-    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094563",
-    "_parentId": "6afc0f394843c720740944f1",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "World3 Model",
-    "displayTitle": "World3 Model",
-    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
-    "_classes": "",
-    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
-    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094565",
-    "_parentId": "6afc0f394843c720740944ef",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "Lecture L05",
-    "displayTitle": "Lecture L05",
-    "body": "<p>This lecture is about:</p><ul><li>Challenges and Drivers</li><li>Circular Economy Goals</li><li>Circular cities and regions</li></ul>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>This lecture focuses on how the economy and society are changing from linear to circular. It highlights recycling, sustainable resource management, and creative solutions to social, economic, and environmental issues.</p><p>Please find the lecture recording, slides, and exercise materials below. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "90 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": false,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094567",
-    "_parentId": "6afc0f394843c720740944d3",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "The Importance of Individual Action",
     "displayTitle": "The Importance of Individual Action",
     "body": "<p>Addressing climate change requires collective efforts on individual, community, national, and global levels. In the lecture, we discussed the international and national perspectives. For the exercise, we want to look at what can be done on the community and individual levels!</p>",
@@ -5265,98 +4989,6 @@
     "_id": "6afc0f394843c720740944d7",
     "_parentId": "6afc0f394843c720740944d5",
     "_type": "menu",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
-    "title": "previous Exercise E01",
-    "displayTitle": "previous Exercise E01",
-    "body": "<p>Here, you can find the exercise for this lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
-    "_classes": "",
-    "subtitle": "",
-    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <em><strong><span style=\"background-color:#f1c40f\">20.11.2025</span></strong></em><span style=\"background-color:#f1c40f\"> at </span><em><strong><span style=\"background-color:#f1c40f\">1:00 pm</span></strong></em></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "30 minutes",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": true,
-    "_isHidden": true,
-    "_isVisible": true,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c72074094569",
-    "_parentId": "6afc0f394843c720740944cd",
-    "_type": "page",
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
@@ -5704,98 +5336,6 @@
     }
   },
   {
-    "title": "World3 Model",
-    "displayTitle": "World3 Model",
-    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
-    "_classes": "",
-    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
-    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
-    "instruction": "",
-    "_htmlClasses": "",
-    "linkText": "View",
-    "duration": "",
-    "_lockedBy": [],
-    "_lockType": "",
-    "_isOptional": false,
-    "_isAvailable": false,
-    "_isHidden": false,
-    "_isVisible": false,
-    "_requireCompletionOf": -1,
-    "_isA11yCompletionDescriptionEnabled": true,
-    "_id": "6afc0f3a4843c7207409455d",
-    "_parentId": "6afc0f394843c720740944d1",
-    "_type": "page",
-    "_graphic": {
-      "alt": "",
-      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
-    },
-    "_onScreen": {
-      "_isEnabled": false,
-      "_classes": "",
-      "_percentInviewVertical": 50
-    },
-    "_pageLevelProgress": {
-      "_isEnabled": true,
-      "_showPageCompletion": true,
-      "_isCompletionIndicatorEnabled": false,
-      "_excludeAssessments": false
-    },
-    "_resources": {
-      "_isEnabled": true,
-      "_resourcesItems": []
-    },
-    "_bookmarking": {
-      "_isEnabled": true,
-      "_level": "inherit"
-    },
-    "_boxMenu": {
-      "_renderAsGroup": false
-    },
-    "_vanilla": {
-      "_backgroundImage": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_backgroundStyles": {
-        "_backgroundRepeat": "no-repeat",
-        "_backgroundSize": "cover",
-        "_backgroundPosition": "center top"
-      },
-      "_responsiveClasses": {
-        "_xlarge": "",
-        "_large": "",
-        "_medium": "",
-        "_small": ""
-      },
-      "_pageHeader": {
-        "_textAlignment": {
-          "_title": "",
-          "_body": "",
-          "_instruction": ""
-        },
-        "_backgroundImage": {
-          "_xlarge": "",
-          "_large": "",
-          "_medium": "",
-          "_small": ""
-        },
-        "_backgroundStyles": {
-          "_backgroundRepeat": "no-repeat",
-          "_backgroundSize": "cover",
-          "_backgroundPosition": "center top"
-        },
-        "_minimumHeights": {
-          "_xlarge": null,
-          "_large": null,
-          "_medium": null,
-          "_small": null
-        }
-      }
-    }
-  },
-  {
     "title": "Introduction",
     "displayTitle": "Introduction",
     "body": "<p>Technology holds immense potential to drive sustainability and can offer innovative solutions like renewable energy, efficient waste management, and smart resource utilisation. At the same time, relying on technology is insufficient, as it overlooks the importance of human behaviour, ethical considerations, and&nbsp;systemic changes.</p>",
@@ -5912,6 +5452,374 @@
     "_graphic": {
       "alt": "",
       "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Resilient Food Production",
+    "displayTitle": "Resilient Food Production",
+    "body": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial for ensuring food security in the face of a changing climate and for adapting and mitigating the impacts of climate change on agriculture.</p>",
+    "_classes": "",
+    "subtitle": "L07 - Technologies and Sustainability",
+    "pageBody": "<p>Climate-resilient food production refers to agricultural practices and systems designed to withstand and adapt to the challenges posed by climate change.&nbsp;It is crucial to ensure food security in the face of a changing climate and to adapt and mitigate the impacts of climate change on agriculture.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6afc0f3a4843c72074094563",
+    "_parentId": "6afc0f394843c720740944f1",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/24b4a8e5c0bdcbda5099c61fa48ed53751fee704.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "World3 Model",
+    "displayTitle": "World3 Model",
+    "body": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
+    "_classes": "",
+    "subtitle": "L05 - Planetary Boundaries and the Limits to Growth",
+    "pageBody": "<p>To further understand the ideas of planetary boundaries and an ecosystem with limits to growth, we will look at the World3 model and the different scenarios it describes.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6afc0f3a4843c72074094565",
+    "_parentId": "6afc0f394843c720740944ef",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/3ac018a11fba2062b48efc58c38be650c1a33c43.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "Lecture L05",
+    "displayTitle": "Lecture L05",
+    "body": "<p>This lecture is about:</p><ul><li>Challenges and Drivers</li><li>Circular Economy Goals</li><li>Circular cities and regions</li></ul>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>This lecture focuses on how the economy and society are changing from linear to circular. It highlights recycling, sustainable resource management, and creative solutions to social, economic, and environmental issues.</p><p>Please find the lecture recording, slides, and exercise materials below. Clicking on the links will take you to the TU Clausthal video server and our publicly available teaching materials on GitHub.</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "90 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": false,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6afc0f3a4843c72074094567",
+    "_parentId": "6afc0f394843c720740944d3",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/9b0cd7ffc23d1b755e27553acda0de43cc8eae46.png"
+    },
+    "_onScreen": {
+      "_isEnabled": false,
+      "_classes": "",
+      "_percentInviewVertical": 50
+    },
+    "_resources": {
+      "_isEnabled": true,
+      "_resourcesItems": []
+    },
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true,
+      "_isCompletionIndicatorEnabled": false,
+      "_excludeAssessments": false
+    },
+    "_bookmarking": {
+      "_isEnabled": true,
+      "_level": "inherit"
+    },
+    "_boxMenu": {
+      "_renderAsGroup": false
+    },
+    "_vanilla": {
+      "_backgroundImage": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_backgroundStyles": {
+        "_backgroundRepeat": "no-repeat",
+        "_backgroundSize": "cover",
+        "_backgroundPosition": "center top"
+      },
+      "_responsiveClasses": {
+        "_xlarge": "",
+        "_large": "",
+        "_medium": "",
+        "_small": ""
+      },
+      "_pageHeader": {
+        "_textAlignment": {
+          "_title": "",
+          "_body": "",
+          "_instruction": ""
+        },
+        "_backgroundImage": {
+          "_xlarge": "",
+          "_large": "",
+          "_medium": "",
+          "_small": ""
+        },
+        "_backgroundStyles": {
+          "_backgroundRepeat": "no-repeat",
+          "_backgroundSize": "cover",
+          "_backgroundPosition": "center top"
+        },
+        "_minimumHeights": {
+          "_xlarge": null,
+          "_large": null,
+          "_medium": null,
+          "_small": null
+        }
+      }
+    }
+  },
+  {
+    "title": "previous Exercise E01",
+    "displayTitle": "previous Exercise E01",
+    "body": "<p>Here, you can find the exercise for this lecture. Click to view the task and submission guidelines. Remember to give in your exercise before the submission deadline.</p>",
+    "_classes": "",
+    "subtitle": "",
+    "pageBody": "<p>Below is the exercise for this lecture. Clicking on the link will redirect you to our publicly available teaching material on GitHub.</p><p><strong>Deadline</strong>: <em><strong><span style=\"background-color:#f1c40f\">20.11.2025</span></strong></em><span style=\"background-color:#f1c40f\"> at </span><em><strong><span style=\"background-color:#f1c40f\">1:00 pm</span></strong></em></p><p><strong>Do you have any questions? Please email</strong>&nbsp;us at&nbsp;<a href=\"mailto:etce-ltg@tu-clausthal.de\" target=\"_blank\">etce-ltg@tu-clausthal.de</a>&nbsp;or post&nbsp;a message on the Matrix channel!</p>",
+    "instruction": "",
+    "_htmlClasses": "",
+    "linkText": "View",
+    "duration": "30 minutes",
+    "_lockedBy": [],
+    "_lockType": "",
+    "_isOptional": false,
+    "_isAvailable": true,
+    "_isHidden": true,
+    "_isVisible": true,
+    "_requireCompletionOf": -1,
+    "_isA11yCompletionDescriptionEnabled": true,
+    "_id": "6afc0f3a4843c72074094569",
+    "_parentId": "6afc0f394843c720740944cd",
+    "_type": "page",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/98c2c7c2d4326e1e4300108498a0a1e3e1bffe42.png"
     },
     "_onScreen": {
       "_isEnabled": false,
